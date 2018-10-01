@@ -12,7 +12,7 @@
 # Import modules
 #####################################
 import numpy as np
-
+import pandas as pd
 
 
 #####################################
@@ -28,6 +28,7 @@ def label_to_onehot(label):
     return output
 
 # Data load
+
 def data_load(onehot=True):
     data = np.load('./Ch01_Data_load/data/w_movie.npy')
     np.random.shuffle(data)
@@ -53,3 +54,18 @@ def data_load(onehot=True):
     else:
         return TRAIN_DOC, TRAIN_LABEL, TRAIN_LABEL_POS, TRAIN_LABEL_NEG, TEST_DOC, TEST_LABEL, TEST_LABEL_POS, TEST_LABEL_NEG
 
+
+def digi_data_load():
+    df = pd.read_csv('/Users/1003874/bsdev/Text-classification-with-CNN-RNN-with-Tensorflow/Ch01_Data_load/data/preprocessed_digi_intent.csv')
+    df['clean_text'] = df['clean_text'].apply(lambda x:x.lower())
+    size = len(df)
+    rate = 0.2
+    train_df = df.iloc[:int(size*(1-rate))]
+    test_df = df.iloc[int(size*(1-rate)):]
+    label_df = pd.get_dummies(df['class'])
+    print(len(train_df), len(test_df))
+
+    TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL = \
+        train_df['clean_text'].values, label_df.loc[train_df.index].values, test_df['clean_text'].values, label_df.loc[test_df.index].values
+
+    return TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL

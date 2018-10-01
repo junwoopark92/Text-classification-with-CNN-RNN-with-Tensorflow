@@ -20,7 +20,8 @@ from Ch01_Data_load import data_load
 ##########################
 # max length of document
 ##########################
-TRAIN_DOC, TRAIN_LABEL, _, _, TEST_DOC, TEST_LABEL, _, _ = data_load.data_load()
+#TRAIN_DOC, TRAIN_LABEL, _, _, TEST_DOC, TEST_LABEL, _, _ = data_load.data_load()
+TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL = data_load.digi_data_load()
 max_doc_length = max([len(x.split(" ")) for x in TRAIN_DOC])
 
 

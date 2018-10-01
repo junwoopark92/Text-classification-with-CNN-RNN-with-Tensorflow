@@ -28,9 +28,11 @@ FLAGS.WRITER += information
 ################################################################################
 # DATA LOAD
 ################################################################################
-TRAIN_DOC, TRAIN_LABEL, TRAIN_LABEL_POS, TRAIN_LABEL_NEG, TEST_DOC, TEST_LABEL, TEST_LABEL_POS, TEST_LABEL_NEG = data_load.data_load()
+#TRAIN_DOC, TRAIN_LABEL, TRAIN_LABEL_POS, TRAIN_LABEL_NEG, TEST_DOC, TEST_LABEL, TEST_LABEL_POS, TEST_LABEL_NEG = data_load.data_load()
+TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL = data_load.digi_data_load()
+class_num = TRAIN_LABEL.shape[1]
+FLAGS.NUM_OF_CLASS = class_num
 JM = utils.lookup_JM(FLAGS.INPUT_WIDTH, FLAGS.INPUT_DEPTH)
-
 
 
 ################################################################################
@@ -62,9 +64,11 @@ for i in range(Num_of_Iterlation * FLAGS.NUM_OF_EPOCH):
     ################################################################
     # Training batch OPTIMIZE
     ################################################################
-    index = utils.sampler(LABEL_POS=TRAIN_LABEL_POS, LABEL_NEG=TRAIN_LABEL_NEG, BATCH_SIZE=FLAGS.BATCH_SIZE)
+    #index = utils.sampler(LABEL_POS=TRAIN_LABEL_POS, LABEL_NEG=TRAIN_LABEL_NEG, BATCH_SIZE=FLAGS.BATCH_SIZE)
+    index = np.random.choice(range(0, len(TRAIN_DOC)), FLAGS.BATCH_SIZE)
     batch_input, batch_label = utils.generate_batch_jaso(INDEX=index, MODEL=model, DOC=TRAIN_DOC,
                                                          LABEL=TRAIN_LABEL, MAXLEN=FLAGS.INPUT_WIDTH, SESS=sess)
+
     _ = sess.run([model.optm],
                  feed_dict={model.X: batch_input,
                             model.Y: batch_label,
@@ -79,7 +83,8 @@ for i in range(Num_of_Iterlation * FLAGS.NUM_OF_EPOCH):
         ################################################################
         # Train batch LOSS CHECK
         ################################################################
-        index = utils.sampler(LABEL_POS=TRAIN_LABEL_POS, LABEL_NEG=TRAIN_LABEL_NEG, BATCH_SIZE=FLAGS.BATCH_SIZE)
+        #index = utils.sampler(LABEL_POS=TRAIN_LABEL_POS, LABEL_NEG=TRAIN_LABEL_NEG, BATCH_SIZE=FLAGS.BATCH_SIZE)
+        index = np.random.choice(range(0, len(TRAIN_DOC)), FLAGS.BATCH_SIZE)
         batch_input, batch_label = utils.generate_batch_jaso(INDEX=index, MODEL=model, DOC=TRAIN_DOC,
                                                              LABEL=TRAIN_LABEL, MAXLEN=FLAGS.INPUT_WIDTH, SESS=sess)
         tr_loss, tr_acc, tr_merged = sess.run([model.cross_entropy, model.accuracy, model.merge],
@@ -92,7 +97,8 @@ for i in range(Num_of_Iterlation * FLAGS.NUM_OF_EPOCH):
         ################################################################
         # Test batch LOSS CHECK
         ################################################################
-        index = utils.sampler(LABEL_POS=TEST_LABEL_POS, LABEL_NEG=TEST_LABEL_NEG, BATCH_SIZE=FLAGS.BATCH_SIZE)
+        #index = utils.sampler(LABEL_POS=TEST_LABEL_POS, LABEL_NEG=TEST_LABEL_NEG, BATCH_SIZE=FLAGS.BATCH_SIZE)
+        index = np.random.choice(range(0, len(TEST_DOC)), 128)
         batch_input, batch_label = utils.generate_batch_jaso(INDEX=index, MODEL=model, DOC=TEST_DOC,
                                                              LABEL=TEST_LABEL, MAXLEN=FLAGS.INPUT_WIDTH, SESS=sess)
         ts_loss, ts_acc, ts_merged = sess.run([model.cross_entropy, model.accuracy, model.merge],

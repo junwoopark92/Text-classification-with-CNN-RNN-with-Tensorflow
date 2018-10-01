@@ -21,7 +21,7 @@ import numpy as np
 #######################################################################
 # Input data
 flags.DEFINE_integer('INPUT_DEPTH', 93, 'The number of terms')
-flags.DEFINE_integer('INPUT_WIDTH', 256, 'max length of document')
+flags.DEFINE_integer('INPUT_WIDTH', 32, 'max length of document') # 256
 
 # Class
 flags.DEFINE_integer('NUM_OF_CLASS', 2, 'positive, negative')
@@ -37,7 +37,7 @@ flags.DEFINE_boolean('WRITER_generate', True, 'saver generate')
 # Train
 flags.DEFINE_integer('BATCH_SIZE', 128, 'batch size')
 flags.DEFINE_integer('TEST_BATCH', 128, 'test batch size')
-flags.DEFINE_integer('NUM_OF_EPOCH', 3, 'number of epoch')
+flags.DEFINE_integer('NUM_OF_EPOCH', 10, 'number of epoch')
 flags.DEFINE_float('lr_value', 0.01, 'initial learning rate')
 flags.DEFINE_float('lr_decay', 0.5, 'learning rate decay')
 flags.DEFINE_multi_integer('Check_Loss', [5]*20, 'loss decay')

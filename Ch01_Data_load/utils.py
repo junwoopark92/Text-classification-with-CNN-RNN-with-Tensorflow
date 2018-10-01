@@ -17,7 +17,7 @@ import numpy as np
 from soynlp.tokenizer import RegexTokenizer #https://github.com/lovit/soynlp
 
 import Ch01_Data_load.Jaso_mapping_utils as jmu
-
+#import Jaso_mapping_utils as jmu
 # initializer
 he_init = tf.contrib.layers.variance_scaling_initializer()
 
@@ -144,13 +144,20 @@ def sampler(LABEL_POS, LABEL_NEG, BATCH_SIZE):
 
 
 def generate_batch_jaso(INDEX, MODEL, DOC, LABEL, MAXLEN, SESS):
+    #print(INDEX.shape)
     jaso_splitted = jmu.jaso_split(DOC[INDEX], MAXLEN=MAXLEN)
     _input = SESS.run(MODEL.jaso_Onehot, {MODEL.X_Onehot: jaso_splitted})
     _, del_list = length(_input)
-    _label = LABEL[INDEX]
+    _label = LABEL[INDEX].reshape(INDEX.shape[0], -1)
+
+    if len(del_list) > 0:
+        print(jaso_splitted[del_list[0]])
+    print(_input.shape, _label.shape, del_list)
     batch_input = np.delete(_input, del_list, axis=0)
     batch_label = np.delete(_label, del_list, axis=0)
-    return batch_input, batch_label
+
+    return _input, _label
+
 
 
 def generate_batch_word(INDEX, VOCAB_PROCESSOR, DOC, LABEL):
@@ -188,7 +195,8 @@ def MINMAX(Data):
 # lookup table for jaso one-hot
 ################################################################################
 def lookup_JM(WIDTH, DEPTH):
-    MAPPING_PATH = './Ch01_Data_load/data/dict.csv'
+    MAPPING_PATH = '/Users/1003874/bsdev/Text-classification-with-CNN-RNN-with-Tensorflow/Ch01_Data_load/data/dict.csv'
+        #'./Ch01_Data_load/data/dict.csv'
     lookup = pd.read_csv(MAPPING_PATH, encoding='cp949')
     keys = list(lookup.iloc[:, 0])
     values = list(lookup.iloc[:, 1])
