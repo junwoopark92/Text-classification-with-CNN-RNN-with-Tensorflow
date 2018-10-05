@@ -125,7 +125,7 @@ class JasoMapping():
         #define jaso to index mapping table
         self.table = tf.contrib.lookup.HashTable(
                             tf.contrib.lookup.KeyValueTensorInitializer(keys=self.MAPPING_KEY, values=self.MAPPING_VALUE),
-                            default_value=118)
+                            default_value=90)
 
     #initialize table
     def init_table(self, sess):

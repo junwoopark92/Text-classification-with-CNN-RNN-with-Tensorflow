@@ -93,6 +93,7 @@ class MODEL():
                                  bias_initializer=tf.zeros_initializer())
             FC_bn = tf.layers.batch_normalization(FC, momentum=0.9, training=self.TRAIN_PH)
             self.y_logits = tf.reshape(FC_bn, [-1, FLAGS.NUM_OF_CLASS])
+            self.y_proba = tf.nn.softmax(self.y_logits)
 
 
     ########################################################

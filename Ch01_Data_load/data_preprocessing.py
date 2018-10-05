@@ -56,7 +56,7 @@ def clean_str(sentence):
 ##################################
 
 
-df = pd.read_csv('./data/digi_intent.csv')
+df = pd.read_csv('./data/mart_digi_speech_act.csv')
 df['clean_text'] = df['sub_sent'].apply(lambda x: clean_str(str(x)))
 df['len_text'] = df['clean_text'].apply(lambda x: len(x))
 doc_len = df['len_text'].tolist()
@@ -66,4 +66,4 @@ df = df[(df['len_text'] > lb) & (df['len_text'] < ub)][['clean_text', 'class']]
 df = df[['clean_text', 'class']]
 #df = pd.concat([df[['clean_text']], pd.get_dummies(df['class'])], axis=1).reset_index(drop=True)
 print(df.head())
-df.to_csv('./data/preprocessed_digi_intent.csv', index=False)
+df.to_csv('./data/preprocessed_mart_digi_speech_act.csv', index=False)

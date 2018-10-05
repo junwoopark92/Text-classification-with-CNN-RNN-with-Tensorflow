@@ -29,6 +29,7 @@ def label_to_onehot(label):
 
 # Data load
 
+
 def data_load(onehot=True):
     data = np.load('./Ch01_Data_load/data/w_movie.npy')
     np.random.shuffle(data)
@@ -56,16 +57,26 @@ def data_load(onehot=True):
 
 
 def digi_data_load():
-    df = pd.read_csv('/Users/1003874/bsdev/Text-classification-with-CNN-RNN-with-Tensorflow/Ch01_Data_load/data/preprocessed_digi_intent.csv')
+    df = pd.read_csv('/Users/1003874/bsdev/Text-classification-with-CNN-RNN-with-Tensorflow/Ch01_Data_load/data/preprocessed_mart_digi_speech_act.csv')
     df['clean_text'] = df['clean_text'].apply(lambda x:x.lower())
+    s = df['class'].value_counts()
+    cols = s[s>50].index.tolist()
+
+    sub_list = []
+    for col in cols:
+        sub_list.append(df[df['class'] == col])
+    df = pd.concat(sub_list, axis=0)
+    df = df.sample(len(df), random_state=10).reset_index(drop=True)
+
     size = len(df)
     rate = 0.2
     train_df = df.iloc[:int(size*(1-rate))]
     test_df = df.iloc[int(size*(1-rate)):]
     label_df = pd.get_dummies(df['class'])
+    cols = label_df.columns
     print(len(train_df), len(test_df))
 
     TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL = \
         train_df['clean_text'].values, label_df.loc[train_df.index].values, test_df['clean_text'].values, label_df.loc[test_df.index].values
 
-    return TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL
+    return TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL, cols

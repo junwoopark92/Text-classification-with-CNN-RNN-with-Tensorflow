@@ -1,0 +1,6905 @@
+clean_text,class
+난 누구니,DIGITAL_P채팅
+상품 불량,DIGITAL_P교환문의
+홈이 안떠,DIGITAL_P기타faq문의
+주문이 안된다니깐요,DIGITAL_P기타faq문의
+다음에 연락할께요,DIGITAL_P대화종료
+내일 상품 받을수 있나,DIGITAL_P배송일문의
+사진 못올려,DIGITAL_P사진올리기기능안내
+주문번호확인해보세요,DIGITAL_P주문완료
+이용중지 하려구요,DIGITAL_P기타faq문의
+해지해주세요,DIGITAL_P기타faq문의
+상품권어떻게써요,DIGITAL_P기타faq문의
+디지털만 문의드려야되나요,DIGITAL_P상담품목
+가격도 괜찬은걸,MART_P행사상품
+노잼이다 너 매우,DIGITAL_P채팅
+장바구니에 어떻게 담나요,DIGITAL_P찜기능안내
+가격차이 심한가요,DIGITAL_P가격차이
+11번가 데이터,DIGITAL_P기타faq문의
+상품 검색이 안되요,DIGITAL_P기타faq문의
+구매상품을 보고싶어요,DIGITAL_P주문이력확인
+어떤게 좋을까요,DIGITAL_P추천
+취소는 어떻게 하나요,DIGITAL_P주문취소
+즉당히 보내,DIGITAL_P기타faq문의
+톡매니저 불러줘,DIGITAL_P상담원연결
+쿠폰 취소,DIGITAL_P쿠폰적용문의
+두툼사용법,DIGITAL_P기타faq문의
+쿠폰 재사용,DIGITAL_P쿠폰적용문의
+무슨 차인가요,DIGITAL_P차이점
+각각 가격이,DIGITAL_P가격문의
+상품 옵션변경,DIGITAL_P옵션변경문의
+사람맞는거같은데,DIGITAL_P챗봇여부문의
+너무 비싼거 말고,MART_P행사상품
+싸게샀으면 합니다,MART_P행사상품
+배송이 안됐는데 됐다고,DIGITAL_P배송문의
+너무 고가,MART_P행사상품
+취소하고 다시 주문하,DIGITAL_P주문취소
+톡톡톡매니톡,DIGITAL_P상담원연결
+바로 할인가 뭐예요,DIGITAL_P바로할인가설명
+제품이 왔어요,DIGITAL_P배송문의
+쿠폰 같은 것 있,DIGITAL_P쿠폰요청
+택배수거요,DIGITAL_P반품문의
+계좌 입력은 어디서,DIGITAL_P결제문의
+포인트사용 가능,DIGITAL_P결제문의
+제품의 손상에 대한 문의,DIGITAL_P기타faq문의
+제품군 종류좀 알려주세,DIGITAL_P상품문의_P상담원연결
+가위바위보하자,DIGITAL_P채팅
+결재창이 열리지 않습니다,DIGITAL_P결제문의
+통화 연결 안됨,DIGITAL_P전화요청
+물건이 하나가 덜 왔어요,DIGITAL_P배송문의
+캐시를 쓸려면 어떻게,DIGITAL_P기타faq문의
+최근 제조일자로 보내,MART_P새제품요청
+NUGU 서비스를 통해,DIGITAL_P기타faq문의
+매장꺼랑 모델명이 다르네요,DIGITAL_P제품별차이점
+할부 개월수 변경,DIGITAL_P결제문의
+한가지만 물어볼께요,DIGITAL_P상담요청
+주소지 추가를 어찌하나요,DIGITAL_P배송지변경문의
+발송은 언제되나요,DIGITAL_P배송문의
+아이디 잘못,DIGITAL_P회원정보문의
+성별을 어디에 적어,DIGITAL_P기타faq문의
+티멤버쉽이안되요,DIGITAL_P기타faq문의
+쿠폰등록 어떻게,DIGITAL_P쿠폰적용문의
+최근에 구매한내용,MART_P지난구매상품보기
+상품몰은어디에서,DIGITAL_P기타faq문의
+취소요구하고보냈는데요,DIGITAL_P주문취소
+직배송은 어떻게 되는건가요,DIGITAL_P배송문의
+계좌변경은 어디서,DIGITAL_P결제문의
+유통기한 날짜 확인,MART_P유통기한문의
+채팅 나가는법,DIGITAL_P도움말보기
+나랑 사귀자,DIGITAL_P채팅
+쿠폰 사용처 좀 알려,DIGITAL_P쿠폰적용문의
+미사용고객,DIGITAL_P기타faq문의
+가격관련해서문의,DIGITAL_P가격문의
+나의 쇼핑 내역,DIGITAL_P주문이력확인
+데이터 무료,DIGITAL_P기타faq문의
+이벤트 언제,DIGITAL_P행사문의
+내가 자주 사는,MART_P자주구매상품
+주문제품이 다릅니다,DIGITAL_P기타faq문의
+확인요청드립니다,DIGITAL_P확인
+쿠폰이 필요해요,DIGITAL_P쿠폰요청
+최저가가 얼매나 되나요,DIGITAL_P가격문의
+나가기는 어떻게해요,DIGITAL_P대화종료
+포인트 전환 방법,DIGITAL_P기타faq문의
+로 바꾸고 싶어요,DIGITAL_P기타faq문의
+추천 부탁,DIGITAL_P추천
+홈플러스쿠폰,DIGITAL_P쿠폰요청
+데이터 공짜,DIGITAL_P기타faq문의
+여러개 사고싶다,MART_P다중검색실행
+배송비 관련 상담,DIGITAL_P배송비문의
+제안을 해줘,DIGITAL_P추천
+사진올리려고 하는데요,DIGITAL_P사진올리기기능안내
+상담원분이신거죠,DIGITAL_P챗봇여부문의
+궁금한거물어봐도되요,DIGITAL_P상담요청
+어떤 대화를 해야,DIGITAL_P채팅
+주문건 캔슬,DIGITAL_P주문취소
+다른거 고를래,DIGITAL_P추가추천
+언제 생산했나요,MART_P제조일자문의
+마트에서만 하는거에요,MART_P마트챗봇문의
+어린이날쿠폰,DIGITAL_P쿠폰요청
+웰컴혜택 어디,DIGITAL_P쿠폰요청
+실례했습니다 나중에 다시,DIGITAL_P대화종료
+뭐가 다른건가요,DIGITAL_P차이점
+상담 받고 싶,DIGITAL_P상담요청
+쿠폰 적요이 안되나요,DIGITAL_P쿠폰적용문의
+직원코드가 필요,DIGITAL_P기타faq문의
+프로모션에 적용이 되나요,DIGITAL_P행사문의
+리뷰 평점 문의,DIGITAL_P리뷰평점문의
+sk포인트,DIGITAL_P결제문의
+본인 인증 회원,DIGITAL_P본인인증문의
+취소 건에 대해서,DIGITAL_P주문취소
+쓰던거 반납처리좀 해주세요,DIGITAL_P폐가전수거
+싸이즈른 봐야해서요,DIGITAL_P사이즈문의
+쓰던거 수거하는 거는,DIGITAL_P폐가전수거
+어떤 색상,DIGITAL_P색상변경문의
+상품권으로 구매 가능,DIGITAL_P결제문의
+물건 없나요,DIGITAL_P추천
+vip 카테고리,DIGITAL_P기타faq문의
+쿠폰 발급해주신 걸로,DIGITAL_P쿠폰적용문의
+넌 무슨 상담 해,MART_P마트챗봇문의
+어디서 하소연하지요,DIGITAL_P상담원연결
+차이 많이 나는지요,DIGITAL_P차이점
+11번가 pay 등록,DIGITAL_P결제문의
+케시백 어떻게 쓰나요,DIGITAL_P기타faq문의
+물건 산 기록,DIGITAL_P주문이력확인
+니가 챗봇이니,DIGITAL_P챗봇여부문의
+카드 전표,DIGITAL_P주문이력확인
+제품 새로 업데이트되는거,DIGITAL_P기타faq문의
+배송이 안되고,DIGITAL_P배송문의
+콕콕11시,DIGITAL_P행사문의
+톡매니저 뭐야,DIGITAL_P톡매니저
+다른 상품으로,DIGITAL_P추가추천
+새로 검색,DIGITAL_P추천
+휴 어지러워요,DIGITAL_P채팅
+프로모션 관련 문의,MART_P이벤트 
+혜택좋은 아이템,MART_P행사상품문의
+체크카드로도 가능한가요,DIGITAL_P결제문의
+쿠폰 저게 최대치인가요,DIGITAL_P쿠폰요청
+할인 쿠폰 안 보입니다,DIGITAL_P쿠폰요청
+두툼 포인트 사용,DIGITAL_P기타faq문의
+성명바꾸기,DIGITAL_P회원정보문의
+판매자가 취소 거부,DIGITAL_P기타faq문의
+못찻겟어요,DIGITAL_P추천
+정말 날 기다렸니,DIGITAL_P채팅
+반품도되나요,DIGITAL_P반품문의
+신선식품 종류가 많아요,MART_P신선식품문의
+재발급가능 한가요,DIGITAL_P기타faq문의
+제품 차이가 있다던데,DIGITAL_P차이점
+내주문상태,DIGITAL_P주문이력확인
+사용 방법 알려주세요,DIGITAL_P도움말보기
+할인쿠폰어떻게쓰냐,DIGITAL_P쿠폰적용문의
+할인쿠폰 미적용,DIGITAL_P쿠폰적용문의
+나중에 통화해볼께요,DIGITAL_P대화종료
+리뷰 좀 보여,DIGITAL_P리뷰요청
+이런 상담은 어떻게,DIGITAL_P상담요청
+상담사 확인해줘,DIGITAL_P상담사연결
+캐쉬 사용법,DIGITAL_P기타faq문의
+상담 받으려고 하는,DIGITAL_P상담요청
+배송중인 상품의 위치,MART_P배송문의
+에너지소비등급문의,DIGITAL_P에너지소비등급문의
+배송이 된지 궁금,DIGITAL_P배송문의
+돈이 안들어오네요,DIGITAL_P환불문의
+제가 산거,DIGITAL_P주문이력확인
+녹지않게 얼음팩주세요,MART_P아이스팩문의
+입급확인 부탁,DIGITAL_P기타faq문의
+경비실 보관으로 부탁드립,DIGITAL_P배송문의
+설치비 안내,DIGITAL_P설치비문의
+쿠폰 어디서받,DIGITAL_P쿠폰요청
+배송은 어떻게 되는건가요,DIGITAL_P배송문의
+링크좀 쏴주심,DIGITAL_P링크요청
+이중에 없어,DIGITAL_P추가추천
+택배로 착불로,DIGITAL_P환불문의
+해고나 먹어라,DIGITAL_P채팅
+환불이 되지안아 문의,DIGITAL_P환불문의
+선물함이란 무엇인가요,DIGITAL_P기타faq문의
+보관 부탁하려구요,DIGITAL_P배송문의
+알리미서비스 해제,DIGITAL_P알림설정문의_P기타faq문의
+차이가 많이나나요,DIGITAL_P차이점
+검색해서 알려주세요,DIGITAL_P대화종료
+설명을 해달라고,"FAQ_P도움말요청,DIGITAL_P설명요청"
+환불받고 싶어요,DIGITAL_P환불문의
+내맘대로 PLUS 쿠폰팩,DIGITAL_P쿠폰요청
+오늘은 무슨 요일,DIGITAL_P채팅
+처음으로 이동,DIGITAL_P처음으로
+그냥 켜봤어,DIGITAL_P채팅
+쿠폰인증번호 어디서 받나요,DIGITAL_P쿠폰인증번호문의
+프로그램인가요 사람인가요,DIGITAL_P챗봇여부문의
+나의 주문관리,MART_P지난구매상품보기
+싸이즈가 너무 커,DIGITAL_P기타faq문의
+여기 없네요,DIGITAL_P상담품목
+가지가지 한다,DIGITAL_P채팅
+주문을 취소했는데,DIGITAL_P주문취소
+마트챗봇 상담하기,MART_P상담요청
+싸게 사고 싶어요,MART_P행사상품
+견적 내고 싶은데,DIGITAL_P가격문의
+처음 단계,DIGITAL_P처음으로
+취소부탁드릴께요,DIGITAL_P주문취소
+연락주세요,DIGITAL_P전화요청
+아니 뭐파냐고,MART_P마트챗봇문의
+카드 포인트 연계할부,DIGITAL_P결제문의
+주문 주소 잘못,DIGITAL_P배송지변경문의
+적용할수있는 쿠폰은 없나요,DIGITAL_P쿠폰요청
+할수있는게뭐니,DIGITAL_P상담품목
+쿠폰 적용 금액,DIGITAL_P쿠폰적용문의
+그때 주문한거 다시 살려,MART_P지난구매상품보기
+대화내용삭제,DIGITAL_P기타faq문의
+주문한게 조회가 안돼,DIGITAL_P주문이력확인
+뭐가 맛있을거 같아,DIGITAL_P채팅
+취소된 금액,DIGITAL_P주문취소
+배송관련 상담,DIGITAL_P배송문의
+전화오나요,DIGITAL_P전화요청
+ok케쉬백,DIGITAL_P기타faq문의
+주문한 상품이왔는데,DIGITAL_P배송완료
+제일 비싸네,MART_P행사상품
+오늘 상품 받을수 있나,DIGITAL_P배송일문의
+그럼 이만,DIGITAL_P대화종료
+전기세요금 얼마정도,DIGITAL_P상담원연결
+언제 재입고,MART_P재입고문의
+용량 어떻게 구분되어 있,DIGITAL_P용량문의
+품절건인데요,DIGITAL_P기타faq문의
+구매한 제품 as,DIGITAL_Pa/s문의
+톡매니저 이딧나요,DIGITAL_P상담원연결
+Q A를 작성했는데,DIGITAL_P상담원연결
+기존 제품은 가져가요,DIGITAL_P폐가전수거
+물건보냈는지 한참되었는데,DIGITAL_P반품문의
+주소지관리,DIGITAL_P회원정보문의
+시켰는데 몇일걸랴,DIGITAL_P배송문의
+전화주시면 감사하겠습니다,DIGITAL_P전화요청
+이게 다예요,DIGITAL_P추가추천
+오늘상담은해요,DIGITAL_P상담시간
+어디로 포인트 들어와있나,DIGITAL_P적립문의
+왓슨 기반이니,DIGITAL_P챗봇여부문의
+이메일 주스 어떻게 바꾸,DIGITAL_P회원정보문의
+사업자등록증,DIGITAL_P기타faq문의
+구매 후 구매확정,DIGITAL_P구매완료
+카드등록 다시할려면,DIGITAL_P결제문의
+나우배송 지금 주문,DIGITAL_P배송문의
+실제 제품 볼 수 있나요,DIGITAL_P실물확인
+저게 다에요,DIGITAL_P추가추천
+이용가이드 보여줘,DIGITAL_P도움말보기
+확인 가능,DIGITAL_P확인
+가격차이 있는것들이 있는데,DIGITAL_P가격차이
+그냥 제가 찾아볼게여,DIGITAL_P대화종료
+결제 카드 추가방법,DIGITAL_P결제문의
+니가 할울 아는 건 뭐니,DIGITAL_P상담품목
+사람인데 기계인척하는거지,DIGITAL_P챗봇여부문의
+물건을 받지 못했어요,DIGITAL_P배송문의
+너를 찾고 있어,DIGITAL_P채팅
+웰컴딜 환불,DIGITAL_P쿠폰적용문의
+제품 뭐가 있을까요,DIGITAL_P상품문의_P상담원연결
+결제창 부탁 드릴게요,DIGITAL_P결제문의
+선물 기능,DIGITAL_P기타faq문의
+최대 할인율이고,DIGITAL_P할인문의
+카드 무이자 할부,DIGITAL_P결제문의
+쿠폰 받으려니 인증,DIGITAL_P본인인증문의
+첫 구매고객,DIGITAL_P쿠폰요청
+장바구니도 안열린다구요,DIGITAL_P기타faq문의
+매니저좀 불러줘요,DIGITAL_P상담원연결
+디지털 장비만 되,DIGITAL_P상담품목
+스타일리쉬한거,DIGITAL_P디자인문의
+제 아이디가 뭔지,DIGITAL_P회원정보문의
+쿠폰이 안보여요,DIGITAL_P쿠폰요청
+페이백이요,DIGITAL_P적립문의
+상품이 아직미도착이요,DIGITAL_P배송문의
+코디상품 구매도 가능,DIGITAL_P기타faq문의
+추가 할인받는방법 있을까요,DIGITAL_P쿠폰요청
+디지털말고 다른 상품,DIGITAL_P상담품목
+문의 드린겁니다,DIGITAL_P상담요청
+언제 퇴근해,DIGITAL_P채팅
+쿠키 항상 허용,DIGITAL_P기타faq문의
+챗봇 뭐래 뭘좋아해,DIGITAL_P채팅
+11페이 계좌 삭제,DIGITAL_P결제문의
+점심에도 상담,DIGITAL_P상담시간
+찜 기능 뭐야,DIGITAL_P찜기능안내
+ok캐쉬백 재인증,DIGITAL_P기타faq문의
+구매할려할때,DIGITAL_P구매예정
+암튼 see you,DIGITAL_P대화종료
+염두에 두고 계신 가격대가,DIGITAL_P가격문의
+선별했는데 사라졌음,DIGITAL_P찜기능안내
+문화상품권으로 결제할려고,DIGITAL_P결제문의
+리뷰 적립금,DIGITAL_P적립문의
+랜탈 문의,DIGITAL_P렌탈문의
+모델별 특징은,DIGITAL_P상품문의_P상담원연결
+원하는데요,DIGITAL_P추천
+구매했는데 취소가능,DIGITAL_P주문취소
+선물이자꾸취소되요,DIGITAL_P기타faq문의
+뭐가있는거죠 그럼,MART_P마트챗봇문의
+어떻게 하냐고,DIGITAL_P기타faq문의
+다른 모델,DIGITAL_P추가추천
+할 수 있는 상담이 뭐야,MART_P마트챗봇문의
+할인은 또 언제 받,DIGITAL_P할인문의
+수취 거부부탁하고,DIGITAL_P배송문의
+대화가 종료 되나요,DIGITAL_P상담원연결
+쿠폰 어떻게 쓰나,DIGITAL_P쿠폰적용문의
+톡매니저 연락,DIGITAL_P상담원연결
+대화 삭제,DIGITAL_P기타faq문의
+너무 비싸지 않았음 합니다,MART_P행사상품
+패션데이가 뭐야,DIGITAL_P행사문의
+배송시간 지정,DIGITAL_P배송문의
+용량 큰 건가,DIGITAL_P용량문의
+입고 시켜,DIGITAL_P기타faq문의
+착불로 판매자에게,DIGITAL_P환불문의
+상품이 오지를안네요,DIGITAL_P배송문의
+주문한 상품 찾아줘,DIGITAL_P주문이력확인
+가전관련된것만 상담,DIGITAL_P상담품목
+최신형인가요,DIGITAL_P상품문의
+다른건 없나요,DIGITAL_P추가추천
+아이디가 이중,DIGITAL_P기타faq문의
+취소 하고픈데요,DIGITAL_P주문취소
+헌데 취소하려고요,DIGITAL_P주문취소
+또 사려고,MART_P지난구매상품보기
+자주사용하는 물건,MART_P자주구매상품
+카드정보입력,DIGITAL_P결제문의
+사람이신가요,DIGITAL_P챗봇여부문의
+한개가 반납이 안되었다고,DIGITAL_P반품문의
+쿠폰번호 알려줘,DIGITAL_P쿠폰요청
+입금이 안됐어요,DIGITAL_P환불문의
+보상지연받으라는데,DIGITAL_P기타faq문의
+11번가도 문의되나요,DIGITAL_P기타faq문의
+차이가 뭐야,DIGITAL_P차이점
+쿠폰 무제한 쓸수,DIGITAL_P쿠폰적용문의
+생채인식 위치어디,DIGITAL_P기타faq문의
+나중에 찾을래,DIGITAL_P대화종료
+딴상품 찾을래,DIGITAL_P새상담
+추천사유문의,DIGITAL_P추천사유문의
+어제 연락주신다더니,DIGITAL_P전화요청
+보상절차를 알려주세요,DIGITAL_P기타faq문의
+깎아주세요,DIGITAL_P바로할인가
+판매자 등록을,DIGITAL_P기타faq문의
+교환 문의톡,DIGITAL_P교환문의
+쿠폰이 잇는지,DIGITAL_P쿠폰요청
+사용어떡해하죠,DIGITAL_P기타faq문의
+발송처리 했습니다,DIGITAL_P반품문의
+이벤트 머있니,MART_P이벤트
+취소한거 확인요청,DIGITAL_P주문취소
+데이터 안닳고 쇼핑,DIGITAL_P기타faq문의
+자주 이용할께요,DIGITAL_P대화종료
+할부가 가능한가요,DIGITAL_P결제문의
+세일 품목,MART_P행사상품문의
+쿠폰 좀 다시 발송 부탁,DIGITAL_P쿠폰요청
+담당자불러와,DIGITAL_P상담사연결
+상담 지금 되나요,DIGITAL_P상담시간
+뭘 사야할지 몰라서요,DIGITAL_P추천
+세일 많이 된 상품으로,MART_P행사상품
+아직 안왔어요,DIGITAL_P배송문의
+상품 문의 가능,DIGITAL_P상담요청
+합배송란되죠,DIGITAL_P배송문의
+1 1 상담,DIGITAL_P상담원연결
+아직도착을 안하는겁니까,DIGITAL_P배송문의
+나도 반사,DIGITAL_P채팅
+문자 재발송 부탁,DIGITAL_P기타faq문의
+내일안와요,DIGITAL_P배송일문의
+카드 할인이 있나요,DIGITAL_P결제문의
+취소하면 쿠폰도 돌아오나여,DIGITAL_P쿠폰적용문의
+나 이제 갈게,DIGITAL_P대화종료
+선물준다면서,DIGITAL_P행사문의
+포인트차감된거확인,DIGITAL_P결제문의
+사람들이 자주 쓰는,DIGITAL_P챗봇여부문의
+핫딜 상품은 뭔가,MART_P행사상품문의
+차이인가요,DIGITAL_P차이점
+취소할게요,DIGITAL_P주문취소
+주소지수정,DIGITAL_P배송지변경문의
+계정 문의,DIGITAL_P회원정보문의
+배송받을 수 있을까요,DIGITAL_P배송문의
+본인확인회원전환,DIGITAL_P본인인증문의
+티멤버쉽이 안돼요,DIGITAL_P티멤버십관련문의_P기타faq문의
+배송 언제,DIGITAL_P배송일문의
+이벤트 제품 추천,DIGITAL_P할인행사
+아이뒤가 이상,DIGITAL_P회원정보문의
+가격이 틀리던데요,DIGITAL_P가격문의
+이거어떻게하는건가요,DIGITAL_P도움말보기
+쿠폰사용 안되나요,DIGITAL_P쿠폰적용문의
+반품을 하려하는데,DIGITAL_P반품문의
+잘못 결제했어요,DIGITAL_P결제문의
+구매 이력,DIGITAL_P기타faq문의
+사기당했어요,DIGITAL_P기타faq문의
+장바구니어떠케,DIGITAL_P찜기능안내
+이거 말고 없어,DIGITAL_P추가추천
+이 톡은 왜,DIGITAL_P채팅
+상품을 더 보여주세요,DIGITAL_P추가추천
+물건 교환해야하는데,DIGITAL_P교환문의
+방금주신 저쿠폰,DIGITAL_P쿠폰적용문의
+배송료 얼마,DIGITAL_P배송비문의
+환불 관련해서 물어볼거,DIGITAL_P환불문의
+웰컴 혜택,DIGITAL_P행사문의
+새 카테고리,DIGITAL_P새상담
+도착 안하면 취소,DIGITAL_P배송일문의
+상담 언제 가능해요,DIGITAL_P상담시간
+상담사좀부탁해,DIGITAL_P상담원연결
+사은품 받게해,DIGITAL_P채팅
+넌 사람이 될 수 없어,DIGITAL_P채팅
+웰컴딜사용이안되요,DIGITAL_P쿠폰적용문의
+주문한 대로 오지않았습니다,DIGITAL_P배송문의
+상품 구매하려면 얼마,DIGITAL_P가격문의
+발급받은 쿠폰이 보이지,DIGITAL_P쿠폰요청
+상품이 잘못왔는데요,DIGITAL_P배송문의
+입금확인부탁,DIGITAL_P결제문의
+쿠폰 있는 거 같,DIGITAL_P쿠폰요청
+구입했었는데 다시 보여,MART_P지난구매상품보기
+다른거 없어요,DIGITAL_P추가추천
+캐쉬백 왜 안들어 오나요,DIGITAL_P적립문의
+다른제품요,DIGITAL_P추가추천
+오늘은안와요,DIGITAL_P배송일문의
+인격을 가지구 있,DIGITAL_P채팅
+뭐 할수있어요,DIGITAL_P채팅
+아쉽지만 담에찾을께요,DIGITAL_P대화종료
+장바구니 기능,DIGITAL_P찜기능안내
+취소를 신청했는데,DIGITAL_P주문취소
+환불 될 때,DIGITAL_P환불문의
+게시판이 어디,DIGITAL_P기타faq문의
+추천 요망,DIGITAL_P추천
+마일리지 적립이 안,DIGITAL_P적립문의
+개발자가 누구니,DIGITAL_P채팅
+택배가 안오는데,DIGITAL_P배송문의
+할부 선택을 안했는데요,DIGITAL_P결제문의
+상담원 바꿔주세요,DIGITAL_P상담원연결
+안녕하세용 지금도되나요,DIGITAL_P상담시간
+결제금액이 돌아오나요,DIGITAL_P환불문의
+이상품은 어떤가요,DIGITAL_P상품문의_P상담원연결
+니가 알아서 찾아,DIGITAL_P추천
+수취확인 취소,DIGITAL_P기타faq문의
+비교해서 구매할려구요,DIGITAL_P구매예정
+페이백 받을수,DIGITAL_P적립문의
+문화상품권으로 구매하려면,DIGITAL_P결제문의
+대화 멈춰,DIGITAL_P대화종료
+할부진행 할수 있나요,DIGITAL_P결제문의
+넌 뭘 팔아,DIGITAL_P상담품목
+마트챗봇 소개,MART_P마트챗봇문의
+주문하면 증정품도 같이,MART_P사은품문의
+사용 방법이 뭐야,DIGITAL_P도움말보기
+디음에 다시요,DIGITAL_P대화종료
+왜안들어와요,DIGITAL_P환불문의
+제품만 찾나요,DIGITAL_P상담품목
+멤버십 포인트 사용,DIGITAL_P결제문의
+캐쉬 출금했는데 왜 입금,DIGITAL_P기타faq문의
+쿠폰 같은 건 없나,DIGITAL_P쿠폰요청
+인증되지않았다고,DIGITAL_P본인인증문의
+as는 어떤가요,DIGITAL_Pa/s문의
+최근 주문한거 보여줘,DIGITAL_P주문이력확인
+공인인증 방법,DIGITAL_P본인인증문의
+추천 부탁드리,DIGITAL_P추천
+신용카드 등록,DIGITAL_P결제문의
+새로 시작하기,DIGITAL_P새상담
+한번에찾기,MART_P다중검색문의
+오류 아니니,DIGITAL_P기타faq문의
+차이 뭔가요,DIGITAL_P차이점
+할인받아서 구매하였다가,DIGITAL_P구매완료
+결제 취소한 건이 있는데,DIGITAL_P결제문의
+차이 좀 봐주세요,DIGITAL_P차이점
+다음에참고할게요,DIGITAL_P대화종료
+뭐가 좋나요,DIGITAL_P추천
+제품을못받았는데,DIGITAL_P배송문의
+ok캐시백 미등록,DIGITAL_P기타faq문의
+리뷰 평점은 좋나요,DIGITAL_P리뷰평점문의
+넌 여자니,DIGITAL_P채팅
+고객센터 번호는 어떻게,DIGITAL_P고객센터문의
+Help me cancel,DIGITAL_P주문취소
+주문한 상품은 언제 배송,DIGITAL_P배송일문의
+당일 택배가능,DIGITAL_P배송일문의
+위조품 확인,DIGITAL_P기타faq문의
+이미지 첨부 드립니다,DIGITAL_P기타faq문의
+소액결제 취소 신청,DIGITAL_P결제문의
+담번에또물어볼께요,DIGITAL_P대화종료
+담에 이용할께요,DIGITAL_P대화종료
+뭐가 되는데,DIGITAL_P상담품목
+궁긍한게 있어요,DIGITAL_P상담요청
+전에 구매한것,MART_P지난구매상품보기
+상담 뭐뭐 돼요,DIGITAL_P상담품목
+제품말구 상담요,DIGITAL_P상담품목
+반값이벤트,MART_P행사상품문의
+쿠폰 적용 문의,DIGITAL_P쿠폰적용문의
+그러면 어떻하죠,DIGITAL_P기타faq문의
+쓰던 물건 가져가,DIGITAL_P폐가전수거
+고객센타 연락처,DIGITAL_P고객센터문의
+거래거절카드,DIGITAL_P결제문의
+다른 브랜드 추천해,DIGITAL_P추가추천
+리뷰 어때요,DIGITAL_P리뷰평점문의
+찾기 기능 고장,DIGITAL_P기타faq문의
+링크주세요,DIGITAL_P링크요청
+주민등록번호,DIGITAL_P기타faq문의
+아이디가두개라,DIGITAL_P회원정보문의
+쿠폰적용되나요,DIGITAL_P쿠폰적용문의
+카드 무이자,DIGITAL_P결제문의
+취소와 환불,DIGITAL_P환불문의
+환불하고 싶어요,DIGITAL_P환불문의
+결재하는 금액 얼마,DIGITAL_P가격문의
+문상 사용,DIGITAL_P기타faq문의
+장바구니 버튼이 없어요,MART_P장바구니담기
+고객님만을 위한 혜택,DIGITAL_P행사문의
+품절된건 언제쯤 들어오,MART_P재입고문의
+데이터 사용양,DIGITAL_P기타faq문의
+주문하면 낼 올까요,DIGITAL_P배송문의
+상품 언제쯤 받을,DIGITAL_P배송문의
+배송 조회하고싶은데,DIGITAL_P배송문의
+톡매니저 이디있나요,DIGITAL_P상담원연결
+챗봇 기반 서비스라고 해서,DIGITAL_P챗봇여부문의
+너무 작나요,DIGITAL_P사이즈문의
+전번 변경,DIGITAL_P회원정보문의
+할인쿠폰이왜안써지죠,DIGITAL_P쿠폰적용문의
+구매하기 금액이달라요,DIGITAL_P상담원연결
+아이디를 어디서 찾나,DIGITAL_P회원정보문의
+귀찮네 그만,DIGITAL_P대화종료
+문의좀 할게요,DIGITAL_P상담요청
+물건을 판매,DIGITAL_P기타faq문의
+다른 상담하기,DIGITAL_P새상담
+녹지않게 포장,MART_P아이스팩문의
+이용방법 알려,DIGITAL_P도움말보기
+다음에 만나요,DIGITAL_P대화종료
+너는 사람이니 컴퓨터니,DIGITAL_P챗봇여부문의
+쿠폰 주실수 있나요,DIGITAL_P쿠폰요청
+배송되는지,DIGITAL_P배송일문의
+물건이너무없네요,DIGITAL_P상담품목
+장바구니 버튼생성이 안되요,DIGITAL_P기타faq문의
+샀던거좀 보여주,MART_P지난구매상품보기
+멤버싶 등록,DIGITAL_P기타faq문의
+전화를 받지 않아서,DIGITAL_P전화요청
+고객센터 번호 알려주세요,DIGITAL_P기타faq문의
+가격 어떠,DIGITAL_P가격문의
+맴버쉬확인불가라고떠요,DIGITAL_P기타faq문의
+구입했던 목록,DIGITAL_P주문이력확인
+판매자연락안될때,DIGITAL_P판매자연락요청
+사람 나와,DIGITAL_P상담원연결
+머하나 물어봅시다,DIGITAL_P상담요청
+비번을 변경할려고,DIGITAL_P기타faq문의
+vvip등급,DIGITAL_P기타faq문의
+무이자 할부로 구매,DIGITAL_P결제문의
+선물좀주세요,DIGITAL_P채팅
+백화점몰쿠폰,DIGITAL_P쿠폰요청
+상담원 접속,DIGITAL_P상담원연결
+회원으로 가입할 수 있나요,DIGITAL_P회원정보문의
+설치비 포함된 가격인가요,DIGITAL_P설치비문의
+등급 상향 조정하려면,DIGITAL_P기타faq문의
+목요일에 받을수 있나,DIGITAL_P배송문의
+바로 취소가 안되죠,DIGITAL_P결제문의
+나이가 어떻게,DIGITAL_P채팅
+용량 높은가,DIGITAL_P용량문의
+주문한게 문제가 있어서요,DIGITAL_P반품문의
+현금영수증 재발행,DIGITAL_P현금영수증문의
+선물함은 어디에 있나요,DIGITAL_P기타faq문의
+쿠포 발급 가능,DIGITAL_P쿠폰요청
+쿠폰사용이 안됩,DIGITAL_P쿠폰적용문의
+기프트콘이 어디에 있는지,DIGITAL_P기타faq문의
+상품쿠폰 사용,DIGITAL_P쿠폰적용문의
+대화 stop,DIGITAL_P대화종료
+장볼일있을때 이용할,MART_P대화종료
+새벽에 통화,DIGITAL_P상담시간
+더 깎아줘요,DIGITAL_P바로할인가
+사업자 지출증빙,DIGITAL_P기타faq문의
+어떤 모델이 좋을까요,DIGITAL_P상품문의_P상담원연결
+뭘 파시나요,DIGITAL_P상담품목
+새로운 카테고리,DIGITAL_P새상담
+상품상세설명,DIGITAL_P상담원연결
+장바구니 버튼이 없어요,DIGITAL_P찜기능안내
+다음에 물어볼게요,DIGITAL_P대화종료
+너랑 대화가 가능하니,DIGITAL_P채팅
+상담사가 조정하는거야,DIGITAL_P챗봇여부문의
+하나 구입하겠어요,DIGITAL_P구매예정
+어떤걸 사야되는건지,DIGITAL_P추천
+as사항이 어떻게 되나요,DIGITAL_Pa/s문의
+출고 됐나요,DIGITAL_P배송문의
+이벤트 당첨번호,DIGITAL_P행사문의
+11pay 생체인식,DIGITAL_P결제문의
+정품 인가요,MART_P정품문의
+쿠폰 하나만 쏴주,DIGITAL_P쿠폰요청
+최근 주문 상품,MART_P지난구매상품보기
+결제 안되서,DIGITAL_P결제문의
+오늘 주문하면 언제 와요,DIGITAL_P배송일문의
+문화상품권 어디서써,DIGITAL_P결제문의
+쿠폰 적용 카테고리,DIGITAL_P쿠폰적용문의
+세금계산서 발급,DIGITAL_P기타faq문의
+마트배송지설정,DIGITAL_P배송지변경문의
+사람이 치는건가요,DIGITAL_P챗봇여부문의
+저번에 산쌀,MART_P지난구매상품보기_CATE쌀
+쇼킹딜보여줘,"MART_P쇼킹딜,DIGITAL_P쇼킹딜"
+여쭤봐도 되나요,DIGITAL_P상담요청
+문화상품권도되나요,DIGITAL_P결제문의
+입고 시켜,MART_P재입고문의
+11번가페이를 삭제,DIGITAL_P결제문의
+배송이 않되고,DIGITAL_P배송문의
+내일 특가,DIGITAL_P행사문의
+궁금합니다,DIGITAL_P추천
+내일 연락부탁드립니다,DIGITAL_P전화요청
+오프라인 매장이 있나요,DIGITAL_P실물확인
+찜기능안내,DIGITAL_P찜기능안내
+신규 카드 등록,DIGITAL_P결제문의
+통화량이 많아서,DIGITAL_P전화요청_GREETINGclaim
+영수증 요청합니다,DIGITAL_P기타faq문의
+판매하는것,MART_P마트챗봇문의
+터지지 않게 해주세요,MART_P포장문의
+쓰기가 너무 어려워요,DIGITAL_P채팅_GREETINGclaim
+쿠폰 챙겨조,DIGITAL_P쿠폰요청
+돈좀빌려주세요,DIGITAL_P채팅
+하나 카드,DIGITAL_P결제문의
+탈퇴부탁해요,DIGITAL_P회원정보문의
+잘못된 배송지,DIGITAL_P배송지변경문의
+배송 문제로 상담,DIGITAL_P배송문의
+견적 부탁,DIGITAL_P추천
+개인정보 바꾸는 법,DIGITAL_P회원정보문의
+안반갑다니께,DIGITAL_P채팅
+전화주시게할순없나요,DIGITAL_P전화요청
+주소 수정은 어디서,DIGITAL_P배송지변경문의
+오케캐시백 재인증,DIGITAL_P기타faq문의
+사람아닌가,DIGITAL_P챗봇여부문의
+마트쿠폰이 왔는데,DIGITAL_P쿠폰문의_P기타faq문의
+나중에 알려주세요,DIGITAL_P대화종료
+택배아저씨가 가져가신지,DIGITAL_P반품문의
+파는게 무엇,DIGITAL_P상담품목
+그럼 머있는데,DIGITAL_P상담품목
+아직 상품준비중이라,DIGITAL_P배송문의
+구매내역이 필요해요,DIGITAL_P주문이력확인
+튜토리얼 보기,DIGITAL_P도움말보기
+계속같은거 추천하네,DIGITAL_P전화요청_GREETINGclaim
+문자가 안온다,DIGITAL_P기타faq문의
+사업자회원,DIGITAL_P기타faq문의
+일반상담은어디서하는거,DIGITAL_P고객센터문의
+사은품 받을수있는 건가요,DIGITAL_P사은품문의
+환불신청하는데 안되니까,DIGITAL_P환불문의
+쓸모있는거,DIGITAL_P추천
+카드 할부,DIGITAL_P결제문의
+취소 에러,DIGITAL_P주문취소
+장바구니 제품 구매하려는데,DIGITAL_P구매예정
+광고문자 거부,DIGITAL_P기타faq문의
+아이디가 두개여서,DIGITAL_P회원정보문의
+정보변경을 하려면 어떻게,DIGITAL_P회원정보문의
+카드가 왜 안되는지,DIGITAL_P결제문의
+폰인증이 자꾸떠요,DIGITAL_P본인인증문의
+구매등급이 왜 안올라가요,DIGITAL_P기타faq문의
+살려고 하는데요,DIGITAL_P추천
+해지요청요,DIGITAL_P기타faq문의
+통화안되요,DIGITAL_P전화요청_GREETINGclaim 
+자체반송 완료해서 송장,DIGITAL_P반품문의
+괜찮은건가요,DIGITAL_P상품문의_P상담원연결
+환불이 안되,DIGITAL_P환불문의
+주문내역 지우기,DIGITAL_P기타faq문의
+다른 상품,DIGITAL_P추가추천
+배송중이라고만 나오네요,DIGITAL_P배송문의
+가격이 달라서 어떤걸로,DIGITAL_P가격문의
+기타 상담도 가능한가요,DIGITAL_P상담품목
+문의드리겟,DIGITAL_P상담요청
+무얼해줄 수 있는데,DIGITAL_P상담품목
+성인인증법,DIGITAL_P본인인증문의
+아직 배송을 안한건가요,DIGITAL_P배송문의
+시럽결제 연동하면서,DIGITAL_P결제문의
+안물어본다고,DIGITAL_P채팅
+변경하고싶어요,DIGITAL_P기타faq문의
+주말은 불가한가요,DIGITAL_P상담시간
+차이 많이 나나요,DIGITAL_P차이점
+모델 번호 알려줘,DIGITAL_P상품문의
+제일 혜택큰,MART_P행사상품문의
+휴대폰 번호 바뀌,DIGITAL_P회원정보문의
+전기요금 얼마정도,DIGITAL_P상담원연결
+무통장입금이안되는이유,DIGITAL_P결제문의
+사은품 주세요,DIGITAL_P사은품문의
+바쁘신가 봐요,DIGITAL_P대화종료
+쿠폰이안되요,DIGITAL_P쿠폰적용문의
+맞는 싸이즈 없더라구요,DIGITAL_P사이즈문의
+장기미고객,DIGITAL_P쿠폰요청
+메뉴가없네요,DIGITAL_P상담품목
+다시 들를게요,DIGITAL_P대화종료
+설치가 가능한 상품,DIGITAL_P설치문의
+이따 알려주세요,DIGITAL_P대화종료
+제품받을 장소변경은 어떻게,DIGITAL_P배송지변경문의
+단골어뜨케,DIGITAL_P기타faq문의
+사람 직접 상담,DIGITAL_P챗봇여부문의
+뭐사면 좋을까,DIGITAL_P추천
+쿠폰에 대해서 문의,DIGITAL_P기타faq문의
+유효기간 알려,MART_P유통기한문의
+현금영수증은 다되나요,DIGITAL_P현금영수증문의
+묶음배송 원해요,DIGITAL_P배송문의
+무엇을 사면 좋을까,DIGITAL_P추천
+이벤트 행사제품,DIGITAL_P할인행사
+다시 청음부터,DIGITAL_P새상담
+고민상담좀하자,DIGITAL_P채팅
+가격이 너무 비싸겠죠,MART_P행사상품
+다음에 또 만나,DIGITAL_P대화종료
+전문상담사 맞아여,DIGITAL_P챗봇여부문의
+상담좀하자,DIGITAL_P상담원연결
+십일절이 뭐야,MART_P십일절
+통장으로 입금하는 방법,DIGITAL_P기타faq문의
+환불 요청 안되니 해주세요,DIGITAL_P환불문의
+톡매니저는 어떻게 연결,DIGITAL_P상담원연결
+정품이 아닌가요,MART_P정품문의
+쿠폰팩은 어디서 다운,DIGITAL_P쿠폰요청
+새 상담하기,DIGITAL_P새상담
+전화바립니다,DIGITAL_P전화요청
+결재 취소 언제,DIGITAL_P결제문의
+물건을못받았는데,DIGITAL_P배송문의
+티멤버쉽은 어떻게 적용,DIGITAL_P결제문의
+유통기한이 궁금,MART_P유통기한문의
+쿠폰찾아주세요,DIGITAL_P쿠폰요청
+도착예정일은,DIGITAL_P배송문의
+쿠폰 문자를 받았는데요,DIGITAL_P쿠폰적용문의
+난 너안기다렸는데,DIGITAL_P채팅
+결제하고싶어,MART_P구매
+무슨 초과요금인지,DIGITAL_P기타faq문의
+상품취소 후 쿠폰,DIGITAL_P쿠폰적용문의
+무이자 되는 제품,DIGITAL_P결제문의
+결제 하려고 하는데,DIGITAL_P결제문의
+가이드를 알려,DIGITAL_P도움말보기
+반품권 문의요,DIGITAL_P기타faq문의
+구매하려는데,DIGITAL_P구매예정
+콜센터에 신호가 안가네요,DIGITAL_P전화요청
+랜탈서비스 없나요,DIGITAL_P렌탈문의
+팝업차단은 어떻게 풀어요,DIGITAL_P기타faq문의
+대답 못하잖아요,DIGITAL_P채팅_GREETINGclaim
+국산으로 보내주세요,MART_P원산지문의
+문의 할게요,DIGITAL_P상담요청
+11페이 카드 삭제,DIGITAL_P결제문의
+검색을 좀 해봐야 겠네요,DIGITAL_P대화종료
+할인쿠폰을 받았는데 적용,DIGITAL_P쿠폰적용문의
+택배가 안 왔어요,DIGITAL_P배송문의
+핸드폰 변경,DIGITAL_P회원정보문의
+배송 안되고 있어요,DIGITAL_P배송문의
+같이오는거맞죠,DIGITAL_P배송문의
+나우배송 상담,MART_Pnow배송설명요청
+배송지연보상제,DIGITAL_P기타faq문의
+제품 수령했는데,DIGITAL_P배송완료
+큰 마트보다 비싸데,DIGITAL_P가격문의
+롯데카드 쿠폰,DIGITAL_P쿠폰요청
+포인트 적립내역,DIGITAL_P적립문의
+반송한 물건 검수,DIGITAL_P반품문의
+배송비 얼마,DIGITAL_P배송비문의
+소액 결제도 가능,DIGITAL_P결제문의
+리뷰 작성하기가 안되,DIGITAL_P기타faq문의
+근데혹시 쿠폰이,DIGITAL_P쿠폰요청
+연결해줘요,DIGITAL_P상담원연결
+sk 데이터,DIGITAL_P기타faq문의
+상담 연결,DIGITAL_P상담원연결
+연락해주세요,DIGITAL_P전화요청
+너무 큰가요,DIGITAL_P사이즈문의
+무이자 정보,DIGITAL_P결제문의
+상품 주문 안돼요,DIGITAL_P기타faq문의
+유통기한을 알고 싶,MART_P유통기한문의
+수고햇어오,DIGITAL_P대화종료
+얼마나 걸려,DIGITAL_P배송문의
+연체료가 계속,DIGITAL_P기타faq문의
+요즘에 봇도 돌리나,DIGITAL_P챗봇여부문의
+소멸예정 혜택,DIGITAL_P기타faq문의
+받았는데 잘못왔어요,DIGITAL_P기타faq문의
+판매자에게 연락이 옵니다,DIGITAL_P기타faq문의
+재고 몇개,DIGITAL_P재고문의_P상담원연결 
+노래 한 곡,DIGITAL_P채팅
+배송지연 배상포인트,DIGITAL_P적립문의
+캐시백 쓰는법,DIGITAL_P결제문의
+개인셀러 회원빠지고 싶은데,DIGITAL_P기타faq문의
+쿠폰기간연장,DIGITAL_P쿠폰적용문의
+별도의 혜택이나 쿠폰은,DIGITAL_P쿠폰요청
+문의라기 보다는 건의,DIGITAL_P상담원연결
+구매했던 내역은,DIGITAL_P주문이력확인
+상담도 해주나요,DIGITAL_P상담품목
+배송확인법,DIGITAL_P배송문의
+지금필요한게없네,DIGITAL_P대화종료
+다른거는요,DIGITAL_P추가추천
+대화 남겨주세요,DIGITAL_P대화종료
+물품이 안와,DIGITAL_P배송문의
+문의 드려도 되,DIGITAL_P상담요청
+넌 뭘 파니,DIGITAL_P상담품목
+컬쳐캐쉬 이용,DIGITAL_P기타faq문의
+상담원 초대,DIGITAL_P상담원연결
+본인 인증 어디서,DIGITAL_P본인인증문의
+결제할려면 어떻게,DIGITAL_P결제문의
+시럽 할인쿠폰,DIGITAL_P쿠폰요청
+현대카드 혜택,DIGITAL_P결제문의
+구매진행하려,MART_P주문
+해외로 배송받으려고 하는데,DIGITAL_P기타faq문의
+오케이 캐쉬백이 안쌓여요,DIGITAL_P적립문의
+수리비용이 얼마,DIGITAL_Pa/s문의
+반품으로 바꾸고 싶습니다,DIGITAL_P반품문의
+네네 잘자요,DIGITAL_P대화종료
+꼼꼼검수해서 보내주세요,MART_P포장문의
+얼마하나요,DIGITAL_P가격문의
+전달사항은 문자로 부탁,DIGITAL_P기타faq문의
+차이가 뭐죵,DIGITAL_P차이점
+차이가 눈에 띄게 있나요,DIGITAL_P차이점
+생각하고있어요,DIGITAL_P추천
+주문하고 받았는데,DIGITAL_P배송완료
+참고해서 구매할께요,DIGITAL_P구매예정
+대화 그만,DIGITAL_P대화종료
+아빠가 누구니,DIGITAL_P채팅
+차이 알수 있나요,DIGITAL_P차이점
+현대카드 포인트사용,DIGITAL_P결제문의
+쿠폰 잇는지 확인 가능,DIGITAL_P쿠폰요청
+진쩌 사람임,DIGITAL_P챗봇여부문의
+판매자를 신고하고 싶어요,DIGITAL_P기타faq문의
+입금 안들어오나요,DIGITAL_P환불문의
+한꺼번에 살래요,MART_P다중검색문의
+신용카드 대금이 청구,DIGITAL_P결제문의
+다른 category,DIGITAL_P새상담
+어디에 잇어,DIGITAL_P기타faq문의
+컨시어지 해당 품목,DIGITAL_P상담품목
+행사 끝났,MART_P행사상품문의
+나중에 상담,DIGITAL_P대화종료
+마트챗봇좀불러줘,"DIGITAL_P마트챗봇호출,MART_GREETINGcall"
+배송 설치가 빠른 상품,DIGITAL_P배송문의
+반납처를 변경,DIGITAL_P기타faq문의
+설명해주세요,"FAQ_P도움말요청,DIGITAL_P설명요청"
+금액대가 중요할듯,DIGITAL_P가격문의
+교환할 수있나요,DIGITAL_P교환문의
+다른제품으로,DIGITAL_P추가추천
+거래처 연락처가 없네,DIGITAL_P판매자연락요청
+찌그러지지 않게 챙겨주세요,MART_P포장문의
+마일리지쓸수있나요,DIGITAL_P할인문의
+쿠폰관련 상담,DIGITAL_P쿠폰적용문의
+픽업할수있나,DIGITAL_P배송문의
+넌 무슨 상담 하,MART_P마트챗봇문의
+좋아하는 음식 있어,DIGITAL_P채팅
+유효기간 확인,MART_P유통기한문의
+상처 받아도 싸,DIGITAL_P채팅
+업뎃없나요,DIGITAL_P기타faq문의
+언제 입고,MART_P재입고문의
+구매내역확인,DIGITAL_P주문이력확인
+네오 제안가 뭐죠,DIGITAL_P바로할인가설명
+너 인공지능,DIGITAL_P챗봇여부문의
+행사 종료됐나요,MART_P행사상품문의
+배송 빨리,MART_P배송문의
+내맘대로 쿠폰팩,DIGITAL_P쿠폰요청
+차이점 있나요,DIGITAL_P차이점
+십일절 이벤트,MART_P십일절
+가격대는요,DIGITAL_P가격문의
+상담 아무거나 다,DIGITAL_P상담품목
+내일 오후에 상품 수령,DIGITAL_P배송문의
+단골가게 등록,DIGITAL_P기타faq문의
+아니 피곤해,DIGITAL_P채팅
+상담 뭐 가능해요,DIGITAL_P상담품목
+보통 배송 한달 걸린다는데,DIGITAL_P배송문의
+사양 비슷한 거 맞,DIGITAL_P사양문의
+샀는데 소식이없네요,DIGITAL_P배송문의
+광고랑 달라요,DIGITAL_P기타faq문의
+십일절 할인,MART_P십일절
+쿠폰 적용해서,DIGITAL_P쿠폰적용문의
+이벤트 뭐에요,MART_P이벤트 
+상품예약을 어떻게,DIGITAL_P기타faq문의
+어디서 하나요,DIGITAL_P기타faq문의
+최신 것인가요,DIGITAL_P상품문의_P상담원연결
+자동응답인가요,DIGITAL_P챗봇여부문의
+모바일쿠폰은 어떻게 쓰나요,DIGITAL_P쿠폰적용문의
+사진 어디다 올리나요,DIGITAL_P사진올리기기능안내
+사람이랑 채팅,DIGITAL_P상담원연결
+배송준비던데요,DIGITAL_P배송문의
+녹지않게 얼음팩 포장,MART_P아이스팩문의
+여기에문의하면되너요,DIGITAL_P상담품목
+빵꾸똥꾸야,DIGITAL_P채팅
+입금방법변경,DIGITAL_P결제문의
+구매한 제품이 고장났어요,DIGITAL_Pa/s문의
+통장으로 입금해주세요,DIGITAL_P환불문의
+출시일이 언제인가요,DIGITAL_P출시일문의_P상담원연결
+서비스 센터 번호,DIGITAL_Pa/s문의
+저번에 샀던,MART_P지난구매상품보기
+사용 방법 안내,DIGITAL_P도움말보기
+마일이지는 어떻게 사용,DIGITAL_P기타faq문의
+가격대 어떻게 되나요,DIGITAL_P가격문의
+메일수신거부,DIGITAL_P기타faq문의
+영수증을 신청했는데요,DIGITAL_P기타faq문의
+취소했는데 입금이 아직,DIGITAL_P환불문의
+그럼 처음부터 다시 하죠,DIGITAL_P처음으로
+물건을 받았는데 불량,DIGITAL_P반품문의
+골라봐 주세요,DIGITAL_P추천
+차이점 뭐지,DIGITAL_P차이점
+이벤트 당첨,MART_P이벤트
+최근 제조된 상품 부탁,MART_P새제품요청
+당장 취소해주길,DIGITAL_P주문취소
+상품지연 마일 받는법,DIGITAL_P기타faq문의
+보증서가 없네,DIGITAL_P상품문의_P상담원연결
+취소처리후 바로 사용,DIGITAL_P주문취소
+그림이라도 볼수있을까요,DIGITAL_P사진요청
+결제 처음이라,DIGITAL_P결제문의
+알리미 설정 해제,DIGITAL_P알림설정문의_P기타faq문의
+취소 도중 오류,DIGITAL_P주문취소
+할인하나요,MART_P행사상품문의
+영어를 할줄아니,DIGITAL_P채팅
+금액차이가 큰가요,DIGITAL_P가격문의
+사업자 가입,DIGITAL_P기타faq문의
+환불신청합니다,DIGITAL_P환불문의
+목욜까지 올까요,DIGITAL_P배송문의
+소개 가능할까,DIGITAL_P추천
+부탁드립니,DIGITAL_P추천
+최소사향은 어떻게,DIGITAL_P사양문의
+환불받을 수 있나요,DIGITAL_P환불문의
+계정이름 바꿀수있나요,DIGITAL_P회원정보문의
+사용법이 뭐에요,DIGITAL_P도움말보기
+챗봇 뭐래 뭘좋아해,DIGITAL_P채팅
+FAQ 어딨어,DIGITAL_P기타faq문의
+왜cj로발송하나요,DIGITAL_P배송문의_GREETINGclaim
+A S 신청이요,DIGITAL_Pa/s문의
+qr코드인식,DIGITAL_P기타faq문의
+가격이다름,DIGITAL_P가격문의
+가격 깍아주시나요,MART_P할인문의
+상품이 이것 밖에 없나요,DIGITAL_P상담품목
+설치비 환불받,DIGITAL_P설치비문의
+할인폭 큰거,MART_P행사상품문의
+등급 안내 좀,DIGITAL_P회원정보문의
+배달 당일 되나요,DIGITAL_P배송일문의
+택배가안오나요,DIGITAL_P배송문의
+배송 잘못,MART_P배송문의
+어디것이 좋아요,DIGITAL_P추천
+상품 소개,DIGITAL_P상품문의
+할인정보도 같이 부탁드립니,DIGITAL_P할인문의
+어케 물어봄,DIGITAL_P상담요청
+취미가 뭐야,DIGITAL_P채팅
+어떤 색상,DIGITAL_P색상변경문의
+결정했습니다,DIGITAL_P대화종료
+11번가 시럽페이,DIGITAL_P결제문의
+가격은 많이 올라가나요,DIGITAL_P가격문의
+증정품 빠졌,MART_P사은품문의
+택배 도착 시간,MART_P배송문의
+카드로 결재가능할까요,DIGITAL_P결제문의
+타인카드사용,DIGITAL_P결제문의
+나 상담해줘,DIGITAL_P상담요청
+컴퓨터가 안켜지는데,DIGITAL_Pa/s문의
+11톡으로 하고 싶어오,DIGITAL_P기타faq문의
+이벤트가뭐지,MART_P이벤트
+개인정보동의함,DIGITAL_P회원정보문의
+문상으로 계산 어떻게,DIGITAL_P결제문의
+로그인어케함,DIGITAL_P회원정보문의
+평일에 해야되나요,DIGITAL_P상담시간
+제품 설명 보여줘,"FAQ_P도움말요청,DIGITAL_P설명요청"
+최대 할인하여,DIGITAL_P할인문의
+내가시킨거,DIGITAL_P주문이력확인
+무이자 관련하여,DIGITAL_P결제문의
+티멤버쉽 사용,DIGITAL_P티멤버십관련문의_P기타faq문의
+상담원 하시는 건가,DIGITAL_P챗봇여부문의
+링크도 가능한지요,DIGITAL_P링크요청
+앱구매하면 혜택이 많나요,DIGITAL_P기타faq문의
+찜 보여줘,DIGITAL_P찜한상품
+이메일 변경,DIGITAL_P회원정보문의
+예금주 알려주세요,DIGITAL_P상담원연결
+제 구매내역 중,DIGITAL_P기타faq문의
+가격 차이 많이나는 이유가,DIGITAL_P가격차이
+알람이 안와요,DIGITAL_P알림설정문의
+날이 더워요,DIGITAL_P채팅
+제안해주실 수 있나요,DIGITAL_P추천
+11페이 등록,DIGITAL_P결제문의
+보낸 사람 이름을 못보나요,DIGITAL_P배송문의
+안 비싼고,MART_P행사상품
+전화연결이 안되요,DIGITAL_P전화요청
+다른 물건,DIGITAL_P추가추천
+어떤상품들이 있나,DIGITAL_P상담품목
+팔로우하라고 하는데,DIGITAL_P기타faq문의
+아이디가 뭔지아니,DIGITAL_P회원정보문의
+최고 사양인가요,DIGITAL_P사양문의
+주소를 수정하고 싶어요,DIGITAL_P회원정보문의
+럭키넘버 신청,DIGITAL_P행사문의
+할인쿠폰 왜 안 되냐,DIGITAL_P쿠폰적용문의
+차이점 뭔가,DIGITAL_P차이점
+환불은 얼마나 걸리나요,DIGITAL_P환불문의
+배송료 쿠폰 재사용,DIGITAL_P쿠폰적용문의
+새상담 시작,DIGITAL_P새상담
+사용 방법이 뭐에요,DIGITAL_P도움말보기
+확인좀 부탁드려도 될까요,DIGITAL_P상담요청
+너무 고가는 아니면 되고,MART_P행사상품
+지문인식방법,DIGITAL_P기타faq문의
+환불 완료라 뜨는데,DIGITAL_P환불문의
+디지털데이는 언제,DIGITAL_P행사문의
+다음에 다른 추천으로,DIGITAL_P대화종료
+물건올리려고 하는데,DIGITAL_P기타faq문의
+번호등록어떻게,DIGITAL_P회원정보문의
+프로모션 상품 추천 부탁,DIGITAL_P할인행사
+차이만 있는건가요,DIGITAL_P차이점
+다시 쿠폰이생기나요,DIGITAL_P쿠폰적용문의
+사람 아닌 줄 알았어,DIGITAL_P챗봇여부문의
+유효기간이 정확하게 어떻게,MART_P유통기한문의
+페이코 할인쿠폰,DIGITAL_P결제문의
+작년에 샀던,DIGITAL_P주문완료
+수거되나요,DIGITAL_P폐가전수거
+오늘 주문하면,DIGITAL_P배송문의
+11pay 할부안되나요,DIGITAL_P결제문의 
+저 비회원인가요,DIGITAL_P회원정보문의
+언제 환불되나요,DIGITAL_P환불문의
+안전하게 검수해주세요,MART_P포장문의
+기프트 카드 어떻게,DIGITAL_P기타faq문의
+화면하고 디자인이 다르네요,DIGITAL_P기타faq문의
+사람 아닌 챗봇인가요,DIGITAL_P챗봇여부문의
+차이 비교,DIGITAL_P차이점
+담을 수가 없어,DIGITAL_P장바구니담기
+채봇이벤트,MART_P이벤트
+어떻게 하는 거에요,DIGITAL_P도움말보기
+웰컴회원 혜택,DIGITAL_P쿠폰요청
+상담원 연결,DIGITAL_P상담원연결
+비교해서 구매하,DIGITAL_P대화종료
+아는게 뭐냐,DIGITAL_P채팅
+other category,DIGITAL_P새상담
+젤 저렴한,MART_P행사상품
+고객센터하고 통화,DIGITAL_P전화요청
+캐시가 있는데 어떻게 사용,DIGITAL_P기타faq문의
+어떻게 다른건가요,DIGITAL_P차이점
+판매는어떻게,DIGITAL_P기타faq문의
+비번바꾸기,DIGITAL_P회원정보문의
+여기는 왜 싼거죠,DIGITAL_P가격차이
+잘못하겠네요,DIGITAL_P도움말보기
+상담원에게 연결,DIGITAL_P상담원연결
+이용가이드,DIGITAL_P도움말보기
+챗봇이에용,DIGITAL_P챗봇여부문의
+증명서 발급은 어떻게,DIGITAL_P기타faq문의
+상담사 불만은 어디다,DIGITAL_P기타faq문의
+쿠폰등록방법,DIGITAL_P쿠폰적용문의
+인증을 하라고,DIGITAL_P본인인증문의
+답변하지마,DIGITAL_P채팅
+다시 여쭤 보러올게요,DIGITAL_P대화종료
+다시 제품 선택,DIGITAL_P처음으로
+화요일까지 올까요,DIGITAL_P배송문의
+캐시 사용방법,DIGITAL_P기타faq문의
+디지털 장비만 되냐,DIGITAL_P상담품목
+다음에 살게,DIGITAL_P대화종료
+할인행사 끝났,MART_P행사상품문의
+다음에 또 올게요,DIGITAL_P대화종료
+메일 거절,DIGITAL_P기타faq문의
+장바구니에 넣어,MART_P장바구니담기
+포장 꼼꼼하게 챙겨주세요,MART_P포장문의
+파는게 뭐,DIGITAL_P상담품목
+이벤트 할래,MART_P이벤트
+결제 가능한가요,DIGITAL_P결제문의
+가격 어떻게,DIGITAL_P가격문의
+어떻게 바꿔요,DIGITAL_P기타faq문의
+전화번호가잘못됬어요,DIGITAL_P기타faq문의
+챗봇 이벤트,MART_P이벤트
+톡매니저 문의는 어떻게,DIGITAL_P상담원연결
+주문상품이 존재하지,DIGITAL_P기타faq문의
+현대카드쇼핑케어서비스,DIGITAL_P기타faq문의
+사업자로 회원 가입,DIGITAL_P회원정보문의
+혜택종료사항이 뭐야,DIGITAL_P기타faq문의
+결제관련 문의,DIGITAL_P결제문의
+멘트는 알파고 같네요,DIGITAL_P챗봇여부문의
+저렴하면서,MART_P행사상품
+인터넷 전용 제품인가요,DIGITAL_P제품별차이점
+구매하기뿐이 안대,DIGITAL_P상담품목
+광고말고 차단,DIGITAL_P기타faq문의
+전화하니 또 통화량많다고,DIGITAL_P전화요청
+너무해 바로,DIGITAL_P채팅_GREETINGclaim
+왜 안주냐,DIGITAL_P채팅
+상품만 상담하나요,DIGITAL_P상담품목
+어떻게 가,길찾기_P노선
+로 사용할까합니다,DIGITAL_P용도
+구매상품 오지않을 때,DIGITAL_P배송문의
+질문도 되나요,DIGITAL_P상담요청
+배송 관련,DIGITAL_P배송문의
+사은품 있나요,MART_P사은품문의
+캐시로결제하고싶어요,DIGITAL_P결제문의
+증정품도 챙겨주세요,MART_P사은품문의
+환불신청 한지 꽤됐는데요,DIGITAL_P환불문의
+언제 받을수 있는지요,DIGITAL_P배송일문의
+인증요청했는데,DIGITAL_P본인인증문의
+다른제품군은 안되나요,DIGITAL_P상담품목
+다중 검색 하는 방법,MART_P다중검색실행
+구매하려 하는데,DIGITAL_P구매예정
+모델명좀알려주세요,DIGITAL_P상담원연결
+오늘의 특가,DIGITAL_P행사문의
+용량은 어느 정도해야,DIGITAL_P용량문의
+장바구니 담기,MART_P장바구니담기
+정품 부탁 합니다,MART_P정품문의
+주문하려고 하는데,DIGITAL_P주문
+할인은 어디에 문의,DIGITAL_P기타faq문의
+얼마나 해요,DIGITAL_P상담원연결
+이벤트 경품,MART_P이벤트
+가격 알려주,DIGITAL_P가격문의
+요즘 뭐가 맛있나,MART_P추천
+대해서 싱딤을 요청합니다,DIGITAL_P상담요청
+휴대폰등록어디서,DIGITAL_P회원정보문의
+구매목록 볼수 있나요,DIGITAL_P주문이력확인
+할인받아 살수있,DIGITAL_P할인문의
+너 지능이,DIGITAL_P채팅
+내가 자주 사는 물건,MART_P자주구매상품
+교환인데요,DIGITAL_P교환문의
+정해진 품목만 상담되나요,DIGITAL_P상담품목
+할인 이벤트 상품,DIGITAL_P할인행사
+나중에 주문,DIGITAL_P주문예정
+참고 해서 구매하도록,DIGITAL_P구매예정
+휴대폰인증고객을하고싶은데,DIGITAL_P본인인증문의
+더싼건없어요,MART_P행사상품문의
+발송은 됐나요,DIGITAL_P배송문의
+왜 매일 알림이 오죠,DIGITAL_P알림설정문의
+NOW 배달,MART_Pnow배송설명요청
+이번주에 배송가능,DIGITAL_P배송일문의
+도움말 요청,"FAQ_P도움말요청,DIGITAL_P설명요청"
+쓰던건 가져,DIGITAL_P폐가전수거
+취소처리안되어요,DIGITAL_P주문취소
+장바구니에 어떻게 넣는지,DIGITAL_P찜기능안내
+문의합니다,DIGITAL_P상담요청
+어떤 제품 있나여,DIGITAL_P상품문의_P상담원연결
+특 이라고 적힌게 뭐에요,DIGITAL_P기타faq문의
+너 로봇이지,DIGITAL_P챗봇여부문의
+무뚝뚝하니,DIGITAL_P채팅
+티멤버십 어디서추가,DIGITAL_P기타faq문의
+너마트챗봇이랑무슨사이야,"DIGITAL_P마트챗봇호출,MART_GREETINGcall"
+어떤게 싼가요,DIGITAL_P상품문의
+나 나간다,DIGITAL_P대화종료
+상담사 초대,DIGITAL_P상담원연결
+사진은 볼수없는건가요,DIGITAL_P사진요청
+사람인가요 시스템인가요,DIGITAL_P챗봇여부문의
+성향에 맞는 상품을 삭제,DIGITAL_P기타faq문의
+구입했던 목록 확인,DIGITAL_P주문이력확인
+오늘 시간있냐,DIGITAL_P채팅
+구매확정 이벤트,DIGITAL_P행사문의
+그거 없어요,DIGITAL_P추천
+상품을 분실했어요,DIGITAL_P기타faq문의
+왜 니말만하냐,DIGITAL_P채팅
+어떻게 하는건가,DIGITAL_P도움말보기
+차이가 나나요,DIGITAL_P차이점
+장바구니에 담아줘,MART_P장바구니담기
+가격차이두 쫌 나길래,DIGITAL_P가격차이
+환불 해주려고 하는데,DIGITAL_P환불문의
+조금더 저렴한 상품들도,MART_P행사상품
+파손배송시,DIGITAL_P기타faq문의
+내일 받아볼 수 있을까요,DIGITAL_P배송일문의
+가격대는 얼마인가요,DIGITAL_P가격문의
+사은품 함께 부탁,MART_P사은품문의
+다른 배송지로 바꿔,DIGITAL_P배송지변경문의
+11페이 할부,DIGITAL_P결제문의
+회원 번호 입력은어캐하나요,DIGITAL_P기타faq문의
+맞춰서 배송받으려 하는데,DIGITAL_P배송문의
+해지 문의,DIGITAL_P회원정보문의
+사람이에욤,DIGITAL_P챗봇여부문의
+선물하기가 안되요,DIGITAL_P기타faq문의
+모든 상품 대상 아닌가요,DIGITAL_P상담품목
+사람하고 톡 어떻게,DIGITAL_P상담원연결
+어떻게물어봐요,DIGITAL_P상담원연결
+싫어요 삭제하는법,DIGITAL_P기타faq문의
+유통기한 확인 후 배송,MART_P유통기한문의
+즉시 발송 부탁드립니다,DIGITAL_P배송문의
+상담원문의,DIGITAL_P상담원연결
+내가 맨날 사는,MART_P자주구매상품
+마이페이지 로그아웃,DIGITAL_P기타faq문의
+기획 상품 찾아줘,MART_P할인문의
+알아서 주문해볼게요,DIGITAL_P대화종료
+이벤트 중이여서 참여,DIGITAL_P기타faq문의
+그냥 놀러왔어요,DIGITAL_P채팅
+카드취소는 언제 됩니까,DIGITAL_P결제문의
+다중 검색 하는 법,MART_P다중검색문의
+알림 차단 하고 싶어,DIGITAL_P알림설정문의
+감사합니다 끝,DIGITAL_P대화종료_GREETINGthankyou
+주문상태 삭제 방법,DIGITAL_P기타faq문의
+어떻게 이용,DIGITAL_P도움말보기
+쿠폰이 사라졌네요,DIGITAL_P쿠폰적용문의
+구매확인서,DIGITAL_P기타faq문의
+구매했던 상품,DIGITAL_P구매완료
+토요일은 상담 안됨,DIGITAL_P상담시간
+쿠폰 물어보려고 했는데,DIGITAL_P쿠폰요청
+지문으로 잠금해제,DIGITAL_P기타faq문의
+무슨 기능이 있니,DIGITAL_P상담품목
+모델이 더 좋은건가요,DIGITAL_P상품문의_P상담원연결
+쿠폰 적용이라든가,DIGITAL_P쿠폰적용문의
+톡메니저와 상담,DIGITAL_P상담원연결
+기분전환되는 상품,DIGITAL_P채팅
+누구인가요,DIGITAL_P채팅
+a s 기간,DIGITAL_Pa/s문의
+어떻게 해택받나요,DIGITAL_P기타faq문의
+그냥 얘기하면 안되요,DIGITAL_P채팅
+톡매니저 연결,DIGITAL_P상담원연결
+배송지연 보상 대상,DIGITAL_P기타faq문의
+찾기 기능 장애,DIGITAL_P기타faq문의
+현금과 카드로 살수있나요,DIGITAL_P결제문의
+동생카드루결제할껀데,DIGITAL_P결제문의
+상품을 주문했는데,DIGITAL_P주문완료
+취소합니다,DIGITAL_P주문취소
+유효기간 넉넉하게,MART_P새제품요청
+할인 쿠폰 적용은,DIGITAL_P쿠폰적용문의
+본이 인증은 어디서,DIGITAL_P본인인증문의
+편의점 배송처리 못하나요,DIGITAL_P배송문의
+전화 좀 받으세요,DIGITAL_P전화요청_GREETINGclaim
+데이터프리,DIGITAL_P기타faq문의
+배달 도착 시간,MART_P배송문의
+내가 자주 사는 상품,MART_P자주구매상품
+할인 쿠폰 어떻게,DIGITAL_P쿠폰요청
+몇kg을 사야 가능한가요,DIGITAL_P상품문의_P상담원연결
+상담 요청하,DIGITAL_P상담요청
+환불금이 왜 안들어오나요,DIGITAL_P환불문의
+웰컴달제품,DIGITAL_P행사문의
+저렴한 게 얼만가,DIGITAL_P가격문의
+최근배송지 삭제,DIGITAL_P기타faq문의
+뭘 이해할 수 있나요,DIGITAL_P채팅
+너가 직접해줘,DIGITAL_P챗봇여부문의
+상품 포장 어떻게,MART_P포장문의
+데이터 무료,DIGITAL_P기타faq문의
+대화 중단,DIGITAL_P대화종료
+세탁실에 안들어간다고하네요,DIGITAL_P사이즈문의
+확인해보고 상담드릴께요,DIGITAL_P대화종료
+배송지연관련,DIGITAL_P배송문의
+수리 되죠,DIGITAL_Pa/s문의
+메신저를 어떻게 해,DIGITAL_P기타faq문의
+배송시간 지정,MART_P배송문의
+전자기기만 해주는 건가요,DIGITAL_P상담품목
+11번가에등록,DIGITAL_P기타faq문의
+해피머니 사용방법,DIGITAL_P기타faq문의
+증빙서류 페이지는 어디,DIGITAL_P기타faq문의
+교환하고 싶,DIGITAL_P교환문의
+배송비 결제는 어떻게,MART_P배송비문의
+톡매니저 불러와,DIGITAL_P상담원연결
+쿠폰은 어떻게 받나요,DIGITAL_P쿠폰요청
+가격인가요,DIGITAL_P가격문의
+상담사 전환,DIGITAL_P상담원연결
+로그인이 안돼요,DIGITAL_P기타faq문의
+멤버쉽 포인트 사용 문의,DIGITAL_P기타faq문의
+득템 찬스,MART_P행사상품문의
+구매했던 물건,DIGITAL_P구매완료
+다른 챗봇은 없어,DIGITAL_P기타faq문의
+할인적용하는 방법,DIGITAL_P쿠폰적용문의
+어떤 사양이 더 좋은가요,DIGITAL_P사양문의
+업데이트되는 상품이 없나,DIGITAL_P기타faq문의
+다시 추천해줘,DIGITAL_P추가추천
+설치비 따루 있어요,DIGITAL_P설치비문의
+쿠폰 못 쓸 거 같,DIGITAL_P쿠폰적용문의
+사은품도 함께 부탁,MART_P사은품문의
+위로 해줄 사람 없나,DIGITAL_P채팅
+언어 변환 방법,DIGITAL_P기타faq문의
+당일 발송 확실,DIGITAL_P배송문의
+뭐가있는거죠 그럼,DIGITAL_P상담품목
+결제시 ARS 인증,DIGITAL_P결제문의
+너의 원리는 뭐니,DIGITAL_P챗봇여부문의
+내일 상담 언제부터에요,DIGITAL_P상담시간
+포인트업존,DIGITAL_P기타faq문의
+11pay 어디서 다운,DIGITAL_P기타faq문의
+성능적 차이가,DIGITAL_P차이점
+쿠폰잘못받아서,DIGITAL_P쿠폰적용문의
+뭐가 좋은가요,DIGITAL_P추천
+11번가 카드,DIGITAL_P결제문의
+종료해주세요,DIGITAL_P대화종료
+환불받은 내역은 어디서,DIGITAL_P기타faq문의
+주문 현황 알고 싶어요,DIGITAL_P기타faq문의
+환불건에 대해 상담,DIGITAL_P환불문의
+얼마나하나요,DIGITAL_P가격문의
+다른 상품 검색할래,DIGITAL_P처음으로
+결제 하고 바로취소,DIGITAL_P주문취소
+반품 왜 안해,DIGITAL_P반품문의
+반품 처리,DIGITAL_P반품문의
+내가 샀던,MART_P지난구매상품보기
+답변 빨리 좀 부탁드려,DIGITAL_P추천
+상품에 오염이 있었어요,DIGITAL_P기타faq문의
+쿠폰 페이지,DIGITAL_P쿠폰요청
+장바구니 사용 어떻게,DIGITAL_P찜기능안내
+사진 올리고 싶어요,DIGITAL_P사진올리기기능안내
+다른 상품은,DIGITAL_P추가추천
+좋은거 한번 꺼내나봐,DIGITAL_P추천
+비용 저렴했으면 좋겠어요,MART_P행사상품
+이건 뭔가요,DIGITAL_P상담요청
+장바구니쿠폰이왜안되나요,DIGITAL_P쿠폰적용문의
+프로모션 경품,MART_P이벤트 
+어느게 좋은걸까요,DIGITAL_P상품문의_P상담원연결
+아직 취소가 안 됐거든요,DIGITAL_P주문취소
+있는거 알려주세요,DIGITAL_P상품문의_P상담원연결
+맨 앞으로,DIGITAL_P처음으로
+프로모션 언제,MART_P이벤트 
+쿠폰 사용가능품목,DIGITAL_P쿠폰적용문의
+전화 통화,DIGITAL_P전화요청_GREETINGclaim
+최저가격인가요,MART_P할인문의
+이전 설치 되는지,DIGITAL_P설치문의
+자주 구매 상품,MART_P자주구매상품
+집에 가고 시퍼,DIGITAL_P채팅
+무료 데이터 사용,DIGITAL_P기타faq문의
+쇼핑 포인트가 무엇인가요,DIGITAL_P기타faq문의
+다른거 추천해주심,DIGITAL_P추가추천
+카드 결재가 되지않네,DIGITAL_P결제문의
+질문도 해도 돼요,DIGITAL_P상담품목
+일시정지된회원이라는데,DIGITAL_P회원정보문의
+문의까진아니구,DIGITAL_P상담요청
+파일첨부 방법,DIGITAL_P기타faq문의
+적립되나요,DIGITAL_P적립문의
+내가 구매한 상품,MART_P지난구매상품보기
+상품 배달주소를 알고,DIGITAL_P배송문의
+뭐가 재밌어,DIGITAL_P채팅
+어디에서 보나요,DIGITAL_P기타faq문의
+이전 메뉴,DIGITAL_P이전메뉴이동
+상품 업데이트,DIGITAL_P기타faq문의
+카드취소는 언제,DIGITAL_P결제문의
+전화 가능,DIGITAL_P전화요청
+저녁먹었어,DIGITAL_P채팅
+사은품도 함께 주시는건가요,MART_P사은품문의
+인간이에요,DIGITAL_P챗봇여부문의
+Skt쿠폰사용,DIGITAL_P쿠폰적용문의
+영수증을 받고 싶어요,DIGITAL_P결제문의
+취소하고싶은데않되고있음,DIGITAL_P주문취소
+제일 저렴한,MART_P행사상품
+구매한 정보 보여줘,DIGITAL_P주문이력확인
+차이점이 뭔가 궁금합니,DIGITAL_P차이점
+니 목소리를 들려줘,DIGITAL_P채팅
+이것밖에 못해,DIGITAL_P채팅_GREETINGclaim
+지금 상담,DIGITAL_P상담시간
+상품도 괜찮은건가요,DIGITAL_P상품비교
+유효기간이있나요,DIGITAL_P기타faq문의
+보여주세요,DIGITAL_P추천
+최소금액알려줘,DIGITAL_P가격문의
+이모델은 어때요,DIGITAL_P상품문의_P상담원연결
+취소 오류,DIGITAL_P주문취소
+문화상품권으로물건구매,DIGITAL_P기타faq문의
+기사님 아직도 안 오세요,DIGITAL_P배송문의
+사람을 찾고있어요,DIGITAL_P채팅
+나중에 상담 요청할게,DIGITAL_P대화종료
+젤 싼 거,MART_P행사상품
+부모님 계시니,DIGITAL_P채팅
+교환 취소,DIGITAL_P교환문의
+장바구니 버튼이 없네오,MART_P장바구니담기
+상품추천만 할거야,DIGITAL_P상담품목_P채팅
+재고 있는지 확인,DIGITAL_P재고문의_P상담원연결 
+주인이 누구니,DIGITAL_P채팅
+통신사할인방법,DIGITAL_P기타faq문의
+해외에서 주문에 관한 문의,DIGITAL_P기타faq문의
+별로 땡기는게 없네,DIGITAL_P채팅
+넌 마트 챗봇이야,MART_P마트챗봇문의
+몇시부터 문의 가능,DIGITAL_P상담시간
+적립 하는 방법,DIGITAL_P기타faq문의
+제품만 가격이 저렴한가요,DIGITAL_P가격문의
+쿠폰 정보,DIGITAL_P쿠폰요청
+구매하였다가 취소했는데,DIGITAL_P주문취소
+디지털 제품이라면 다돼요,DIGITAL_P상담품목
+찜하고 싶어요,DIGITAL_P찜기능안내
+가격 깍아주시나요,DIGITAL_P바로할인가
+보통 얼마예요,DIGITAL_P가격문의
+매장동일 상품인가,DIGITAL_P제품별차이점
+11번가페이 사용 방법,DIGITAL_P결제문의
+너랑 대화할래,DIGITAL_P채팅
+사이즈 알려주세요,MART_P사이즈문의
+vip전용몰,DIGITAL_P기타faq문의
+차이 알고 싶습니다,DIGITAL_P차이점
+차이가 나고,DIGITAL_P차이점
+매장 물건인가,DIGITAL_P기타faq문의
+취소했는데 돈은 어떻게,DIGITAL_P환불문의
+여기에 문의를 하라고하네요,DIGITAL_P상담요청
+세일 일정 알 수 있나,DIGITAL_P행사문의
+알람설정 방법,DIGITAL_P알림설정문의
+포장 확인해,MART_P포장문의
+응 잘있어,DIGITAL_P대화종료
+상담 원치 않아,DIGITAL_P상담요청안함
+휴대폰 번호 바뀌어,DIGITAL_P회원정보문의
+상품 품절,DIGITAL_P재고문의_P상담원연결
+십일절이 뭐야,DIGITAL_P행사문의
+판매자가 취소해 버렸는데,DIGITAL_P주문취소
+여쭤보구 싶,DIGITAL_P상담요청
+추가 쿠폰 없,DIGITAL_P쿠폰요청
+질문 내역,DIGITAL_P기타faq문의
+교환할 수 있나,DIGITAL_P교환문의
+쿠폰 혜택 등 정보 부탁,DIGITAL_P쿠폰요청
+한번에찾기기능,MART_P다중검색문의
+제조일자 최신으로 보내,MART_P새제품요청
+다른 문의는 안되나요,DIGITAL_P기타faq문의
+내가 자주 사는거,MART_P자주구매상품
+제일 혜택큰,DIGITAL_P할인행사
+문자라도 남겨주세요,DIGITAL_P전화요청
+잘못 선택했어,DIGITAL_P새상담
+제품에 대한 상담은 안되,DIGITAL_P상담품목
+문의할께요,DIGITAL_P상담요청
+유효기간 궁금,MART_P유통기한문의
+결재 문제,DIGITAL_P결제문의
+여러 사람에게 발송,DIGITAL_P기타faq문의
+장바구니는 어떻게 담는가요,DIGITAL_P찜기능안내
+배송 오래 걸려요,DIGITAL_P배송일문의
+내가 전에산,MART_P지난구매상품보기
+문화상품권 사용,DIGITAL_P기타faq문의
+반품 처리,DIGITAL_P반품문의
+주문하면 언제 와,DIGITAL_P배송일문의
+상담 가능할,DIGITAL_P상담요청
+11페이는 어떻게,DIGITAL_P결제문의
+이벤트응모,MART_P이벤트
+배송이 늦네요,DIGITAL_P배송문의
+차이 뭔가,DIGITAL_P차이점
+환불이 안되서 문의드려요,DIGITAL_P환불문의
+원산지가 어디,MART_P원산지문의
+할인쿠폰은 어디서 받나요,DIGITAL_P쿠폰요청
+선물받고싶어요,DIGITAL_P채팅
+쿠폰 다운 안되서,DIGITAL_P쿠폰요청
+구입을 오늘 햇는데,DIGITAL_P구매완료
+취소했는데 캐시로언제,DIGITAL_P환불문의
+해외발송가능한가요,DIGITAL_P배송문의
+답변 주세요,DIGITAL_P추천
+나중에 다시,DIGITAL_P대화종료
+추가 혜택이 있을까요,DIGITAL_P가격문의
+A S는 어떻게 신청하나요,DIGITAL_Pa/s문의
+사진 어떻게 올려요,DIGITAL_P사진올리기기능안내
+문의할게요,DIGITAL_P상담요청
+보상판매 하는,DIGITAL_P행사문의
+유효기간 널널한걸로,MART_P새제품요청
+취소한 내역이 완료됐나요,DIGITAL_P주문취소
+알고싶어서요,DIGITAL_P상담요청
+이메일로 로그인,DIGITAL_P기타faq문의
+판매자가 연락이 안 돼요,DIGITAL_P판매자연락요청
+아직도 상품준비중,DIGITAL_P배송문의
+쿠폰번호 온거도없구요,DIGITAL_P기타faq문의
+구매하는것이 좋겟네요,DIGITAL_P구매예정
+11pay 마일리지 할인,DIGITAL_P결제문의
+유효기간이 언제,MART_P유통기한문의
+내가 그냥 종료할께,DIGITAL_P대화종료
+삼성 카드,DIGITAL_P결제문의
+폰바뀌서내용삭제되었네,DIGITAL_P기타faq문의
+후기 수정 어떻게,DIGITAL_P기타faq문의
+시작부터 다시,DIGITAL_P새상담
+장당 가격으로,DIGITAL_P기타faq문의
+구입한거취소가능할런지요,DIGITAL_P주문취소
+다음에 할게요,DIGITAL_P대화종료
+추가 쿠폰,DIGITAL_P쿠폰요청
+다른 제품 품목,DIGITAL_P새상담
+뭘사야이득이냐,MART_P행사상품문의
+두툼은 어떻게 사용,DIGITAL_P기타faq문의
+취소와 반품의 차이점,DIGITAL_P기타faq문의
+두번결제확인부탁,DIGITAL_P결제문의
+A S 서비스 기간,DIGITAL_Pa/s문의
+할수있는거,DIGITAL_P상담폼목
+옛날번호로 돼있어요,DIGITAL_P기타faq문의
+결제에 관해서,DIGITAL_P결제문의
+찜하고 상담해도 돼죠,DIGITAL_P상담요청
+그건 어떤지,DIGITAL_P상품문의_P상담원연결
+설치하려 하는데요,DIGITAL_P설치문의
+보인인증 정보가 일치하지,DIGITAL_P본인인증문의
+톡매니저는요,DIGITAL_P상담원연결
+업는데 다른걸로,DIGITAL_P추가추천
+그런거 보내지마라,DIGITAL_P알림설정문의
+구매했던거,MART_P지난구매상품보기
+가장 싼게 얼마야,DIGITAL_P가격문의
+카드 혜택 언제,DIGITAL_P행사문의
+할인 쿠폰 받는 법,DIGITAL_P쿠폰요청
+입금이 않되네요,DIGITAL_P환불문의
+잘못된 경로라는 메시지,DIGITAL_P기타faq문의
+설치비 문의,DIGITAL_P설치비문의
+쿠폰 받을려구 하느데,DIGITAL_P쿠폰요청
+단골등록 쿠폰이 안 떠요,DIGITAL_P쿠폰적용문의
+카드 추가 할인,DIGITAL_P결제문의
+이거좀 물어볼려고요,DIGITAL_P상담품목
+카펫에는 어떤 것 써야,DIGITAL_P상품문의_P상담원연결
+사용 방법 뭔가요,DIGITAL_P도움말보기
+사기 당했어요,DIGITAL_P기타faq문의
+앞으로갈거야,DIGITAL_P처음으로
+입금 대기중으로 나와요,DIGITAL_P결제문의
+환불처리가 안되어,DIGITAL_P환불문의
+저도 선물 주세,DIGITAL_P채팅
+메일 좀 오게 하지,DIGITAL_P기타faq문의
+FAQ 찾을수 없어,DIGITAL_P기타faq문의
+발열 얼마 정도,DIGITAL_P상품문의_P상담원연결
+내일 오셔서 수거,DIGITAL_P반품문의
+구매하였습니다 취소 부탁,DIGITAL_P주문취소
+구매후 재고가없어,DIGITAL_P주문취소
+물건을 주문하려고하는데요,DIGITAL_P상담요청
+사은품 받지 못했습니다,MART_P사은품문의
+문의하려는데 언제 되요,DIGITAL_P상담시간
+11번가VIP관,DIGITAL_P기타faq문의
+자살할거야,DIGITAL_P채팅
+영화 좋아해,DIGITAL_P채팅
+마트 로봇이냐,MART_P마트챗봇문의
+환블이 안돼죠,DIGITAL_P환불문의
+다음에 올게요,DIGITAL_P대화종료
+쿠폰 따로 없을까,DIGITAL_P쿠폰요청
+다른거 보고싶어,DIGITAL_P추가추천
+담에 하겠습니다,DIGITAL_P대화종료
+가격차이 왜 나나요,DIGITAL_P가격차이
+이거 말고 다른거,DIGITAL_P추가추천
+리뷰 평점 어떻게,DIGITAL_P리뷰평점문의
+생일쿠폰 없어,DIGITAL_P쿠폰요청
+사이즈변경,DIGITAL_P옵션변경문의
+챗봇아 이벤트,MART_P이벤트
+다룬 제품,DIGITAL_P추가추천
+입금을 잘못,DIGITAL_P결제문의
+상담원과 대화,MART_P상담원연결
+설치비 별도인가,DIGITAL_P설치비문의
+광고 보내지 마세요,DIGITAL_P기타faq문의
+11시발급어디로 들어,DIGITAL_P행사문의
+잘 되는건가요,DIGITAL_P상품문의_P상담원연결
+사진안올라가나요,DIGITAL_P사진올리기기능안내
+가장 저렴한,MART_P행사상품
+구매하기버튼,MART_P주문
+캐시환불이안됨,DIGITAL_P환불문의
+톡 남겨주세요,DIGITAL_P대화종료
+문자가 안와서,DIGITAL_P기타faq문의
+아이스팩문의,MART_P아이스팩문의
+유통기한 확인,MART_P유통기한문의
+지난달에샀던,MART_P지난구매상품보기
+할인행사기간 안내,MART_P행사상품문의
+상담원하고 키스,DIGITAL_P19금
+자동구매결정 기간,DIGITAL_P기타faq문의
+내말에 대답해,DIGITAL_P채팅
+vip응모,DIGITAL_P행사문의
+고민이되서 상담,DIGITAL_P상담요청
+인공지능이 아니라,DIGITAL_P챗봇여부문의
+쿠폰 없을,DIGITAL_P쿠폰요청
+입금 부탁,DIGITAL_P환불문의
+설치 언제쯤,DIGITAL_P설치문의
+취소한 상품이 도착,DIGITAL_P반품문의
+도움말 보여줘,DIGITAL_P도움말보기
+쇼핑백 동봉,MART_P쇼핑백문의
+운송자가 어디쯤인지,DIGITAL_P배송문의
+가장 좋은 딜 알려,DIGITAL_P할인문의
+취소하면 쿠폰 다시 생기나,DIGITAL_P쿠폰적용문의
+쿠폰이왜안써지죠,DIGITAL_P쿠폰적용문의
+나이 물어보잖아,DIGITAL_P채팅
+마트만 되는거에요,MART_P마트챗봇문의
+로찾아주세요,DIGITAL_P추천
+언제 문의할수 잇나요,DIGITAL_P상담시간
+그 외 상품,DIGITAL_P추가추천
+니어데사노,DIGITAL_P채팅
+가전만 된는겨,DIGITAL_P상담품목
+생산일자와 유통기한을 알려,MART_P유통기한문의
+자주 대화하자,DIGITAL_P대화종료
+생산일자가 언제,MART_P제조일자문의
+제품올리는방법,DIGITAL_P기타faq문의
+유아동데이,DIGITAL_P행사문의
+상담센터 연결 안돼요,DIGITAL_P전화요청
+닉넴 어떻게 바꾸나요,DIGITAL_P회원정보문의
+십일절 상품,MART_P십일절
+캐시적립 인출요망,DIGITAL_P기타faq문의
+학습은 얼마나 했나요,DIGITAL_P채팅
+말걸지 말라고,DIGITAL_P대화종료
+주문 결제했는데,DIGITAL_P결제완료
+오늘까지 배송되는 것,MART_P배송문의
+마일리지 할인,DIGITAL_P할인문의
+정보변경 요청,DIGITAL_P회원정보문의
+배송건으로 문의하고싶은데,DIGITAL_P배송문의
+상담하고싶어요,DIGITAL_P상담요청
+신한 카드,DIGITAL_P결제문의
+쿠폰 왜다운이안되요,DIGITAL_P쿠폰요청
+적립급 없어요,DIGITAL_P적립문의
+교환했는데,DIGITAL_P교환문의
+추천 제품명 주시면,DIGITAL_P추천
+당일 배송 가능,DIGITAL_P배송일문의
+어디루 보면 알수 있어요,DIGITAL_P기타faq문의
+주문상품 재고품절건,DIGITAL_P재고문의_P상담원연결 
+판매 등록,DIGITAL_P기타faq문의
+신선식품문의,MART_P신선식품문의
+배송비는 어떻게 결제,DIGITAL_P결제문의
+가입해야되는건가,DIGITAL_P기타faq문의
+주소 어케 바꿈,DIGITAL_P배송지변경문의
+십일절 문의,MART_P십일절
+문의드릴께,DIGITAL_P상담요청
+영어 잘해,DIGITAL_P채팅
+취소를 안하고있넹,DIGITAL_P주문취소
+제일 저렴한게 얼만가여,DIGITAL_P가격문의
+지난번 샀던,MART_P지난구매상품보기
+가능한게 뭐바 있나요,DIGITAL_P상담품목
+제가지금주문넣엇는데,DIGITAL_P주문확인_P기타faq문의
+쿠폰 선택,DIGITAL_P쿠폰적용문의
+찾고 잌 어요,DIGITAL_P상담요청
+일반상담도 가능한거죠,DIGITAL_P상담품목
+반품하고 싶은데,DIGITAL_P반품문의
+심심할때 뭐할까요,DIGITAL_P채팅
+검색이 안되요,DIGITAL_P기타faq문의
+결제가능한가요,DIGITAL_P결제문의
+핸드폰으로 결제할려고,DIGITAL_P결제문의
+어떤것이 괜찬은지,DIGITAL_P상품문의_P상담원연결
+운영 시간은 언제,DIGITAL_P상담시간
+가격대가 얼마 되나요,DIGITAL_P가격문의
+1 1문의,DIGITAL_P상담원연결
+최근에 산 거,MART_P지난구매상품보기
+도착하지 않,DIGITAL_P배송문의
+상담 스타트,DIGITAL_P새상담
+자주 사용하는 상품,MART_P자주구매상품
+캐쉬 출금했는데 입금,DIGITAL_P기타faq문의
+밥 뭐먹지,DIGITAL_P채팅
+동일 제조일자예요,MART_P제조일자문의
+최자가 얼마,MART_P행사상품
+사은품 주세요,MART_P사은품문의
+다룬거 보여줘,DIGITAL_P추가추천
+포장 필요합니다,MART_P포장문의
+회수 부탁드려요,DIGITAL_P반품문의
+핫딜 상품 뭔가,DIGITAL_P행사문의
+보상 마일리지는,DIGITAL_P적립문의
+t멤버쉽 카드 등록,DIGITAL_P기타faq문의
+하자있어서 반품했는데,DIGITAL_P반품문의
+사진 잇나요,DIGITAL_P사진요청
+사용할수있는 쿠폰이 없,DIGITAL_P쿠폰적용문의
+교환상품 출고안됐네요,DIGITAL_P교환문의
+오작동이 너무 많아요,DIGITAL_Pa/s문의
+너는 뭐로 코딩됐니,DIGITAL_P채팅
+설치비 얼마에요,DIGITAL_P설치비문의
+인증하기는어디서하나요,DIGITAL_P본인인증문의
+주문한것이 잘못 배송되어서,DIGITAL_P배송문의
+환불주십시요,DIGITAL_P환불문의
+주문했는 왜자동으로 취소,DIGITAL_P주문취소
+11페이 어떻게등록해,DIGITAL_P결제문의
+반품했는데,DIGITAL_P반품문의
+걍 나갈래요,DIGITAL_P대화종료
+sk할인이 안돼요,DIGITAL_P할인문의
+탈퇴하려구요,DIGITAL_P회원정보문의
+원 플러스 원,MART_P할인생사
+배송지를 잘못 입력했는데,DIGITAL_P배송지변경문의
+상담 문의해요,DIGITAL_P상담요청
+사람 불러줘요,DIGITAL_P상담원연결
+착불로 할거,DIGITAL_P결제문의
+확인 바랍니다,DIGITAL_P확인
+재입고는 언제되나요,DIGITAL_P기타faq문의
+주문한 상품이 언제 도착,DIGITAL_P배송일문의
+마일리지 교환햇는데 어디서,DIGITAL_P기타faq문의
+주문한 상품 보여줘,DIGITAL_P주문이력확인
+11번 연락처 좀,DIGITAL_P고객센터문의
+상품권은 어떻게 사용,DIGITAL_P기타faq문의
+상담 처음,DIGITAL_P처음으로
+카드 쿠폰,DIGITAL_P결제문의
+쿠폰관련해서,DIGITAL_P쿠폰적용문의
+전화가 없음,DIGITAL_P전화요청
+마일리지 사용하는 방법이여,DIGITAL_P기타faq문의
+배송지연인데 보상혜택,DIGITAL_P적립문의
+구매한 목록은 어디서,DIGITAL_P주문이력확인
+이후 배송 부탁,DIGITAL_P배송문의
+제조일자가 어떻게,MART_P제조일자문의
+배송지 정보등록이 실패,DIGITAL_P배송지변경문의
+입금자명 달라도 되,DIGITAL_P결제문의
+깨지지 않게 보내주세요,MART_P포장문의
+컴퓨터인가요,DIGITAL_P챗봇여부문의
+카드로 구매 가능한가요,DIGITAL_P결제문의
+사진 어떻게 올려,DIGITAL_P사진올리기기능안내
+너 뭐 할 줄 알어,DIGITAL_P도움말보기
+가격차이 쫌 나길래,DIGITAL_P가격차이
+이전 화면,DIGITAL_P이전메뉴이동
+카드 저장,DIGITAL_P결제문의
+어떻게 장바구니에 담,DIGITAL_P찜기능안내
+주문한거 못받았는데요,DIGITAL_P배송문의
+번호변경가능,DIGITAL_P회원정보문의
+연락주시면 되요,DIGITAL_P전화요청
+내말피하지마 마트챗봇알잖아,"DIGITAL_P마트챗봇호출,MART_GREETINGcall"
+마일리지 적립이 안되나,DIGITAL_P적립문의
+입금이안대서,DIGITAL_P결제문의
+11번가랑 ok캐시백 연결,DIGITAL_P기타faq문의
+쓰던 물건은 어떻게,DIGITAL_P폐가전수거
+의견 구할려고 했는데,DIGITAL_P상담요청
+품절풀려요,DIGITAL_P기타faq문의
+추천 그만해,DIGITAL_P대화종료
+제품이 이것뿐이예요,DIGITAL_P상담품목
+카드 사용 불가,DIGITAL_P결제문의
+자동이예요,DIGITAL_P챗봇여부문의
+기본배송지 어떻게 바꿔,DIGITAL_P배송지변경문의
+구입 원합니다,DIGITAL_P추천
+욕만 학습했네,DIGITAL_P채팅
+지금 대화가능한가요,DIGITAL_P상담시간
+회원 혜택,DIGITAL_P쿠폰요청
+상담원 추가,DIGITAL_P상담원연결
+카드 할인 상담,DIGITAL_P할인문의
+주문상품을 확인,DIGITAL_P주문이력확인
+생산지가 어디,MART_P원산지문의
+여기서 상담안하나요,DIGITAL_P상담품목
+자주 구매한거 보여줘,MART_P자주구매상품
+구매상담 여기서,DIGITAL_P상담요청
+차이 먼지,DIGITAL_P차이점
+11pay 할인 적용되,DIGITAL_P결제문의
+본인승인 어떻게,DIGITAL_P본인인증문의
+전화번호 바꼈,DIGITAL_P회원정보문의
+그만 배우고,DIGITAL_P채팅
+생각보다 비싸네,MART_P행사상품
+싸고 괜찮은걸로,MART_P행사상품
+멥버쉽포인트적용,DIGITAL_P기타faq문의
+a s되겠죠,DIGITAL_Pa/s문의
+이벤트가궁금해요,MART_P이벤트
+본인이름수정,DIGITAL_P회원정보문의
+근데 상담원이세요,DIGITAL_P챗봇여부문의
+전화번호 인증은 어디서,DIGITAL_P본인인증문의
+십일절 특가,MART_P십일절
+어떻게 적용받나요,DIGITAL_P기타faq문의
+닉네임 변경,DIGITAL_P회원정보문의
+모바일카드,DIGITAL_P결제문의
+취소 수수료 있나,DIGITAL_P주문취소
+카테고리를 찾을수가없네요,DIGITAL_P상담품목
+어떤 카테고리를 알고 았,DIGITAL_P상담품목
+추석 배송 안내,DIGITAL_P배송일문의
+증정품 없습니다,MART_P사은품문의
+저녁 드시나요,DIGITAL_P채팅
+skt 포인트 사용,DIGITAL_P결제문의
+카드를 바꾸고싶은데,DIGITAL_P결제문의
+톡매니저부탁해요,DIGITAL_P상담원연결
+모레쯤 구매하고 싶은데요,DIGITAL_P구매예정
+쿠폰이 다시 살아나나요,DIGITAL_P쿠폰적용문의
+색이 변질,DIGITAL_P기타faq문의
+상품배송지변경,DIGITAL_P배송지변경문의
+수리는 어떻게 되나요,DIGITAL_Pa/s문의
+단골 보기는 어디에,DIGITAL_P기타faq문의
+물건 기다리다가 목 빠져요,DIGITAL_P배송일문의
+t멤버십 적용방법,DIGITAL_P결제문의
+환불 받으려고 합니다,DIGITAL_P환불문의
+고객상담실연결,DIGITAL_P상담원연결
+도착일 확실해,MART_P배송문의
+알리미서비스 해제방법,DIGITAL_P알림설정문의_P기타faq문의
+신선식품에는 뭐가 있,MART_P신선식품문의
+event,MART_P이벤트
+처음부터 다시,DIGITAL_P처음으로
+최저가격이 어떻게 되죠,DIGITAL_P가격문의
+밥 잘먹어라,DIGITAL_P채팅
+교환진행상황,DIGITAL_P교환문의
+접속이안돼요,DIGITAL_P기타faq문의
+사용 가이드 알려,DIGITAL_P도움말보기
+배송도 안되고,DIGITAL_P배송문의
+제조일이 어떠헥,MART_P제조일자문의
+추천해준 이유가,DIGITAL_P추천기준
+전화연결이 아예 안되요,DIGITAL_P전화요청
+딴거 보여줘,DIGITAL_P추가추천
+저번에 뭐샀지,MART_P지난구매상품보기
+환불씨뱅아,DIGITAL_P환불문의
+그럼 안녕요,DIGITAL_P대화종료
+쿠폰 오늘까지만 사용,DIGITAL_P쿠폰적용문의
+무상 보증기간 알려주세요,DIGITAL_Pa/s문의
+정보변경 어케,DIGITAL_P회원정보문의
+할부 불가인가요,DIGITAL_P결제문의
+문의드리겠습니다,DIGITAL_P추천
+차이 뭔가여,DIGITAL_P차이점
+리뷰다는거 없나요,DIGITAL_P기타faq문의
+매장동일상품이면,DIGITAL_P제품별차이점
+됐다 나가기,DIGITAL_P대화종료
+웰컴페스티발,DIGITAL_P행사문의
+포인트로 구매하려고,DIGITAL_P결제문의
+무료배송 쿠폰 없음,DIGITAL_P쿠폰요청
+얼마이상 사야 무료배송이죠,DIGITAL_P배송비문의
+가격이 다르네요,DIGITAL_P가격문의
+사람인거같은데,DIGITAL_P챗봇여부문의
+무엇이 제일 싸,MART_P행사상품
+난 너로 충분해,DIGITAL_P채팅
+차이를 모르겠네요,DIGITAL_P차이점
+쿠폰 가능한 상품,DIGITAL_P쿠폰적용문의
+id를 문의하라는데요,DIGITAL_P회원정보문의
+ok캐시백 카드 등록,DIGITAL_P기타faq문의
+아이디 어디서 확인,DIGITAL_P회원정보문의
+잘못주문했는데 혹시 취소,DIGITAL_P주문취소
+샀던 물건 알려줘,DIGITAL_P주문이력확인
+언제 환불되나요,DIGITAL_P환불문의
+수욜에 받을수 있나,DIGITAL_P배송문의
+제품명은 무엇인가요,DIGITAL_P상품문의_P상담원연결
+마지막 구매는,MART_P지난구매상품보기
+영수증확인,DIGITAL_P기타faq문의
+신상이 들어오는걸로 알고,DIGITAL_P기타faq문의
+11페이 정보변경,DIGITAL_P결제문의
+챗봇으로 앞으로 더 더편히,DIGITAL_P대화종료
+전세계배송주문은 할수없나요,DIGITAL_P배송문의
+잘못구매했네요 취소,DIGITAL_P주문취소
+배송주문 주소,DIGITAL_P배송지변경문의
+생일쿠폰뭐니,DIGITAL_P쿠폰요청
+상품 훼손,DIGITAL_P기타faq문의
+빠른취소바랍니다,DIGITAL_P주문취소
+주문이 안돼네,DIGITAL_P상담원연결
+배송 언제 되는지 궁금,DIGITAL_P배송일문의
+쿠폰 안 주시나,DIGITAL_P쿠폰요청
+배송비가 왜 이렇게 비싸요,DIGITAL_P배송비문의
+정품 인가요,DIGITAL_P상품문의_P상담원연결
+왜 안받아져,DIGITAL_P쿠폰요청
+서비스 접수,DIGITAL_Pa/s문의
+차이를 모르겠는데,DIGITAL_P차이점
+지금 필요한거 뭐지,DIGITAL_P추천
+또 추천해줘,DIGITAL_P추가추천
+푸쉬 알림,DIGITAL_P알림설정문의
+쿠폰이 있던데 쓰지 못,DIGITAL_P쿠폰적용문의
+재미있는거,DIGITAL_P채팅
+현금도가능,DIGITAL_P결제문의
+여기고객센터예요,DIGITAL_P기타faq문의
+첫구매 혜택,DIGITAL_P할인문의
+편의점픽업,DIGITAL_P기타faq문의
+너가하는일은 뭐니,DIGITAL_P상담품목
+홈페이지문의,DIGITAL_P기타faq문의
+교환하기로했는데요,DIGITAL_P교환문의
+왜 초과이용료가 발생,DIGITAL_P기타faq문의_CATEN프로젝트엔
+사용가능한 쿠폰은,DIGITAL_P쿠폰요청
+제품 교환 상황,DIGITAL_P교환문의
+챗봇 상담하기,DIGITAL_P상담요청
+핸드폰인증고객을하고싶은데,DIGITAL_P본인인증문의
+환불조치가 아직안,DIGITAL_P환불문의
+무이자 길면,DIGITAL_P결제문의
+찜 어떻게,DIGITAL_P찜기능안내
+쿠폰 환급 안,DIGITAL_P쿠폰적용문의
+디지털 상품만 가능해,DIGITAL_P상담품목
+직접 대답해주시는건가요,DIGITAL_P챗봇여부문의
+직영설치하는,DIGITAL_P설치문의
+잘봤어요 수고,DIGITAL_P대화종료
+넌 봇이니,DIGITAL_P챗봇여부문의
+상품만 찾아주나요,DIGITAL_P상담요청
+품절상품 입고되나요,MART_P재입고문의
+티멤버쉽 상담,DIGITAL_P티멤버십관련문의_P기타faq문의
+택배사 어디야,DIGITAL_P배송문의
+지난번 구매한,MART_P지난구매상품보기
+쿠폰은 어느 카테고리에서,DIGITAL_P쿠폰적용문의
+증정품 도착하지 않았습니다,MART_P사은품문의
+챗봇이구나,DIGITAL_P챗봇여부문의
+쿠폰 있는데 사용이 왜 안,DIGITAL_P쿠폰적용문의
+너 일하고 있어,DIGITAL_P채팅
+무통장 입급 하는방법,DIGITAL_P결제문의
+배송 왜 안해,DIGITAL_P배송문의
+제품 생산지가 어떻게,MART_P원산지문의
+웰콤딜 왜 안되요,DIGITAL_P쿠폰적용문의
+브이아이피,DIGITAL_P기타faq문의
+알아본다음에 알려주시라고요,DIGITAL_P대화종료
+사람 아닌 줄,DIGITAL_P챗봇여부문의
+제조사 목록,DIGITAL_P상품문의
+딴 제품 카테고리,DIGITAL_P새상담
+왜 돈이안들어,DIGITAL_P환불문의
+상품을 반품할 때,DIGITAL_P반품문의
+브랜드문의,DIGITAL_P브랜드문의
+기분이 꿀꿀해,DIGITAL_P채팅
+할인 알림 예약,DIGITAL_P알림설정문의
+주문상품 빨리좀 부탁합니다,DIGITAL_P배송문의
+상담 가능해,DIGITAL_P상담요청
+제품 안보내 줍니까,DIGITAL_P배송문의
+이메일 수신 거부,DIGITAL_P기타faq문의
+m포인트 언제 또하나요,DIGITAL_P행사문의
+챗봇 많이 이용할께요,DIGITAL_P대화종료
+설치 제일 빠른거요,DIGITAL_P설치문의
+내일 배송이 가능한지,DIGITAL_P배송일문의
+가격이 올랐어요,DIGITAL_P가격차이
+핫딜제품 소개,MART_P행사상품문의
+유통기한 널널한걸로,MART_P새제품요청
+비교해보고 사도록,DIGITAL_P구매예정
+다른모델추천,DIGITAL_P추가추천
+주문하면 사은품도 같이,MART_P사은품문의
+제품이 교환이 안되고,DIGITAL_P교환문의
+교환신청 했는데,DIGITAL_P교환문의
+대답 좀요,DIGITAL_P추천
+챗봇이 아닌가요,DIGITAL_P챗봇여부문의
+취소한 금액 돌려,DIGITAL_P환불문의
+생산지 부탁,MART_P원산지문의
+어느제품이 알맞은가요,DIGITAL_P상품문의_P상담원연결
+캐쉬를 현금으로,DIGITAL_P기타faq문의
+이거 봇이예요,DIGITAL_P챗봇여부문의
+상품 미수령 확인 요망,DIGITAL_P배송문의
+새제품으로 보내,MART_P새제품요청
+재입고는 안되나요,MART_P재입고문의 
+묶음배송이가능,DIGITAL_P배송문의
+구매후 오후에 취소하고,DIGITAL_P주문취소
+행사 상품만 보여,MART_P행사상품문의
+새로운 품목,DIGITAL_P새상담
+주문하고시퍼,MART_P주문
+꼭 제품만 문의,DIGITAL_P상담품목
+주문한걸 받았는데,DIGITAL_P배송완료
+티멤버십 적용,DIGITAL_P티멤버십관련문의_P기타faq문의
+11PAY 인증방식,DIGITAL_P결제문의
+교환권을어떻게받나요,DIGITAL_P기타faq문의
+그냥 안 먹을래,DIGITAL_P채팅
+관한 문의,DIGITAL_P상담요청
+문의 시간 안내,DIGITAL_P상담시간
+상담우 연결,DIGITAL_P상담원연결
+두 제품중 고민인데,DIGITAL_P상담요청
+무배쿠폰 좀 많이주심,DIGITAL_P쿠폰요청
+무통장입금을 하려고하는데,DIGITAL_P결제문의
+배송 지연 문의,DIGITAL_P배송문의
+오늘뭘사야이득이냐,MART_P행사상품문의
+내맘대로쿠폰 어디서다운,DIGITAL_P쿠폰요청
+돈을 다시 넣어주시나요,DIGITAL_P환불문의
+쿠폰내놓으라고,DIGITAL_P쿠폰요청
+재결제할 때 오류가 납니다,DIGITAL_P결제문의
+잡담도 가능해,DIGITAL_P채팅
+사람이 추천해주는,DIGITAL_P챗봇여부문의
+바로 할인가 찬스,DIGITAL_P바로할인가설명
+이메일인증회원,DIGITAL_P본인인증문의
+아이디 찾고 싶은데요,DIGITAL_P회원정보문의
+차이 뭐죠,DIGITAL_P차이점
+회원 실명인증,DIGITAL_P본인인증문의
+장바구니 보여줘,DIGITAL_P찜한상품
+추천셀러 없애기,DIGITAL_P기타faq문의
+싸게살수있는게머니,MART_P행사상품문의
+대화가 안돼,DIGITAL_P채팅
+취소한 금액 어서 돌려,DIGITAL_P환불문의
+인증이 안되여,DIGITAL_P본인인증문의
+가격 차이가,DIGITAL_P가격차이
+당일발송 되나,DIGITAL_P배송문의
+반품 물건 언제 가져가나요,DIGITAL_P반품문의
+친구 소개해줘,DIGITAL_P채팅
+넌 뭐 잘 하니,MART_P마트챗봇문의
+생산일자가 정확하게 어떻게,MART_P제조일자문의
+가주문처리요청,DIGITAL_P기타faq문의
+입금은 언제쯤 되나요,DIGITAL_P환불문의
+현금영수증 지출증빙 문의,DIGITAL_P기타faq문의
+물건이언제오는지,DIGITAL_P배송문의
+용량은 어느 정도,DIGITAL_P용량문의
+쿠폰 줘바,DIGITAL_P쿠폰요청
+문의 가능 시간,DIGITAL_P상담시간
+주문한제품이 조회가 안되요,DIGITAL_P기타faq문의
+차이 크지않나요,DIGITAL_P차이점
+마일리지 안주나요,DIGITAL_P적립문의
+아직도 배송이 안돼,DIGITAL_P배송문의
+전화 상담,DIGITAL_P전화요청
+상품 구매하려는데,MART_P주문
+왜 검색이 안돼나요,DIGITAL_P기타faq문의
+챗봇밖엔 안되나요 지금은,DIGITAL_P상담시간
+거래내역 삭제 기능,DIGITAL_P기타faq문의
+skt vip 회원,DIGITAL_P기타faq문의
+비번이틀린다고나와요,DIGITAL_P회원정보문의
+입금취소는,DIGITAL_P결제문의
+다른 제품 추천,DIGITAL_P추가추천
+as 어떻게 되나요,DIGITAL_Pa/s문의
+어떤 제품이 좋을까요,DIGITAL_P추천
+어떻게 선택하나,DIGITAL_P도움말보기
+니가 선택해,DIGITAL_P추천
+사은품 함께 주세요,MART_P사은품문의
+설치비가 안드는곳이 있나요,DIGITAL_P설치비문의
+상품구매하는데 다른사람이름,DIGITAL_P기타faq문의
+도움말 보여주세요,DIGITAL_P도움말보기
+상품걸리면좋겠어,MART_P이벤트
+주문한게 언제 올까,DIGITAL_P배송일문의
+대표전화번호,DIGITAL_P고객센터문의
+구매자반응이 어떤가요,DIGITAL_P리뷰요청
+상담 지금 가능한가요,DIGITAL_P상담시간
+판매자가 답변이 없,DIGITAL_P상담원연결_GREETINGclaim
+방금취소완료했는데,DIGITAL_P주문취소완료
+내가 판매는,DIGITAL_P기타faq문의
+제품이 잘못왔어요,DIGITAL_P반품문의
+배송비 결제는 어떻게,DIGITAL_P배송비문의
+쿠폰 받오싶어용,DIGITAL_P쿠폰요청 
+쿠폰받을려고,DIGITAL_P쿠폰요청
+답변해 주시기 바랍니다,DIGITAL_P추천
+바로 뭐해,DIGITAL_P채팅
+기분이 별로,DIGITAL_P채팅
+차이점 뭐예요,DIGITAL_P차이점
+상품 교환,DIGITAL_P교환문의
+쿠폰 받는 화면에 바로 있,DIGITAL_P쿠폰요청
+문의못드리는건가요,DIGITAL_P기타faq문의
+수거는 무료인가요,DIGITAL_P폐가전수거
+차이 나나요,DIGITAL_P차이점
+ok캐시백 적립,DIGITAL_P기타faq문의
+다른 상품,DIGITAL_P추가추천
+할인상품권이 없나요,DIGITAL_P결제문의
+교환안될까요,DIGITAL_P교환문의
+편의점 택배수령,DIGITAL_P기타faq문의
+혜택은 어떻게 사용,DIGITAL_P기타faq문의
+리뷰를 쓰고 싶은데 어떻게,DIGITAL_P기타faq문의
+방문 수거죠,DIGITAL_P폐가전수거
+다른상품 검색,DIGITAL_P처음으로
+비씨 탑포인트,DIGITAL_P결제문의
+잘팔리나요,DIGITAL_P상품문의_P상담원연결
+물건 구매도 안되고,DIGITAL_P기타faq문의
+몇인용부터 잇어요,DIGITAL_P사이즈문의
+타임세일 구매,DIGITAL_P행사문의
+내가 샀던 거 중에 서,MART_P지난구매상품보기
+캐시로 전환된 환불,DIGITAL_P환불문의
+카드는 언제 취소되나요,DIGITAL_P결제문의
+배송비 포함인가요,DIGITAL_P배송비문의
+깍아주세요,MART_P할인문의
+가격 차이 많이나던데요,DIGITAL_P가격차이
+가만히 있어,DIGITAL_P채팅
+살수 있는게 어떤게 있,DIGITAL_P추천
+쿠폰 어떻게 사용,DIGITAL_P쿠폰적용문의
+전화번호가 틀리게,DIGITAL_P회원정보문의
+기능 차이 뭘까요,DIGITAL_P차이점
+카드 할인쿠폰 적용,DIGITAL_P쿠폰적용문의
+상담은 뭐가 가능한가요,DIGITAL_P상담품목
+주소확인가능해요,DIGITAL_P회원정보문의
+쿠폰 받을수 있을까요,DIGITAL_P쿠폰요청
+고객변경하고싶은데요,DIGITAL_P기타faq문의
+어디 제품이니,DIGITAL_P상품문의
+내맘대로 플러스 팩,DIGITAL_P기타faq문의
+쿠폰 좀 많이주심,DIGITAL_P쿠폰요청
+취소 어떻게,MART_P주문취소
+마트상품을 경품으로 준다,MART_P이벤트
+취소한 돈은 언제들어와요,DIGITAL_P환불문의
+찾는건아니고 문의,DIGITAL_P상담품목
+꼭 제품만 문의,MART_P마트챗봇문의
+저기 제가 물건을 시켰는데,DIGITAL_P배송문의
+사용가능 쿠폰에 안나오네요,DIGITAL_P쿠폰적용문의
+나 너 살래,DIGITAL_P채팅
+아이디문제로요,DIGITAL_P회원정보문의
+언제 발송되나요,DIGITAL_P배송문의
+sk텔레콤 데이터,DIGITAL_P기타faq문의
+데이터 요금,DIGITAL_P기타faq문의
+상품 도착 시간,MART_P배송문의
+안 비싼가여,DIGITAL_P가격문의
+리뷰 혜택,DIGITAL_P기타faq문의
+대화 종료,DIGITAL_P대화종료
+주문이안와,DIGITAL_P배송문의
+깎아주세요,MART_P할인문의
+가격차이 이유는,DIGITAL_P가격차이
+환불했는데,DIGITAL_P환불문의
+적당한 것이 어떤 거죠,DIGITAL_P추천
+사은품도 함께 배송되나요,MART_P사은품문의
+이용 횟수 복구,DIGITAL_P기타faq문의
+금요일 쿠폰,DIGITAL_P쿠폰요청
+정품으로 보내주세요,MART_P정품문의
+나도상품줘,DIGITAL_P채팅
+배송 조회,DIGITAL_P배송문의
+회수하지 않아서,DIGITAL_P반품문의
+언제쯤 입금되나요,DIGITAL_P환불문의
+포인트 50프로 사용,DIGITAL_P결제문의
+깍아주세요,DIGITAL_P바로할인가
+한번에 찾기,MART_P다중검색문의
+픽업가능한가,DIGITAL_P배송문의
+최대한 저렴,MART_P행사상품
+판매자와 대화방법,DIGITAL_P판매자연락요청
+포장 꼼꼼히 해주세요,MART_P포장문의
+사람 대답하고 계시는,DIGITAL_P챗봇여부문의
+함 볼게요,DIGITAL_P대화종료
+설치해주로 온다고하면,DIGITAL_P설치문의
+판매는 안대나요,DIGITAL_P기타faq문의
+좋은거 있어요,DIGITAL_P추천
+다른 제품은요,DIGITAL_P추가추천
+문의 좀 드릴려,DIGITAL_P상담요청
+주문 취소했,DIGITAL_P주문취소완료
+카드 할인이 안돼고,DIGITAL_P결제문의
+마트쿠폰은 어떤,DIGITAL_P쿠폰문의_P기타faq문의
+멤버쉽 적립,DIGITAL_P적립문의
+다른 상담,DIGITAL_P새상담
+환불 왜 안해,DIGITAL_P환불문의
+조회는 어디서,DIGITAL_P기타faq문의
+천천히 둘러볼게요,DIGITAL_P대화종료
+가장 저렴하고,MART_P행사상품
+전력을 얼마나 먹나요,DIGITAL_P상담원연결
+바로 노래,DIGITAL_P채팅
+교환 진행을 안해주시나,DIGITAL_P교환문의
+무이자 할부로 살수,DIGITAL_P결제문의
+언제쯤 배송이,DIGITAL_P배송문의
+NOW 배송,MART_Pnow배송설명요청
+상담드리기 어렵나,DIGITAL_P상담원연결
+상품언제오냐,DIGITAL_P배송문의
+하가지만 더 질문하게습니다,DIGITAL_P상담요청
+배송지연 쿠폰 어디,DIGITAL_P쿠폰요청
+유통기한 많이 남은 걸로,MART_P새제품요청
+물건을 샀는데요,DIGITAL_P구매완료
+찾고싶다데스,DIGITAL_P추천
+상품도 오지않았는데요,DIGITAL_P배송문의
+T포인트 사용법,DIGITAL_P결제문의
+시럽페이 관련 질문,DIGITAL_P결제문의
+필요합니다,DIGITAL_P필요
+헐 안팔아요,DIGITAL_P상담품목
+취소요청가능하다고 하네요,DIGITAL_P주문취소
+지금까지 구매한 상품 보,MART_P지난구매상품보기
+가격비교 한번 해보고,DIGITAL_P가격비교문의
+그럼 다음에,DIGITAL_P대화종료
+뭐뭐 판매 해요,DIGITAL_P상담품목
+카드 변경,DIGITAL_P결제문의
+졸라 비싸네,MART_P행사상품
+시럽페이 변경 가능,DIGITAL_P결제문의
+유통기한 알려,MART_P유통기한문의
+싸게 구입하기,MART_P행사상품
+제가 산상품이요,DIGITAL_P주문이력확인
+다른 브랜드,DIGITAL_P추가추천
+환불을 못받았어요,DIGITAL_P환불문의
+교환 가능,DIGITAL_P교환문의
+비교해보고 사려구요,DIGITAL_P구매예정
+나의홈은어디,DIGITAL_P기타faq문의
+디지털이 아니라구,DIGITAL_P상담품목
+해외직구쿠폰,DIGITAL_P쿠폰요청
+본인인증했는데도,DIGITAL_P본인인증문의
+예쁜 건 없나요,DIGITAL_P디자인문의
+환불은 입금되나요,DIGITAL_P환불문의
+사업자카드,DIGITAL_P기타faq문의
+취소건때문에 상,DIGITAL_P주문취소
+지난번 산,MART_P지난구매상품보기
+신용카드 추가,DIGITAL_P결제문의
+생산지는 어디,MART_P원산지문의
+서비스 지금 되는 건가,DIGITAL_P상담시간
+어떻게 사용,DIGITAL_P도움말보기
+새 상담으로,DIGITAL_P새상담
+지난 구매,MART_P지난구매상품보기
+포인트 문의,DIGITAL_P기타faq문의
+제품을 받지 않았는데,DIGITAL_P배송문의
+내 이름이 뭔지 알아,DIGITAL_P채팅
+넌 무슨역할이니,DIGITAL_P추천
+상담사와 연결이 않 되어,DIGITAL_P전화요청_GREETINGclaim
+회원의 종류는 어떻게,DIGITAL_P기타faq문의
+증정품도 같이,MART_P사은품문의
+매니저 상담은 어떻게,DIGITAL_P상담원연결
+내밈대로 플러스,DIGITAL_P할인문의
+추가할인은 다시 시작,DIGITAL_P할인문의
+톡매니저 초대시간,DIGITAL_P상담시간
+문의도 이쪽으로 가능,DIGITAL_P상담품목
+저렴할걸로,MART_P행사상품
+사진이 전송이 안되,DIGITAL_P사진올리기기능안내
+판매자 임의대로 취소,DIGITAL_P주문취소
+상담원 통화안돼요,DIGITAL_P전화요청
+알림메뉴가 어디있는지,DIGITAL_P알림설정문의
+상품들로 말해주,DIGITAL_P추천
+연결바로되나요,DIGITAL_P상담시간
+시리즈는 어떨까요,DIGITAL_P상품문의_P상담원연결
+무통으로 입금,DIGITAL_P결제문의
+재미있는 이야기 해줘,DIGITAL_P채팅
+제품을봐도 잘모르겠어서,DIGITAL_P상담요청
+이걸 샀는데,DIGITAL_P구매완료
+티멤버십 카드번호,DIGITAL_P티멤버십관련문의_P기타faq문의
+행운을 주세요,DIGITAL_P채팅
+결제안돼여,DIGITAL_P결제문의
+쿠폰때문에요,DIGITAL_P쿠폰적용문의
+추천셀러 지우기,DIGITAL_P기타faq문의
+구매행 었던,DIGITAL_P구매완료
+쿠폰유효기간,DIGITAL_P쿠폰적용문의
+인증햇는데,DIGITAL_P본인인증문의
+크기가 얼마야,DIGITAL_P사이즈문의
+a s 받기 쉬운,DIGITAL_Pa/s문의
+네 확인해보겠습니다,DIGITAL_P대화종료
+핸드폰 변경은 어떻게,DIGITAL_P기타faq문의
+증정품도 함께 배송되나요,MART_P사은품문의
+어디서 선택해요,DIGITAL_P도움말보기
+설치비용 얼마,DIGITAL_P설치비문의
+이따 다시 상담,DIGITAL_P대화종료
+깜짝쿠폰은언제,DIGITAL_P쿠폰요청
+내일 아침 배송 상품,MART_P배송문의
+서비스 종료하고자,DIGITAL_P기타faq문의
+환불은 11번가에 문의,DIGITAL_P환불문의
+반납 전화번호가 잘못기재,DIGITAL_P기타faq문의
+배송 주소 변경,DIGITAL_P배송지변경문의
+맨 처음으로,DIGITAL_P처음으로
+포인트 적립이 가능,DIGITAL_P적립문의
+담에 또 봐,DIGITAL_P대화종료
+상품이 미입고 됐다고,DIGITAL_P기타faq문의
+차이가 뭐임,DIGITAL_P차이점
+케시 사용이 안되나요,DIGITAL_P기타faq문의
+오늘 입금하면 언제,DIGITAL_P배송일문의
+왜 금액이 다 결제되나요,DIGITAL_P결제문의
+현금 입금 부탁,DIGITAL_P환불문의
+문화상품권충전방법,DIGITAL_P기타faq문의
+vip등록은 어떻게하나,DIGITAL_P기타faq문의
+날짜지정되나요,DIGITAL_P배송문의
+전체리뷰 더보기가 안돼요,DIGITAL_P리뷰요청
+환불해주세요,DIGITAL_P환불문의
+마트배송지가 없다고,DIGITAL_P배송문의
+알림 메세지 다시 확인,DIGITAL_P기타faq문의
+배송이잘되나 싶어서,DIGITAL_P배송문의
+다른 시리즈 없,DIGITAL_P추가추천
+상담 그만할께요,DIGITAL_P대화종료
+반품 물건받으셨나요,DIGITAL_P반품문의
+구매 문의입니다,DIGITAL_P상담요청
+추가비용을 알려주세요,DIGITAL_P추가비용문의_P상담원연결
+주문한게 토욜에 올까,DIGITAL_P배송일문의
+전화준다고 했는데 약속,DIGITAL_P전화요청
+차이 어떻게 되죠,DIGITAL_P차이점
+얼마정도해요,DIGITAL_P가격문의
+계명해서 이름이 바뀌,DIGITAL_P회원정보문의
+쓰던 물건 처리,DIGITAL_P폐가전수거
+티 플러스혜택,DIGITAL_P쿠폰요청
+쿠폰은 사용 못하는건가요,DIGITAL_P쿠폰적용문의
+복귀고객 혜택있나요,DIGITAL_P행사문의
+개인통관고유번호,DIGITAL_P회원정보문의
+지금은 상담이 안되,DIGITAL_P상담시간
+어디가면 되나요,DIGITAL_P기타faq문의
+잘받았습니다,DIGITAL_P배송완료
+지금 추워,DIGITAL_P채팅
+리뷰는 어디서 작성하나요,DIGITAL_P기타faq문의
+사이즈 오배송,DIGITAL_P기타faq문의
+무슨 사유 있나요,DIGITAL_P기타faq문의
+답장 부탁,DIGITAL_P추천
+증빙서류 발급,DIGITAL_P기타faq문의
+쿠폰입력은 어디,DIGITAL_P쿠폰적용문의
+새지않게 꼼꼼하게,MART_P포장문의
+구입해야겠,DIGITAL_P구매예정
+이 상품은 어때요,DIGITAL_P상품문의_P상담원연결
+티포인트가 사라졌어요,DIGITAL_P기타faq문의
+크기가 어떻게 되,DIGITAL_P사이즈문의
+대하여 설명 요청,"FAQ_P도움말요청,DIGITAL_P설명요청"
+교환신청 햇는데,DIGITAL_P교환문의
+통관고유부호,DIGITAL_P회원정보문의
+더 좋은것,DIGITAL_P추가추천_SPECl
+전화 안받아요,DIGITAL_P전화요청_GREETINGclaim
+인증 실패로 나와요,DIGITAL_P본인인증문의
+고장났는데 어떡하죠,DIGITAL_Pa/s문의
+배송시간 문의,MART_P배송문의
+푸시들 알려줘,DIGITAL_P기타faq문의
+으로 사용할까합니다,DIGITAL_P용도
+브랜드는 어디에여,DIGITAL_P브랜드문의
+전화 하나 주세요,DIGITAL_P전화요청
+지금 주문했는데 도착 언제,DIGITAL_P배송일문의
+다른 제품은 없어,DIGITAL_P추가추천
+사랑한다고 말해봐,DIGITAL_P채팅
+묻는말에만 대답해라,DIGITAL_P채팅
+여기서 확인하나요,DIGITAL_P상담품목
+무제한으로 사용,DIGITAL_P기타faq문의
+차이 정확히 뭐죠,DIGITAL_P차이점
+대화하는 분은 사람이,DIGITAL_P챗봇여부문의
+유통기한이 짧지 않나요,MART_P유통기한문의
+상품이 왔는데,DIGITAL_P배송완료
+캐쉬는 어떻게 사용,DIGITAL_P기타faq문의
+내가 산거,DIGITAL_P주문이력확인
+상담원 팀장 연결시켜주세요,DIGITAL_P상담원연결
+팝업창 해제,DIGITAL_P기타faq문의
+사고파는것은없나요,DIGITAL_P기타faq문의
+처음부커 할래여,DIGITAL_P처음으로
+연말인데 좀 더,DIGITAL_P할인행사
+쿠폰이 안들어와요,DIGITAL_P쿠폰요청
+제품 짝퉁,DIGITAL_P기타faq문의
+적립금 어떻게사용하,DIGITAL_P기타faq문의
+상담원내놔,DIGITAL_P상담원연결
+너무 비싸고,MART_P행사상품
+가격이 낮을수록,MART_P행사상품
+디지털만되나요,DIGITAL_P상담품목 
+입금액이 안나와요,DIGITAL_P결제문의
+전화번호 잘못 입력 했어요,DIGITAL_P기타faq문의
+반품의 차이점은 무엇,MART_P반품문의
+고민해보고 말씀드릴게요,DIGITAL_P대화종료
+마트 챗봇이 뭐죠,MART_P마트챗봇문의
+배송 언제쯤 되요,DIGITAL_P배송일문의
+전화주시라 했어요,DIGITAL_P전화요청
+충분히 잘 돌아갈지,DIGITAL_P사양문의
+개인정보는 어디서 바꿀수,DIGITAL_P회원정보문의
+끝밀잇기하자,DIGITAL_P채팅
+sns 상담 가능,DIGITAL_P기타faq문의
+다른거 볼래,DIGITAL_P추가추천
+장바구니에 담을게요,MART_P장바구니담기
+배송 안됨,MART_P배송문의
+무슨택배인가요,DIGITAL_P배송문의
+궁금한게있어요,DIGITAL_P상담요청
+비교 설명 좀,DIGITAL_P상품비교
+내일은 무슨데이야,DIGITAL_P행사문의
+어떻게 장착하는데,DIGITAL_P기타faq문의
+반납할 상품을 안 가져가,DIGITAL_P반품문의
+구매 금액한도가 있나요,DIGITAL_P결제문의
+출시전인가요,DIGITAL_P출시문의 
+왜안가져가나요,DIGITAL_P반품문의
+다른 상품도 보고싶어요,DIGITAL_P추가추천
+알림안울리게하려면,DIGITAL_P알림설정문의
+국민 카드,DIGITAL_P결제문의
+반사 반사,DIGITAL_P채팅
+상품만 찾을 수 있나요,DIGITAL_P기타faq문의
+주문한지가 언젠데 아직,DIGITAL_P배송문의
+as 여기서 상담 가능,DIGITAL_Pa/s문의
+말 안해주냐고,DIGITAL_P채팅
+쿠폰은 어디서,DIGITAL_P쿠폰요청
+택배출발 언제하는지,DIGITAL_P배송문의
+등급좀알려줘,DIGITAL_P회원정보문의
+이거 기계추천인가요,DIGITAL_P챗봇여부문의
+어느 정도 가격대인가,DIGITAL_P가격문의
+사은품 같이 주는거요,DIGITAL_P사은품문의
+캐쉬는 어떻게,DIGITAL_P기타faq문의
+지난번에 샀던,MART_P지난구매상품보기
+어느 상품이 좋아요,DIGITAL_P상품문의_P상담원연결
+핸드폰 번호 변경,DIGITAL_P기타faq문의
+ai가 탑재된 챗봇,DIGITAL_P챗봇여부문의
+바로가기온,DIGITAL_P기타faq문의
+주말이 끼었어요,DIGITAL_P배송일문의
+얼마정도 인가요,DIGITAL_P가격문의
+상품이 안왓어요,DIGITAL_P배송문의
+할인 쿠폰 있나요,DIGITAL_P쿠폰요청
+화면이 갑자기 안 떠요,DIGITAL_P기타faq문의
+상품 언제쯤 받아,DIGITAL_P배송문의
+전화를하는데도 불가,DIGITAL_P전화요청
+차이점 있을까요,DIGITAL_P차이점
+11번가 배달리뷰 어디서,DIGITAL_P기타faq문의
+결제창이 안넘어감,DIGITAL_P결제문의
+여쭤봅니다,DIGITAL_P상담요청
+차이점 어떻죠,DIGITAL_P차이점
+어케 사용해요,DIGITAL_P도움말보기
+발송기한이 어떻게 되나요,DIGITAL_P배송문의
+지금 몇시,DIGITAL_P채팅
+반품 상담 안되나요,DIGITAL_P반품문의
+아디가 없는걸로 나와요,DIGITAL_P회원정보문의
+쿠폰 확인 어디서,DIGITAL_P기타faq문의
+더운데 좀 도와줄래,DIGITAL_P채팅
+쿠폰 적용은 어떻게 해요,DIGITAL_P쿠폰적용문의
+Vip 되는기간,DIGITAL_P기타faq문의
+주문이 안되요,DIGITAL_P기타faq문의
+반품 신청한것,DIGITAL_P반품문의
+좋아할만한 상품이 뭔지,DIGITAL_P추천
+사이즈 어떻게 될,DIGITAL_P사이즈문의
+쿠폰 사용기간,DIGITAL_P쿠폰적용문의
+사람이 하는거라구요,DIGITAL_P챗봇여부문의
+이메일안받을래요,DIGITAL_P알림설정문의
+올리는 방법,DIGITAL_P기타faq문의
+뭐물어볼게있는데,DIGITAL_P상담요청
+수신거부는 어디서,DIGITAL_P기타faq문의
+기프티콘 발송,DIGITAL_P기타faq문의
+이메일 안받으려면,DIGITAL_P기타faq문의
+물품이 아직 오지 않고,DIGITAL_P배송문의
+언제 오늬,DIGITAL_P배송일문의
+고객 서비스도 가능한,DIGITAL_P기타faq문의
+저번에 산거 뭐지,MART_P지난구매상품보기
+나는 다른걸 원해,DIGITAL_P추가추천
+정품 맞나요,MART_P정품문의
+톡매니저는 사람,DIGITAL_P챗봇여부문의
+다음에 방문할께요,DIGITAL_P대화종료
+나중에 구매하겠습니다,DIGITAL_P구매예정
+환불관련 상담,DIGITAL_P환불문의
+그럼 제가 직접 찾아볼게요,DIGITAL_P대화종료
+제품이 아직 오지않고,DIGITAL_P배송문의
+도움말 보여줘,"FAQ_P도움말요청,DIGITAL_P설명요청"
+다른건 않되,DIGITAL_P상담품목
+너 누가 만들었니,DIGITAL_P채팅
+한번 더 문의 가능,DIGITAL_P상담요청
+휴대폰결제,DIGITAL_P결제문의
+한 번에 배달 되게 할 수,DIGITAL_P배송문의
+일하면 안힘드나,DIGITAL_P채팅
+장바구니 버튼이 없네오,DIGITAL_P찜기능안내
+t 멥버쉽등록,DIGITAL_P기타faq문의
+할부안되나요,DIGITAL_P결제문의 
+설치는 언제쯤 되나요,DIGITAL_P설치문의
+폰번 어케바꿔요,DIGITAL_P기타faq문의
+그냥 대화도 가능해,DIGITAL_P채팅
+찜하는 방법,DIGITAL_P찜기능안내
+인증고객이되나요,DIGITAL_P본인인증문의
+a s 받고 싶어요,DIGITAL_Pa/s문의
+환불한 돈이 안들어,DIGITAL_P환불문의
+상품이 안와,DIGITAL_P배송문의
+아직 발송이 안되었어요,DIGITAL_P배송문의
+덕분에 믿고 결제했네요,DIGITAL_P대화종료
+어떻게 진행 되고 있는지요,DIGITAL_P추천
+주문 취소요청,DIGITAL_P주문취소
+전화번호변경,DIGITAL_P회원정보문의
+너의 성별은,DIGITAL_P채팅
+내물건 어딨어,DIGITAL_P기타faq문의
+유통기한이 정확하게 어떻게,MART_P유통기한문의
+날짜를 확인해주세요,DIGITAL_P기타faq문의
+유통기한문의,MART_P유통기한문의
+자동화 응대인가요,DIGITAL_P챗봇여부문의
+더많이 보여주,DIGITAL_P추가추천
+완료 후 환불,MART_P환불문의
+고객센터 번호는 알수,DIGITAL_P고객센터문의
+상담 가능한게 뭐가 있어요,DIGITAL_P상담품목
+사람인가요 인공지능인가요,DIGITAL_P챗봇여부문의
+신카드 요망,DIGITAL_P결제문의
+여쭤볼게요,DIGITAL_P상담요청
+증정품 챙겨주세요,MART_P사은품문의
+품절 인가요,DIGITAL_P재고문의_P상담원연결
+수리받으려면,DIGITAL_Pa/s문의
+주문이안됨,DIGITAL_P기타faq문의
+맴버쉽카드,DIGITAL_P기타faq문의
+페이등록된 카드 삭제,DIGITAL_P결제문의
+문의즘드려요,DIGITAL_P상담요청
+평균배송일이란 무엇인가요,DIGITAL_P배송문의
+뭐가 비싼가요,DIGITAL_P가격문의
+사진 고객센터로 보낼,DIGITAL_P사진올리기기능안내
+지금도되요,DIGITAL_P상담시간
+입금하러갔는데,DIGITAL_P결제문의
+이용가이드 알려,DIGITAL_P도움말보기
+그럼나간다,DIGITAL_P대화종료
+한번 더 문의드리겟습니다,DIGITAL_P대화종료
+구매자명 바꿔,DIGITAL_P기타faq문의
+쿠폰 찾는거 넘 어려워요,DIGITAL_P쿠폰적용문의
+법인카드로 구입은,DIGITAL_P결제문의
+설치 무료로 해주나요,DIGITAL_P배송문의
+구매하려하는데,MART_P주문
+쿠폰은 한번만 쓸수,DIGITAL_P쿠폰적용문의
+블프 쿠폰,DIGITAL_P쿠폰요청 
+사진첨부는 어떻게 하나요,DIGITAL_P사진올리기기능안내
+상품 가격 왜 다른,DIGITAL_P가격문의
+물건 취소 했는데,DIGITAL_P주문취소
+sk 사용자 등록 방법,DIGITAL_P기타faq문의
+회원페이지,DIGITAL_P기타faq문의
+결제 정보를 등록,DIGITAL_P기타faq문의
+구매했는데 취소가능,DIGITAL_P주문취소
+쿠폰사용방법,DIGITAL_P쿠폰적용문의
+물건이 이상해요,DIGITAL_P반품문의
+가격대를 높이는게 좋을까요,DIGITAL_P가격문의
+왜 쿠폰할인 안돼,DIGITAL_P쿠폰적용문의
+쿠폰은 어디서 다운,DIGITAL_P쿠폰요청
+접속하면 혜택은,DIGITAL_P행사문의
+설치비 알 수 있나요,DIGITAL_P설치비문의
+차이점 뭔가요,DIGITAL_P차이점
+취소를 했는데 입금은 언제,DIGITAL_P환불문의
+내가 누구니,DIGITAL_P채팅
+무통장 입금란이 없네요,DIGITAL_P결제문의
+vip전용,DIGITAL_P기타faq문의
+고르기 힘드네요,DIGITAL_P상담원연결
+전화 좀 해 달라고,DIGITAL_P전화요청
+포인트 쓸려몀 어캐,DIGITAL_P결제문의
+탈퇴 어떻게,DIGITAL_P회원정보문의
+대화친구찿기,DIGITAL_P채팅
+밤에문의상담,DIGITAL_P상담시간
+기능 설명도,DIGITAL_P상담요청
+특가 제품,MART_P할인문의
+카드정보수정,DIGITAL_P결제문의
+설명해 주세요,"FAQ_P도움말요청,DIGITAL_P설명요청"
+할인 쿠폰 혹시 있나,DIGITAL_P쿠폰요청
+판매제품엔 없는거죠,DIGITAL_P상담품목
+이름은 어떻게 바꿀수,DIGITAL_P회원정보문의
+출고는 언제 되나요,DIGITAL_P배송문의
+환불부탁드립니다,DIGITAL_P환불문의
+상품이 더 괜찬은건가요,DIGITAL_P상품비교
+배송선택은 어디서하나요,DIGITAL_P결제문의
+이해할 수 있는 말이 뭐,DIGITAL_P채팅
+어디서 받을수 있어요,DIGITAL_P쿠폰요청
+주문한 내역 확인,DIGITAL_P주문이력확인
+결재하고싶어,MART_P구매
+상품 포장 어떻게,DIGITAL_P기타faq문의
+널 만든게 누구야,DIGITAL_P채팅
+이벤트 문의합니다,DIGITAL_P행사문의
+여기는 없네요,DIGITAL_P상담품목
+기프트콘전화번호,DIGITAL_P기타faq문의
+저 쿠폰만 하면 되나,DIGITAL_P쿠폰적용문의
+물건을 못받았어요,DIGITAL_P배송문의
+파손되지 않게 보내주세요,MART_P포장문의
+일대일 상담 원해요,DIGITAL_P상담원연결
+소개 좀 해주세요,DIGITAL_P추천
+사용가능 쿠폰개수,DIGITAL_P쿠폰적용문의
+선물포장 부탁,MART_P포장문의
+고객센터상담원합,DIGITAL_P전화요청
+결제중 신용카드로 왜 안,DIGITAL_P결제문의
+저렴하게 살 수 있을까요,DIGITAL_P바로할인가_PRICExs
+유통기한 좀 알려,MART_P유통기한문의
+할인쿠폰 받으려고,DIGITAL_P쿠폰요청
+전에 산 것,MART_P지난구매상품보기
+성능 어떤데요,DIGITAL_P성능문의
+언제보내주나요,DIGITAL_P배송문의
+구매 영수증은 어디서,DIGITAL_P기타faq문의
+배송에 대해 문의드려요,DIGITAL_P배송문의
+t멤버스 카드등록 어디서,DIGITAL_P기타faq문의
+렌탈 문의,DIGITAL_P렌탈문의
+이렇게 말이 많어,DIGITAL_P채팅
+주문한거 안오네요,DIGITAL_P배송문의
+디지털만 취급하냐,DIGITAL_P상담품목
+나고객센터,DIGITAL_P고객센터문의
+후에 구매해야겠어요,DIGITAL_P구매예정
+메뉴 어떻게 들어가나요,DIGITAL_P기타faq문의
+차이점 많이 나요,DIGITAL_P차이점
+가입관련 문의,DIGITAL_P회원정보문의
+환불응 언제 될까,DIGITAL_P환불문의
+포인트 사용 안되는이유,DIGITAL_P결제문의
+이거 구매안되나요,DIGITAL_P상품문의
+아이디가 이상,DIGITAL_P회원정보문의
+시럽페이는 없어졌나요,DIGITAL_P결제문의
+사진 잇으신가요,DIGITAL_P사진요청
+유효기간 1년이상 남은걸로,MART_P세제품요청
+연말 이벤트 상품,DIGITAL_P할인행사
+교환 요청,DIGITAL_P교환문의
+잘못 신청,DIGITAL_P주문취소
+상담사와 대화,MART_P상담원연결
+아 그럼 빠이,DIGITAL_P대화종료
+나중에 할게,DIGITAL_P대화종료
+다른 제품에 대한 추천,DIGITAL_P추가추천
+문의좀 할께요,DIGITAL_P상담요청
+안봐 다신 안봐,DIGITAL_P대화종료
+프로모션 상품,DIGITAL_P할인행사
+인터넷 최저가,MART_P행사상품
+뭐뭐 찾아볼수 있어,DIGITAL_P상담품목
+살펴보고 고르겠습니다,DIGITAL_P대화종료
+다른데 보다 싸던데,DIGITAL_P가격차이
+세일할때 구입,DIGITAL_P할인행사
+T멤버쉽 할인,DIGITAL_P티멤버십관련문의_P기타faq문의
+쿠폰 언제 주니,DIGITAL_P쿠폰요청
+다른 상븀도 보고 싶어요,DIGITAL_P추가추천
+상품번호를 알고 싶,DIGITAL_P기타faq문의
+생산일자 가장 최근으로,MART_P새제품요청
+빠진상품이 있습니,DIGITAL_P배송문의
+구매를 하고싶은데요,DIGITAL_P추천
+가격 차이가 많이 나나요,DIGITAL_P가격차이
+사진 어떠케 올,DIGITAL_P사진올리기기능안내
+주문건 취소 됐나요,DIGITAL_P주문취소
+반품요청 처음하는데,DIGITAL_P반품문의
+찜이 뭐냐,DIGITAL_P찜기능안내
+캐시를 현금으로 전환,DIGITAL_P기타faq문의
+디지털밖에 안됨,DIGITAL_P상담품목
+전단지 상품,MART_P행사상품
+판매자 연락처,DIGITAL_P판매자연락요청
+나랑 친구하자,DIGITAL_P채팅
+자주 구매한 상품 볼래요,MART_P자주구매상품
+사은품 잊지 마세요,MART_P사은품문의
+구입했던 물건 찾기,MART_P지난구매상품보기
+상품배송지를 따로 가능,DIGITAL_P배송지변경문의
+회원 전환,DIGITAL_P기타faq문의
+A S 언제까지 무상인가요,DIGITAL_Pa/s문의
+제조일자와 유통기한을 알려,MART_P유통기한문의
+만든 회사가 어디야,DIGITAL_P기타faq문의
+a s 정보 좀,DIGITAL_Pa/s문의
+공짜는 없나요,DIGITAL_P할인문의
+주문한 상품 배송조회하고,DIGITAL_P배송문의
+가장 최적가인지도 부탁,MART_P행사상품
+게릴라쿠폰 받는 주소,DIGITAL_P쿠폰요청
+인공지능 아니죠,DIGITAL_P챗봇여부문의
+전화로 문의할게요,DIGITAL_P전화요청
+저렴하게 사는 방법,DIGITAL_P바로할인가_PRICExs
+쿠폰사용처,DIGITAL_P쿠폰적용문의
+이것만 있어,DIGITAL_P추가추천
+쿠폰 받으려구요,DIGITAL_P쿠폰요청
+본인인증받으래요,DIGITAL_P본인인증문의
+날씨 알려주세요,DIGITAL_P채팅
+쿠폰사용할수없나요,DIGITAL_P쿠폰적용문의
+몇시인가요,DIGITAL_P채팅
+자동응답시스템 그런 건가요,DIGITAL_P챗봇여부문의
+첨가입했는데 쿠폰없나요,DIGITAL_P쿠폰요청
+나중에 죄송,DIGITAL_P대화종료
+어떤게 좋나요,DIGITAL_P추천
+어떻게 진행되고있는지 궁금,DIGITAL_P기타faq문의
+설명 요청,"FAQ_P도움말요청,DIGITAL_P설명요청"
+M포인트데이,DIGITAL_P행사문의
+제가 운영체제를 못깔아서,DIGITAL_P설치문의_FEAT운영체제포함
+어떻게 상담을 하는지,DIGITAL_P상담요청
+결제어떻개,DIGITAL_P결제문의
+뭔 차이인가요,DIGITAL_P차이점
+Vip 전용 혜택,DIGITAL_P기타faq문의
+비교후 연락드릴께요,DIGITAL_P대화종료
+상담도 되나요,DIGITAL_P상담품목
+11번가는 몇시까지 하나요,DIGITAL_P상담시간
+혜택이 가장 좋은상품,MART_P행사상품문의
+아직까지 배송 준비중,DIGITAL_P배송문의
+몇인치가 최대인가,DIGITAL_P사이즈문의
+본인인증이 필요하다고,DIGITAL_P본인인증문의
+나중에들릴께요,DIGITAL_P대화종료
+노래해주세요,DIGITAL_P채팅
+나의 구매등급,DIGITAL_P회원정보문의
+교환 과정,DIGITAL_P교환문의
+그때 산거 보여,MART_P지난구매상품보기
+상태가 안좋네요,DIGITAL_P기타faq문의
+왜 갑자기 품절,DIGITAL_P상품문의
+포인트 쓰고 싶은데,DIGITAL_P결제문의
+쇼핑백문의,MART_P쇼핑백문의
+마일리지 관련 문의,DIGITAL_P적립문의
+계속 통화중,DIGITAL_P전화요청_GREETINGclaim
+물류 반송,DIGITAL_P반품문의
+크기는 얼만하죠,DIGITAL_P사이즈문의
+입고 날짜가 언제,MART_P재입고문의
+제품생산년도,DIGITAL_P기타faq문의
+어디서 받으면 되,DIGITAL_P기타faq문의
+고객센터 왜 전화 안돼죠,DIGITAL_P전화요청
+언제 문의할 수 있나요,DIGITAL_P상담시간
+포인트는 어떻게 사용,DIGITAL_P기타faq문의
+취소확정 안되나요,DIGITAL_P기타faq문의
+다른 정보는 없니,DIGITAL_P추가추천
+사은품도 같이,MART_P사은품문의
+자주사용하는 물품,MART_P자주구매상품
+가격은 왜 자꾸 바뀌나요,DIGITAL_P가격문의
+결제했습니다,DIGITAL_P주문완료
+잘 봤어요 또 올께요,DIGITAL_P대화종료
+설명해주시면 감사,"FAQ_P도움말요청,DIGITAL_P설명요청"
+전기세는 얼마나 나오지,DIGITAL_P상담원연결
+목요일까지 올까요,DIGITAL_P배송문의
+전화 좀 주세요,DIGITAL_P전화요청
+상품으루 부탁,DIGITAL_P추천
+상품 언제 배송,DIGITAL_P배송문의
+자주 구매한 상품만,MART_P자주구매상품
+상품만되나요,DIGITAL_P기타faq문의
+구입해야겟,MART_P주문
+앞으로 간다고,DIGITAL_P처음으로
+싸게 파는 것만,MART_P행사상품문의
+입고지연에 대한 보상,DIGITAL_P기타faq문의
+나한테 말걸지마,DIGITAL_P채팅
+장바구니 넣기,DIGITAL_P찜기능안내
+배송비 없이 직접 수령,DIGITAL_P배송문의
+너 박근혜지,DIGITAL_P채팅
+할인쿠폰이 하나도 없어요,DIGITAL_P쿠폰요청
+뭐가 젤 좋아,DIGITAL_P상담원연결
+오류라고 뜨는데 왜,DIGITAL_P기타faq문의
+돈은 왜 안돌려주나요,DIGITAL_P환불문의
+문의글 어디에,DIGITAL_P회원정보문의
+교환 수거지,DIGITAL_P교환문의
+취소 관련해서 문의,DIGITAL_P주문취소
+쿠폰은 어떻게 등록하나요,DIGITAL_P쿠폰적용문의
+앞으로 돌아가기,DIGITAL_P처음으로
+환불 절차 문의,DIGITAL_P환불문의
+결제단계서 오류,DIGITAL_P결제문의
+주문유형을 잘못,DIGITAL_P주문취소
+내가 맨날 사는 제품,MART_P자주구매상품
+t멤버 카드,DIGITAL_P기타faq문의
+새제품으로 주세요,MART_P새제품요청
+사용이안되요,DIGITAL_P기타faq문의
+너 잘하는게 뭐야,DIGITAL_P상담품목
+픽업 서비스는 가능,DIGITAL_P배송문의
+수령 주소 변경 요청했더니,DIGITAL_P배송지변경문의
+환불건도 상담,DIGITAL_P환불문의
+반품 관련 문의,DIGITAL_P반품문의
+본인 인증 어째,DIGITAL_P본인인증문의
+나중에 또 여쭤볼게요,DIGITAL_P대화종료
+쿠폰이안와요,DIGITAL_P쿠폰요청
+물품을 판매하려,DIGITAL_P기타faq문의
+어떤 차이가 나는지,DIGITAL_P차이점
+가격 차이나는거죠,DIGITAL_P가격차이
+지연배송으로 쿠폰,DIGITAL_P적립문의
+사진은 전송 안되나요,DIGITAL_P사진올리기기능안내
+내일중으로 받을수 있나요,DIGITAL_P배송일문의
+재고가있는건지 궁금,DIGITAL_P상담원연결
+색상 변경되나요,DIGITAL_P색상변경문의
+이벤트 어떻게 참여,MART_P이벤트
+지정일 배송,DIGITAL_P배송일문의
+가격이 싼,MART_P행사상품
+사진 있나요,DIGITAL_P사진요청
+단품에만 해당인가요,DIGITAL_P쿠폰적용문의
+좋은제품 뭐가있나요,DIGITAL_P추천
+주문상품이 없어졌어,DIGITAL_P기타faq문의
+고객센터연락처,DIGITAL_P고객센터문의
+쿠폰뭐있어요,DIGITAL_P쿠폰요청
+취소처리지연,DIGITAL_P주문취소_GREETINGclaim
+캐쉬 사용 방법,DIGITAL_P기타faq문의
+알리미 설정,DIGITAL_P알림설정문의
+상품 업데이트는 끝난건가,DIGITAL_P기타faq문의
+사람이세요 인공지능인거에요,DIGITAL_P챗봇여부문의
+여러 개 입력할,MART_P다중검색실행
+리뷰를 작성하면 주는 혜택,DIGITAL_P기타faq문의
+사람 하는 건가여,DIGITAL_P챗봇여부문의
+택배 보냈습니다,DIGITAL_P반품문의
+판매자문의는 어떻게,DIGITAL_P판매자연락요청
+금액이 어떤가요,DIGITAL_P가격문의
+11pay 일시오류,DIGITAL_P결제문의
+찜 어케해,DIGITAL_P찜기능안내
+상품문의를 신청,DIGITAL_P상담요청
+온라인 전용인가요,DIGITAL_P제품별차이점
+페이는 어떻게 가입해,DIGITAL_P기타faq문의
+내가 맨날 사는 상품,MART_P자주구매상품
+해결안되는부분은 어쩌죠,DIGITAL_P기타faq문의
+내마음대로쿠폰,DIGITAL_P쿠폰요청
+추천에 감사드립니다,DIGITAL_P추천완료
+언제오는지도알려주나요,DIGITAL_P배송문의
+톡매니저가 뭐죠,DIGITAL_P톡매니저
+쿠폰은 어떻게 다운받나요,DIGITAL_P쿠폰요청
+전화통화가 너무안되는,DIGITAL_P전화요청
+상품도 추천받고,DIGITAL_P추천
+로봇하는 줄 알고,DIGITAL_P챗봇여부문의
+쿠폰은 어떻게 사용하나요,DIGITAL_P쿠폰적용문의
+배송지연 마일리지 받는방법,DIGITAL_P적립문의
+화욜에 받을수 있나,DIGITAL_P배송문의
+상품은 언제 들어오나요,MART_P재입고문의
+차이 뭐에요,DIGITAL_P차이점
+자세히보기가 안되네,DIGITAL_P기타faq문의
+새로운 상담,DIGITAL_P새상담
+쿠폰 발급,DIGITAL_P쿠폰요청
+쿠폰인증번호,DIGITAL_P쿠폰적용문의
+통화 시도해도 안돼요,DIGITAL_P전화요청_GREETINGclaim
+이벤트가뭔가요,MART_P이벤트
+수리접수도 되나요,DIGITAL_Pa/s문의 
+사람이예요 오 신기 신기,DIGITAL_P챗봇여부문의
+주문관련 문의도 해 주나요,DIGITAL_P기타faq문의
+ok캐시백으로 입금되나요,DIGITAL_P적립문의
+계정 정보 확인,DIGITAL_P회원정보문의
+형이말놓을게,DIGITAL_P채팅
+카드 등록이 안되요,DIGITAL_P결제문의
+캐시는 어떻게 쓰는거에요,DIGITAL_P기타faq문의
+가격은 비슷한가여,DIGITAL_P가격문의
+빠라빠라빠라,DIGITAL_P채팅
+결재가 두번된것 같아요,DIGITAL_P결제문의
+온오프라인모델차이,DIGITAL_P제품별차이점 
+뭐가 차이가 나나요,DIGITAL_P차이점
+가격도 메리트 있는걸로요,MART_P행사상품
+내 장바구니,DIGITAL_P찜기능안내
+제품보다 괜찮은건가요,DIGITAL_P상품비교
+교환해달라고 했는,DIGITAL_P교환문의
+다른 상품은 안돼나요,DIGITAL_P상담품목
+차이가무엇인강,DIGITAL_P차이점
+고객쿠폰은사용못해요,DIGITAL_P쿠폰적용문의
+주문한 것이 안오네요,DIGITAL_P배송문의
+니똥 굵다,DIGITAL_P채팅
+웃어보라고,DIGITAL_P채팅
+사구 싶다능,DIGITAL_P추천
+애인 구함,DIGITAL_P채팅
+차이점 모죠,DIGITAL_P차이점
+교환을 안 해준다니,DIGITAL_P교환문의
+고객센터는전화를안하냐,DIGITAL_P전화요청
+재입고문의,MART_P재입고문의
+지금 도착한 건데요,DIGITAL_P배송완료
+할인해서 살수있,DIGITAL_P할인문의
+할인 쿠폰 다시 발급,DIGITAL_P쿠폰요청
+비밀번호 수정,DIGITAL_P회원정보문의
+어찌 이용해야는지,DIGITAL_P상담원연결
+상의후에구매할게요,DIGITAL_P구매예정
+어떻게해요,DIGITAL_P도움말보기
+환불 처리,DIGITAL_P환불문의
+회원 정보 문의,DIGITAL_P기타faq문의
+마일리지가,DIGITAL_P기타faq문의
+마트에서 뭘 상담해,MART_P마트챗봇문의
+회원탈퇴 문의,DIGITAL_P개인정보문의
+로그아웃 어떻게,DIGITAL_P기타faq문의
+고객센터 연결,DIGITAL_P상담원연결
+배송지 등록하래요,DIGITAL_P기타faq문의
+택베 받으셨어요,DIGITAL_P반품문의
+아래서만 골라야해요,DIGITAL_P추가추천
+택배는 언제 와요,DIGITAL_P배송일문의
+쿠폰팩 발급,DIGITAL_P쿠폰요청
+상담 초대,DIGITAL_P상담원연결
+11pic,DIGITAL_P기타faq문의
+많이 비싸지 않은걸,MART_P행사상품
+마트챗봇이잖아,MART_P마트챗봇문의
+무료 a s 언제까지 가능,DIGITAL_Pa/s문의
+반납으로 택배 접수,DIGITAL_P반품문의
+사다리차 지원,DIGITAL_P기타faq문의
+옵션을 변경하고 싶어요,DIGITAL_P옵션변경문의
+도착 날짜 진짜 맞는거에요,MART_P배송문의
+장바구니 삭제 복구,DIGITAL_P찜기능안내
+유통기한 확인해주세요,MART_P유통기한문의
+행사 시작,MART_P행사상품문의
+차이 나는가,DIGITAL_P차이점
+오늘 받을 수 있는 제품,DIGITAL_P상담원연결
+기간이 끝낫어요,DIGITAL_P할인행사
+나 간다고,DIGITAL_P대화종료
+주소지상세히 쓸려구요,DIGITAL_P배송지변경문의
+구매확정쿠폰,DIGITAL_P쿠폰요청
+반납시 제품누락되어 배상,DIGITAL_P기타faq문의
+기능이 가능한지 궁금,DIGITAL_P상품문의_P상담원연결
+십일절 행사가 뭐,MART_P십일절
+마일지지 충전,DIGITAL_P기타faq문의
+입금자명은 뭘로,DIGITAL_P결제문의
+아이핀 인증을 해도,DIGITAL_P본인인증문의
+Vvip혜택좀알려줘,DIGITAL_P기타faq문의
+조금더 이야기 해 볼께요,DIGITAL_P대화종료
+취소 왜 안해,DIGITAL_P주문취소
+나중에 다시 상담,DIGITAL_P대화종료
+이벤트 문의,MART_P이벤트
+입금했어요,DIGITAL_P결제완료
+가입은 어떻게 하나요,DIGITAL_P회원정보문의
+마일리지 쓸래요,DIGITAL_P결제문의
+이벤트 당첨에 대해 문의,DIGITAL_P기타faq문의
+지난번 샀던,DIGITAL_P구매완료
+어느 제품이 괜찮을까요,DIGITAL_P상품문의_P상담원연결
+상품 주문이 안돼요,DIGITAL_P기타faq문의
+할인 쿠폰 적용되는 상품,DIGITAL_P쿠폰적용문의
+싼거 위주,MART_P행사상품
+1개만 도착,DIGITAL_P배송문의
+찾아보겠습니다 감사합니다,DIGITAL_P대화종료
+대화 이어서하기,DIGITAL_P대화계속
+교환상품 언제 수거,DIGITAL_P교환문의
+쿠폰 어떻게 받나요,DIGITAL_P쿠폰요청
+어떻게 성별을 적나요,DIGITAL_P기타faq문의
+본인 확인 전환 어떻게,DIGITAL_P본인인증문의
+증정품 함께 주세요,MART_P사은품문의
+인증회원으로변경,DIGITAL_P본인인증문의
+결제 문의 가능,DIGITAL_P결제문의
+토요일까지 올까요,DIGITAL_P배송문의
+포인트 적립일로,DIGITAL_P적립문의
+좋은건가요,DIGITAL_P상품문의_P상담원연결
+기분이 어때요,DIGITAL_P채팅
+상담 안해 주셔도 됩,DIGITAL_P상담요청안함
+널 갖고싶어,DIGITAL_P채팅
+티멤버 브아이비,DIGITAL_P기타faq문의
+카드사용 방법을몰라서,DIGITAL_P결제문의
+검색이 안됨,DIGITAL_P기타faq문의
+실시간상담가능한가요,DIGITAL_P상담시간
+추천 가능,DIGITAL_P추천
+싸다면 좋구요,MART_P행사상품
+주소변경은어떻게,DIGITAL_P배송지변경문의
+11페이 등록,DIGITAL_P결제문의
+사진 올릴래,DIGITAL_P사진올리기기능안내
+판매자와 연락이 안됨,DIGITAL_P판매자연락요청
+프로모션 중,MART_P이벤트 
+구매하러고하는데요,DIGITAL_P추천
+내가 자주 사던,MART_P자주구매상품
+쿠폰 받아,DIGITAL_P쿠폰요청
+확인하고 상담할게요,DIGITAL_P대화종료
+소음이 큰 편인가,DIGITAL_P소음문의
+상담내용삭제,DIGITAL_P기타faq문의
+취소 하고 카드 할인,DIGITAL_P결제문의
+배송비는 선불이니 후불이니,DIGITAL_P배송비문의
+해피캐쉬 이용,DIGITAL_P기타faq문의
+리뷰 보여,DIGITAL_P리뷰요청
+물어볼게있는데여,DIGITAL_P상담요청
+다음에 봐요,DIGITAL_P대화종료
+좀더 저렴한 상품 없니,MART_P할인문의
+사은품 없습니다,MART_P사은품문의
+난 그런거에 관심없어,DIGITAL_P채팅
+가격대는 얼마나 하는지,DIGITAL_P가격문의
+증정품 함께 배송되나요,MART_P사은품문의
+첫 구매 쿠폰,DIGITAL_P쿠폰요청
+vip조건,DIGITAL_P회원정보문의
+수입산인가요,MART_P원산지문의
+전자제품은 필요없어,DIGITAL_P상담품목
+추천사유 적는칸은 뭐에요,DIGITAL_P추천사유문의
+화요일 쿠폰,DIGITAL_P쿠폰요청
+빠른취소부탁,DIGITAL_P주문취소
+최근 제조된 상품으로 챙겨,MART_P새제품요청
+나중에 주문하죠,DIGITAL_P구매예정
+이전으로 돌아가,DIGITAL_P이전메뉴이동
+상품더보기,DIGITAL_P추가추천
+현대카트 혜택,DIGITAL_P할인문의
+쿠폰번호가 보이지 않습니다,DIGITAL_P쿠폰적용문의
+카드할인 쿠폰,DIGITAL_P쿠폰요청
+캐시 인출은 어떻게,DIGITAL_P기타faq문의
+쿠폰 받으려니깐,DIGITAL_P쿠폰요청
+11페이 땜에 불편,DIGITAL_P결제문의_GREETINGclaim
+쿠폰의 종류는 어떤 것,DIGITAL_P쿠폰문의_P기타faq문의
+전화가 왔습니다,DIGITAL_P고객센터문의
+난 갈게요 고마워요,DIGITAL_P대화종료
+얼마큼 차이인가,DIGITAL_P차이점
+이벤트 참여,MART_P이벤트
+반품은 없나요,DIGITAL_P반품문의
+교환물건이,DIGITAL_P교환문의
+내주문상품,DIGITAL_P주문이력확인
+알림이 뜨나요,DIGITAL_P알림설정문의_P기타faq문의
+핫딜상품 소개,MART_P행사상품문의
+신세계 상품권 사용,DIGITAL_P결제문의
+수취인확인,DIGITAL_P배송문의
+상담 채팅인가요,DIGITAL_P챗봇여부문의
+문의드려요,DIGITAL_P상담요청
+궁금증 해결됐어요,DIGITAL_P대화종료
+널 사랑하겠어,DIGITAL_P채팅
+반품 수거 안하나요,DIGITAL_P반품문의
+다음에 다시 연락,DIGITAL_P대화종료
+원산지와 생산지는 어디,MART_P원산지문의
+as 어떤가요,DIGITAL_Pa/s문의
+사진을 보내야 하는건가요,DIGITAL_P사진올리기기능안내
+목록에 있는거만 되나요,DIGITAL_P상담품목
+사용 가이드 뭐야,DIGITAL_P도움말보기
+쿠폰함확인,DIGITAL_P쿠폰요청
+다른제품 있나요,DIGITAL_P추가추천
+물건 고쳐줘,DIGITAL_Pa/s문의
+판매자연락요청,DIGITAL_P판매자연락요청
+주문건은 어디서 확인,DIGITAL_P기타faq문의
+쿠폰확인번호,DIGITAL_P기타faq문의
+십일픽 어떻게 쓰는거에요,DIGITAL_P기타faq문의
+이건 뭐에요,DIGITAL_P상담요청
+오늘 미세먼지는,DIGITAL_P채팅
+문화상품권으로 결제하려면,DIGITAL_P결제문의
+지점배송주소변경,DIGITAL_P배송지변경문의
+배송지추가 어떻게해요,DIGITAL_P배송지변경문의
+보상받으라는 문자,DIGITAL_P기타faq문의
+내아이디 알려,DIGITAL_P회원정보문의
+새지않게 보내,MART_P포장문의
+내가 찾는건 없네,DIGITAL_P상담품목
+구매진행 하려,DIGITAL_P구매예정
+구매한 사용권 취소,DIGITAL_P주문취소
+설치하려고 하는데,DIGITAL_P설치문의
+가격 그대로가 맞나요,DIGITAL_P가격문의
+할인쿠폰 달라구요,DIGITAL_P쿠폰요청
+몇인치 좋을까,DIGITAL_P사이즈문의
+나 살기힘들어,DIGITAL_P채팅
+교환품 있는데요,DIGITAL_P교환문의
+니가 좋아,DIGITAL_P채팅
+가격선이 어느정도인지,DIGITAL_P가격문의
+언제도착햐,DIGITAL_P배송문의
+얼마전에 구매한 상품,MART_P지난구매상품보기
+언제쯤 입고되나요,DIGITAL_P기타faq문의
+다른 품목,DIGITAL_P새상담
+여기는 뭐하는곳,DIGITAL_P상담품목
+계속해서 인증이안되네요,DIGITAL_P본인인증문의
+사용가능한 쿠폰이 없다는건,DIGITAL_P쿠폰적용문의
+NOW 배송,MART_Pnow배송설명요청
+쿠폰 받고 이번주 쓰려고,DIGITAL_P쿠폰적용문의
+또 만나기 싫은데,DIGITAL_P채팅
+비번 변경,DIGITAL_P기타faq문의
+티멤버십 한 번만 사용가능,DIGITAL_P티멤버십관련문의
+아이디삭제,DIGITAL_P회원정보문의
+비씨포인트,DIGITAL_P결제문의
+내일 또 봐,DIGITAL_P대화종료
+유효기간이 짧지 않나요,MART_P유통기한문의
+주문 배송,DIGITAL_P배송문의
+마일리지 문의,DIGITAL_P적립문의
+출고전 상품변경,DIGITAL_P기타faq문의
+다시 배송부탁드립니다,DIGITAL_P배송문의
+유효기간 언제,MART_P유통기한문의
+유효기간 확인하고 배송,MART_P새제품요청
+24시간 콜센터,DIGITAL_P고객센터문의
+챗봇 맞으세요,DIGITAL_P챗봇여부문의
+핸드폰번호를바꿨는데,DIGITAL_P회원정보문의
+티멤버십 등록,DIGITAL_P티멤버십관련문의_P기타faq문의
+가장 저렴한 가격,MART_P행사상품
+주문 전 여쭤볼게,DIGITAL_P상담요청
+나와 결혼해줘,DIGITAL_P채팅
+디지털챗봇이랑무슨사이야,"MART_P디지털챗봇호출,DIGITAL_GREETINGintro"
+수량이 부족,DIGITAL_P기타faq문의
+언제온데요,DIGITAL_P배송일문의
+담당자 접속,DIGITAL_P상담원연결
+상품이 잘못왔습니다,DIGITAL_P교환문의
+주소 어떻게 변경,DIGITAL_P배송지변경문의
+배송주소가 엉뚱한곳으로,DIGITAL_P배송지변경문의
+샀었는데요,DIGITAL_P구매완료
+차이 뭘까요,DIGITAL_P차이점
+챗봇 맞음,DIGITAL_P챗봇여부문의
+확인해보고 결정하,DIGITAL_P대화종료
+사은품 빠졌,MART_P사은품문의
+톡매니저는 어떻게 상담,DIGITAL_P상담원연결
+몇인용부터 있,DIGITAL_P사이즈문의
+취소 시 위약금이,DIGITAL_P기타faq문의
+쿠폰좀주삼,DIGITAL_P쿠폰요청
+싸게 구매 가능한 방법,DIGITAL_P할인행사
+구매한 제품 기록 필,DIGITAL_P주문이력확인
+취소완료된 물건이 도착,DIGITAL_P주문취소
+입금자명 달라도 돼,DIGITAL_P결제문의
+셀러메뉴는,DIGITAL_P기타faq문의
+배송비 쿠폰을 교환,DIGITAL_P기타faq문의
+11번가페이 사용하는 방법,DIGITAL_P결제문의
+본인 확인 어떻게,DIGITAL_P본인인증문의
+물품 판매하고 싶,DIGITAL_P기타faq문의
+그냥 검색해서 찾겠,DIGITAL_P대화종료
+적용이 안되고있어요,DIGITAL_P기타faq문의
+개인통관번호 기억이 안나,DIGITAL_P회원정보문의
+반품접수했는데,DIGITAL_P반품문의
+주말에 받을수,DIGITAL_P배송일문의
+언제 상담 가능한가요,DIGITAL_P상담시간
+대형마트와 연계된 상품,MART_P기타faq문의
+고민해보고 연락드릴게요,DIGITAL_P대화종료
+인공지능이신가요,DIGITAL_P챗봇여부문의
+쿠폰번호 입력은 어디서,DIGITAL_P쿠폰적용문의
+최저가혹시알수있을까요,DIGITAL_P가격문의
+모든 상담 가능,DIGITAL_P상담품목
+제품 고장,DIGITAL_Pa/s문의
+아 말을말자,DIGITAL_P대화종료
+내용물이 잘못들어있어요,DIGITAL_P기타faq문의
+단골 미니 등록은 어떻게,DIGITAL_P기타faq문의
+무슨 차이예요,DIGITAL_P차이점
+리뷰가 안써져요,DIGITAL_P기타faq문의
+sms알림,DIGITAL_P알림설정문의
+그 가격에 파는건가,DIGITAL_P가격문의
+캐시 인출,DIGITAL_P기타faq문의
+집에 가고 싶다,DIGITAL_P채팅
+언제 도착,DIGITAL_P배송일문의
+답변 받을 수,DIGITAL_P추천
+유머가 없네요,DIGITAL_P채팅
+거짓말하지마,DIGITAL_P채팅
+어떤 기능이 있나,MART_P마트챗봇문의
+고객상담원이 대응하는건가요,DIGITAL_P챗봇여부문의
+상담 가능하,DIGITAL_P상담요청
+정품이 아닌 것 같아요,MART_P정품문의
+일상대화는 안돼요,DIGITAL_P채팅
+내 상품 언제 도착해,DIGITAL_P배송일문의
+상품권으로 구매 방법,DIGITAL_P결제문의
+11pick를 선택하는법,DIGITAL_P배송문의
+택배 지연 가능성있다,DIGITAL_P배송문의
+중지하고 싶은데,DIGITAL_P기타faq문의
+차이 뭐가요,DIGITAL_P차이점
+최신 제조일자로 꼼꼼하게,MART_P새제품요청
+게릴라쿠폰이 안뜨나요,DIGITAL_P쿠폰요청
+폐가전 수거,DIGITAL_P폐가전수거 
+상담원통화안돼요,DIGITAL_P전화요청
+송장 번호가 안 떠요,DIGITAL_P배송문의
+교환신청 해 놨는데,DIGITAL_P교환문의
+내맘대로플러 쿠폰팩,DIGITAL_P할인문의
+베송지 변경 가능할까요,DIGITAL_P배송지변경문의
+기획전 문의드립니다,DIGITAL_P할인행사
+크기 가늠이 안되오,DIGITAL_P사이즈문의
+딴 category,DIGITAL_P새상담
+쿠폰 취소할 수,DIGITAL_P쿠폰적용문의
+아이스팩 포장,MART_P아이스팩문의
+내일 전화로 하겠습니다,DIGITAL_P대화종료
+추가로 더 할인되는 쿠폰,DIGITAL_P쿠폰요청
+선물하기기능,DIGITAL_P기타faq문의
+리뷰 평점은 어때요,DIGITAL_P리뷰평점문의
+모든상품보기,DIGITAL_P추천
+차이 있는건가요,DIGITAL_P차이점
+아 갈께요,DIGITAL_P대화종료
+시럽월넛쿠폰사용,DIGITAL_P쿠폰적용문의
+환불이 필요해,DIGITAL_P환불문의
+이메일 상담,DIGITAL_P기타faq문의
+리뷰가 궁금해요,DIGITAL_P리뷰요청
+추천해준 이유,DIGITAL_P추천기준
+디지털 말고 다른 제품은,DIGITAL_P상담품목
+할인 쿠폰 발급,DIGITAL_P쿠폰요청
+전화 주시면 안되나,DIGITAL_P전화요청
+가격대 어느 정도인가요,DIGITAL_P가격문의
+어제랑 가격이 또 달라요,DIGITAL_P가격차이
+답만 남겨주세요,DIGITAL_P대화종료
+페이코 가입후 첫거래,DIGITAL_P결제문의
+재고 없나요,DIGITAL_P재고문의_P상담원연결 
+찜 기능 설명좀,DIGITAL_P찜기능안내
+내가 찾아볼께,DIGITAL_P대화종료
+조립 방법을 알려줘,DIGITAL_P기타faq문의
+결제를 했는데,DIGITAL_P결제완료
+쿠폰 쓸 수 잇는 거 잇나,DIGITAL_P쿠폰적용문의
+상품평 어디서 쓰나요,DIGITAL_P기타faq문의
+컴퓨터 아니죠,DIGITAL_P챗봇여부문의
+ai인가요,DIGITAL_P챗봇여부문의
+통화 가능하신지요,DIGITAL_P전화요청
+어제안왓어요,DIGITAL_P배송문의
+11페이 한도,DIGITAL_P결제문의
+now배송쿠폰,DIGITAL_P쿠폰요청
+뭐가 잘나가냐,DIGITAL_P추천
+수거해 갔는데 연락,DIGITAL_P교환문의
+돌릴수있는 사양일까요,DIGITAL_P사양문의
+주말에도 상담하나요,DIGITAL_P상담시간
+상담원하고 강간,DIGITAL_P19금
+이거는 왜케싸요,DIGITAL_P가격문의
+반품언데되아요,DIGITAL_P반품문의
+기능을 알려줘,DIGITAL_P상품문의
+차이 좀 알려주세요,DIGITAL_P차이점
+나머지 카드 하면 안되나요,DIGITAL_P결제문의
+구매후기를 구매확정 누르고,DIGITAL_P구매완료
+전문가님께 여쭈어봅니다,DIGITAL_P상담원연결
+선물함은 어디있냐구,DIGITAL_P기타faq문의
+할부 전환,DIGITAL_P결제문의
+어디로 연락을 해야,DIGITAL_P기타faq문의
+첫번째 쿠폰 이상한데,DIGITAL_P쿠폰적용문의
+본인 인증은 어디서,DIGITAL_P본인인증문의
+싸고 좋은거 뭐야,MART_P행사상품
+아동 쿠폰,DIGITAL_P쿠폰요청
+자동충전 취소,DIGITAL_P기타faq문의
+마트챗봇 어디서 팔아요,DIGITAL_P채팅
+취소도 가능한지도,DIGITAL_P주문취소
+뭐 살거 없니,DIGITAL_P추천
+감사합니다 찾앗습니다,DIGITAL_P대화종료
+성별을 어디에다 적어,DIGITAL_P기타faq문의
+톡매니저가 뭘하죠,DIGITAL_P톡매니저
+챗봇 사은품,MART_P이벤트
+우짜하는거에요,DIGITAL_P도움말보기
+브랜드딜 시작 시간,DIGITAL_P행사문의
+핫딜있나요,DIGITAL_P행사문의
+문의 사항 있습,DIGITAL_P상담요청
+주문할때 티멤버쉽,DIGITAL_P결제문의
+상담 신청합니다,DIGITAL_P상담요청
+전화 안주나요,DIGITAL_P전화요청
+다른 물건을 보여주세요,DIGITAL_P추가추천
+배송 주소지를 바꾸고싶어요,DIGITAL_P배송지변경문의
+택배사 연락처,MART_P배송문의
+돈을 추가로 내야 하나,DIGITAL_P기타faq문의
+이런거 몰라요,DIGITAL_P상담품목
+활인 쿠폰 쓰는 것 좀,DIGITAL_P쿠폰적용문의
+예전사용하던 전번,DIGITAL_P회원정보문의
+뭐가있는데,DIGITAL_P상담품목
+조금 후에 다시,DIGITAL_P대화종료
+가격이 왜 자꾸 올라감,DIGITAL_P가격문의
+궁금한게 있습니다,DIGITAL_P상담요청
+누가 조종,DIGITAL_P채팅
+입고 요청,MART_P재입고문의
+제품이상으로인한 교환 반품,DIGITAL_P교환문의
+11플레이 결재,DIGITAL_P결제문의
+처음으로 갈래요,DIGITAL_P처음으로
+사람 대답하고 계시는 건가,DIGITAL_P챗봇여부문의
+이제품 관심갖고 있습니다,DIGITAL_P상품문의_P상담원연결
+11번가 알림메세지,DIGITAL_P기타faq문의
+내가 맨날 사는거,MART_P자주구매상품
+쇼핑백 보내주세요,MART_P쇼핑백문의
+탈퇴 어떻게 해요,DIGITAL_P회원정보문의
+배송중인 상품보여줘,DIGITAL_P주문이력확인
+톡매니저가 뭐에요,DIGITAL_P톡매니저
+제품을 방금 받았는데,DIGITAL_P배송완료
+얼마인지요,DIGITAL_P가격문의
+가격이 달라서요,DIGITAL_P가격차이
+더 싸게는 안되나요,MART_P할인문의
+마트챗봇이랑무슨사이야,"DIGITAL_P마트챗봇호출,MART_GREETINGcall"
+사진 어떻게 올,DIGITAL_P사진올리기기능안내
+방문해서 수령가,DIGITAL_P배송문의
+찜 상품 보기,DIGITAL_P찜한상품
+넌 무얼 팔고있니,DIGITAL_P추천
+수리문의는 어디에서,DIGITAL_Pa/s문의
+최대한 저렴한,MART_P행사상품
+이전 속성,DIGITAL_P이전메뉴이동
+11번가 상담사 채팅,DIGITAL_P상담원연결
+단골매장 등록,DIGITAL_P기타faq문의
+디자인 이쁜,DIGITAL_P디자인문의
+전자만 가능한가요,DIGITAL_P상담품목
+이벤트 상품,MART_P이벤트
+너 자동이니,DIGITAL_P챗봇여부문의
+지나간쇼킹딜보고싶어요,"MART_P쇼킹딜,DIGITAL_P쇼킹딜"
+일시불 결제했는데요,DIGITAL_P결제완료
+이벤트응모,DIGITAL_P행사문의
+바꾸고싶어요,DIGITAL_P교환문의
+상품 선택 어떻게,DIGITAL_P도움말보기
+쿠폰 같은 것 있나,DIGITAL_P쿠폰요청
+이름이 왜 바로,DIGITAL_P채팅
+다음번에 상담 요청할게,DIGITAL_P대화종료
+방문을 해서 픽업,DIGITAL_P배송문의
+배송 상태 확인,DIGITAL_P배송문의
+생각하고 있,DIGITAL_P추천
+가품은 어떻게 처리,DIGITAL_P기타faq문의
+아이디 확인,DIGITAL_P회원정보문의
+제조일 어떻게,MART_P제조일자문의
+배송지연 마일리지,DIGITAL_P적립문의
+제조일자 확인,MART_P제조일자문의
+뭐좀 물어볼깨요,DIGITAL_P상담요청
+받은 물건이 불량이라,DIGITAL_P반품문의
+데이터무제한,DIGITAL_P기타faq문의
+오늘오나요,DIGITAL_P배송일문의
+디지털에 관한게 아닙니다,DIGITAL_P상담품목
+이야기좀하자,DIGITAL_P채팅
+담에 살께요,DIGITAL_P대화종료
+5천원쿠폰,DIGITAL_P쿠폰요청
+부탁해놓았는데 안가지러 오,DIGITAL_P반품문의
+로봇 상담이에요 아님 사람,DIGITAL_P챗봇여부문의
+사진 보내드,DIGITAL_P사진올리기기능안내
+문화상품권도 결재가능,DIGITAL_P결제문의
+쇼핑가능품목,DIGITAL_P상담품목
+득템 상품 소개,MART_P행사상품문의
+핫딜 상품은 뭔가,DIGITAL_P행사문의
+지정 배송,DIGITAL_P배송일문의
+사은품도 함께 배송 부탁,MART_P사은품문의
+할인행사 종료,MART_P행사상품문의
+가격 얼마나,DIGITAL_P가격문의
+쿠폰 받는 곳,DIGITAL_P쿠폰요청
+십일절 특가 뭐야,DIGITAL_P행사문의
+다중 검색 하는게 어려워요,MART_P다중검색문의
+바로가기 설정,DIGITAL_P기타faq문의
+가격대 좀 알아볼라고,DIGITAL_P가격문의
+기본배송지,DIGITAL_P회원정보문의
+마일리지 확인,DIGITAL_P기타faq문의
+상품 언제쯤 오나요,DIGITAL_P배송일문의
+다른 카테고리,DIGITAL_P새상담
+전화번호 인증,DIGITAL_P본인인증문의
+전화번호 어떻게 바꿔,DIGITAL_P회원정보문의
+제 아이디가 뭐죠,DIGITAL_P본인인증문의
+사람 연결해주세요,DIGITAL_P상담원연결
+쿠폰 상품권 재발급 되나요,DIGITAL_P기타faq문의
+에이에스 되는거죠,DIGITAL_Pa/s문의
+팔려고합니다,DIGITAL_P기타faq문의
+티멤버쉽이 안떠요,DIGITAL_P결제문의
+이벤트 언제,MART_P이벤트
+t카드번호 입력해야,DIGITAL_P기타faq문의
+다시찾을께,DIGITAL_P새상담
+쿠폰 어째 쓰,DIGITAL_P쿠폰적용문의
+이걸 어떻게 아니,DIGITAL_P채팅
+앱 한글이 깨져요,DIGITAL_P기타faq문의
+생일 혜택주세요,DIGITAL_P쿠폰요청
+용건이나 말하라는 거구나,DIGITAL_P채팅
+설치비 문의 되나요,DIGITAL_P설치비문의
+주문한 내역,DIGITAL_P주문이력확인
+아이디 문제,DIGITAL_P회원정보문의
+내맘대로 플러스 쿠폰팩,DIGITAL_P쿠폰요청
+그럼 어디서,DIGITAL_P기타faq문의
+아직안들어왔네요,DIGITAL_P환불문의
+결제수단을 바꿀 수 있나요,DIGITAL_P결제문의
+상점 이름 검색,DIGITAL_P기타faq문의
+제발 답좀 해줘,DIGITAL_P기타faq문의
+연락주시면 안,DIGITAL_P전화요청
+카테고리 말고 다른 것은,DIGITAL_P상담품목
+1대1일 상담,DIGITAL_P상담원연결
+오늘 발송해,DIGITAL_P배송일문의
+제가 조금있다가 확인,DIGITAL_P대화종료
+중에 뭐가 좋,DIGITAL_P상품비교
+가전제품만 상담,DIGITAL_P상담품목
+다른사람 이름으로 입금,DIGITAL_P입금문의
+샀던 곳 알려줘,DIGITAL_P기타faq문의
+사람이에요,DIGITAL_P챗봇여부문의
+재밌는 거 없을까,DIGITAL_P채팅
+고객센터 전화번호,DIGITAL_P고객센터문의
+물건이 안와,DIGITAL_P배송문의
+비용이 얼마 정도인가요,DIGITAL_P가격문의
+영수증출력은 어떻게 하나요,DIGITAL_P기타faq문의
+환불받을 수 있나요,DIGITAL_P환불문의
+서비스 에러,DIGITAL_P기타faq문의
+환불 문의,DIGITAL_P환불문의 
+장바구니 넣기,MART_P장바구니담기
+취소 눌러져 버렸어요,DIGITAL_P주문취소
+디지털상품만 문의하나요,DIGITAL_P상담품목
+아는게 뭐야,DIGITAL_P채팅
+a s 기간 언제까지,DIGITAL_Pa/s문의
+다음에 할께요,DIGITAL_P대화종료
+주소 어케 바꾸냐,DIGITAL_P배송지변경문의
+가격차이 많이 나서요,DIGITAL_P가격차이
+빨리 말해,DIGITAL_P채팅
+결제창에 안뜨던데요,DIGITAL_P결제문의
+포장방법 바뀌,MART_P포장문의
+물건 비싼거에요,DIGITAL_P가격문의
+후기 수정 어떻게,DIGITAL_P기타faq문의
+수리 신청 하고싶은데요,DIGITAL_Pa/s문의
+반환관련요,DIGITAL_P교환문의
+상품 상담 가능,DIGITAL_P상담요청
+삼개월이상 미구매고객,DIGITAL_P쿠폰요청
+상품 알아봐주세요,DIGITAL_P추천
+결제 취소하려구요,DIGITAL_P결제문의
+쿠폰 적용 왜 안되나,DIGITAL_P쿠폰적용문의
+선물하기 구매선택 메뉴,DIGITAL_P기타faq문의
+가격대은요,DIGITAL_P가격문의
+추천도 가능,DIGITAL_P추천
+두툼 사용,DIGITAL_P기타faq문의
+일하기 싫어,DIGITAL_P채팅
+가품일 경우,DIGITAL_P기타faq문의
+할인혜택이 많은 제품,MART_P행사상품
+배송기사 연락처,MART_P배송문의
+송장 정보 주세요,DIGITAL_P배송문의
+다른것 보여줘,DIGITAL_P추가추천
+상담이 안돼나요,DIGITAL_P상담시간
+알림좀 보내지마,DIGITAL_P알림설정문의_P기타faq문의
+문화 상품권으로 구매,DIGITAL_P결제문의
+vvip 전용관,DIGITAL_P기타faq문의
+상품교환쿠폰,DIGITAL_P쿠폰요청
+가격은 얼마야,DIGITAL_P가격문의
+가격대 어느 정도,DIGITAL_P가격문의
+상품미도착,DIGITAL_P배송문의
+신용카드 해제,DIGITAL_P결제문의
+캐시는 어떻게 사용,DIGITAL_P기타faq문의
+꼼꼼하게 챙겨주세요,MART_P포장문의
+차단된 팝업 허용,DIGITAL_P기타faq문의
+맛있는 음식,MART_P추천
+브랜드는 어디예요,DIGITAL_P브랜드문의
+편의점택배로 보낸 후,DIGITAL_P반품문의
+본인인증이왜안돼지,DIGITAL_P본인인증문의
+맨 처음으로,DIGITAL_P처음으로
+무배인가요,DIGITAL_P배송비문의
+m포인트 적용이 안돼요,DIGITAL_P결제문의
+가격대가 만만치 않네요,DIGITAL_P가격문의
+한꺼번에 주문,DIGITAL_P결제문의
+11번가페이 오류,DIGITAL_P결제문의
+왜 환불안됨,DIGITAL_P환불문의
+제품별 차이점,DIGITAL_P제품별차이점
+구매의사결정을,DIGITAL_P구매예정
+그것도 안내부탁,DIGITAL_P상품문의_P상담원연결
+상품이 반송되었어요,DIGITAL_P배송문의
+사진을 전송하려하면 튕기,DIGITAL_P사진올리기기능안내
+어떻게 도와주나요,DIGITAL_P도움말보기
+사이즈 맞을까요,MART_P사이즈문의
+배송시작이 안되고있네요,DIGITAL_P배송문의
+할인쿠폰어떻게 사용하나요,DIGITAL_P쿠폰적용문의
+매장 제품이랑 뭐가 달라요,DIGITAL_P제품별차이점
+취소 알려주세요,DIGITAL_P주문취소
+추천사유문의,DIGITAL_P추천사유문의
+다운로드가 안돼요,DIGITAL_P기타faq문의
+서비스센터 정보,DIGITAL_Pa/s문의
+여기는 뭐하는곳,MART_P마트챗봇문의
+에이에스문의하려구요,DIGITAL_Pa/s문의
+이용방법 좀 알려,DIGITAL_P도움말보기
+가격은 둘다비슷한가요,DIGITAL_P가격문의
+포인트사용 어떻게 하나요,DIGITAL_P기타faq문의
+혜택받을수있나요,DIGITAL_P쿠폰요청
+포인트 주신다고 했었는데,DIGITAL_P적립문의
+공유하기 되나요,DIGITAL_P기타faq문의
+혼자말하니,DIGITAL_P채팅
+저의 아이디를 알고 싶어요,DIGITAL_P회원정보문의
+니가 골라봐,DIGITAL_P채팅
+참고해서 구입하겠습니다,DIGITAL_P구매예정
+구매취소 환불,DIGITAL_P환불문의
+요일에 시켰는데요,DIGITAL_P배송일문의
+연말 행사제품,DIGITAL_P할인행사
+여기에는 없어,DIGITAL_P추가추천
+페이스북 연동,DIGITAL_P기타faq문의
+기능이 다 다른 거에요,DIGITAL_P상품문의_P상담원연결
+사고싶은걸 물으면,DIGITAL_P상담요청
+구매 목록은 어디서,DIGITAL_P주문이력확인
+tutorial,DIGITAL_P도움말보기
+카톡 보내줘,DIGITAL_P채팅
+혜택이나 쿠폰은 없나요,DIGITAL_P쿠폰요청
+아직 배송중,DIGITAL_P배송문의
+24시간 고객쎈타하나요,DIGITAL_P고객센터문의
+다른 메뉴,DIGITAL_P도움말보기
+카드취소요청부탁드려요,DIGITAL_P결제문의
+상품받았는데,DIGITAL_P배송완료
+두툼 쿠폰 입력,DIGITAL_P쿠폰적용문의
+다음에 구매해야겠네요,DIGITAL_P대화종료
+내 몸무게,DIGITAL_P채팅
+쿠폰위치가 어디,DIGITAL_P쿠폰요청
+차이 있는지,DIGITAL_P차이점
+티멤버쉽 할인 관련,DIGITAL_P기타faq문의
+내 지역을 바꾸려면,DIGITAL_P회원정보문의
+다중 검색,MART_P다중검색실행
+돈이 안들어와,DIGITAL_P환불문의
+다른 제품,DIGITAL_P추가추천
+웰컴딜쿠폰 사용법,DIGITAL_P쿠폰적용문의
+쇼핑톡인가요,DIGITAL_P상담품목
+now배송쿠폰,MART_P쿠폰요청
+아이디찾기,DIGITAL_P회원정보문의
+오늘두상담원연결가능,DIGITAL_P상담시간
+포인트 사용했는데,DIGITAL_P결제문의
+쿠폰어디다쓸수있,DIGITAL_P쿠폰적용문의
+할인 하는 상품 알려,MART_P행사상품문의
+구매평 작성이 안돼요,DIGITAL_P기타faq문의
+예전 구매이력,DIGITAL_P주문이력확인
+대해 설명해 주세요,"FAQ_P도움말요청,DIGITAL_P설명요청"
+찾고있습니다,DIGITAL_P추천
+못 찾겠어요,DIGITAL_P상담요청
+사이즈는 어떻게 다르나요,DIGITAL_P사이즈문의
+배송이 지연되는데,DIGITAL_P배송문의
+임금 확인 부탁,DIGITAL_P환불문의
+사양 어떤가,DIGITAL_P사양문의
+반품 가능,MART_P반품문의
+반품이 안되고있습니다,DIGITAL_P반품문의
+내가필요한거,DIGITAL_P추천
+딴거보고싶으요,DIGITAL_P새상담
+유효기간 좀 알려,MART_P유통기한문의
+사업자번호,DIGITAL_P기타faq문의
+반품 어떻게,MART_P반품문의
+너무 비싼데 저렴헌 것은,MART_P행사상품
+쿠폰 사용이 되지 않아,DIGITAL_P쿠폰적용문의
+사용 방법이 뭔가요,DIGITAL_P도움말보기
+담당자 연결해,DIGITAL_P상담원연결
+상품이 파손되어 왔는데요,DIGITAL_P교환문의
+검색이 안되여,DIGITAL_P기타faq문의
+취소 관련 문의,DIGITAL_P주문취소
+내 등급읗 알려줘,DIGITAL_P회원정보문의
+생산일자 알려,MART_P제조일자문의
+고객센터 문의되는건가요,DIGITAL_P고객센터문의
+이방 어떻게 나가니,DIGITAL_P대화종료
+쿠폰 사용방법,DIGITAL_P쿠폰적용문의
+구매목록 확인할수 있나요,DIGITAL_P주문이력확인
+마트챗봇 행사상품,MART_P할인행사
+이메일 안오게 할수있나요,DIGITAL_P기타faq문의
+상품 상태,DIGITAL_P기타faq문의
+취소부탁드려요,DIGITAL_P주문취소
+언제쯤 환불이 되서,DIGITAL_P환불문의
+주문이 안됩니다,DIGITAL_P기타faq문의
+판매순위문의,DIGITAL_P판매순위문의_RECOMpopular
+통화가 안되네여,DIGITAL_P전화요청
+교환중인상품,DIGITAL_P교환문의
+싼 브랜드,MART_P행사상품
+쿠폰왜안줘,DIGITAL_P쿠폰요청
+본인인증하라고,DIGITAL_P본인인증문의
+온 오프라인모델차이,DIGITAL_P제품별차이점 
+통화가 가능한가요,DIGITAL_P전화요청
+뭘 찾는게 좋을까,DIGITAL_P추천
+정보 있으신가요,DIGITAL_P상담요청
+상품을 받을 수 있는지,MART_P배송문의
+문자 보내줘,DIGITAL_P채팅
+저 이제 갈께요,DIGITAL_P대화종료
+추천해준 이유가 무엇,DIGITAL_P추천기준
+카드 할인이 있나요,DIGITAL_P결제문의
+취소할 수 있나요,DIGITAL_P주문취소
+쿠폰이 안오네요,DIGITAL_P기타faq문의
+주문하면 내일오나요,DIGITAL_P배송일문의
+수리해야 될 것 같아요,DIGITAL_Pa/s문의
+내가 잘 사는거,MART_P자주구매상품
+교환할때 돈이들어요,DIGITAL_P교환문의
+딜은 어떻게 사용하나요,DIGITAL_P할인문의
+주문취소 확인 전화,DIGITAL_P주문취소
+이벤트 어떻게 하,MART_P이벤트
+지금 상담할 수 있나요,DIGITAL_P상담시간
+취소확인은 어떻게 하나요,DIGITAL_P주문취소
+목요일까지 받아야,DIGITAL_P배송일문의
+배송지에 사람이 없는데,DIGITAL_P배송문의
+자꾸 에러가나요,DIGITAL_P기타faq문의
+물품 샀는데,DIGITAL_P구매완료
+적용 가능 쿠폰 알려주,DIGITAL_P쿠폰적용문의
+왜 이렇게 비싸요,DIGITAL_P가격차이
+찜이 뭐야,DIGITAL_P찜기능안내
+다른 상담도 가능한가요,DIGITAL_P상담품목
+쿠폰 어디서 적용하지,DIGITAL_P쿠폰적용문의
+데이터충전,DIGITAL_P기타faq문의
+판매자 에게,DIGITAL_P판매자연락요청
+해지 방법,DIGITAL_P기타faq문의
+사진업로드,DIGITAL_P사진올리기기능안내
+이름좀 변경 할려고요,DIGITAL_P기타faq문의
+톡매니저 운영시간,DIGITAL_P상담시간
+물건 배송 안헤주,DIGITAL_P배송문의
+밥은 먹고 다니냐,DIGITAL_P채팅
+다른 상품이 배송되었어요,DIGITAL_P배송문의
+서비스가 보이지 않아요,DIGITAL_P기타faq문의
+상담 불가능,DIGITAL_P상담요청
+차이점도 자세히 알려주세요,DIGITAL_P차이점
+궁금해서 그냥,DIGITAL_P상담요청
+지금 결제할,MART_P구매
+캐쉬사용법,DIGITAL_P기타faq문의
+너 남자니,DIGITAL_P채팅
+딴 상품 보고 싶어,DIGITAL_P추가추천
+사진 기능,DIGITAL_P사진올리기기능안내
+아니 상담좀요,DIGITAL_P상담요청
+상담 가능 품목,DIGITAL_P상담품목
+택배예정일,DIGITAL_P배송일문의
+등록 어떻게해요,DIGITAL_P기타faq문의
+비싼거아닌가요,DIGITAL_P가격문의
+vvip 조건이 어떻게,DIGITAL_P기타faq문의
+배송 오늘 하면 언제 오나,DIGITAL_P배송일문의
+최근배송지 삭제어떻게하나요,DIGITAL_P기타faq문의
+품절 입고되나요,MART_P재입고문의
+주문한 상품은 언제 배송,DIGITAL_P배송일문의
+소형인가요,DIGITAL_P사이즈문의
+구매하기를 누르면,DIGITAL_P구매예정
+아무것도적용이안되요,DIGITAL_P쿠폰적용문의
+다시 문의 드릴,DIGITAL_P대화종료
+전자기기만 상담,DIGITAL_P상담품목
+입금 안됨,DIGITAL_P환불문의
+뭘 사면 좋을지 모르겠어,DIGITAL_P추천
+환불처리갸 어떻게,DIGITAL_P환불문의
+관리자 통화요청,DIGITAL_P전화요청
+상담하는곳아닌가요,DIGITAL_P상담품목
+난 거지다,DIGITAL_P채팅
+난중에 다시하라구요,DIGITAL_P대화종료
+반납관련 알아보시,DIGITAL_P반품문의
+생산지가 어떻게 되나요,MART_P원산지문의
+할인 쿠폰 문의,DIGITAL_P쿠폰요청
+할인행사 알려,MART_P행사상품문의
+무슨 기능인가요,DIGITAL_P상품문의_P상담원연결
+너 살아 있냐고,DIGITAL_P채팅
+상담 가능한게 뭐야,DIGITAL_P상담품목
+당일 발송 인가요,DIGITAL_P배송문의
+새벽이라 상담사,DIGITAL_P상담시간
+사람이세요,DIGITAL_P챗봇여부문의
+주문하신건도착시간확인,DIGITAL_P배송문의
+내가 구매한 상품,DIGITAL_P주문이력확인
+t나는 쇼핑포인트,DIGITAL_P기타faq문의
+너가뿌뿡이,DIGITAL_P채팅
+일본어지원 되나요,DIGITAL_P언어지원문의
+대화를 해서 즐거웠어요,DIGITAL_P대화종료
+이슈결재창 주세요,DIGITAL_P기타faq문의
+트위터로 공유하고 싶어요,DIGITAL_P기타faq문의
+최근주문상품,DIGITAL_P주문이력확인
+내일 바로 배송오는 상품,MART_P배송문의
+다음에 주문할께,DIGITAL_P주문예정
+너 안좋아해,DIGITAL_P채팅
+내가 주문한,MART_P지난구매상품보기
+반납할 제품을 아직 안가져,DIGITAL_P반품문의_CATEN대여
+배송지설정,DIGITAL_P배송지변경문의
+어디서 찾아야 하나오,DIGITAL_P상담원연결
+개이득 상품,MART_P행사상품문의
+최소사양은 어떻게,DIGITAL_P사양문의
+제품생산년도,MART_P제조일자문의
+지문인식 설정은 어디서,DIGITAL_P기타faq문의
+많이 비싸지 않았으면,MART_P행사상품
+로봇이에요,DIGITAL_P챗봇여부문의
+기존에 샀던 상품,MART_P지난구매상품보기
+다중 검색이 뭐예요,MART_P다중검색문의
+저렴한거부,MART_P행사상품
+뭐가 싸니,DIGITAL_P추천
+카드입력하는곳,DIGITAL_P결제문의
+취소후 쿠폰반납,DIGITAL_P쿠폰적용문의
+11번가 앱알리미,DIGITAL_P기타faq문의
+딴주소로 보낼려고 하는데,DIGITAL_P배송지변경문의
+다시 상담,DIGITAL_P새상담
+멤버십카드인증,DIGITAL_P티멤버십관련문의_P기타faq문의
+널 구속할거야,DIGITAL_P채팅
+쿠폰 발급 가능,DIGITAL_P쿠폰요청
+거래내역 증빙서류,DIGITAL_P기타faq문의
+모델명이 다른 이유가,DIGITAL_P제품별차이점
+남자니 여자니,DIGITAL_P채팅
+연장가능한지요,DIGITAL_P기타faq문의
+폐가전 회수,DIGITAL_P폐가전수거 
+재발송 언제,DIGITAL_P배송문의
+점심약속 있어 나중에,DIGITAL_P대화종료
+샀었는데 이력이남았나요,DIGITAL_P기타faq문의
+방금 주문한 걸 취소,DIGITAL_P주문취소
+상담여기서 하면되요,DIGITAL_P상담요청
+영수증 발급,DIGITAL_P기타faq문의
+거래내역삭제,DIGITAL_P주문이력확인
+할인쿠폰이 사라졌어요,DIGITAL_P쿠폰요청
+하나만 왔어요,DIGITAL_P배송문의
+t멤버쉽 해택 상품,DIGITAL_P할인문의
+최근 제조된 상품으로 배송,MART_P새제품요청
+판매자는 어디서 알수잇나요,DIGITAL_P판매자연락요청
+살 수 있을 것 같아요,DIGITAL_P구매예정
+실시간으로 메시지를 직접,DIGITAL_P챗봇여부문의
+몇시까지입니까,DIGITAL_P상담시간
+잘못 결제로 취소,DIGITAL_P결제문의
+제가 반품을 시켰는데,DIGITAL_P반품문의
+skt 무제한 데이터,DIGITAL_P기타faq문의
+받았는데 기스가 있어서요,DIGITAL_P교환문의
+뭐가 좋아,DIGITAL_P추천
+전화를 주시면 감사합니다,DIGITAL_P전화요청
+할인되는 쿠폰은,DIGITAL_P쿠폰요청
+다시 받기도 안되구요,DIGITAL_P쿠폰요청
+현금영수증은 어떻게 신청,DIGITAL_P현금영수증문의
+사람이에여 로봇이에여,DIGITAL_P챗봇여부문의
+쿠폰인증번호가 뭔가요,DIGITAL_P쿠폰인증번호문의
+모가 달라요,DIGITAL_P차이점
+입금 문의,DIGITAL_P환불문의
+알아봐주세요,DIGITAL_P추천
+언어 변경,DIGITAL_P기타faq문의
+증정품 누락,MART_P사은품문의
+상품 업데이트 없나,DIGITAL_P기타faq문의
+박스당 몇키로,DIGITAL_P상품문의
+택배는 언제 오나요,DIGITAL_P배송일문의
+프로모션 문의,MART_P이벤트 
+생산일자 가장 최근 확인,MART_P제조일자문의
+어떤 기준이야,DIGITAL_P기타faq문의
+상담 느그랑 하나여,DIGITAL_P상담원연결
+전화 잘 안받는데 어떻하죠,DIGITAL_P전화요청
+상담사 연락처 주세요,DIGITAL_P상담원연결
+주소가안돼요,DIGITAL_P기타faq문의
+적립금 사용방법,DIGITAL_P기타faq문의
+챗봇이가골라줘,DIGITAL_P추천
+나의쇼핑리스트,DIGITAL_P기타faq문의
+반송한물품은언제,DIGITAL_P반품문의
+입금이 안된걸로 나오네요,DIGITAL_P결제문의
+주소 어떻게 바꾸,DIGITAL_P배송지변경문의
+배송보상지연,DIGITAL_P적립문의
+연락주시기로 했는데,DIGITAL_P전화요청
+입금 좀 빨리해주세요,DIGITAL_P환불문의
+여기엔 없으,DIGITAL_P추가추천
+상품으로 알려주세요,DIGITAL_P추천
+오케이케쉬백적립,DIGITAL_P적립문의
+통화연결이 너무힘드네요,DIGITAL_P전화요청
+푸쉬기능 정지 요청,DIGITAL_P기타faq문의
+가입 대상은 어떻게 되나요,DIGITAL_P기타faq문의
+넌 뭘 잘하니,DIGITAL_P상담품목
+계속 안오구 있어요,DIGITAL_P배송문의
+얘기하면 안될까,DIGITAL_P채팅
+전체 취소 다 된거맞죠,DIGITAL_P주문취소
+챗봇 서비스는 어디서 이용,DIGITAL_P기타faq문의
+환불계좌를 변경하고 싶어요,DIGITAL_P환불문의
+차이 무엇인가요,DIGITAL_P차이점
+마일리지할인은 어디에 문의,DIGITAL_P할인문의
+최근 제조일 챙겨,MART_P새제품요청
+1 1상품,MART_P할인행사
+무배가 안되네요,DIGITAL_P배송비문의
+단골가게 선택,DIGITAL_P기타faq문의
+장바구니에 넣어줘,MART_P장바구니담기
+쿠폰은 어떤 물건에 사용가,DIGITAL_P쿠폰적용문의
+경품주세요,DIGITAL_P채팅
+케쉬백 질문요,DIGITAL_P기타faq문의
+데이터로11번가를 이용할,DIGITAL_P기타faq문의
+디지털페어,DIGITAL_P할인행사
+사진 올리기,DIGITAL_P사진올리기기능안내
+vip 쿠폰,DIGITAL_P기타faq문의
+등급이 안올라가나요,DIGITAL_P기타faq문의
+앞으로 잘 부탁해요,DIGITAL_P대화종료
+가입할려고 하는데요,DIGITAL_P기타faq문의
+목요일 쿠폰,DIGITAL_P쿠폰요청
+포인트 사용하고 싶어요,DIGITAL_P결제문의
+채팅 가능,DIGITAL_P채팅
+저번에 산 상품 주문,MART_P지난구매상품보기
+14세미만 가입,DIGITAL_P기타faq문의
+내일 뭐해,DIGITAL_P채팅
+창 어딧냐고,DIGITAL_P기타faq문의
+할인 쿠폰 좀,DIGITAL_P쿠폰요청
+상담원 예약,DIGITAL_P기타faq문의
+안심번호 서비스란,DIGITAL_P기타faq문의
+설치비 없는 거,DIGITAL_P설치비문의
+반품하려고,DIGITAL_P반품문의
+빨리 알려줘,DIGITAL_P상담요청
+증빙서류는 어떻게 하나요,DIGITAL_P기타faq문의
+물건이 잘못 배송,DIGITAL_P배송문의
+최근 구매 리스트,MART_P지난구매상품보기
+쿠폰다운불가,DIGITAL_P기타faq문의
+주소이전할려고여,DIGITAL_P회원정보문의
+입금해야할 금액,DIGITAL_P결제문의
+다른 기능은요,DIGITAL_P상품문의_P상담원연결
+통화요청합니다,DIGITAL_P전화요청
+컬쳐캐쉬는 어떻게,DIGITAL_P기타faq문의
+물건만 찾는군,DIGITAL_P상담품목
+11번가 차단,DIGITAL_P기타faq문의
+이전메뉴이동,DIGITAL_P이전메뉴이동
+새로운 질문,DIGITAL_P새상담
+경비실에도 없어요,DIGITAL_P배송문의
+Skt할인품목,DIGITAL_P행사문의
+화요일에 받을수 있나,DIGITAL_P배송문의
+id문제 있다고 합니다,DIGITAL_P회원정보문의
+너 우유 좋아해,DIGITAL_P채팅
+와이프 이상해,DIGITAL_P채팅
+편의점배송,DIGITAL_P배송문의
+Yes24 쿠폰,DIGITAL_P쿠폰요청
+쿠폰을 보여줘,DIGITAL_P쿠폰요청
+톡매니더 초대 클릭,DIGITAL_P상담원연결
+얼음팩 포장,MART_P아이스팩문의
+차이점이 무엇인가요,DIGITAL_P차이점
+쿠키 허용,DIGITAL_P기타faq문의
+검토해보겠습니다,DIGITAL_P대화종료
+문의사항 답,DIGITAL_P기타faq문의
+무료해외배송 이벤트 언제,DIGITAL_P행사문의
+적용 가능 한 쿠폰,DIGITAL_P쿠폰적용문의
+자주 얘기하자,DIGITAL_P채팅
+뭔가 이상해요,DIGITAL_P기타faq문의
+재입고 알림,DIGITAL_P기타faq문의
+프리미엄은 돈내나요,DIGITAL_P기타faq문의
+수리 맡기려면 어디로,DIGITAL_Pa/s문의
+마일리지 상품교환,DIGITAL_P기타faq문의
+최저가격인가요,MART_P할인문의
+쿠폰을 받았는데요,DIGITAL_P쿠폰적용문의
+시간 없어서 다음에,DIGITAL_P대화종료
+답변을 일일히 주시는건가요,DIGITAL_P챗봇여부문의
+공짜로 사주세요,DIGITAL_P채팅
+문의 할라는데 몇시부터,DIGITAL_P상담시간
+물건 비싼거에요,DIGITAL_P가격문의
+주소지입력이 안되,DIGITAL_P기타faq문의
+첫구매혜택이있나요,DIGITAL_P기타faq문의
+월요일까지 받아야,DIGITAL_P배송일문의
+얼마짜리부터 있을까요,DIGITAL_P가격문의
+질문드려요,DIGITAL_P상담요청
+일단 알아보고 있는데,DIGITAL_P추천
+정보수정은 어떻게,DIGITAL_P회원정보문의
+아이큐 몇,DIGITAL_P채팅
+쿠폰 다운이 안되요,DIGITAL_P기타faq문의
+주문내역 삭제,DIGITAL_P기타faq문의
+밥은 먹었,DIGITAL_P채팅
+제품 안찾는다고,DIGITAL_P기타faq문의
+밤에도 문의 가능한가요,DIGITAL_P상담시간
+증정품도 함께 주세요,MART_P사은품문의
+수리 맡기려면 어떻게,DIGITAL_Pa/s문의
+반납 처리,DIGITAL_P반품문의
+색상변경문의,DIGITAL_P색상변경문의
+장바구니 담기지가않,DIGITAL_P찜기능안내
+담에문의하겠음,DIGITAL_P대화종료
+그냥 잠이나 자,DIGITAL_P채팅
+장보기 쿠폰은 어느,DIGITAL_P쿠폰적용문의
+모르는척 하지마,DIGITAL_P채팅
+구입한 상품 보여,MART_P지난구매상품보기
+직접 찾으시는 거에요,DIGITAL_P챗봇여부문의
+다른거 원해,DIGITAL_P추가추천
+적립이 안되고 있네요,DIGITAL_P적립문의
+금요일까지 받아야,DIGITAL_P배송일문의
+쿠폰바코드가 안열려요,DIGITAL_P쿠폰적용문의
+반납을 오늘 할 예정,DIGITAL_P반품문의
+제일 싼 가격,MART_P행사상품
+반품 취소,MART_P반품문의
+여러개 한번에 찾아줘,MART_P다중검색실행
+새로운 상담을 하고 싶어요,DIGITAL_P새상담
+로봇인가요,DIGITAL_P챗봇여부문의
+환불관련 문의,DIGITAL_P환불문의
+한번에찾기,MART_P다중검색문의
+제품없잖아요,DIGITAL_P기타faq문의
+티머니 사용법,DIGITAL_P기타faq문의
+번호 등록,DIGITAL_P기타faq문의
+불량품이 왔어요,DIGITAL_P교환문의
+드라마 재밌지,DIGITAL_P채팅
+리뷰 평점 알려줘,DIGITAL_P리뷰평점문의
+교환 보류라고 나와 있는데,DIGITAL_P교환문의
+금액 차이가 많이나서요,DIGITAL_P가격차이
+실례했습니다,DIGITAL_Papologize
+푸시 보내지말라고,DIGITAL_P알림설정문의_P기타faq문의
+기획전 쿠폰 있지 않나,DIGITAL_P쿠폰요청
+지금연락이왔네요,DIGITAL_P상담완료
+교환건으로 상담하다가 종료,DIGITAL_P교환문의
+첨으로 가기,DIGITAL_P처음으로
+정품으로 부탁,MART_P정품문의
+반품한 운송장번호,DIGITAL_P반품문의
+이물질이 나왔,DIGITAL_P반품문의
+주문 해서 결제완료,DIGITAL_P결제완료
+수취확인 반품,DIGITAL_P반품문의
+캐시를 사용할려면,DIGITAL_P기타faq문의
+얼마짜리를 사야대,DIGITAL_P상담원연결
+어제주문건,DIGITAL_P주문이력확인
+결제시에 새로고침 하라던데,DIGITAL_P결제문의
+넌 어떤물건을 찾을수있니,DIGITAL_P추천
+쳇봇이냐 니가,DIGITAL_P챗봇여부문의
+성능 머예요,DIGITAL_P성능문의
+잠금화면 제휴광고,DIGITAL_P기타faq문의
+오늘 업데이트 되써요,DIGITAL_P기타faq문의
+뭐상담되니,DIGITAL_P상담품목
+보상 받으려면,DIGITAL_P기타faq문의
+데이터 적용,DIGITAL_P기타faq문의
+착불은 어떻게 하나요,DIGITAL_P결제문의
+신고센터 위치,DIGITAL_P고객센터문의
+재미난 개그좀,DIGITAL_P채팅
+언제 물품 받을 수 있나,DIGITAL_P배송문의
+어떤 패널티가 있나,DIGITAL_P기타faq문의
+너가아는건,DIGITAL_P채팅
+서비스이용약관,DIGITAL_P기타faq문의
+사양 정확히 몰라서,DIGITAL_P사양문의
+제품 카테고리,DIGITAL_P상담품목
+카카오뱅크는 안되나요,DIGITAL_P결제문의
+차이가 좀 난다고 들어서요,DIGITAL_P차이점
+남자친구없니,DIGITAL_P채팅
+VIP클럽은 어디있나요,DIGITAL_P기타faq문의
+sk맴버쉽 등록,DIGITAL_P기타faq문의
+구매했던거,MART_P지난구매상품보기
+11번가에 가입할 수 있나,DIGITAL_P기타faq문의
+내가 이맘때 되면 사는거,MART_P자주구매상품
+집에 도착하는지 확인 부탁,DIGITAL_P배송문의
+부탁함니다,DIGITAL_P상담요청
+그건 어떤가요,DIGITAL_P상품문의_P상담원연결
+쿠폰 있는데 안 써져요,DIGITAL_P쿠폰적용문의
+원산지 확인,MART_P원산지문의
+포인트 적용 안됨,DIGITAL_P결제문의
+이전 단계,DIGITAL_P이전메뉴이동
+다음에 또 이용할게요,DIGITAL_P대화종료
+구매가 안돼요,DIGITAL_P기타faq문의
+비싼 것 같고,MART_P행사상품
+식사하셨나요,DIGITAL_P채팅
+하나만 더 물어볼게요,DIGITAL_P추천
+강요하지마,DIGITAL_P채팅_GREETINGclaim
+이건 끝인사야,DIGITAL_P대화종료
+고장이 잘 나지 않을까요,DIGITAL_Pa/s문의
+할인 쿠폰 주세요,DIGITAL_P쿠폰요청
+행사 상품 따로 알려,MART_P행사상품문의
+택배비 없는 걸,DIGITAL_P배송비문의
+다른 상품이요,DIGITAL_P추가추천
+사이트점검,DIGITAL_P기타faq문의
+사은품도 챙겨주세요,MART_P사은품문의
+11번가는 누구꺼야,DIGITAL_P채팅
+환불건 계좌로 입금해주세요,DIGITAL_P환불문의
+주문자 정보,DIGITAL_P기타faq문의
+저번에 구매한,MART_P지난구매상품보기
+크롬 삭제,DIGITAL_P기타faq문의
+가격 문의드립니다,DIGITAL_P가격문의
+안심번호 해제,DIGITAL_P기타faq문의
+품절된건 언제쯤 들어오,DIGITAL_P기타faq문의
+지금저렴히행사하는상품,MART_P행사상품문의
+로보어드바이저,DIGITAL_P챗봇여부문의
+공무원복지카드,DIGITAL_P결제문의
+알람 오프,DIGITAL_P알림설정문의 
+재고 부족으로 취소,MART_P주문취소
+입고 예정,MART_P재입고문의
+뭐가 가능해,DIGITAL_P상담품목 
+최저가로 살수있나요,DIGITAL_P바로할인가
+개인정보 변경,DIGITAL_P회원정보문의
+유통기한이 언제,MART_P유통기한문의
+컴퓨터 자동 응답인가,DIGITAL_P챗봇여부문의
+톡메니저에게 문의 어떻게,DIGITAL_P상담원연결
+쿠폰에 대해 물어보려구요,DIGITAL_P쿠폰문의_P기타faq문의
+포인트 적립이 되나요,DIGITAL_P적립문의
+사람인가요 컴퓨터인가요,DIGITAL_P챗봇여부문의
+결제 금액 취소 처리,DIGITAL_P결제문의
+쿠폰도 주실수 있나요,DIGITAL_P쿠폰요청
+이건 어떤가요,DIGITAL_P상품문의_P상담원연결
+적용 가능 쿠폰도 알려주,DIGITAL_P쿠폰적용문의
+id에문제가있데요,DIGITAL_P회원정보문의
+어떻게 끔,DIGITAL_P도움말보기
+마트데이쿠폰,DIGITAL_P쿠폰요청
+구매방법 등록,DIGITAL_P기타faq문의
+가전제품만되,DIGITAL_P상담품목
+취소가 됐는 지 확인,DIGITAL_P주문취소
+배송되지 않습니다,DIGITAL_P배송문의
+가짜인 것 같아요,MART_P정품문의
+디지털챗봇나와라,"MART_P디지털챗봇호출,DIGITAL_GREETINGintro"
+어떤걸로 할까요,DIGITAL_P상담요청
+얼마 정도에 구입 가능,DIGITAL_P가격문의
+반품회수택배,DIGITAL_P반품문의
+내일 상담드리겠습니다,DIGITAL_P대화종료
+안말해줄거라고,DIGITAL_P채팅_bypass
+너무 고가는 아니면,MART_P행사상품
+지금 바로 살 게 아니라,DIGITAL_P구매예정
+그거 없냐요,DIGITAL_P추천
+언제쯤 도착할까요,DIGITAL_P배송문의
+다시 연락드릴게요,DIGITAL_P대화종료
+고객센터 문의도 가능한가요,DIGITAL_P기타faq문의
+날씨가 더워요,DIGITAL_P채팅
+많이 비싼가요,DIGITAL_P가격문의
+화욜까지 올까요,DIGITAL_P배송문의
+봤던 물건 보여줘,MART_P지난구매상품보기
+사람이예요,DIGITAL_P챗봇여부문의
+거로 부탁드려요,DIGITAL_P추천
+미성년자 제한상품 해제는,DIGITAL_P본인인증문의
+인증했는데,DIGITAL_P본인인증문의
+문의할려는데 언제 돼요,DIGITAL_P상담시간
+11pay 등록,DIGITAL_P결제문의
+컨시어지분이 디지털인가요,DIGITAL_P챗봇여부문의
+적당하게 괜찮은 가격인지,DIGITAL_P가격문의
+ok캐시백문의,DIGITAL_Pok캐시백문의_P기타faq문의
+당일 설치되는,DIGITAL_P설치문의
+언제 설치되나요,DIGITAL_P설치문의
+똑같은 종류인데 가격차이,DIGITAL_P가격차이
+캐쉬백은 언제 들어옵니까,DIGITAL_P적립문의
+t멤버십 인증실패,DIGITAL_P티멤버십관련문의_P기타faq문의
+환불에 대해서도,DIGITAL_P환불문의
+다른 거는 없어,DIGITAL_P추가추천
+제조사별 장단점은 없어,DIGITAL_P상품문의_P상담원연결
+쿠폰번호는어디있나,DIGITAL_P기타faq문의
+취소하고 다른걸로 주문,DIGITAL_P주문취소
+내가 주문했던 상품,DIGITAL_P주문이력확인
+내일올께용,DIGITAL_P대화종료
+좀 보고 더 문의,DIGITAL_P대화종료
+노래할 줄,DIGITAL_P채팅
+교환 상담,DIGITAL_P교환문의
+첨으로 갈래요,DIGITAL_P처음으로
+물건 안와,DIGITAL_P배송문의
+교환한 혜택,DIGITAL_P교환문의
+신규회원가입 특전,DIGITAL_P행사문의
+몇시에오나요,DIGITAL_P배송문의
+내가 자주 사는 제품,MART_P자주구매상품
+공유하기 어떻게,DIGITAL_P기타faq문의
+정품인가요,MART_P정품문의
+포인트로 구매방법,DIGITAL_P결제문의
+상품 오지않을 때,DIGITAL_P배송문의
+데이터는 어디에서,DIGITAL_P기타faq문의
+상품산거요,DIGITAL_P상품문의_P상담원연결
+현금영수증은 어떻게 되나요,DIGITAL_P현금영수증문의
+고가는 말고,MART_P행사상품
+포인트비밀번호 재설정,DIGITAL_P회원정보문의
+컴퓨터에서 챗봇 사용,DIGITAL_P기타faq문의
+선물준다면서,MART_P이벤트
+가격 넘 비사고,MART_P행사상품
+최저가 사이트 알려주세요,MART_P할인문의
+톡메니저는 어떡해 하나,DIGITAL_P상담원연결
+싸게 샀으면 합니다,MART_P행사상품
+주문내역을 삭제하고 싶어요,DIGITAL_P기타faq문의
+캐시 통장입금 진행요청했는,DIGITAL_P기타faq문의
+입고 시켜,DIGITAL_P기타faq문의
+주문지 변경,DIGITAL_P배송지변경문의
+할인 쿠폰 다운,DIGITAL_P쿠폰요청
+배송쿠폰 쓰고싶,DIGITAL_P쿠폰적용문의
+추천해주신 상품 확인해볼게,DIGITAL_P대화종료
+싼 가격 대 없나요,DIGITAL_P가격문의
+교환 부탁,DIGITAL_P교환문의
+상품권은 어디서 다운,DIGITAL_P쿠폰요청
+문의를 했는데 답이 없네요,DIGITAL_P기타faq문의
+톡매니저가 누구,DIGITAL_P톡매니저
+가격이 올라가 있습니다,DIGITAL_P가격차이
+별로인지요,DIGITAL_P상품문의_P상담원연결
+마트 챗봇 이벤트,MART_P이벤트
+전화 문자해도 불통,DIGITAL_P전화요청_GREETINGclaim
+어딨는지 맞춰봐요,DIGITAL_P채팅
+내맘대로 t,DIGITAL_P할인문의
+입금 확인,DIGITAL_P결제문의
+다시 톡보낼께,DIGITAL_P대화종료
+제품은아니고,DIGITAL_P상담품목
+과거주문내용,DIGITAL_P주문이력확인
+전자제품말고 다른거는,DIGITAL_P상담품목
+출석 체크 어떻게,DIGITAL_P기타faq문의
+문화상품권 사용 가능,DIGITAL_P결제문의
+a s 어떻게 되나요,DIGITAL_Pa/s문의
+쿠폰북어딧어,DIGITAL_P쿠폰요청
+11번가 전용 제품인가요,DIGITAL_P제품별차이점
+티멤버쉽 어떻게 사용,DIGITAL_P티멤버십관련문의_P기타faq문의
+송장번호는 안되죠,DIGITAL_P배송문의
+전화주세요,DIGITAL_P전화요청
+당일발송인가요,DIGITAL_P배송문의
+상품이 늦게와,DIGITAL_P배송문의
+기계아니얌,DIGITAL_P챗봇여부문의
+어디서 받어,DIGITAL_P기타faq문의
+무료 데이터,DIGITAL_P기타faq문의
+쿠폰 등록 방법,DIGITAL_P쿠폰적용문의
+빠른배송 부탁드립니다,DIGITAL_P배송문의
+배송지를 변경,DIGITAL_P배송지변경문의
+가장 싼 가격,MART_P행사상품
+주문자와 입금자가 달라요,DIGITAL_P결제문의
+하루만에 오나요,DIGITAL_P배송문의
+사진올리기기능안내,DIGITAL_P사진올리기기능안내
+정품 상품 맞죠,MART_P정품문의
+11번가 사용 방법,DIGITAL_P결제문의
+환불요청드립니다,DIGITAL_P환불문의
+제일 저렴한 상품이 뭔가,MART_P행사상품
+넌 뭘 알려줄수있어,DIGITAL_P상담품목
+환불건으로 문의,DIGITAL_P환불문의
+쿠폰과 중복사용가능한가요,DIGITAL_P쿠폰적용문의
+상담우 연결,DIGITAL_P상담원연결
+무슨 요일,DIGITAL_P채팅
+쿠폰 어떻게 쓰,DIGITAL_P쿠폰적용문의
+미도착신고 철회,DIGITAL_P배송문의
+몇시까지 하나요,DIGITAL_P상담시간
+개인전화번호,DIGITAL_P기타faq문의
+티멤버십 계정을 연동,DIGITAL_P기타faq문의
+11pay 등록,DIGITAL_P결제문의
+구매했던 물품,DIGITAL_P구매완료
+궁금한거있는,DIGITAL_P상담요청
+월요일까지 올까요,DIGITAL_P배송문의
+주문한건데 취소가능,DIGITAL_P주문취소
+11페이 물어보려는데,DIGITAL_P결제문의
+통화 원합니다,DIGITAL_P전화요청
+선택하기 싫다고,DIGITAL_P채팅
+할인 쿠폰 준다는데,DIGITAL_P쿠폰요청
+주문건 취소 됐나요,DIGITAL_P주문취소
+개인정보 지워,DIGITAL_P기타faq문의
+웰컴쿠폰 했는데,DIGITAL_P쿠폰요청
+용량은 어느정도가,DIGITAL_P용량문의
+여자는 없니,DIGITAL_P채팅
+챗봇 상담하기,DIGITAL_P상담요청
+뭐할 줄아니,DIGITAL_P상담품목
+문의 사항 있는,DIGITAL_P상담요청
+대해 설명 요청,"FAQ_P도움말요청,DIGITAL_P설명요청"
+배송이 지연,DIGITAL_P배송문의
+니 전화번호,DIGITAL_P채팅
+기스가 나있거든요,DIGITAL_Pa/s문의
+나중에 문의,DIGITAL_P대화종료
+상세 설명좀,DIGITAL_P상담요청
+t멤버십을 확인하는데 실패,DIGITAL_P기타faq문의
+설명 부탁드릴게요,"FAQ_P도움말요청,DIGITAL_P설명요청"
+쿠폰데이 날짜,DIGITAL_P행사문의
+쿠폰 관련 문의,DIGITAL_P쿠폰요청
+사진으로 보여주세요,DIGITAL_P사진요청
+유통기한 긴걸로,MART_P유통기한문의
+마트것만 알아,MART_P마트챗봇문의
+너 나랑 놀래,DIGITAL_P채팅
+여자친구는 있니,DIGITAL_P채팅
+상담원좀 연결해주세요,DIGITAL_P상담원연결
+구입한 제품,DIGITAL_P주문완료
+반품을 수거,DIGITAL_P반품문의
+주문접수 확인,DIGITAL_P기타faq문의
+결제하고싶다,DIGITAL_P결제문의
+토요일까지 받아야,DIGITAL_P배송일문의
+개인정보수정 어디서,DIGITAL_P회원정보문의
+배송건은 상담,DIGITAL_P배송문의
+다음에 올께,DIGITAL_P대화종료
+인증 어떻게,DIGITAL_P본인인증문의
+미니샵을 찾고싶어요,DIGITAL_P기타faq문의
+a s되나요,DIGITAL_Pa/s문의
+배송 지연 보상,DIGITAL_P적립문의
+번호변경하고싶어요,DIGITAL_P기타faq문의
+왜 이걸 추천하는거야,DIGITAL_P추천사유문의
+사진 보낼수 있나요,DIGITAL_P사진올리기기능안내
+처음부터 다시,DIGITAL_P처음으로
+넌 티비 보는거 좋아해,DIGITAL_P채팅
+배달 쿠폰있어,DIGITAL_P쿠폰요청
+쿠폰이 있는데 물건 주문시,DIGITAL_P쿠폰적용문의
+단골할인 쿠폰,DIGITAL_P쿠폰요청
+사용 가이드 뭐에요,DIGITAL_P도움말보기
+주요 뉴스 알려주세요,DIGITAL_P채팅
+vvip관,DIGITAL_P기타faq문의
+할인 쿠폰 있으면 부탁,DIGITAL_P쿠폰요청
+핫딜상품 소개,DIGITAL_P행사문의
+쿠폰변경 가능한가요,DIGITAL_P결제문의
+반품신청을 했는데,DIGITAL_P반품문의
+물건 조회가 안,DIGITAL_P기타faq문의
+녹지않게 아이스팩 포장,MART_P아이스팩문의
+제고 있는 업체,DIGITAL_P재고문의_P상담원연결 
+우체국택배,DIGITAL_P배송문의
+할인행사 시작,MART_P행사상품문의
+구매했는데 환불,DIGITAL_P환불문의
+공부하기싫어,DIGITAL_P채팅
+11페이 왜 안돼요,DIGITAL_P결제문의
+구입했는데 as가필요,DIGITAL_Pa/s문의
+차이점 알수있,DIGITAL_P차이점
+선택사항을 변경하고 싶어요,DIGITAL_P옵션변경문의
+11픽 이용방법,DIGITAL_P기타faq문의
+그럼 어디에 상담,DIGITAL_P기타faq문의
+에이에스 되나요,DIGITAL_Pa/s문의
+이름 어떻게 바꿔요,DIGITAL_P회원정보문의
+vip상품,DIGITAL_P기타faq문의
+아직도안가져가셨어요,DIGITAL_P반품문의 
+매니저 부탁이요,DIGITAL_P상담원연결
+컨시어지 서비스 가능 제품,DIGITAL_P상담품목
+사기를 당한 것,DIGITAL_P기타faq문의
+구매문자 안오나,DIGITAL_P기타faq문의
+정보수정 어떻게,DIGITAL_P회원정보문의
+다른 상품을 알려줘,DIGITAL_P추가추천
+내일까지 받아볼 수 있나요,DIGITAL_P배송일문의
+그냥 갈께요,DIGITAL_P대화종료
+니가 할수있는건뭐야,DIGITAL_P상담품목
+환불지연 문의,DIGITAL_P환불문의
+어디가 좋아요,DIGITAL_P상품문의_P상담원연결
+앞으로좋은물건부탁해요,DIGITAL_P대화종료
+교환있으니 찾아보시오,DIGITAL_P교환문의
+내일 도착하나,DIGITAL_P배송문의
+무통장 입금으로 주문,DIGITAL_P결제문의
+내 등급 확인,DIGITAL_P회원정보문의
+엠포인트 어떻게 사용,DIGITAL_P결제문의
+똑바로살아라,DIGITAL_P채팅
+신용카드 정보 확인,DIGITAL_P기타faq문의
+니 아이큐 몇이고,DIGITAL_P채팅
+수욜까지 올까요,DIGITAL_P배송문의
+상품 추천 말고,DIGITAL_P기타faq문의
+제 아이디는 어디서 볼수,DIGITAL_P기타faq문의
+문의 못하나,DIGITAL_P상담요청
+배송지연 보상,DIGITAL_P적립문의
+금액 괜찬걸로,MART_P행사상품
+환불초리갸 어떻게,DIGITAL_P환불문의
+거래명세표,DIGITAL_P기타faq문의
+너가 선택좀,DIGITAL_P추천
+동작 그만해줄래,DIGITAL_P대화종료
+목욜에 받을수 있나,DIGITAL_P배송문의
+new category,DIGITAL_P새상담
+제일 가격이 싼,MART_P행사상품
+나 니랑 상담하기 싫어,DIGITAL_P채팅
+알림으로 받아보고싶,DIGITAL_P기타faq문의
+상품쿠폰 왜 모씀,DIGITAL_P쿠폰적용문의
+통화는 힘든가요,DIGITAL_P전화요청
+제품 확인이 가능한가요,DIGITAL_P실물확인
+마트에 대한 상담만,MART_P마트챗봇문의
+리뷰 어떻게,DIGITAL_P리뷰요청
+이게 제일싼건가요,DIGITAL_P가격문의
+추가 설치가 안되고,DIGITAL_P설치문의
+무이자 혜택,DIGITAL_P결제문의
+주문취소 후 환불 과정,MART_P환불문의
+디지털 컨시어지님,DIGITAL_P상담원연결
+as 확인 부탁,DIGITAL_Pa/s문의
+이용가이드 좀 알려,DIGITAL_P도움말보기
+선물할건데 쇼핑백 동봉,MART_P쇼핑백문의
+재입고 예정,MART_P재입고문의
+쿠폰팩 어디서,DIGITAL_P쿠폰요청
+증정품 함께 주시는건가요,MART_P사은품문의
+정가보다 비싼,DIGITAL_P가격차이
+상품 쿠폰 왜안써져,DIGITAL_P쿠폰적용문의
+나 안할래,DIGITAL_P대화종료
+골라 주세요,DIGITAL_P추천
+쿠폰도 달라,DIGITAL_P쿠폰요청
+뭘 사야할지,DIGITAL_P추천
+최저가격인가요,DIGITAL_P바로할인가
+가능한거 알려주세요,DIGITAL_P상품문의_P상담원연결
+브랜드 쿠폰이 뭐야,DIGITAL_P쿠폰요청
+쿠폰 없어요,DIGITAL_P쿠폰요청
+제품 코드를 모르겠어요,DIGITAL_P상품문의_P상담원연결
+이상으로 찾아주세요,DIGITAL_P추천
+택배를 주문했는데,DIGITAL_P배송문의
+t멤버쉽 포인트 사용 문의,DIGITAL_P기타faq문의
+지정택배를 선택,DIGITAL_P반품문의
+상품을 보낼 수 있나요,DIGITAL_P배송문의
+알리미 내역 전체 삭제,DIGITAL_P기타faq문의
+지정택배를 이용,DIGITAL_P반품문의
+상담은어떻게 해야하나요,DIGITAL_P도움말보기
+리뷰어랭킹혜택,DIGITAL_P기타faq문의
+이해할 수 있는 말은 뭔데,DIGITAL_P채팅
+주문한게 안오네요,DIGITAL_P배송문의
+뭐 맛있는거없니,MART_P추천
+주문 이력,DIGITAL_P주문이력확인
+상담사요청,DIGITAL_P상담원연결
+쩝 됐어요,DIGITAL_P대화종료
+메신저상담,DIGITAL_P기타faq문의
+회수해갔는데,DIGITAL_P반품문의
+답변주시는건가용,DIGITAL_P추천
+쿠폰 적용해주,DIGITAL_P쿠폰적용문의
+가격 착한 것,MART_P행사상품
+조금 저렴한거 없는지,MART_P행사상품
+쿠폰 교환 재발급,DIGITAL_P쿠폰요청
+제조일이 어떠케,MART_P제조일자문의
+배송 준비중이라고 떠서요,DIGITAL_P배송문의
+답변 안 되는 건가,DIGITAL_P추천
+사용방법 알려줘,DIGITAL_P기타faq문의
+두개가 똑같은건가요,DIGITAL_P상품문의_P상담원연결
+어디서 찜하냐고,DIGITAL_P찜기능안내
+장만하려는데,DIGITAL_P구매예정
+쿠폰알려줘,DIGITAL_P쿠폰요청
+더 좋은건지 궁금합니다,DIGITAL_P상품문의_P상담원연결
+직원이신거죠,DIGITAL_P챗봇여부문의
+편의점서찾는게 힘들어서요,DIGITAL_P기타faq문의
+십일절 쿠폰,MART_P십일절
+결제 문의,DIGITAL_P결제문의
+포인드조회,DIGITAL_P기타faq문의
+반품하려는데,DIGITAL_P반품문의
+취소완료된 물건이 배송,DIGITAL_P주문취소
+다른 색상 상품 보여줘,MART_P추가추천
+차이 인건가요,DIGITAL_P차이점
+게릴라쿠폰이 궁금해,DIGITAL_P쿠폰요청
+최근 생산일자로 보내,MART_P새제품요청
+사양이 괜찬나요,DIGITAL_P사양문의
+아이디가 맞지 않다고,DIGITAL_P회원정보문의
+a s 보증 기간,DIGITAL_Pa/s문의
+11번가 픽업,DIGITAL_P기타faq문의
+안심번호가 부여되나요,DIGITAL_P배송문의
+다른 제품 볼래,DIGITAL_P추가추천
+담에 뵐게요,DIGITAL_P대화종료
+브랜드데이는 다시 안하나요,DIGITAL_P행사문의
+택배 회수가 지연 되는데,DIGITAL_P반품문의
+나이가 궁금해요,DIGITAL_P채팅
+다른 가전제품,DIGITAL_P상담품목
+리뷰 작성은 어디서,DIGITAL_P기타faq문의
+정보바꾸기,DIGITAL_P회원정보문의
+감사합니다 확인해보겠습니다,DIGITAL_P대화종료
+고객 상담도 되나요,DIGITAL_P기타faq문의
+궁금한게 한가지 잇어서요,DIGITAL_P상담요청
+어디가면 볼수 있나요,DIGITAL_P실물확인
+살려하는데요,DIGITAL_P추천
+결제를 못 해요,DIGITAL_P결제문의
+챗봇의 아이큐,DIGITAL_P채팅
+구매품목 확인방법,DIGITAL_P주문이력확인
+장바구니에 물건 어떻게,DIGITAL_P장바구니담기
+쿠폰클릭은 안 되는것,DIGITAL_P쿠폰적용문의
+어디서 받을수 있나요,DIGITAL_P기타faq문의
+택배 빠르게,MART_P배송문의
+뭐가 좋을까요,DIGITAL_P추천
+많이이용할께용,DIGITAL_P대화종료
+상담 전화좀 알려주세요,DIGITAL_P고객센터문의
+문의 언제 되나요,DIGITAL_P상담시간
+구매하기 취소,DIGITAL_P주문취소
+그럼가격대는,DIGITAL_P가격문의
+뭐가 가능해,MART_P마트챗봇문의
+전자제품 뿐이에요,DIGITAL_P상담품목
+농담 좀 해봐,DIGITAL_P채팅
+어디다가문의하나요,DIGITAL_P기타faq문의
+주문했는데 연락이없네요,DIGITAL_P배송문의
+쿠폰이 없어,DIGITAL_P쿠폰요청
+구매한 이력,DIGITAL_P주문이력확인
+꼼꼼하게 포장해주세요,MART_P포장문의
+바로 업드려,DIGITAL_P채팅
+쿠폰 적용 안 되나,DIGITAL_P쿠폰적용문의
+배송지연 쿠폰 어딨어,DIGITAL_P쿠폰요청
+구매할꺼같은데,DIGITAL_P구매예정
+브랜드딜 시작 시간이 언제,DIGITAL_P행사문의
+구매 취소,DIGITAL_P주문취소
+오류에 대한 접수도 받니,DIGITAL_P기타faq문의
+환불금이 안들어오내요,DIGITAL_P환불문의
+구입 했다 취소 했는되요,DIGITAL_P주문취소
+천재일까요,DIGITAL_P채팅
+이벤트당첨자,DIGITAL_P행사문의
+주문한상품문의,DIGITAL_P기타faq문의
+이거 어떻게 쓰는거야,DIGITAL_P도움말보기
+글로벌11번가는,DIGITAL_P기타faq문의
+환불은 어떻게 해요,DIGITAL_P환불문의
+내 이름 아니,DIGITAL_P채팅
+선물하기는 안되나요,DIGITAL_P기타faq문의
+모바일 쿠폰 사용,DIGITAL_P쿠폰적용문의
+주문한 것이 안옵니다,DIGITAL_P배송문의
+가격차이 나는 이유,DIGITAL_P가격차이
+니 왜 사노,DIGITAL_P채팅
+배송되는건가요,DIGITAL_P배송문의
+푸시 없애는방법,DIGITAL_P기타faq문의
+일부만 배송되었어요,DIGITAL_P배송문의
+상품권으로 포인트 적립,DIGITAL_P적립문의
+인증 어떻게 해요,DIGITAL_P본인인증문의
+우리 만날까,DIGITAL_P채팅
+결재에 대해서 문의,DIGITAL_P결제문의
+한번 골라볼게요,DIGITAL_P구매예정
+보구 톡드릴,DIGITAL_P대화종료
+교환 건 때문에요,DIGITAL_P교환문의
+탈퇴하고 싶어요,DIGITAL_P회원정보문의
+신선식품 얼마나 다양해요,MART_P신선식품문의
+묶음배송 반품,DIGITAL_P반품문의
+문의하게되었어요,DIGITAL_P상담요청
+그만 할래,DIGITAL_P대화종료
+네오 제안가 모죠,DIGITAL_P바로할인가설명
+증정품 주세요,MART_P사은품문의
+날짜에 상품을 받,MART_P배송문의
+구매이력 알고싶어요,DIGITAL_P주문이력확인
+상담은 가전제품만,DIGITAL_P상담품목
+쿠폰좀 주세요,DIGITAL_P쿠폰요청
+반품해야되는데,DIGITAL_P반품문의
+리뷰 보상,DIGITAL_P기타faq문의
+ok멤버쉽 적립,DIGITAL_P적립문의
+증정품 보내,MART_P사은품문의
+판매자와 연락하고 싶은데,DIGITAL_P판매자연락요청
+제품이 아니라,DIGITAL_P상담품목
+보상받는 방법,DIGITAL_P기타faq문의
+판매처는 연락이 안되,DIGITAL_P판매자연락요청
+비밀 쿠폰 주라,DIGITAL_P쿠폰요청
+출금문의에요,DIGITAL_P결제문의
+몇일이면 도착,DIGITAL_P배송문의
+농협시럽쿠폰,DIGITAL_P쿠폰요청
+예금주명 어떻게 바꿔요,DIGITAL_P기타faq문의
+차이 없나요,DIGITAL_P차이점
+다음에 다시 상담,DIGITAL_P대화종료
+다른 제품도 알아봐주세요,DIGITAL_P추가추천
+개인 정보가 틀려서 수정,DIGITAL_P회원정보문의
+vip전용 상품,DIGITAL_P기타faq문의
+한번에 많이 입력하기,MART_P다중검색실행
+퇴근하셨남,DIGITAL_P상담원연결
+이미찾아봤는데 잘봤습니다,DIGITAL_P대화종료
+id문제가있다는데 뭐에요,DIGITAL_P기타faq문의
+사진첩부해서 올리라는데,DIGITAL_P사진올리기기능안내
+무료 수거인가요,DIGITAL_P폐가전수거
+제일 싼 거,MART_P행사상품
+쿠폰 좀 알려줘,DIGITAL_P쿠폰요청
+다음날 바로 배송,MART_P배송문의
+초기화면으로 가,DIGITAL_P처음으로
+구매 한다면,DIGITAL_P구매예정
+쿠폰 못 쓸 거 같네요,DIGITAL_P쿠폰적용문의
+확인좀 부탁,DIGITAL_P확인
+기존아이디가 있다며,DIGITAL_P본인인증문의
+티켓 수령방법,DIGITAL_P기타faq문의
+자동응답시스템,DIGITAL_P챗봇여부문의
+캐쉬인출 신청,DIGITAL_P기타faq문의
+월요일 쿠폰,DIGITAL_P쿠폰요청
+알려주시면 검토해보려구요,DIGITAL_P추천
+결제 취소 확인,DIGITAL_P결제문의
+a s기간 얼마나,DIGITAL_Pa/s문의
+할인 쿠폰 없,DIGITAL_P쿠폰요청
+너무 비싸서,MART_P행사상품
+직접 답변해주시는 건가요,DIGITAL_P챗봇여부문의
+반송 교환건입니다,DIGITAL_P반품문의
+교환때문에 문의,DIGITAL_P교환문의
+차이 뭔지요,DIGITAL_P차이점
+고객센터 일요일은 안하냐,DIGITAL_P고객센터문의
+질문을 받아줘,DIGITAL_P상담요청
+주문 물건,DIGITAL_P주문완료
+그럼 어디로 할까요,DIGITAL_P추천
+쿠폰 서비스,DIGITAL_P쿠폰요청
+찾는제품이 없네,DIGITAL_P상담품목
+택배를 못받앗어요,DIGITAL_P배송문의
+저렴했으면,MART_P행사상품
+왜 구매가안되나요,DIGITAL_P기타faq문의
+찾고 있는데,DIGITAL_P추천
+보지찾는다,DIGITAL_P19금
+잘있어 다음에보자,DIGITAL_P대화종료
+다른 상담은 안돼나요,DIGITAL_P상담품목
+vip안되있어서요,DIGITAL_P기타faq문의
+구매 아니고,DIGITAL_P추천아님
+상품 추전 부탁,DIGITAL_P추천
+할인 쿠폰 부탁,DIGITAL_P쿠폰요청
+교환관련 상담,DIGITAL_P교환문의
+결재가 않되고 있다구요,DIGITAL_P결제문의
+유통기한 긴 제품 보내,MART_P새제품요청
+카드정보변경,DIGITAL_P결제문의
+어디로 문의해야 하나요,DIGITAL_P고객센터문의
+쿠폰에 대한 정보 확인,DIGITAL_P쿠폰적용문의
+가격 비싸서,MART_P행사상품
+배송지가 틀렸어요,DIGITAL_P배송지변경문의
+여자 좀 소개 시켜줘,DIGITAL_P채팅
+너랑 대화가 안돼,DIGITAL_P채팅
+나중에 만나,DIGITAL_P대화종료
+배송완료는 되있는데,DIGITAL_P배송문의
+본인인증 계정이 뭐죠,DIGITAL_P본인인증문의
+알리미 내역,DIGITAL_P기타faq문의
+회원 정보 변경,DIGITAL_P회원정보문의
+카드추가할인은언제,DIGITAL_P행사문의
+비교 부탁드릴게요,DIGITAL_P상품비교
+배송관련 문의,DIGITAL_P배송문의
+계좌번호어디,DIGITAL_P결제문의
+고객센터에 직접 전화해요,DIGITAL_P고객센터문의
+시럽페이 탈퇴하려면,DIGITAL_P기타faq문의
+상품이 안오네요,DIGITAL_P배송문의
+행사 상품만 알림,MART_P행사상품문의
+톡매니저 뭐예요,DIGITAL_P톡매니저
+문의 몇시까지 되나요,DIGITAL_P상담시간
+알아보고 구입하겠습니다,DIGITAL_P구매예정
+취소 빨리해주세요,DIGITAL_P주문취소
+문의드리고자 합니다,DIGITAL_P상담요청
+제가 삿던 물건 뭐였죠,MART_P자주구매상품
+반품 수거신청,DIGITAL_P반품문의
+물건을받을수있나요,DIGITAL_P배송문의
+상품 쿠폰 들록,DIGITAL_P쿠폰적용문의
+컬쳐캐쉬 사용,DIGITAL_P기타faq문의
+전화를 안 받아요,DIGITAL_P전화요청_GREETINGclaim
+시험잘보게해줘,DIGITAL_P채팅
+상담원 바꿔주세요,DIGITAL_P상담원연결
+카드 승인은 취소,DIGITAL_P결제문의
+너무 비싸,MART_P행사상품
+고장난 건 어떡해요,DIGITAL_Pa/s문의
+가격을 알려주세요,DIGITAL_P가격문의
+이용 내역 알려,DIGITAL_P주문이력확인
+사진 좀 보여주세요,DIGITAL_P사진요청
+사은품 안 왔습니다,MART_P사은품문의
+구매 완료된 기록없애는건,DIGITAL_P주문이력확인
+십일절 이벤트당첨,MART_P십일절
+상담기능은 없나요,DIGITAL_P상담품목
+장바쿠니쿠폰 적용제한,DIGITAL_P쿠폰적용문의
+다른건 없어,DIGITAL_P추가추천
+더 큰건 없어,DIGITAL_P사이즈문의_SIZEl
+제품을말하는게아니라,DIGITAL_P상담품목
+사은품문의,DIGITAL_P사은품문의
+시럽페이는 어디서 설정,DIGITAL_P기타faq문의
+핀번호 오류,DIGITAL_P결제문의
+좋은가격알려줘,MART_P행사상품문의
+특가 제품으로 알아봐주세요,DIGITAL_P할인행사
+엄청 비싸군,MART_P행사상품
+노래 해봐,DIGITAL_P채팅
+유효기간이있나요,MART_P유통기한문의
+돈은 입금 안되있어요,DIGITAL_P환불문의
+뭘 사야할지 잘 모르겠어,DIGITAL_P추천
+뭐가맛있어,MART_P추천
+고객센터내 확인안되요,DIGITAL_P전화요청
+배송지를 옮길려면,DIGITAL_P배송지변경문의
+프로모션이 뭐죠,DIGITAL_P행사문의
+프로그램같은게 답변해주는줄,DIGITAL_P챗봇여부문의
+교환보류의 의미,DIGITAL_P교환문의
+제 질문을 이해하신거죠,DIGITAL_P상담요청
+찾고 있습니디,DIGITAL_P상담요청
+장바구니 등록 방법,DIGITAL_P찜기능안내
+사용 방법 알려줘,DIGITAL_P도움말보기
+쿠폰 다시 주실 수 있나,DIGITAL_P쿠폰요청
+딴 상품 품목,DIGITAL_P새상담
+내맘을 몰라주는거야,DIGITAL_P채팅
+대여가안되네요,DIGITAL_P기타faq문의
+궁금한게 있어,DIGITAL_P상담요청
+배송확인 부탁,DIGITAL_P배송문의
+이용 내역 확인,DIGITAL_P주문이력확인
+t멤버쉽 인증,DIGITAL_P티멤버십관련문의_P기타faq문의
+대화는 안되는군,DIGITAL_P채팅
+무통장 입금이 없어요,DIGITAL_P결제문의
+쿠폰 종류,DIGITAL_P쿠폰문의_P기타faq문의
+주문 상품 배송부탁합니다,DIGITAL_P배송문의
+사이즈 교환이 될까,DIGITAL_P교환문의 
+가격 괜찬은걸,MART_P행사상품
+언제 가능하나요,DIGITAL_P기타faq문의
+취소건 처리,DIGITAL_P주문취소
+유효기간 확인 부탁,MART_P유통기한문의
+홈페이지 상담도 가능,DIGITAL_P상담품목
+사진전송가능한가요,DIGITAL_P사진올리기기능안내 
+포인트 사용못하나요,DIGITAL_P결제문의
+너랑 안놀아,DIGITAL_P채팅
+상담은 어떻게하나요,DIGITAL_P상담원연결
+가격대 차이 많이나는 이유,DIGITAL_P가격차이
+구매했던 물품,MART_P지난구매상품보기
+이용했던 내역이 조회,DIGITAL_P주문이력확인
+더 깎아줘요,MART_P할인문의
+주문한내용이안뜨네요,DIGITAL_P주문이력확인
+상품 준비중인거,DIGITAL_P배송문의
+물건을 바꾸고싶어요,DIGITAL_P교환문의
+사장 누구야,DIGITAL_P채팅
+잘 찾아봐,DIGITAL_P추천
+상담 부탁,DIGITAL_P상담요청
+마트day는 언제야,DIGITAL_P행사문의
+환불 요금이 입금 되지,DIGITAL_P환불문의
+유효기간이 궁금,MART_P유통기한문의
+고객지원팀,DIGITAL_P고객센터문의
+A S 맡기고 싶은데요,DIGITAL_Pa/s문의
+지난번에 구매한,MART_P지난구매상품보기
+기존꺼는 폐기해주나요,DIGITAL_P폐가전수거
+행사기간 알려,MART_P행사상품문의
+이벤트 참여,MART_P이벤트
+너 여자니,DIGITAL_P채팅
+품절 재고,DIGITAL_P재고문의_P상담원연결
+조회시간이 만료,DIGITAL_P기타faq문의
+12월 할인 일정,DIGITAL_P행사문의
+제조일자 문의,MART_P제조일자문의
+방금 결제했는데,DIGITAL_P결제완료
+배송출고 되나요,DIGITAL_P배송문의
+티카드 인증 어떻게,DIGITAL_P기타faq문의
+너무 비싸면 부담돼서,MART_P행사상품
+기본 배송지 변경,DIGITAL_P배송지변경문의
+다시 알아봐 주세요,DIGITAL_P추가추천
+문자받기싫어요,DIGITAL_P알림설정문의_P기타faq문의
+반품료내야하나요,DIGITAL_P반품문의
+생각해보고 결정할게,DIGITAL_P대화종료
+다시문의했어요 알겠습니다,DIGITAL_P대화종료
+주문한거 언제와,DIGITAL_P배송문의
+단점도 알 수 있을까요,DIGITAL_P상품문의_P상담원연결
+본인 인증은 어디서,DIGITAL_P본인인증문의
+반품을 시켰는데,DIGITAL_P반품문의
+다른제품으로 잘못왔,DIGITAL_P기타faq문의
+카드 제등록은어떻게,DIGITAL_P기타faq문의
+회원전환은 어떻게,DIGITAL_P기타faq문의
+취소건환불,DIGITAL_P환불문의
+월요일에 받을수 있나,DIGITAL_P배송문의
+주문실패가 떴는데 카드승인,DIGITAL_P결제문의
+어제 주문한 상품 추가주문,MART_P지난구매상품보기
+구매했던 상품 또 구매,MART_P지난구매상품보기
+연말 이벤트 제품,DIGITAL_P할인행사
+입금 햇는데 완료가,DIGITAL_P결제문의
+십일절 이벤트 당첨확인,MART_P십일절
+연체금 삭제 부탁,DIGITAL_P기타faq문의
+쿠폰 다시 돌려주,DIGITAL_P쿠폰적용문의
+판매자와 연락이 되지않는데,DIGITAL_P판매자연락요청
+캐쉬 때문에,DIGITAL_P기타faq문의
+마일리지 적립이 안되,DIGITAL_P적립문의
+스페셜쿠폰,DIGITAL_P쿠폰요청
+내일 물건 받을수,DIGITAL_P배송일문의
+대체언제와요,DIGITAL_P배송일문의
+보증기간은 언제까지인가,DIGITAL_Pa/s문의
+아니그냥질문좀,DIGITAL_P상담품목
+대화는 안하니,DIGITAL_P채팅
+주소로만 받을 수 있나요,DIGITAL_P배송문의
+이전 배송지는 어디서,DIGITAL_P기타faq문의
+쿠폰안먹힘,DIGITAL_P쿠폰적용문의
+카테고리 다시 보여주세요,DIGITAL_P처음으로
+통장번호좀 바꾸고싶은데,DIGITAL_P기타faq문의
+사은품 함께 배송되나요,MART_P사은품문의
+배송 지연 포인트,DIGITAL_P적립문의
+사용법 알려,DIGITAL_P도움말보기
+나 뭐 사야함,DIGITAL_P추천
+다른 제품 카테고리,DIGITAL_P새상담
+됐어 말안할래 꺼져,DIGITAL_P대화종료_slang
+정보변경은어디서,DIGITAL_P회원정보문의
+결제 수단 변경,DIGITAL_P결제문의;
+내일이나 모레쯤 구매하고,DIGITAL_P구매예정
+상품권으로 결제하려는데,DIGITAL_P결제문의
+취소완료됐는데,DIGITAL_P주문취소완료
+너무 비싼거 말,MART_P행사상품
+어떤게 있는지,DIGITAL_P상품문의_P상담원연결
+상담 언제부터 돼요,DIGITAL_P상담시간
+주문한게 안옵니다,DIGITAL_P배송문의
+생일쿠폰이 뭐야,DIGITAL_P쿠폰요청
+주문해줄래,MART_P주문
+11pay 카드 삭제,DIGITAL_P결제문의
+캐쉬백 서비스는 어디서,DIGITAL_P기타faq문의
+사람이 하는 건가요,DIGITAL_P챗봇여부문의
+물건 보낸지 일주일지남,DIGITAL_P반품문의
+쿠폰 종류 문의,DIGITAL_P쿠폰종류문의_P기타faq문의
+아이디 중복,DIGITAL_P회원정보문의
+a s 받으려면,DIGITAL_Pa/s문의
+오기로했는데 언제와,DIGITAL_P배송문의
+착불신청이 안되어요,DIGITAL_P배송문의
+너 뭐 잘 하니,MART_P마트챗봇문의
+나 맨날 사는거 보여,MART_P자주구매상품
+멤버쉽 모두 바로 환원,DIGITAL_P결제문의
+카드 해지 방법,DIGITAL_P결제문의
+구매 후 취소,DIGITAL_P주문취소
+토스 입금,DIGITAL_P결제문의
+모델이 언제 나왔는지,DIGITAL_P출시일문의_P상담원연결
+환불 다시해주세요,DIGITAL_P환불문의
+전자제품 처음으로,DIGITAL_P처음으로
+도움말 보기,"FAQ_P도움말요청,DIGITAL_P설명요청"
+살펴보겠습니다,DIGITAL_P대화종료
+배송까지 얼마나 걸리나요,DIGITAL_P배송문의
+브랜드는 뭐뭐 있나요,DIGITAL_P브랜드문의
+내가 자주 사던거만 보여줘,MART_P자주구매상품
+푸시 발송한거,DIGITAL_P기타faq문의
+반품할려고,DIGITAL_P반품문의
+이벤트 기간,MART_P이벤트
+내일 쿠폰뭐야,DIGITAL_P행사문의
+딴 제품 품목,DIGITAL_P새상담
+11페이 걸제등록,DIGITAL_P결제문의
+인증번호 받으려고 하는데,DIGITAL_P본인인증문의
+free deal,DIGITAL_P할인행사
+이어서대화하기,DIGITAL_P대화계속
+생일 아니,DIGITAL_P채팅
+통화를하죠,DIGITAL_P전화요청
+그냥 니가골라,DIGITAL_P추천
+엄마 데려와,DIGITAL_P채팅
+고객상담은 어디 사이트,DIGITAL_P기타faq문의
+내가 맨날 사는 그거,MART_P자주구매상품
+화요일까지 받아야,DIGITAL_P배송일문의
+주문하기시러요,DIGITAL_P채팅
+지금 구매할 건 아닌데,DIGITAL_P구매예정
+본인즘회원변경,DIGITAL_P본인인증문의
+가품 신고,DIGITAL_P기타faq문의
+주문 제품취소방법,DIGITAL_P주문취소
+증정품 안주셨어요,MART_P사은품문의
+카드 할인도 알수 있을까,DIGITAL_P결제문의
+보내지말라구 차단,DIGITAL_P알림설정문의
+pc에서 결제하면 안되나요,DIGITAL_P결제문의
+선택안할꺼야,DIGITAL_P채팅_YESNOno
+좀더 싸게요,MART_P행사상품
+안받아지네요,DIGITAL_P기타faq문의
+택배수거해 가셨,DIGITAL_P반품문의
+카드혜택에 대해 궁금,DIGITAL_P기타faq문의
+비교 결정하겠습니다,DIGITAL_P구매예정
+쇼핑일정 알려,DIGITAL_P기타faq문의
+다중 검색이 뭐에요,MART_P다중검색문의
+안전하게 포장해주세요,MART_P포장문의
+top포인트사용,DIGITAL_P결제문의
+요즘 좋은거 뭐있냐,DIGITAL_P추천
+11페이 카드등록,DIGITAL_P결제문의
+메신저 상담은 어디,DIGITAL_P기타faq문의
+아까 주문 했는대 내일,DIGITAL_P배송일문의
+생산일자 날짜 확인,MART_P제조일자문의
+주소록저장,DIGITAL_P회원정보문의
+찜한 상품,DIGITAL_P찜한상품
+취소중에러,DIGITAL_P주문취소
+자주 사는,MART_P자주구매상품
+쿠폰 적용되는건 뭔가,DIGITAL_P쿠폰적용문의
+sk 내맘대로,DIGITAL_P쿠폰요청
+너는 아직 멀었다,DIGITAL_P채팅
+설치비까지인지 별도인지,DIGITAL_P설치비문의
+증정품 있나요,MART_P사은품문의
+물건이 덜왔는데요,DIGITAL_P배송문의
+너 남자야,DIGITAL_P채팅
+공부 잘해,DIGITAL_P채팅
+얼마차이가나는지,DIGITAL_P가격문의
+업데이트 안되나요,DIGITAL_P기타faq문의
+주문시키고 취소,DIGITAL_P주문취소
+자세히 좀 더알고싶은데요,DIGITAL_P상담원연결
+출시일문의,DIGITAL_P출시일문의_P상담원연결
+개인통관번호 게속 오류,DIGITAL_P결제문의
+다른거 추천해봐,DIGITAL_P추가추천
+아니 안한다고,DIGITAL_P대화종료
+결제하고싶다,MART_P구매
+취소했는데 환불,DIGITAL_P환불문의
+11pay,DIGITAL_P결제문의
+전자기기만 말해,DIGITAL_P상담품목
+주문했는데요 한가지만왔어요,DIGITAL_P배송문의
+시작하지 게임,DIGITAL_P채팅
+얼마부터죠,DIGITAL_P가격문의
+사용 방법 뭐야,DIGITAL_P도움말보기
+이벤트가뭐야,MART_P이벤트
+질문 있습니다,DIGITAL_P상담요청
+금욜에 받을수 있나,DIGITAL_P배송문의
+부탁드립니다,DIGITAL_P추천
+상담을 마치겠,DIGITAL_P대화종료
+묶음배송으로 부탁,DIGITAL_P배송문의
+증정품 받지 못했습니다,MART_P사은품문의
+저가 일수록 좋고,MART_P행사상품
+주문취소는요,DIGITAL_P주문취소
+빠른 배송,MART_P배송문의
+이게 상담 프로그램,DIGITAL_P상담품목
+그럼 꺼지세요,DIGITAL_P대화종료
+카드번호수정,DIGITAL_P결제문의
+11pay 해지,DIGITAL_P결제문의
+구매후 후회없는걸로,DIGITAL_P추천
+그럼 어디서 가능한가요,DIGITAL_P상담원연결
+광고 안오게 해주세요,DIGITAL_P기타faq문의
+그럼 전 보러가볼게요,DIGITAL_P대화종료
+vvip 쿠폰,DIGITAL_P기타faq문의
+상품 언제 받을,DIGITAL_P배송문의
+최저의 가격,MART_P행사상품
+전에 배달될까,DIGITAL_P배송문의
+이만 갈게요,DIGITAL_P대화종료
+회원번호를 어떻게 등록,DIGITAL_P회원정보문의
+찜 어떠케 쓰는거니,DIGITAL_P찜기능안내
+케쉬가 뭐야,DIGITAL_P기타faq문의
+롯데 카드,DIGITAL_P결제문의
+교환할 상품을 선택,DIGITAL_P교환문의
+줄거야 쿠폰,DIGITAL_P쿠폰요청
+너무 늦게 도착,DIGITAL_P배송문의
+11페이 설정,DIGITAL_P결제문의
+여러 상품을 한꺼번에 찾,MART_P다중검색문의
+내가 자주 사는거 알아,MART_P자주구매상품
+A S 언제까지 해줘요,DIGITAL_Pa/s문의
+본인인증을 어떻게,DIGITAL_P본인인증문의
+좀더 찾아볼게요,DIGITAL_P대화종료
+구입예정입니다,DIGITAL_P구매예정
+오늘의 상품,DIGITAL_P행사문의
+택배가지러안오네요,DIGITAL_P반품문의
+알파고보다 똑똑한가요,DIGITAL_P채팅
+성별은 뭐지,DIGITAL_P채팅
+운송장번호 보내드립니다,DIGITAL_P반품문의
+물건이 잘못왔는데,DIGITAL_P배송문의
+배송지를 바꾸려면,DIGITAL_P배송지변경문의
+사은품 보내,MART_P사은품문의
+전문가신가요,DIGITAL_P챗봇여부문의
+보구 톡드리,DIGITAL_P대화종료
+선택할게 없다,DIGITAL_P추가추천
+반송하였습니다,DIGITAL_P환불문의 
+최근 구입한,DIGITAL_P주문이력확인
+알리미신청,DIGITAL_P기타faq문의
+주소가 위아래 틀리면,DIGITAL_P배송문의
+환불시에는 어떻게,DIGITAL_P환불문의
+개명을했는데,DIGITAL_P회원정보문의
+밤에도 상담가능해,DIGITAL_P상담시간
+편의점 입금,DIGITAL_P결제문의
+공감 능력이 없구만,DIGITAL_P채팅
+연말 특가 제품,DIGITAL_P할인행사
+얼마난 용량인지,DIGITAL_P용량문의
+교환하고 싶어요,DIGITAL_P교환문의
+더 많은 구성은 없나,DIGITAL_P추가추천
+쿠폰이 있는데 왜 사용,DIGITAL_P쿠폰적용문의
+쿠폰받기 오류,DIGITAL_P기타faq문의
+언제가질러와요,DIGITAL_P배송문의
+환불이 안되서 문의,DIGITAL_P환불문의
+고객센터가어디있어,DIGITAL_P고객센터문의
+연락이없네요,DIGITAL_P전화요청
+농협 올인원,DIGITAL_P결제문의
+브이아피 영화,DIGITAL_P기타faq문의
+뭐 할수있어,DIGITAL_P채팅
+교환 때문에요,DIGITAL_P교환문의
+ok캐시백 사용법,DIGITAL_P기타faq문의
+구매내용을 알고싶습니다,DIGITAL_P기타faq문의
+쿠폰1장안왔어요,DIGITAL_P쿠폰요청
+ok캐시백 포인트로 전환,DIGITAL_P기타faq문의
+내가 맨날 사는 물건,MART_P자주구매상품
+11페이 지문,DIGITAL_P결제문의
+인출언제되나요,DIGITAL_P기타faq문의
+이용료가 들쭉날쭉해서요,DIGITAL_P기타faq문의
+제조일자가 언제,MART_P제조일자문의
+이모델은 어떤가요,DIGITAL_P상품문의_P상담원연결
+답변도며칠이걸리고,DIGITAL_P상담원연결
+이벤트 뭐야,MART_P이벤트 
+11번가 제휴카드,DIGITAL_P할인문의
+좀 진정해 인마,DIGITAL_P채팅
+웰컴딜 쿠폰적용,DIGITAL_P쿠폰적용문의
+무통장입금으로 결제하는데,DIGITAL_P결제문의
+새상품 맞나요,DIGITAL_P기타faq문의
+교환 관련,DIGITAL_P교환문의
+챗봇이 아니었다니,DIGITAL_P챗봇여부문의
+너의 지능이,DIGITAL_P채팅
+금액을 어떻게 돌려받죠,DIGITAL_P환불문의
+뭐하고 지내니,DIGITAL_P채팅
+상담 바로 연결 되나요,DIGITAL_P상담시간
+최근 제조 상품,MART_P새제품요청
+배송부탁 기재바래요,DIGITAL_P배송문의
+가격대로 좀알려주새요,DIGITAL_P가격문의
+상품교환 상담하고,DIGITAL_P교환문의
+추가 할인 쿠폰,DIGITAL_P쿠폰요청
+살빼고싶어,DIGITAL_P채팅
+고객센터 오픈시간,DIGITAL_P고객센터문의
+남자친구는 있니,DIGITAL_P채팅
+판매자 메뉴,DIGITAL_P기타faq문의
+상담 안되는건가요,DIGITAL_P상담시간
+다르게 도착 했어요,DIGITAL_P배송문의
+11시 선착순,DIGITAL_P행사문의
+m포인트 사용가능한가요,DIGITAL_P결제문의
+처음으로 돌아가,DIGITAL_P처음으로
+십일절 당첨,MART_P십일절
+배송 지연을 보상해준다는데,DIGITAL_P기타faq문의
+반품어케해여,DIGITAL_P반품문의
+디지털가전만 있나,DIGITAL_P상담품목
+최저가 보상제도가 있나요,DIGITAL_P기타faq문의
+포토상품평,DIGITAL_P기타faq문의
+언제오는 거야,DIGITAL_P배송문의
+무통장 입금은 주문자 이름,DIGITAL_P결제문의
+내가 주문했던 상품,MART_P지난구매상품보기
+안전성이 확인,DIGITAL_P기타faq문의
+ok캐시백 사용할려는데,DIGITAL_P기타faq문의
+쿠폰 있나요,DIGITAL_P쿠폰요청
+1 1문의하는방법,DIGITAL_P상담원연결
+재입고문의요,DIGITAL_P기타faq문의
+좀더 싼거,MART_P행사상품
+a s 되는거죠,DIGITAL_Pa/s문의
+보내는 사람 변경,DIGITAL_P배송문의
+쿠폰 좀 더 보내주세요,DIGITAL_P쿠폰요청
+장바구니에 담을 수 없나요,DIGITAL_P찜기능안내
+할인쿠폰 가능한 제품,DIGITAL_P쿠폰적용문의
+착한가격으로,MART_P행사상품
+내 등급 알려줘,DIGITAL_P회원정보문의
+비싸다이기야,MART_P행사상품
+멤버십데이 언제하나요,DIGITAL_P행사문의
+구매한거 취소가능,DIGITAL_P주문취소
+상품이 안와서요,DIGITAL_P배송문의
+구매 리스트,DIGITAL_P주문이력확인
+어제 신청했어요,DIGITAL_P주문완료
+한번에 다 찾아줘,MART_P다중검색문의
+사은품도 없어서,DIGITAL_P사은품문의
+가격부터 좀,DIGITAL_P가격문의
+증정품 안 왔습니다,MART_P사은품문의
+디자인 예쁜,DIGITAL_P디자인문의
+이전에 받아볼수,DIGITAL_P배송일문의
+상담원 계시나요,DIGITAL_P상담원연결
+현명한 구매할게요,DIGITAL_P구매예정
+문의 있는데요,DIGITAL_P상담요청
+교환건 상담,DIGITAL_P교환문의
+멤버쉽 사용 문의,DIGITAL_P기타faq문의
+주소지를 변경하려,DIGITAL_P배송지변경문의
+비용 저렴할수록 좋아요,MART_P행사상품
+유통기한이 어떻게,MART_P유통기한문의
+교환 승인,DIGITAL_P교환문의
+금액 차이도 나고해서,DIGITAL_P가격차이
+톡매니저와 상담,DIGITAL_P상담원연결
+계정에 문제가있다는데,DIGITAL_P회원정보문의
+택배사 분실,DIGITAL_P기타faq문의
+장바구니 리스트가삭제,DIGITAL_P기타faq문의
+여친소개해줘,DIGITAL_P채팅
+오늘은 이만,DIGITAL_P대화종료
+비교 해주세요,DIGITAL_P상품비교
+처음으로 가고,DIGITAL_P처음으로
+판매자로 문의,DIGITAL_P판매자연락요청
+가격 얼만가,DIGITAL_P가격문의
+비슷한 사양인가,DIGITAL_P사양문의
+제품들이 뭐가 뭐가 달라,DIGITAL_P상품문의
+위조제품 신고,DIGITAL_P기타faq문의
+반납신청을 언제 해,DIGITAL_P반품문의
+시키면 바로 오나요,DIGITAL_P배송일문의
+반품 건에 대해서 상담,DIGITAL_P반품문의
+이미 발급 받은 쿠폰,DIGITAL_P쿠폰적용문의
+t멤버쉽 포인트,DIGITAL_P기타faq문의
+몇시쯤에 오나요,DIGITAL_P배송일문의
+sk할인 카드정보 어디,DIGITAL_P기타faq문의
+마트데이가 언제,MART_P할인행사
+휴대폰 인증고객을 하고 싶,DIGITAL_P본인인증문의
+쿠폰 받기 안되냐,DIGITAL_P쿠폰요청
+왜 적용이 안되나요,DIGITAL_P쿠폰적용문의
+사진첨부가 안되네요,DIGITAL_P사진올리기기능안내
+웰켐쿠폰 변경,DIGITAL_P쿠폰요청
+아니 뭐파냐고,DIGITAL_P상담품목
+내가 무얼 살 수 있냐고,DIGITAL_P추천
+상품권 등록은 어디에서,DIGITAL_P기타faq문의
+그만하고 십어,DIGITAL_P대화종료
+질문은 안되나요,DIGITAL_P채팅
+크레이지아케이드,DIGITAL_P게임용
+판매자에게 문의할,DIGITAL_P대화종료
+문화상품권등록은 어디에서,DIGITAL_P기타faq문의
+모바일로 인증,DIGITAL_P본인인증문의
+한도초과라고 뜨나요,DIGITAL_P결제문의
+캐시가 있는데 어떻게 사용,DIGITAL_P기타faq문의
+몇프로 쿠폰,DIGITAL_P쿠폰적용문의
+쇼핑백 챙겨주세요,MART_P쇼핑백문의
+주문할때 t멤버쉽,DIGITAL_P결제문의
+제가 직접 픽업가려구요,DIGITAL_P배송문의
+모바일 상품권 어디에있나,DIGITAL_P기타faq문의
+가격 알려줘,DIGITAL_P가격문의
+지금변경가능한가요,DIGITAL_P기타faq문의
+쓰던 물건은 치워,DIGITAL_P폐가전수거
+환불이안되네요,DIGITAL_P환불문의
+노래 틀어줘,DIGITAL_P채팅
+구매한 상품 문의,DIGITAL_P기타faq문의
+선물안줘요,DIGITAL_P채팅
+반송시 착불로 하면 되나요,DIGITAL_P배송비문의
+구매할려고하는데,MART_P주문
+이전 설치 가능한지,DIGITAL_P설치문의
+할수있는게뭐니,MART_P마트챗봇문의
+시끄럽게 그러냐,DIGITAL_P채팅
+혹시 쿠폰이,DIGITAL_P쿠폰요청
+구매 하긴 했는데,DIGITAL_P구매완료
+더많이 보여줘,DIGITAL_P추가추천
+할인쿠폰 붙여주세요,DIGITAL_P쿠폰요청
+내일다시올게,DIGITAL_P대화종료
+디지털챗봇이뭐에요,"MART_P디지털챗봇호출,DIGITAL_GREETINGintro"
+환불 때문에요,DIGITAL_P환불문의
+해피머니 충전,DIGITAL_P기타faq문의
+부분취소가 가능,DIGITAL_P결제문의
+좀도와주세요,DIGITAL_P상담요청
+아이디가 두개로 등록,DIGITAL_P회원정보문의
+좀더 생각해볼게요,DIGITAL_P대화종료
+e쿠폰샀는데 번호가 잘못,DIGITAL_P기타faq문의
+저번 대화시 추천받은,DIGITAL_P추천완료
+톡매니져가 멀하죠,DIGITAL_P톡매니저
+상담톡은누구랑,DIGITAL_P상담원연결
+전화하면 되나요 전번주세요,DIGITAL_P전화요청
+챗팅창 어떻게 나가요,DIGITAL_P도움말보기
+쿠폰은 어디서 다운받나요,DIGITAL_P쿠폰요청
+재가입할 수 있나요,DIGITAL_P회원정보문의
+고객센터 알려줘,DIGITAL_P고객센터문의
+제품선택안하면 안되니,DIGITAL_P채팅
+더 보여줘,DIGITAL_P추가추천
+쿠폰 15 적용 안 되네,DIGITAL_P쿠폰적용문의
+괜찮은거 추천좀,DIGITAL_P추천
+다른제품 또 물어봐도 되요,DIGITAL_P상담품목
+점검 언제끝나,DIGITAL_P기타faq문의
+바로인지 사람인지,DIGITAL_P챗봇여부문의
+as 기간 문의,DIGITAL_Pa/s문의
+최소 가격 어느정도인지를,DIGITAL_P가격문의
+할인쿠폰 다운받았는데,DIGITAL_P쿠폰적용문의
+가는 방법,길찾기_P노선
+신용카드 삭제,DIGITAL_P결제문의
+니가인간이가,DIGITAL_P챗봇여부문의
+사람같아요,DIGITAL_P챗봇여부문의
+주문한 물건이 아직도,DIGITAL_P배송문의
+상품번호는 어떻게 보나요,DIGITAL_P기타faq문의
+데이터프리 신청,DIGITAL_P기타faq문의
+무료로 설치해주나요,DIGITAL_P설치비문의
+아는게 뭘까,DIGITAL_P채팅
+오류라는 메세지가 뜨네요,DIGITAL_P상담원연결
+판매 1위,DIGITAL_P판매순위문의_RECOMpopular
+쿠폰 잘못삿는데,DIGITAL_P기타faq문의
+상품구매하려는데,DIGITAL_P구매예정
+학교 언제 끝,DIGITAL_P채팅
+잠시후에 다시 문의드릴,DIGITAL_P대화종료
+교환해 주신다고,DIGITAL_P교환문의
+생일이 언제야,DIGITAL_P채팅
+챗봇이에욤,DIGITAL_P챗봇여부문의
+쿠폰은어떻게 받는건가요,DIGITAL_P쿠폰요청
+가짜인가요,MART_P정품문의
+물품 신청 했는데,DIGITAL_P주문완료
+몇일이에요,DIGITAL_P채팅
+바로 설치 가능,DIGITAL_P설치문의
+상품권어떻게 등록,DIGITAL_P기타faq문의
+처음으로 갈래,DIGITAL_P처음으로
+됐다 그냥,DIGITAL_P대화종료
+상품권 m포인트,DIGITAL_P할인문의
+쿠폰 중복,DIGITAL_P기타faq문의
+엉뚱한 상품이 왔는데요,DIGITAL_P배송문의
+중국어지원 되나요,DIGITAL_P언어지원문의
+점검받고 싶어요,DIGITAL_Pa/s문의
+다시선택할래,DIGITAL_P처음으로
+다음 상담,DIGITAL_P대화종료
+11페이 카드삭제,DIGITAL_P결제문의
+아이템 추가해서 주문,DIGITAL_P기타faq문의
+쇼킹딜상품,"MART_P쇼킹딜,DIGITAL_P쇼킹딜"
+등록어디서하나요,DIGITAL_P기타faq문의
+주소잘못썼어요,DIGITAL_P배송지변경문의
+사은품 누락,MART_P사은품문의
+다시 문의요,DIGITAL_P상담요청
+주문한 제품이 잘못왔는데,DIGITAL_P기타faq문의
+사은품 도착하지 않았습니다,MART_P사은품문의
+개그 한 번 해줘,DIGITAL_P채팅
+톡매니저랑 상담,DIGITAL_P상담원연결
+어떤 상품 볼수있,DIGITAL_P상담품목
+뭘 웃겨 드려,DIGITAL_P채팅_GREETINGclaim
+방법궁금해요,DIGITAL_P상담요청
+자꾸 광고가 떠요,DIGITAL_P기타faq문의
+사용하는데는 지장이 없나요,DIGITAL_P사양문의
+적용되는 할인쿠폰 다시,DIGITAL_P쿠폰요청
+선물 줘요,DIGITAL_P채팅
+제품들이 뭐가 달라,DIGITAL_P상품문의
+쿠폰취소되었는지,DIGITAL_P쿠폰적용문의
+브랜드위크는 언제,DIGITAL_P행사문의
+배송비 문의,DIGITAL_P배송비문의
+안왔습니다,DIGITAL_P배송문의
+내가 자주 사는 그거,MART_P자주구매상품
+입금자명이랑,DIGITAL_P기타faq문의
+비교하고 살게요,DIGITAL_P구매예정
+바로랑 이야기 하고 싶어서,DIGITAL_P채팅
+t멤버십 카드번호,DIGITAL_P티멤버십관련문의_P기타faq문의
+11번가 선물하기,DIGITAL_P기타faq문의
+맛있는 것 뭐가 있을까,MART_P추천
+수요일 쿠폰,DIGITAL_P쿠폰요청
+환불 관련 문의,DIGITAL_P환불문의
+챗봇이 맞아요,DIGITAL_P챗봇여부문의
+내가 알이서 살거야,DIGITAL_P대화종료
+인증이안돼,DIGITAL_P본인인증문의
+뭐하나여쭤볼께요,DIGITAL_P상담요청
+이번주안에는 받을수있나요,DIGITAL_P배송문의
+취소완료된 물건이 왔어,DIGITAL_P주문취소
+쿠폰 인증번호 입력,DIGITAL_P쿠폰인증번호문의
+알림이 안 사라짐,DIGITAL_P알림설정문의_P기타faq문의
+그래 마니 배워가라,DIGITAL_P채팅
+상품권 어떻게 쓰는거에요,DIGITAL_P기타faq문의
+어느 회사 제품이 좋아,DIGITAL_P상품문의_P상담원연결
+넌 남자니,DIGITAL_P채팅
+묶음배송 신청,DIGITAL_P배송문의
+11페이 등록,DIGITAL_P결제문의
+할인 쿠폰 적용 어떻게,DIGITAL_P쿠폰적용문의
+취소거부를 했어요,DIGITAL_P주문취소
+결재창에서 오류,DIGITAL_P결제문의
+불량품이 왔,DIGITAL_P교환문의
+언제 받냐고,DIGITAL_P배송문의
+찾던건 이게 아니야,DIGITAL_P추가추천
+첨으로 갈래,DIGITAL_P처음으로
+가격차이 큰가요,DIGITAL_P가격차이
+쿠폰이 더 나오나요,DIGITAL_P쿠폰요청
+다 고가라서,MART_P행사상품
+내 마음대로 플러스,DIGITAL_P할인문의
+물건이 너무 안옵니다,DIGITAL_P배송문의
+오케이캐시백,DIGITAL_P결제문의
+다른거 주세요,DIGITAL_P추가추천
+제가 더 찾아보도록 할께요,DIGITAL_P대화종료
+언제 도착하는거야,MART_P배송문의
+인터파크보다 비싸요,DIGITAL_P가격문의
+배송 후 교환요청,DIGITAL_P교환문의
+꼼꼼하게 검수해주세요,MART_P포장문의
+브랜드 타임딜,DIGITAL_P행사문의
+어떻게 다시설정해요,DIGITAL_P기타faq문의
+마일리지 사용 내역,DIGITAL_P기타faq문의
+토욜까지 올까요,DIGITAL_P배송문의
+검색해줄수있어,DIGITAL_P추천
+십일절 행사,MART_P십일절
+취소한거 재주문,DIGITAL_P주문취소
+제품 반품 안되었다,DIGITAL_P반품문의
+여러 상품 찾아줘,MART_P다중검색실행
+본인 인증 후,DIGITAL_P본인인증문의
+찜했던리스트,DIGITAL_P찜한상품
+찾고 있는데요,DIGITAL_P추천
+더 좋은건가,"FAQ_P도움말요청,DIGITAL_P설명요청"
+A S는 되는건가요,DIGITAL_Pa/s문의
+어떤 사양 있나,DIGITAL_P사양문의
+가격 알고,DIGITAL_P가격문의
+증정품 잊지 마세요,MART_P사은품문의
+뭐가 더 좋은거야,DIGITAL_P상품비교
+유통기한이 언제까지,MART_P유통기한문의
+사은품 없나요,MART_P사은품문의
+장바구니에 넣어줘,DIGITAL_P찜기능안내
+입금 어떻게해요,DIGITAL_P결제문의
+다른 봇 소개해줘,DIGITAL_P채팅
+재결제 하라고 하는데,DIGITAL_P결제문의
+구매 배송 문의,DIGITAL_P배송문의
+어떻게 구매하나요,DIGITAL_P기타faq문의
+사람인가요,DIGITAL_P챗봇여부문의
+톡매니저 나오세요,DIGITAL_P상담원연결
+엊그제 산,MART_P지난구매상품보기
+상담원 전환,DIGITAL_P상담원연결
+이건 별루인가요,DIGITAL_P상품문의_P상담원연결
+상픔이 오긴 오는겁니까,DIGITAL_P배송문의
+할인쿠폰이 없어지나요,DIGITAL_P쿠폰적용문의
+as 보증 기간,DIGITAL_Pa/s문의
+구매하려면 그냥 하면 되나,DIGITAL_P구입문의
+마일리지데이 언제인가요,DIGITAL_P기타faq문의
+그래 수고,DIGITAL_P대화종료_GREETINGsugo
+비싸네 다음에,DIGITAL_P대화종료
+불량품 같은데,DIGITAL_P교환문의
+됐어 삐졌어,DIGITAL_P채팅
+다음 기회에 살게요,DIGITAL_P대화종료
+가격이 비슷하네요,DIGITAL_P가격차이
+상담 안되나요,DIGITAL_P상담시간
+결재가 안되나요,DIGITAL_P결제문의
+비싸지 않지만,MART_P행사상품
+어떻게 말을 할수있죠,DIGITAL_P채팅
+판매하려면 어떻게 등록해,DIGITAL_P기타faq문의
+무통장입금,DIGITAL_P결제문의
+아이디에 문제,DIGITAL_P회원정보문의
+바로 배송되는 상품 있나요,DIGITAL_P배송문의
+마트에 대한 상담만,DIGITAL_P상담품목
+무얼 찾으라는건지요,DIGITAL_P상담품목
+유료회원제가있다던데 가입,DIGITAL_P회원정보문의
+환불은 언제되나요,DIGITAL_P환불문의 
+오늘뭘사야이득이냐,DIGITAL_P행사문의
+배송에 관해 확인차 물어,DIGITAL_P배송문의
+장바구니 담기,DIGITAL_P찜기능안내
+할인은 언제 받을수있을지요,DIGITAL_P할인문의
+언제쯤이면 받을수 있,DIGITAL_P배송문의
+나의 주문관리,DIGITAL_P주문이력확인
+알아보고 연락준다했는데,DIGITAL_P전화요청
+송장번호가 먼가요,DIGITAL_P배송문의
+리뷰 어떻게 봐,DIGITAL_P리뷰요청
+행운을 줄래,DIGITAL_P채팅
+너는 무슨 생각 하니,DIGITAL_P채팅
+천천히 확인하겠습니다,DIGITAL_P대화종료
+오늘 발송되는 걸로,DIGITAL_P배송문의
+낮은 가격대로,MART_P행사상품
+재결제 하고 싶은데,DIGITAL_P결제문의
+전자제품만 되는군요,DIGITAL_P상담품목
+사은품인가요,MART_P사은품문의
+뮈가 비싸냐구요,DIGITAL_P가격문의
+a s 무상인가,DIGITAL_Pa/s문의
+주문 건 미도착입니다,DIGITAL_P배송문의
+쿠폰 어디서적용,DIGITAL_P쿠폰적용문의
+반품해달라고,DIGITAL_P반품문의
+문의 어디서해,DIGITAL_P기타faq문의
+핫딜 알려줘,MART_P행사상품문의
+취소했는데 취소안할께여,DIGITAL_P주문취소
+네 그때봐요,DIGITAL_P대화종료
+반송취소부탁드려요,DIGITAL_P반품문의
+차이날까요,DIGITAL_P차이점
+정품이 아닌가요,DIGITAL_P상품문의_P상담원연결
+국내산인가요,MART_P원산지문의
+문상 사용법,DIGITAL_P기타faq문의
+쿠폰 발행 가능하나요,DIGITAL_P쿠폰요청
+할인결재방법,DIGITAL_P할인문의
+a s 안내해주세요,DIGITAL_Pa/s문의
+전화가 연결이 안되,DIGITAL_P전화요청
+주문건배송날짜확인부탁,DIGITAL_P배송일문의
+너의 나이는,DIGITAL_P채팅
+최근 제조일자로 꼼꼼하게,MART_P새제품요청
+반품환불건도 상담,DIGITAL_P반품문의
+또궁금한거잇음 찾아뵐께,DIGITAL_P대화종료
+반품취소하고싶은데 취소가,DIGITAL_P반품문의
+어떤게 있나요,DIGITAL_P추천
+쿠폰은 어디서 다운,DIGITAL_P쿠폰요청
+서비스이용문의,DIGITAL_P도움말보기
+입금을 했는,DIGITAL_P결제문의
+쿠폰 발행해줘,DIGITAL_P쿠폰요청
+cad를 깔아도 돌아갈까요,DIGITAL_P사양문의
+주문 완료된 내역은 삭제,DIGITAL_P기타faq문의
+상품 다시고를래,DIGITAL_P처음으로
+상담은안해주니,DIGITAL_P상담요청
+딜 또 계획이 없나요,DIGITAL_P행사문의
+입급자 이름이 달라,DIGITAL_P결제문의
+아직도 반납안해가나요,DIGITAL_P반품문의
+제조날짜 어떻게,MART_P제조일자문의
+안내하실 수 있나,DIGITAL_P상담요청
+보통 배송 한달걸린다는데,DIGITAL_P배송문의
+나우배달은 뭐가 다른,DIGITAL_P기타faq문의
+쿠폰 제공되나요,DIGITAL_P쿠폰요청
+문의합니다,DIGITAL_P추천
+상담사이신지요,DIGITAL_P챗봇여부문의
+응모하고싶어,MART_P이벤트
+사이즈 다시선택,DIGITAL_P처음으로
+비밀번호가 필요,DIGITAL_P기타faq문의
+알림 안받을래,DIGITAL_P알림설정문의_P기타faq문의
+취소완료 언제,DIGITAL_P주문취소
+출책 없어졌냐요,DIGITAL_P기타faq문의
+브랜드 알려주세요,DIGITAL_P추천
+현금영수증 문의,DIGITAL_P기타faq문의
+재발송 해주신다고 했는데,DIGITAL_P배송문의
+배송 날짜 확인부탁,DIGITAL_P배송문의
+마일리지 어디서 받아요,DIGITAL_P적립문의
+문제가 있어요,DIGITAL_P상담요청
+포인트로 환불,DIGITAL_P환불문의
+물건이 오지 않아요,DIGITAL_P배송문의
+괜찮습니까,DIGITAL_P상품문의_P상담원연결
+다른건 뭐가있나요,DIGITAL_P상담품목
+판매 취소되어서 환불,DIGITAL_P환불문의
+문자좀 보내주세요,DIGITAL_P기타faq문의
+아그럼 이만,DIGITAL_P대화종료
+이벤트 페이지 오류,DIGITAL_P기타faq문의
+어떤 상품 가능,DIGITAL_P상담품목
+나중에 다시 상담 요청할게,DIGITAL_P대화종료
+한불해주세요,DIGITAL_P환불문의
+미구매 혜택 받으려는데,DIGITAL_P쿠폰요청
+발송으로 되어잇길래,DIGITAL_P배송문의
+쿠폰이 적요이,DIGITAL_P쿠폰적용문의
+질 비교해보고 구매할게요,DIGITAL_P구매예정
+휴먼계정해제,DIGITAL_P회원정보문의
+물건을 올리는 방법,DIGITAL_P기타faq문의
+쿠폰다운 어디서,DIGITAL_P쿠폰요청
+할인 쿠폰 뭐 적용,DIGITAL_P쿠폰적용문의
+그런거 따라하지좀,DIGITAL_P채팅
+가입된 회원이라고 나와요,DIGITAL_P본인인증문의
+아직 배송준비중이라서,DIGITAL_P배송문의
+마트 챗봇은 뭘 하는거,MART_P마트챗봇문의
+본인확인이뮌가요,DIGITAL_P기타faq문의
+대화 이어 하기,DIGITAL_P대화계속
+첨으로 이동,DIGITAL_P처음으로
+11pay설정,DIGITAL_P결제문의
+챗봇 바로 기능,DIGITAL_P상담품목
+사람과 얘기할래요,DIGITAL_P상담원연결
+디지털외에 상담은 어디서,DIGITAL_P기타faq문의
+설치해주시나요,DIGITAL_P설치문의
+아이디가 안되,DIGITAL_P회원정보문의
+인공지능이세요,DIGITAL_P챗봇여부문의
+인증하는법,DIGITAL_P본인인증문의
+추가로 다른 제품을,DIGITAL_P추가추천
+데이터 교환존,DIGITAL_P기타faq문의
+가격대가 얼마인지,DIGITAL_P가격문의
+비싸지 않게 저렴한 순으로,MART_P행사상품
+쿠폰 적용 안,DIGITAL_P쿠폰적용문의
+어디가 제일 싸나요,DIGITAL_P상담원연결
+나 뭐살까,DIGITAL_P추천
+취소했는데,DIGITAL_P주문취소
+내가 찾을꺼야,DIGITAL_P대화종료
+링크만 부탁드립니디,DIGITAL_P링크요청
+수요일까지 받아야,DIGITAL_P배송일문의
+쿠폰이나 추가 할인 혜택,DIGITAL_P쿠폰요청
+어제랑 가격이 달라요,DIGITAL_P가격차이
+내가 원하는 상품이 뭘까,DIGITAL_P채팅
+언제 택배 도착,DIGITAL_P배송문의
+오케이 캐쉬백 사용 어떻게,DIGITAL_P결제문의
+이번에산물건,DIGITAL_P주문이력확인
+챗봇맞는거같은데,DIGITAL_P챗봇여부문의
+파손없이 부탁 합니다,MART_P포장문의
+어느것이 더 나은가여,DIGITAL_P상담원연결
+싸게 해주세요,MART_P행사상품
+잠금화면설정 어떻게,DIGITAL_P기타faq문의
+결제 취소처리,DIGITAL_P결제문의
+영수증출력,DIGITAL_P기타faq문의
+쿠폰 도와주시나,DIGITAL_P쿠폰요청
+유통기한 날짜 알고 싶,MART_P유통기한문의
+뭐든 물어봐도 되니,DIGITAL_P상담품목
+구매등급확인,DIGITAL_P회원정보문의
+재가 필요한 것이,DIGITAL_P상담요청
+상품명이 주문내역과 달라요,DIGITAL_P기타faq문의
+쿠폰 좀 알려주세요,DIGITAL_P쿠폰요청
+생산일자를 알고 싶,MART_P제조일자문의
+11번가 연락처 좀,DIGITAL_P고객센터문의
+11pay 쓰고싶지 않아요,DIGITAL_P결제문의
+아이디를 알고 싶어요,DIGITAL_P회원정보문의
+차이가 나는건,DIGITAL_P차이점
+사진이 있는데,DIGITAL_P사진올리기기능안내
+일반상품과 이름이 다르던데,DIGITAL_P제품별차이점
+상담내용 삭제 문의,DIGITAL_P기타faq문의
+포인트에 대한 문의는,DIGITAL_P적립문의
+뭐하는 기능인데,DIGITAL_P상품문의
+단골쿠폰받기,DIGITAL_P쿠폰요청
+하고 싶어,DIGITAL_P19금
+그럼 어떤게 가능한데요,DIGITAL_P상담품목
+마일리지로 전환해주,DIGITAL_P기타faq문의
+고치는 건 어떡해요,DIGITAL_Pa/s문의
+최소신청건 승인처리,DIGITAL_P기타faq문의
+ATM기계로 입금하면,DIGITAL_P결제문의
+생산일자가 어떻게,MART_P제조일자문의
+그럼뭐가있냐,DIGITAL_P추천
+시럽쿠폰사용방법,DIGITAL_P쿠폰적용문의
+사진이 왜 안올리가나여,DIGITAL_P사진올리기기능안내
+포장상태 챙겨주세요,MART_P포장문의
+교환건인데요,DIGITAL_P교환문의
+출석체크에 관한 질문,DIGITAL_P기타faq문의
+쿠폰 적용 가능한가,DIGITAL_P쿠폰적용문의
+휴대폰 번호 바꾸고싶은데,DIGITAL_P회원정보문의
+as 절차문의,DIGITAL_Pa/s문의
+행사 언제,MART_P행사상품문의
+상품을 주뭄했는데,DIGITAL_P주문완료
+상품 쿠폰 등록,DIGITAL_P쿠폰적용문의
+여러 상품 찾기,MART_P다중검색실행
+너가 선택해,DIGITAL_P추천
+카드 결재화면에서 멈춤,DIGITAL_P결제문의
+자기 정보 변경,DIGITAL_P회원정보문의
+다시 상담 요청할게,DIGITAL_P대화종료
+아 살기힘들다,DIGITAL_P채팅
+니가 상담사자나,DIGITAL_P상담원연결
+카테고리가없어서,DIGITAL_P상담품목
+최대한 싸게,MART_P행사상품
+궁금해허니,DIGITAL_P채팅
+캐쉬 사용 문의,DIGITAL_P기타faq문의
+카드추가할인,DIGITAL_P결제문의
+어떤걸 사야될지 모르겠네요,DIGITAL_P추천
+단점은 어케될까여,DIGITAL_P상품문의_P상담원연결
+할인 쿠폰 적용 안되나,DIGITAL_P쿠폰적용문의
+주인는 누구냐,DIGITAL_P채팅
+그때 샀던,MART_P지난구매상품보기
+다른거 추천해,DIGITAL_P추가추천
+구매할려고,DIGITAL_P구매예정
+여자친구가있니,DIGITAL_P채팅
+톡매니저와는 어떻게 상담,DIGITAL_P상담원연결
+판매자 연락이안되요,DIGITAL_P판매자연락요청
+찌그러지지않게 포장,MART_P포장문의
+사용가능한 쿠폰이 안뜨네여,DIGITAL_P쿠폰적용문의
+주문하면 언제와용,DIGITAL_P배송문의
+내가친구가없어서,DIGITAL_P채팅
+저번주에 샀던 상품 보여,MART_P지난구매상품보기
+배송료결제,DIGITAL_P배송비문의
+교환해주시든가,DIGITAL_P교환문의
+상담해 어서,DIGITAL_P상담요청
+성별을 어떻게 써야돼요,DIGITAL_P기타faq문의
+비싸더라구,MART_P행사상품
+문의하고 싶은데,DIGITAL_P상담요청
+11번가 영업일,DIGITAL_P기타faq문의
+혹시 해킹아닌가요,DIGITAL_P회원정보문의
+쿠폰 문의,DIGITAL_P쿠폰요청
+더 싸게는 안되나요,DIGITAL_P바로할인가
+렌탈서비스 없나요,DIGITAL_P렌탈문의
+에이에스 센터 안내,DIGITAL_Pa/s문의
+문의 내용 삭제 부탁,DIGITAL_P기타faq문의
+에이에스 받으려면,DIGITAL_Pa/s문의
+품절이라 취소라라는데,DIGITAL_P주문취소
+구매하려고 하는데,DIGITAL_P추천
+내가 산 물건 내역,DIGITAL_P주문이력확인
+입금 아직 안 해주셨,DIGITAL_P환불문의
+가격 궁금해요,DIGITAL_P가격문의
+쿠폰 선택이 안돼,DIGITAL_P쿠폰적용문의
+취소 처리 왜안되나요,DIGITAL_P주문취소
+전화문의 가능,DIGITAL_P전화요청
+생일쿠폰찾아,DIGITAL_P쿠폰요청
+쿠폰인증번호 어떻게,DIGITAL_P쿠폰인증번호문의
+번호 변경 안된요,DIGITAL_P기타faq문의
+일시정지 가능한가요,DIGITAL_P기타faq문의
+여기에 상담 하는곳아닌가요,DIGITAL_P기타faq문의
+상담사 연결,DIGITAL_P상담원연결
+말돌리지말고,DIGITAL_P채팅
+이것보다 더할인가능,DIGITAL_P할인문의
+너 이쁘다,DIGITAL_P채팅
+주문하려고 했던 건데,DIGITAL_P구매예정
+주문에대해궁금해,DIGITAL_P상담요청
+환불돈안들어왓어,DIGITAL_P환불문의
+휴대폰 번호 바꾸고싶은데,DIGITAL_P회원정보문의
+장바구니 보여줘,MART_P장바구니보기
+수거해 주실 수,DIGITAL_P폐가전수거
+무슨 제품이 좋을까요,DIGITAL_P상품문의_P상담원연결
+예약이 진행이 안되는데,DIGITAL_P기타faq문의
+더 큰 거 없나,DIGITAL_P사이즈문의_SIZEl
+고객정보 수정,DIGITAL_P회원정보문의
+주소가 입력되지,DIGITAL_P기타faq문의
+문의사항도 여기다,DIGITAL_P기타faq문의
+금요일에 받을수 있나,DIGITAL_P배송문의
+디지털관련만 톡받나요,DIGITAL_P상담품목
+상품이아니라 궁금한건,DIGITAL_P기타faq문의
+단골 메뉴 어디에 있니,DIGITAL_P기타faq문의
+다른회사꺼는 없나요,DIGITAL_P추가추천
+취소승인됩니까,DIGITAL_P결제문의
+구입했는데 취소,DIGITAL_P주문취소
+모가 좋을까요,DIGITAL_P추천
+지문 변경,DIGITAL_P결제문의
+기프티콘이 오지 않아요,DIGITAL_P기타faq문의
+입금 처리안됨,DIGITAL_P환불문의
+배송 되지 않습니다,DIGITAL_P배송문의
+쿠폰 어떻게 받아,DIGITAL_P쿠폰요청
+추천 바랍,DIGITAL_P추천
+마트챗봇이뭐에요,"DIGITAL_P마트챗봇호출,MART_GREETINGcall"
+할인 쿠폰 제공 안 되는,DIGITAL_P쿠폰요청
+어떻게 구성되어있어,DIGITAL_P상품문의
+제품 머머 있어,DIGITAL_P상담품목
+기계아니에요,DIGITAL_P챗봇여부문의
+일단 구매해보고,DIGITAL_P구매예정
+해피캐쉬 사용,DIGITAL_P기타faq문의
+쿠폰이 없어지나요,DIGITAL_P쿠폰적용문의
+입금때문에요,DIGITAL_P결제문의
+쿠폰이 없어짐,DIGITAL_P쿠폰요청
+입고 언제,MART_P재입고문의
+몇년생이니,DIGITAL_P채팅
+괜찮을까요,DIGITAL_P상품문의_P상담원연결
+프로모션이 배송비빼고,DIGITAL_P행사문의
+사람이 아니면 뭐지,DIGITAL_P챗봇여부문의
+한달요금이 얼마정도,DIGITAL_P상담원연결
+택배 주소를 잘못 적,DIGITAL_P배송지변경문의
+톡매니저 뭐냐,DIGITAL_P톡매니저
+할인 쿠폰 없을까,DIGITAL_P쿠폰요청
+환불 상담도 이걸로 되나,DIGITAL_P환불문의
+안내해 주세요,DIGITAL_P추천
+최근 제조된 상품으로 부탁,MART_P새제품요청
+환불이 안 돼요,DIGITAL_P환불문의
+가서 쉬어라,DIGITAL_P대화종료
+취소해주세요,DIGITAL_P주문취소
+리뷰 작성한거 수정,DIGITAL_P기타faq문의
+입금을더했는데,DIGITAL_P결제문의
+전화 달라고,DIGITAL_P전화요청
+알려주신거 상세정보 보러,DIGITAL_P대화종료
+주문이안온다구,DIGITAL_P배송문의
+나우배송은 뭐가 다른,MART_Pnow배송설명요청
+언제쯤 오나요,DIGITAL_P배송일문의
+프로모션 어떻게 참여,MART_P이벤트
+고민 좀 해볼게,DIGITAL_P대화종료
+문의 사항 있어,DIGITAL_P상담요청
+faq 없나요,DIGITAL_P기타faq문의
+한도가 넘어면 구매가 안,DIGITAL_P결제문의
+케시쓰는방법,DIGITAL_P기타faq문의
+vvip존,DIGITAL_P기타faq문의
+전자제품 아닙니다,DIGITAL_P상담품목
+노래 한번,DIGITAL_P채팅
+문의하려는데 언제 되나요,DIGITAL_P상담시간
+상담사 한태 물어볼려면,DIGITAL_P상담원연결
+쿠폰은 어떻게 받아서,DIGITAL_P쿠폰요청
+문의드린겁니다 수고하세요,DIGITAL_P대화종료
+문의입니다,DIGITAL_P상담요청
+주문했는데 오늘올까요,DIGITAL_P배송문의
+도움말 확인,DIGITAL_P도움말보기
+찜 어케 쓰는거야,DIGITAL_P찜기능안내
+다른상담봇이랑 할래,DIGITAL_P대화종료 
+사양은 괜찮은건가요,DIGITAL_P사양문의
+사용가능 쿠폰개수 확인,DIGITAL_P쿠폰적용문의
+알림 설정 문의,DIGITAL_P알림설정문의_P기타faq문의
+상품 응모방법,DIGITAL_P기타faq문의
+얼마나 걸리,"길찾기_P소요시간,요리_P소요시간"
+중복 출금,DIGITAL_P결제문의
+오늘 도착 해요,DIGITAL_P배송문의
+상품귄 사용,DIGITAL_P기타faq문의
+취소하는법,DIGITAL_P주문취소
+반말해도 됨,DIGITAL_P채팅
+왜 연락을 안주는건지,DIGITAL_P전화요청
+브라우저 설정,DIGITAL_P기타faq문의
+대답해주세요,DIGITAL_P상담요청
+상품 이름을 쓰면 되는건가,DIGITAL_P도움말보기
+상품이 담기지 않습니다,DIGITAL_P찜기능안내
+전자제품만 참여 하는거야,DIGITAL_P상담품목
+장바구니 상품,MART_P장바구니보기
+입금은 언제 되나요,DIGITAL_P환불문의
+아이디가 2개라고 나와요,DIGITAL_P회원정보문의
+주문한 상품은 언제 도착,DIGITAL_P배송문의
+개인 정보 수정,DIGITAL_P회원정보문의
+물품 언제 받을 수 있나,DIGITAL_P배송문의
+이제품은 어떤가요,DIGITAL_P상품문의_P상담원연결
+이름 변경,DIGITAL_P기타faq문의
+어디서상담을해야하나요,DIGITAL_P상담원연결
+참고해서 잘 구매하겠습니다,DIGITAL_P구매예정
+포인트로 뭐 할수있나요,DIGITAL_P기타faq문의
+새제품으로 확인해서,MART_P새제품요청
+톡매니저 뭐에요,DIGITAL_P톡매니저
+가전제품은 다 상담되나요,DIGITAL_P상담품목
+너무 비싸지지 않나요,MART_P행사상품
+반품 신청하려고,DIGITAL_P반품문의
+이메일변경이 안되네요,DIGITAL_P회원정보문의
+나가겠씁니다,DIGITAL_P대화종료
+신고줌할려구요,DIGITAL_P기타faq문의
+공부 좀 했나,DIGITAL_P채팅
+저 문의드리고싶은데요,DIGITAL_P상담요청
+쿠폰사용을 할수가 없는데,DIGITAL_P쿠폰적용문의
+쿠폰인증번호등록 어떻게,DIGITAL_P쿠폰적용문의
+마트챗봇이 뭐야,"DIGITAL_P마트챗봇호출,MART_GREETINGcall"
+나도 아프다,DIGITAL_P채팅
+종류 더 없어,DIGITAL_P추가추천
+본인 인증 회원 변경,DIGITAL_P본인인증문의
+구매했던 물건,MART_P지난구매상품보기
+카텡고리가 없어서,DIGITAL_P상담원연결
+몇시오픈이야,DIGITAL_P상담시간
+물품이 안와서,DIGITAL_P배송문의
+택배가 안와요,DIGITAL_P배송문의
+티멤쉽적용,DIGITAL_P기타faq문의
+집주소 바뀌였어요,DIGITAL_P배송지변경문의
+반품을 했는데,DIGITAL_P반품문의
+차이 클까요,DIGITAL_P차이점
+환불 요구,DIGITAL_P환불문의
+연락하거싶은데 어떤방법으로,DIGITAL_P판매자연락요청
+구매하려고,DIGITAL_P추천
+차이 나는지,DIGITAL_P차이점
+수요일에 받을수 있나,DIGITAL_P배송문의
+수거해가나요,DIGITAL_P폐가전수거
+구입한 제품 보여달라고,DIGITAL_P기타faq문의
+개인 정보는 어떻게,DIGITAL_P회원정보문의
+환불 관련 문의,DIGITAL_P환불문의
+연락처변경,DIGITAL_P기타faq문의
+톡매니저가 모지,DIGITAL_P톡매니저
+할인율 큰걸로,MART_P행사상품
+생체등록은 어디서,DIGITAL_P기타faq문의
+첨부터 다시해요,DIGITAL_P처음으로
+상담 서비스 품목,DIGITAL_P상담품목
+판매자 문의를 하는,DIGITAL_P판매자연락요청
+쿠폰이 없다고 나오네요,DIGITAL_P쿠폰적용문의
+어떻게 연락하,DIGITAL_P전화요청
+한번 둘러보겠습니다,DIGITAL_P대화종료
+에이에스 빨리 되요,DIGITAL_Pa/s문의
+너무 힘들다,DIGITAL_P채팅
+물건 없다는데요,DIGITAL_P상담원연결
+마일리지실물교환,DIGITAL_P기타faq문의
+채움 포인트 사용,DIGITAL_P기타faq문의
+바로 할인가 뭐죠,DIGITAL_P바로할인가설명
+기분이 안 좋아,DIGITAL_P채팅
+주문을했는데 사이즈가 커서,DIGITAL_P사이즈문의
+새로 시작할래요,DIGITAL_P새상담
+아니 질문할꺼있어,DIGITAL_P상담품목
+성별을 적으라는데 어디,DIGITAL_P기타faq문의
+알아봐주세용,DIGITAL_P추천
+배송 오류,MART_P배송문의
+비밀번호 어떻게 바꾸나,DIGITAL_P회원정보문의
+내 장바구니,MART_P장바구니보기
+얼마정도할까요,DIGITAL_P가격문의
+혜택 쿠폰,DIGITAL_P쿠폰요청
+설명 부탁,"FAQ_P도움말요청,DIGITAL_P설명요청"
+쿠폰 적용이,DIGITAL_P쿠폰적용문의
+t멤버쉽 사용 문의,DIGITAL_P기타faq문의
+용량 어느 정도 해야 적당,DIGITAL_P용량문의
+도움말 요청,DIGITAL_P도움말보기
+톡매니저가 누구,DIGITAL_P톡매니저
+이용방법 어떻게,DIGITAL_P도움말보기
+다른것은 물어보면,DIGITAL_P상담품목 
+결제가안되요,DIGITAL_P결제문의
+교환이 처리안됨,DIGITAL_P교환문의
+장바구니에어떻게넣어요,DIGITAL_P찜기능안내
+할인 쿠폰 적용안되,DIGITAL_P쿠폰적용문의
+뭐 잘 하니,DIGITAL_P상담품목
+주문했는데 불량입니다,DIGITAL_P반품문의
+사람이오 컴퓨터오,DIGITAL_P챗봇여부문의
+사설에서 설치하면 안되,DIGITAL_P설치문의
+로봇입니까,DIGITAL_P챗봇여부문의
+주소를 두군데로 할수있나요,DIGITAL_P배송지변경문의
+아이디에 뭐가 문제,DIGITAL_P회원정보문의
+다른 기능은 없니,DIGITAL_P상담품목
+vip레벨 언제되,DIGITAL_P기타faq문의
+확인해보겠습니다,DIGITAL_P대화종료
+구매하는 제품 추천해주시면,DIGITAL_P추천
+엄마가 좋아 아빠가 좋다,DIGITAL_P채팅
+vip클럽존,DIGITAL_P기타faq문의
+조금 후에 다시 상담,DIGITAL_P대화종료
+아이디 연동,DIGITAL_P기타faq문의
+네이버검색시 최저가인지,MART_P행사상품
+신선한거맞나요,MART_P신선식품문의
+본인 인증 어째 하는지,DIGITAL_P본인인증문의
+페이지새로고침,DIGITAL_P처음으로
+최근본내역,DIGITAL_P찜기능안내
+사고 시포요,DIGITAL_P추천
+입금확인 안되요,DIGITAL_P환불문의
+컨시어지님,DIGITAL_P상담원연결
+대화좀 하자,DIGITAL_P채팅
+결제정보입력및삭제,DIGITAL_P기타faq문의
+그럼 나중에,DIGITAL_P대화종료
+제가 산거 볼래요,MART_P지난구매상품보기
+설치된 제품 철거후,DIGITAL_P폐가전수거
+환불 어떻게 하나요,DIGITAL_P환불문의
+안내 받을 수,DIGITAL_P추천
+장바구니상품문의,DIGITAL_P찜기능안내
+증정품도 함께 주시는건가요,MART_P사은품문의
+제품 사이트 알려주세요,DIGITAL_P링크요청
+미성년자제한상품,DIGITAL_P본인인증문의
+회원정보 변경은,DIGITAL_P회원정보문의
+젤 싼 걸로,MART_P행사상품
+주문하고 결제했는데,DIGITAL_P주문확인_P기타faq문의
+내가 좋아할만한,DIGITAL_P추천
+쿠폰 안되나요,DIGITAL_P쿠폰적용문의
+가격차이 나서요,DIGITAL_P가격차이
+장바구니담는법,DIGITAL_P찜기능안내
+문상 가능,DIGITAL_P기타faq문의
+현대 카드 문의,DIGITAL_P결제문의
+술좋아하니,DIGITAL_P채팅
+마이페이지가 어디,DIGITAL_P기타faq문의
+상담원과 얘기,DIGITAL_P상담원연결
+어디서 찾을 수 있을까요,DIGITAL_P기타faq문의
+유통기한 날짜 부탁,MART_P유통기한문의
+광고 삭제,DIGITAL_P기타faq문의
+맴버십 카드번호가 뭔가요,DIGITAL_P기타faq문의
+상담 요청,DIGITAL_P상담요청
+전화준다면서요,DIGITAL_P전화요청
+오늘 발송 가능한가요,DIGITAL_P배송문의
+가격차이 많나요,DIGITAL_P가격차이
+어떤 상품인지,DIGITAL_P상품문의_P상담원연결
+어떻 사용해요,DIGITAL_P도움말보기
+번호인증방법,DIGITAL_P기타faq문의
+다른거 보여줘,DIGITAL_P추가추천
+인증된 아이디가 있다는데,DIGITAL_P본인인증문의
+뭔 차이예요,DIGITAL_P차이점
+T멥버쉽 어떻게 등록,DIGITAL_P기타faq문의
+vip 쿠폰팩을 받고싶은데,DIGITAL_P쿠폰요청
+사용법이 어떻게,DIGITAL_P도움말보기
+상담하려고하는데,DIGITAL_P상담요청
+여기서 물건 팔수있,DIGITAL_P기타faq문의
+가격비교도 부탁,DIGITAL_P가격비교문의
+주소가 입력되지 않아요,DIGITAL_P배송지변경문의
+가짜인가요,DIGITAL_P상품문의_P상담원연결
+돈언제들어오나요,DIGITAL_P환불문의
+아직도착을 안하는겁니까,DIGITAL_P배송문의
+다른것이 있나요,DIGITAL_P추가추천
+먹을만한거 뭐있니,MART_P추천
+11pay 가입,DIGITAL_P결제문의
+키가 몇이야,DIGITAL_P채팅
+다른이름으로 입금,DIGITAL_P결제문의
+구매내역확인,MART_P지난구매상품보기
+방금받았는데요,DIGITAL_P배송완료
+어느 정도가 무겁나요,DIGITAL_P무게문의_P상담원연결
+삼성패이사용,DIGITAL_P결제문의
+다음에 상담,DIGITAL_P대화종료
+안오던데요,DIGITAL_P배송일문의
+주문건에 대한 문의,DIGITAL_P상담원연결
+인공지능아니세요,DIGITAL_P챗봇여부문의
+어떻게 태어났,DIGITAL_P채팅
+11페이 안되요,DIGITAL_P결제문의
+얘기좀해요,DIGITAL_P채팅
+장애 문의는 어디서,DIGITAL_P고객센터문의
+쿠폰 적용 어떻게,DIGITAL_P쿠폰적용문의
+내맘대로플러스,DIGITAL_P할인문의
+티멤버쉽 로딩이 안되요,DIGITAL_P기타faq문의
+뭔지 잘몰라요,"FAQ_P도움말요청,DIGITAL_P설명요청"
+언제입금되나요,DIGITAL_P환불문의
+카드승인거절,DIGITAL_P결제문의
+환불은 어떻게,DIGITAL_P환불문의 
+용도는 무슨 용도야,DIGITAL_P상품문의
+상담 번화번호 알려주세요,DIGITAL_P기타faq문의
+현대카드 혜택 언제,DIGITAL_P행사문의
+어제 취소했는대,DIGITAL_P주문취소
+반품 때문에요,DIGITAL_P반품문의
+이벤트 주소 알려줘,DIGITAL_P행사문의 
+좋은 방법 없을까요,DIGITAL_P상담원연결
+게좌알려주신다고,DIGITAL_P기타faq문의
+최저가가 아닌데요,DIGITAL_P가격문의
+기존껀 폐기해주나요,DIGITAL_P폐가전수거
+as가 어떻게 되나요,DIGITAL_Pa/s문의
+전회좀 주세요,DIGITAL_P전화요청
+해피머니상품권이용방법,DIGITAL_P기타faq문의
+1개만 왔네요,DIGITAL_P배송문의
+물어볼거 있어,DIGITAL_P상담요청
+얼마정도예요,DIGITAL_P가격문의
+영수증 발급을 원합,DIGITAL_P기타faq문의
+vip mall,DIGITAL_P기타faq문의
+재고 있는지 알아,DIGITAL_P상담원연결
+11번가 아이디,DIGITAL_P회원정보문의
+설치날짜를 전부 통일,DIGITAL_P설치문의
+시럽쿠폰번호,DIGITAL_P쿠폰적용문의
+11번가데이,DIGITAL_P행사문의
+카탈로그 상품으로 추천해줄,DIGITAL_P상품문의_P상담원연결
+유효기간 긴 제품,MART_P새제품요청
+결제할 때 오류가 납니다,DIGITAL_P결제문의
+내회원등급은,DIGITAL_P회원정보문의
+부서져서 오면 어떡해,DIGITAL_P반품문의
+다른 제품 보여달라고,DIGITAL_P추가추천
+비교해보고 결정할게요,DIGITAL_P구매예정
+반품방법알려주세요,DIGITAL_P반품문의
+다른상품찾아쥬,DIGITAL_P추가추천
+상품 이번주에 받을수있아요,DIGITAL_P배송문의
+언제 입고,DIGITAL_P상담원연결
+나중에살건데요,DIGITAL_P대화종료
+기획전 쿠폰,MART_P쿠폰요청
+다음에 상담 요청할게,DIGITAL_P대화종료
+교환제품 언제,DIGITAL_P교환문의
+상담이 갑자기 종료,DIGITAL_P기타faq문의
+장바구니쿠폰,DIGITAL_P쿠폰요청
+용량은 어느정도 인가요,DIGITAL_P용량문의
+구매할려고 하는데,DIGITAL_P구매예정
+바로 할인가 모죠,DIGITAL_P바로할인가설명
+신용 카드 결제,DIGITAL_P결제문의
+비밀번호 잊어서요,DIGITAL_P회원정보문의
+뭐가 다른지 잘 모르겠어요,DIGITAL_P기타faq문의
+반품은 할수없나요,DIGITAL_P반품문의
+통신사 오류,DIGITAL_P기타faq문의
+a s되겠죠,DIGITAL_Pa/s문의
+결제를 위한 팝업차단해지,DIGITAL_P기타faq문의
+고객 지원 센터와 연결,DIGITAL_P상담원연결
+다른 상품으로 교환,DIGITAL_P교환문의
+후기글보는곳,DIGITAL_P리뷰요청
+쿠폰 사용 어떻게,DIGITAL_P쿠폰적용문의
+너나쁘다구,DIGITAL_P채팅
+다른 옵션 추가,DIGITAL_P추가추천
+토요일까지 받,DIGITAL_P배송일문의
+차이점도 궁금합니다,DIGITAL_P차이점
+거래정지카드,DIGITAL_P결제문의
+짝퉁 신고,DIGITAL_P기타faq문의
+반품 요청 중입니다,DIGITAL_P반품문의
+출근이벤트,DIGITAL_P기타faq문의
+반품 관련,DIGITAL_P반품문의
+있는지 알아봐 주세요,DIGITAL_P추천
+상담쳇이아닌가요,DIGITAL_P상담품목
+반품 택배,DIGITAL_P반품문의
+설치비까진가요,DIGITAL_P설치비문의
+제일 싼 쪽,MART_P행사상품
+최근 생산된 상품 부탁,MART_P새제품요청
+내가뭘좋아할까,DIGITAL_P채팅
+더 많은상품,DIGITAL_P추가추천
+있는건가요,DIGITAL_P상품문의_P상담원연결
+지원되는 서비스는 뭐니,DIGITAL_P상담품목
+안녕히가세요,DIGITAL_P대화종료_GREETINGgoodbye
+수거도 해가시나요,DIGITAL_P폐가전수거
+가격 대비 넘 비싸내,MART_P행사상품
+톡매니저 나와,DIGITAL_P상담원연결
+추가비용문의,DIGITAL_P추가비용문의_P상담원연결
+톡매니저가 뭐야,DIGITAL_P톡매니저
+어떤 기능을 하는건가요,DIGITAL_P상품문의_P상담원연결
+가진 제품종류가 몇가지,DIGITAL_P상담품목
+적립되는 거 맞나,DIGITAL_P적립문의
+상담 종료,DIGITAL_P대화종료
+몇세 지능,DIGITAL_P채팅
+11pay 로결제하기누르면,DIGITAL_P결제문의
+덕분에 잘 살꺼같아요,DIGITAL_P구매예정
+쇼핑백포함 선물포장 부탁,MART_P쇼핑백문의
+오류가 나네요,DIGITAL_P기타faq문의
+취소와 반품의 차이점,MART_P반품문의
+남자야 여자야,DIGITAL_P채팅
+무게 다시 선택,DIGITAL_P처음으로
+너어떻게 만들었니,DIGITAL_P채팅
+매니저 내놔,DIGITAL_P상담원연결
+언제 구입 한 건지 확인,DIGITAL_P주문이력확인
+상담시간끝난거죠,DIGITAL_P상담시간 
+비교해 볼 수는 있을까요,DIGITAL_P상품비교
+해지는 어떻게,DIGITAL_P기타faq문의
+가져가지 않았어요,DIGITAL_P반품문의
+미니몰이 어디에요,DIGITAL_P기타faq문의
+괜찮습니까,DIGITAL_P상품문의_P상담원연결
+판매자가 판매취소,DIGITAL_P주문취소
+너무 직설적인것같아,DIGITAL_P채팅
+얼마큼 차이인지,DIGITAL_P차이점
+t멤버쉽행사가 있나요,DIGITAL_P행사문의
+환급은 언제쯤되나요,DIGITAL_P환불문의
+결제 취소했는데,DIGITAL_P결제문의
+랩할수있어요,DIGITAL_P채팅
+찌그러지지 않게 부탁,MART_P포장문의
+아이디없는거같아요,DIGITAL_P회원정보문의
+증정품 없나요,MART_P사은품문의
+1 1 대화를 하,DIGITAL_P상담요청
+추천이 가능,DIGITAL_P추천
+잘못주문했는데 취소,DIGITAL_P주문취소
+샀던거좀 보여줘,MART_P지난구매상품보기
+제조일자 최근일자로 보내,MART_P새제품요청
+다른거 찾을래,DIGITAL_P처음으로
+skt 가입자,DIGITAL_P기타faq문의
+11번가의 안전정책,DIGITAL_P기타faq문의
+통화가 안되는건가요,DIGITAL_P전화요청_GREETINGclaim
+가격차이 있던데,DIGITAL_P가격차이
+어떤 서비스 해 주시나요,DIGITAL_P기타faq문의
+모가 좋은건지,DIGITAL_P추천
+언제쯤 답신 가능,DIGITAL_P추천
+수거 요청합니다,DIGITAL_P폐가전수거
+리뷰작성하면,DIGITAL_P기타faq문의
+어제 주문한 것 또 주문,MART_P지난구매상품보기
+데이터 사용 무료,DIGITAL_P기타faq문의
+장바구니에 어떻게 담죠,DIGITAL_P찜기능안내
+쿠폰이나 주시나요,DIGITAL_P쿠폰요청
+11pay 카드 추가,DIGITAL_P결제문의
+페이코 할인,DIGITAL_P결제문의
+11번가pay 오류,DIGITAL_P결제문의
+다시 대화 드릴게,DIGITAL_P대화종료
+매장이랑 같은 제품 맞나요,DIGITAL_P제품별차이점
+법인카드 사용,DIGITAL_P결제문의
+나 뭐사지,DIGITAL_P추천
+배송 얼마나 걸려요,DIGITAL_P배송일문의
+택이 떨어져 있,DIGITAL_P기타faq문의
+휴대폰 소액결제로 결제,DIGITAL_P결제문의
+쿠폰 실수,DIGITAL_P쿠폰적용문의
+이모델은 별루인가오,DIGITAL_P상품문의_P상담원연결
+가전제품 말고,DIGITAL_P상담품목
+가격을 알려 달라고요,DIGITAL_P가격문의
+구매확정이 안 돼요,DIGITAL_P기타faq문의
+제조일자 가장 최근 확인,MART_P제조일자문의
+다른말을래,DIGITAL_P채팅
+할인 이벤트는 언제하나요,DIGITAL_P행사문의
+당일 배송 요청이요,DIGITAL_P배송문의
+대여기간요,DIGITAL_P기타faq문의
+뭐가 뭔지 모르겠어,DIGITAL_P상담원연결
+할인 쿠폰 있,DIGITAL_P쿠폰요청
+취소가 안되여,DIGITAL_P주문취소
+고장났는데 니가 고쳐,DIGITAL_Pa/s문의
+주문햇는데늦네요,DIGITAL_P배송문의
+실측 신청 가능한가요,DIGITAL_P설치문의
+11픽 어떻게 이용,DIGITAL_P기타faq문의
+엊그제 산,MART_P지난구매상품보기
+선물을 사용하려고 하는데,DIGITAL_P기타faq문의
+할인율 높은제품,MART_P행사상품문의
+아 마트상품만,MART_P상담품목
+너 여자야,DIGITAL_P채팅
+언제까지 배송이 가능한지요,DIGITAL_P배송일문의
+이벤트 기간,MART_P이벤트
+묶음 배송요,DIGITAL_P배송문의
+야 맞을래,DIGITAL_P채팅
+문의 내역 삭제,DIGITAL_P기타faq문의
+사업자 혜택,DIGITAL_P기타faq문의
+보통 용량 어느정도,DIGITAL_P용량문의
+도착예정일,MART_P배송일문의
+아니 내꺼 로그아웃 하라고,DIGITAL_P기타faq문의
+후기 보여줘,DIGITAL_P리뷰요청
+설치하는데 얼마에요,DIGITAL_P설치비문의
+구매확정 버튼이 보이지,DIGITAL_P기타faq문의
+항상 같은 말,DIGITAL_P채팅
+디지털챗봇좀불러줘,"MART_P디지털챗봇호출,DIGITAL_GREETINGintro"
+마트에서 무얼 사지,MART_P추천
+반품했는데 입금언제,DIGITAL_P환불문의
+전주소로 잘못기재되서 수정,DIGITAL_P배송지변경문의
+추천말고 그냥 상담,DIGITAL_P상담요청
+집에 가고싶어요,DIGITAL_P채팅
+카드유효기간 변경,DIGITAL_P결제문의
+인공지능인가요 사람인가요,DIGITAL_P챗봇여부문의
+어떤게 제일 좋은가요,DIGITAL_P상품문의_P상담원연결
+여기에 상담하면 되는건가요,DIGITAL_P상담품목 
+가격차이 많이 나는데,DIGITAL_P가격차이
+정품 맞나요,DIGITAL_P상품문의_P상담원연결
+그때 샀던 상품 구매,MART_P지난구매상품보기
+사용 방법 안내,MART_P도움말보기
+상품문의는 어디서,DIGITAL_P상담원연결
+쿠폰 오류,DIGITAL_P쿠폰적용문의
+구매하고 바로 취소했는데,DIGITAL_P주문취소
+머좀 학인할라고,DIGITAL_P상담품목
+확인해보갰습니다,DIGITAL_P대화종료
+할인쿠폰 왜 사용 안되요,DIGITAL_P쿠폰적용문의
+지금통화할수있,DIGITAL_P전화요청
+쿠폰 어떻게 사용,DIGITAL_P쿠폰적용문의
+존재하지않는상품이라,DIGITAL_P기타faq문의
+이벤트 중,MART_P이벤트
+보상지연 대상이 되나요,DIGITAL_P기타faq문의
+지점 배송지 변경,DIGITAL_P배송지변경문의
+뭐 잘 하니,MART_P마트챗봇문의
+왜이름이없어,DIGITAL_P회원정보문의
+11번가바로가기,DIGITAL_P기타faq문의
+과거주문내용,MART_P지난구매상품보기
+as도 여기서 상담 가능,DIGITAL_Pa/s문의
+교환처리 했는데,DIGITAL_P교환문의
+쇼킹딜이뭐야,"MART_P쇼킹딜,DIGITAL_P쇼킹딜"
+고객센타 상담은여,DIGITAL_P상담원연결
+카드 등록 해지,DIGITAL_P결제문의
+구매하였다가,DIGITAL_P구매완료
+왜 이렇게 싸요,DIGITAL_P가격차이
+혜택이 가장 좋은상품,DIGITAL_P바로할인가
+반납한지가 언젠데,DIGITAL_P반품문의
+설치하는 비용 있나요,DIGITAL_P설치비문의
+리뷰는 좋나요,DIGITAL_P리뷰평점문의
+vip 전용 샵,DIGITAL_P기타faq문의
+우체국 등기번호,DIGITAL_P반품문의
+11톡 어떻게,DIGITAL_P기타faq문의
+톡매니저 소환,DIGITAL_P상담원연결
+내아이디뭐야,DIGITAL_P회원정보문의
+주문 지금하면 배송 언제,DIGITAL_P배송일문의
+취소하고 싶어,DIGITAL_P주문취소
+쿠폰 발급 부탁,DIGITAL_P쿠폰요청
+사은품 함께 주시는건가요,MART_P사은품문의
+원산지는 어디,MART_P원산지문의
+환불언제 입금되나요,DIGITAL_P환불문의
+차이첨 부탁드려요,DIGITAL_P차이점
+저렴히행사하는상품,MART_P행사상품
+모두 그만,DIGITAL_P대화종료
+확인해주세요,DIGITAL_P확인
+쓰던건 어떻게 처리해,DIGITAL_P폐가전수거
+발송준비중이라고떠서,DIGITAL_P배송문의
+내일 아침까지 오는지,MART_P배송문의
+문자메세지를 받,DIGITAL_P상담원연결
+더 싼 물건,MART_P행사상품
+구매할려고,MART_P주문
+제조사를 말해줘,DIGITAL_P상품문의
+청구 할인,DIGITAL_P할인문의
+내가 알아서 할게요,DIGITAL_P대화종료
+시리가 누구야,DIGITAL_P채팅
+실시간 상담도 좋구요,DIGITAL_P상담원연결
+내일받을수있을까요,DIGITAL_P배송일문의
+카드 취소 문자가 안오네요,DIGITAL_P결제문의
+제조일자를 알고 싶,MART_P제조일자문의
+멤버쉽 등록 문의,DIGITAL_P기타faq문의
+왜 안오나요,DIGITAL_P배송문의
+유효기간 날짜 부탁,MART_P유통기한문의
+짝퉁 판매자 퇴출,DIGITAL_P기타faq문의
+크기가 얼마인가요,DIGITAL_P사이즈문의
+알리미 해지,DIGITAL_P알림설정문의
+어떻게 하면 되나요,DIGITAL_P상담원연결
+이벤트가 뭐지,MART_P이벤트 
+가품제품이 없나요,DIGITAL_P기타faq문의
+돈 좀 있냐,DIGITAL_P채팅
+가격대가 보통 어느정도,DIGITAL_P가격문의
+배송 좀 빨리,DIGITAL_P배송문의
+십일절 행사,DIGITAL_P행사문의
+오케이 케쉬백 번호 어찌,DIGITAL_Pok캐시백문의_P기타faq문의
+포장 꼼꼼히 잘해서 보내,MART_P포장문의
+자꾸사라고그래,DIGITAL_P채팅
+다시 발행은 안되나요,DIGITAL_P기타faq문의
+공부 열심히해,DIGITAL_P채팅
+할인 쿠폰 받는 법 몰라서,DIGITAL_P쿠폰요청
+모두 도착했나,DIGITAL_P배송문의
+결제창을 어디서 찾죠,DIGITAL_P결제문의
+as 문의,DIGITAL_Pa/s문의
+현대 카드,DIGITAL_P결제문의
+환불은 언제,DIGITAL_P환불문의
+사진으로 찾는,DIGITAL_P기타faq문의
+넌 뭘 할줄아니,DIGITAL_P채팅
+한개만 왔어요,DIGITAL_P배송문의
+반품이 안되네요,DIGITAL_P반품문의
+어디로가서 상담신청,DIGITAL_P상담원연결
+배송 문의,DIGITAL_P배송문의
+ok케시백 등록,DIGITAL_P기타faq문의
+어디로 물어봐야 하나요,DIGITAL_P기타faq문의
+가장 저렴한,MART_P행사상품
+고르고 싶은 품목이 없는데,DIGITAL_P대화종료
+찾고 싶은데,DIGITAL_P추천
+증정품인가요,MART_P사은품문의
+포인트비번등록,DIGITAL_P회원정보문의
+배송받은 상품 기스,DIGITAL_P기타faq문의
+찾아보고 다시,DIGITAL_P대화종료
+차이 있나요,DIGITAL_P차이점
+error가 떠요,DIGITAL_P기타faq문의
+상담은 안되나,DIGITAL_P상담요청
+주문시켰다구,DIGITAL_P주문완료
+다시 상담 요청 드릴게,DIGITAL_P대화종료
+상품 발송 안해주나요,DIGITAL_P배송문의
+컬쳐캐쉬란 무엇,DIGITAL_P기타faq문의
+나의 적립금,DIGITAL_P기타faq문의
+쿠폰 적용 안 되네,DIGITAL_P쿠폰적용문의
+톡하시는 분은 누구세요,DIGITAL_P챗봇여부문의
+수거 해주시나요,DIGITAL_P폐가전수거
+반품 물건 내가 직접,DIGITAL_P반품문의
+11pay 비밀번호변경,DIGITAL_P결제문의
+좀 여쭙겠습니다,DIGITAL_P상담요청
+a s도 직접 되나요,DIGITAL_Pa/s문의
+카드 할인 행사,DIGITAL_P결제문의
+물어봐도 되나요,DIGITAL_P상담요청
+내일 또 만나,DIGITAL_P대화종료
+컴퓨턴지 알고요,DIGITAL_P챗봇여부문의
+금액이 다른이유는요,DIGITAL_P가격문의
+쿠폰달라고,DIGITAL_P쿠폰요청
+도착 날짜,DIGITAL_P배송일문의
+입항보고정정취소접수,DIGITAL_P기타faq문의
+유효기간 먼 것으로 부탁,MART_P새제품요청
+네오 제안가 뭐예요,DIGITAL_P바로할인가설명
+구매 할인쿠폰 받으려고,DIGITAL_P쿠폰요청
+할부가 가능할까요,DIGITAL_P결제문의
+상품이 안왔어요,DIGITAL_P배송문의
+제일 싸게 올라온거,MART_P행사상품문의
+최근 제조일자로 보내,MART_P새제품요청
+더 비싼건가요,DIGITAL_P가격문의
+이번주 받아보고 싶구요,DIGITAL_P배송문의
+문의 했는데 답장은 언제,DIGITAL_P기타faq문의
+문의 지금 돼요,DIGITAL_P상담시간
+카드결재시 오류가,DIGITAL_P결제문의 
+따로따로 보내야하나요,DIGITAL_P반품문의
+너 나 사랑하냐,DIGITAL_P채팅
+생산일자 최근일자로 보내,MART_P새제품요청
+배송 안나왔습니,DIGITAL_P배송문의
+멤버쉬사용이 안되네요,DIGITAL_P기타faq문의
+여러 상품을 한번에 찾아,MART_P다중검색문의
+톡매니저 뭐죠,DIGITAL_P톡매니저
+본인확인을 하라고 창이떠요,DIGITAL_P본인인증문의
+결제시 활용이 안 됩니다,DIGITAL_P결제문의
+추천해주신 이유,DIGITAL_P추천기준
+상담은 가점재품만,DIGITAL_P상담품목
+현대카드 쿠폰,DIGITAL_P쿠폰요청
+용량 어떻게 되나,DIGITAL_P용량문의
+아이디오류,DIGITAL_P회원정보문의
+질문 하나만 해도 될까,DIGITAL_P추천
+넌 내 꼬붕이야,DIGITAL_P채팅
+환불건 문의드려요,DIGITAL_P환불문의
+sk멤버쉽 어디서 다운,DIGITAL_P쿠폰요청
+왜 어려워,DIGITAL_P채팅
+검색이 안 되네요,DIGITAL_P기타faq문의
+주문 배송지 확인,DIGITAL_P배송문의
+안내 부탁드려,DIGITAL_P추천
+무이자 할부,DIGITAL_P결제문의
+상담사분께서 해주시는군요,DIGITAL_P챗봇여부문의
+환불않해주시나요,DIGITAL_P환불문의
+또 만나자,DIGITAL_P대화종료
+홈플러스 배달,DIGITAL_P배송문의
+비교해보고 구매할게요,DIGITAL_P구매예정
+배송관련 문의,DIGITAL_P배송문의
+원산지 알려,MART_P원산지문의
+유효기간 부탁드립니다,MART_P유통기한문의
+보통 잘나가는 가격대는,DIGITAL_P가격문의
+챗봇이세요,DIGITAL_P챗봇여부문의
+어떤건가요,DIGITAL_P상품문의_P상담원연결
+챗봇 내일 만나,DIGITAL_P대화종료
+수취인성함,DIGITAL_P배송문의
+검토해보겠습니디,DIGITAL_P대화종료
+배송비 선결제는 무엇,MART_P배송비문의
+배송지 땜에그러는데,DIGITAL_P배송지변경문의
+쿠폰 문제,DIGITAL_P쿠폰적용문의
+어떻게 다른가요,DIGITAL_P차이점
+그것 살까 싶은데,DIGITAL_P구매예정
+톡매니저 먼가요,DIGITAL_P톡매니저
+초특가 상품,MART_P할인행사
+개발자는 누구야,DIGITAL_P채팅
+상담 안해 주셔도 돼,DIGITAL_P상담요청안함
+가격차이 있는데,DIGITAL_P가격차이
+물건을빨리처리햬주세요,DIGITAL_P배송문의
+특가 상품,MART_P할인문의
+상담사 나와,DIGITAL_P상담원연결
+주문할때 사용방법을,DIGITAL_P기타faq문의
+쿠폰을 찾을 수가 없어,DIGITAL_P쿠폰요청
+파손없이 보내주세요,MART_P포장문의
+하나카드 혜택 언제,DIGITAL_P행사문의
+BC카드 혜택 언제,DIGITAL_P행사문의
+얼마정도인지,DIGITAL_P가격문의
+이거 말고는,DIGITAL_P추가추천
+내꺼언제와,DIGITAL_P배송문의
+내일 디지털데이니,DIGITAL_P행사문의
+어느 브랜드가 좋아,DIGITAL_P상담원연결
+1상담은안되나요,DIGITAL_P상담원연결
+디지털 기기만 알려,DIGITAL_P상담품목
+빠른 연락요청,DIGITAL_P전화요청
+포인트로 문화상품권 구매,DIGITAL_P기타faq문의
+이제 그만,DIGITAL_P대화종료
+결재 원할하게 안됨,DIGITAL_P결제문의
+쿠폰 못 쓰나요,DIGITAL_P쿠폰적용문의
+주소 수정 가능,DIGITAL_P배송지변경문의
+나 당첨시켜줭,DIGITAL_P채팅
+예쁜 건 없어요,DIGITAL_P디자인문의
+상담을 시작할래요,DIGITAL_P새상담
+장바구니담는법,MART_P장바구니담기
+뭐가 더 비싸,DIGITAL_P가격문의
+알뜰쿠폰 어디서 받아,DIGITAL_P쿠폰요청
+겁나 비싸네,MART_P행사상품
+월컴딜은 어디서 보나,DIGITAL_P쿠폰요청
+행사 상품 알려,MART_P행사상품문의
+고장났어요,DIGITAL_Pa/s문의
+이것뿐인가요,DIGITAL_P추가추천
+교환했는데,DIGITAL_P교환문의
+반품 취소 해주신다고,DIGITAL_P반품문의
+취소완료 후 환불,MART_P환불문의
+결재하는 금액이 얼마,DIGITAL_P가격문의
+불량 운의드려요,DIGITAL_P기타faq문의
+십일절 쿠폰,DIGITAL_P쿠폰요청
+주문취소처리,DIGITAL_P주문취소
+원산지문의,MART_P원산지문의
+배송되나요,DIGITAL_P배송문의
+vip클럽 메뉴,DIGITAL_P기타faq문의
+ok캐쉬백 쓰려고,DIGITAL_P결제문의
+유통기한 임박상품,MART_P제조일자문의
+제조일자 최신 부탁,MART_P새제품요청
+주문하기가 자꾸 안돼요,DIGITAL_P기타faq문의
+고럼 다음에,DIGITAL_P대화종료
+공인인증서,DIGITAL_P본인인증문의
+디지털 제품이 뭐뭐에요,DIGITAL_P상담품목
+할인쿠폰 더 없어요,DIGITAL_P쿠폰요청
+더저렴한것,MART_P할인문의
+로켓 배송,MART_P배송문의
+사용법이 뭔가요,DIGITAL_P도움말보기
+챗봇아 남자니,DIGITAL_P채팅
+상담원과 연락,DIGITAL_P상담원연결
+상담하려는데요,DIGITAL_P상담요청
+너 스팸이야,DIGITAL_P채팅
+무통장 입금 예금주,DIGITAL_P결제문의
+회원가입을 취소,DIGITAL_P회원정보문의
+매니저 불러줘,DIGITAL_P상담원연결
+영수증 어디서 발급,DIGITAL_P기타faq문의
+카드 해지하고,DIGITAL_P결제문의
+더보여달라니까,DIGITAL_P추가추천
+11번가 고객센터,DIGITAL_P고객센터문의
+구매한 상품 다시 주문,MART_P지난구매상품보기
+제품검색만되나,DIGITAL_P상담품목
+톡매니저가 뭔가요,DIGITAL_P톡매니저
+최근 구매,MART_P지난구매상품보기
+브랜드명이 기억 안나서요,DIGITAL_P상품문의_P상담원연결
+지정택배로 수거요청했는데,DIGITAL_P반품문의
+토요일 쿠폰,DIGITAL_P쿠폰요청
+배송지가 잘못 됐어요,DIGITAL_P배송지변경문의
+자꾸 인증하라 나오지요,DIGITAL_P본인인증문의
+나중에 이용할께요,DIGITAL_P대화종료
+배송지 변경,DIGITAL_P배송지변경문의
+취소요청드려용,DIGITAL_P주문취소
+행사기간 안내,MART_P행사상품문의
+문의하고 싶습니다,DIGITAL_P상담요청
+오늘은 안살래,DIGITAL_P대화종료
+도착 날짜,MART_P배송문의
+웃긴 얘기해줘,DIGITAL_P채팅
+AS 가능 한가요,DIGITAL_Pa/s문의
+차이점이죠,DIGITAL_P차이점
+반품 추가비는 뭐죠,DIGITAL_P반품문의
+프로모션 기간,MART_P이벤트 
+초대는 어떻게,DIGITAL_P기타faq문의
+삼성카드 쿠폰,DIGITAL_P쿠폰요청
+sk 멤버쉽 인증,DIGITAL_P티멤버십관련문의_P기타faq문의
+소비 전력 어떻게되나,DIGITAL_P에너지소비등급문의
+물어볼려고,DIGITAL_P상담요청
+제조일자가 정확하게 어떻게,MART_P제조일자문의
+본인 인증하라는데,DIGITAL_P본인인증문의
+사용 가이드 뭔가요,DIGITAL_P도움말보기
+아는게 별로 없구나,DIGITAL_P채팅_GREETINGclaim
+취소했는대 입금은 언제,DIGITAL_P환불문의
+배송안돼서 문의 하려구,DIGITAL_P배송문의
+선택다시할게요,DIGITAL_P처음으로
+그게 다니,DIGITAL_P추가추천
+vvip혜택,DIGITAL_P기타faq문의
+할인쿠폰 사용,DIGITAL_P쿠폰적용문의
+가격인가요,DIGITAL_P가격문의
+호드를 위하여,DIGITAL_P채팅
+아이템 추천 부탁,DIGITAL_P추천
+택배수거안오셔서,DIGITAL_P반품문의
+할인은 언제 다시,DIGITAL_P행사문의
+이메일수신,DIGITAL_P기타faq문의
+전화좀 부탁,DIGITAL_P전화요청
+찾아보고 연락하겠습니다,DIGITAL_P대화종료
+뭘 배우는데,DIGITAL_P채팅_GREETINGclaim
+반품 문의,DIGITAL_P반품문의
+가격은 왜 다 달라요,DIGITAL_P가격차이
+탈퇴가안되요,DIGITAL_P회원정보문의
+ok캐시백,DIGITAL_P기타faq문의
+11페이 해지,DIGITAL_P결제문의
+유통기한 긴 제품으로,MART_P새제품요청
+싸게 사는법,DIGITAL_P할인문의
+왜 돈안보내줘,DIGITAL_P환불문의
+이벤트 관련 문의,MART_P이벤트
+딴건 없냐,DIGITAL_P추가추천
+t멤버쉽 상담,DIGITAL_P티멤버십관련문의_P기타faq문의
+구매도 안되구요,DIGITAL_P기타faq문의
+쿠폰이 어떤게 있니,DIGITAL_P쿠폰요청
+선불로 하나요,DIGITAL_P배송비문의
+11stpay,DIGITAL_P결제문의
+본인확인이 안됩니다,DIGITAL_P본인인증문의
+24시간 상담은 아니군요,DIGITAL_P상담시간
+귀찮은거 도와줘,DIGITAL_P추천
+여자 소개해줘,DIGITAL_P채팅
+결제 취소 왜 안해,DIGITAL_P결제문의
+다시 고를래요,DIGITAL_P새상담
+주문시 이와같은 오류,DIGITAL_P기타faq문의
+더 보여주세요,DIGITAL_P추가추천
+배송지를 각각 다르게,DIGITAL_P배송문의
+쿠폰좀부탁드려요,DIGITAL_P쿠폰요청
+할인 쿠폰 적용 안돼죠,DIGITAL_P쿠폰적용문의
+취소건이 있는데요,DIGITAL_P주문취소
+여러 상품 한방에 추천,MART_P다중검색실행
+같은건 무엇인가요,"FAQ_P도움말요청,DIGITAL_P설명요청"
+다음에 다시 문의,DIGITAL_P대화종료
+너가 선택좀,DIGITAL_P추천
+다른 것도 알려주셔,DIGITAL_P상품문의_P상담원연결
+디지털제품,"DIGITAL_P상담품목,MART_P디지털챗봇호출"
+여기서머해,DIGITAL_P채팅
+어디 브랜드인가요,DIGITAL_P브랜드문의
+주소 입력이안되네요,DIGITAL_P배송지변경문의
+최신 가전,DIGITAL_P상담품목
+사용 가이드 보여,DIGITAL_P도움말보기
+이벤트 페이지 어디,DIGITAL_P할인행사
+저렴하게 살 수 있을까요,MART_P할인문의
+기설치 상품 철거,DIGITAL_P폐가전수거
+게릴라쿠폰 언제 해,DIGITAL_P행사문의
+최대한 싼 거,MART_P행사상품
+나 필요한 제품이 있어,DIGITAL_P추천
+핫딜 상품 뭔가,MART_P행사상품문의
+쿠폰을 쓰려면,DIGITAL_P쿠폰적용문의
+점심시간에도 상담가능,DIGITAL_P상담시간
+미수취 취소,DIGITAL_P주문취소
+재밌는 얘기 해줘,DIGITAL_P채팅
+로결제가능,DIGITAL_P결제문의
+11pay 설정,DIGITAL_P결제문의
+궁금한점 질문,DIGITAL_P상담요청
+차이 많이 납니까,DIGITAL_P차이점
+사람 가지고 놉니까,DIGITAL_P챗봇여부문의
+교환이나 반품은,DIGITAL_P교환문의
+상담 가능한가,DIGITAL_P상담요청
+인증이 안되요,DIGITAL_P본인인증문의
+최고가 할인,DIGITAL_P할인문의_PRICExs
+상품번호 어딧는지,DIGITAL_P기타faq문의
+마일리지 보상,DIGITAL_P기타faq문의
+상담창 확인했습니다,DIGITAL_P상담완료
+그런거 모르는데,"FAQ_P도움말요청,DIGITAL_P설명요청"
+허리가아파,DIGITAL_P채팅
+오늘 받아 입을수없나,DIGITAL_P배송일문의
+물품을 받지 못했,DIGITAL_P배송문의
+배송지설정은 어떻게,DIGITAL_P회원정보변경문의
+하루종일 통화중이네요,DIGITAL_P전화요청_GREETINGclaim
+상담 가능한게 뭔가요,DIGITAL_P상담품목
+프로모션 행사,MART_P이벤트 
+금액 괜찬은걸로,MART_P행사상품
+이벤트 중인가요,DIGITAL_P행사문의
+신한카드 혜택 언제,DIGITAL_P행사문의
+추가 할인 쿠폰 없,DIGITAL_P쿠폰요청
+좀 더 큰 사이즈는 뭔가요,DIGITAL_P사이즈문의
+매장이랑 같은 제품인가요,DIGITAL_P제품별차이점
+디스카운트,DIGITAL_P할인문의
+카드할인하고 중복가능한가요,DIGITAL_P결제문의
+쿠폰이 적요이 안되,DIGITAL_P쿠폰적용문의
+유통기한 부탁,MART_P유통기한문의
+입금 좀 해주세,DIGITAL_P환불문의
+괜찮을까요,DIGITAL_P상품문의_P상담원연결
+판매자는 어떻게 알수있나요,DIGITAL_P기타faq문의
+판매자문의 하는방법,DIGITAL_P판매자연락요청
+이전 구매,MART_P지난구매상품보기
+가격대가 다를껀데,DIGITAL_P가격차이
+톡 나가고싶어요,DIGITAL_P대화종료
+상픔언제오나요,DIGITAL_P배송문의
+새제품으로 챙겨,MART_P새제품요청
+그냥 안알려주셔도되요,DIGITAL_P대화종료
+해피머니등록,DIGITAL_P기타faq문의
+주문조회 문의,DIGITAL_P주문이력확인
+다른 사이즈 보여줘,MART_P추가추천
+기다렸는데 품절,DIGITAL_P주문취소
+톡매니저 불러주,DIGITAL_P상담원연결
+입금대기중이라고 뜨네요,DIGITAL_P결제문의
+쿠폰교환했는데 어디서 확인,DIGITAL_P기타faq문의
+상품 신고는 안되나요,DIGITAL_P기타faq문의
+살퍄볼께요,DIGITAL_P대화종료
+혹시 가격이 어느정도에요,DIGITAL_P가격문의
+입금 왜 안해,DIGITAL_P환불문의
+아이디가 뭐야,DIGITAL_P회원정보문의
+기스가 너무 많아요,DIGITAL_P반품문의
+취소승인은 언제,DIGITAL_P결제문의
+뭐좀여쭤볼께요,DIGITAL_P상담품목
+정품 확인해,MART_P정품문의
+캐시 거래내역,DIGITAL_P기타faq문의
+등록 어케해요,DIGITAL_P기타faq문의
+문의할 사항 입니다,DIGITAL_P상담원연결
+자주 산 물건,MART_P자주구매상품
+기존에 쓰던 물건은 처리,DIGITAL_P폐가전수거
+시럽페이로 결제하면,DIGITAL_P결제문의
+설정어디있어,DIGITAL_P기타faq문의
+뭐가괜찮을까,DIGITAL_P상품문의_P상담원연결
+넌 밥 먹냐,DIGITAL_P채팅
+유통기한 날짜 알려,MART_P유통기한문의
+구매한거 찾아,MART_P지난구매상품보기
+나 좋아해,DIGITAL_P채팅
+찜 리스트,DIGITAL_P찜한상품
+교환이나 환불,DIGITAL_P교환문의
+a s 센터 안내,DIGITAL_Pa/s문의
+이제다찾았어요,DIGITAL_P주문예정
+장바구니 기능에 대해 알고,DIGITAL_P찜기능안내
+그럼 여기서 안됀다고요,DIGITAL_P상담품목
+결제완료되었고,DIGITAL_P결제완료
+상품이아니라,DIGITAL_P기타faq문의
+11pay는 어디서 등록,DIGITAL_P결제문의
+어제 전화주셨었,DIGITAL_P상담요청
+사진 올리기,DIGITAL_P사진올리기기능안내
+마일리지 차감,DIGITAL_P기타faq문의
+새로운 상담하기,DIGITAL_P새상담
+판매자 주소는 어디서 확인,DIGITAL_P판매자연락요청
+제품을 시켰는데,DIGITAL_P주문완료
+이거 어떻게 종료해요,DIGITAL_P도움말보기
+가격비싸지않은걸루,MART_P행사상품
+다음에 또 이용,DIGITAL_P대화종료
+성별을 어디에다가 적어,DIGITAL_P기타faq문의
+거래명세서,DIGITAL_P결제문의
+세금계산서를 발행,DIGITAL_P기타faq문의
+환불신청을 해야,DIGITAL_P환불문의
+생산일자 최신으로,MART_P새제품요청
+투썸쇼킹딜,"MART_P쇼킹딜,DIGITAL_P쇼킹딜"
+회원가입은 어떻게,DIGITAL_P회원정보문의
+발송하지 않는 제품 문의,DIGITAL_P배송문의
+반품원합니다,DIGITAL_P반품문의
+재결재 대기,DIGITAL_P결제문의
+구매했던거,DIGITAL_P주문이력확인
+다중 검색 어떻게 하,MART_P다중검색문의
+이 쿠폰 사용 안 되나,DIGITAL_P쿠폰적용문의
+이메일문의,DIGITAL_P기타faq문의
+디지털만 가능한가,DIGITAL_P상담품목
+장바구니에 담아줘,DIGITAL_P찜기능안내
+개인셀러해지,DIGITAL_P기타faq문의
+지금상품 받았는데요,DIGITAL_P배송완료
+월욜에 받을수 있나,DIGITAL_P배송문의
+다른쿠폰 쓸수 있게,DIGITAL_P쿠폰적용문의
+비가오네요,DIGITAL_P채팅
+t멤머쉽 등록,DIGITAL_P기타faq문의
+윈도우 깔아주나요,DIGITAL_P설치문의
+쿠폰 적용 안됩니다,DIGITAL_P쿠폰적용문의
+영수증 필요,DIGITAL_P기타faq문의
+프로모션 참여,MART_P이벤트 
+살 수 있을까요,DIGITAL_P추천
+오늘 뭘 살까,DIGITAL_P추천
+특가 구성 패키지,MART_P할인문의
+담에 연락할께요,DIGITAL_P대화종료
+11pay 삭제,DIGITAL_P결제문의
+성별이뭐야,DIGITAL_P채팅
+톡매니저는 어디에서,DIGITAL_P상담원연결
+주문했는데 왜안와요,DIGITAL_P배송문의
+설치비는 따로 없나요,DIGITAL_P설치비문의
+다른점이 뭐죠,DIGITAL_P차이점
+상품 뭐가 있어요,DIGITAL_P상담품목
+유통기한 먼 것으로,MART_P새제품요청
+교환거부해놓은지모르겠어요,DIGITAL_P교환문의
+최저가로 살수있나요,MART_P할인문의
+카드입력어케함,DIGITAL_P결제문의
+행사상품문의,MART_P행사상품문의
+내주문상품,MART_P지난구매상품보기
+차이를 못 느끼,DIGITAL_P차이점
+제품 작동이 안돼요,DIGITAL_Pa/s문의
+특가 진행중,DIGITAL_P할인행사
+로그인문의,DIGITAL_P기타faq문의
+제품을 알아보고 있습니다,DIGITAL_P추천
+상품은받은상태구,DIGITAL_P배송완료
+네오 제안가 뭔가요,DIGITAL_P바로할인가설명
+당첨됐는데,DIGITAL_P행사문의
+디자인문의,DIGITAL_P디자인문의
+답변도며칠이걸리고,DIGITAL_P상담원연결
+언제쯤 받을수 있어요,DIGITAL_P배송일문의
+또 다른거,DIGITAL_P추가추천
+반품한 상품수거,DIGITAL_P반품문의
+저녁식사로 먹을만한거,MART_P추천
+수취 완료를 눌렀,DIGITAL_P기타faq문의
+배송받은 아이템이 오염,DIGITAL_P반품문의
+소형가전도 수거되나요,DIGITAL_P폐가전수거
+사람 직접 답변,DIGITAL_P챗봇여부문의
+업체가 연락이않되요,DIGITAL_P판매자연락요청
+어디께 좋아,DIGITAL_P상품문의_P상담원연결
+안와서요 취소시켜주세요,DIGITAL_P주문취소
+쿠폰팩다운 받는곳을 못 찾,DIGITAL_P쿠폰요청
+취소됐는지,DIGITAL_P주문취소
+쿠폰뭐있어요,DIGITAL_P쿠폰요청
+교환하려는데,DIGITAL_P교환문의
+묶음 배송 요청합니다,DIGITAL_P배송문의
+로봇이라던데,DIGITAL_P챗봇여부문의
+이메일 주소 변경,DIGITAL_P기타faq문의
+반품해주세요,DIGITAL_P반품문의
+용량 두배인 상품,MART_P추가추천
+비교해보고 선택하겠습니다,DIGITAL_P구매예정
+다음에 할게,DIGITAL_P대화종료
+차이 크나요,DIGITAL_P차이점
+제품 추천할 수 있어,DIGITAL_P상담품목
+부분 취소,DIGITAL_P주문취소
+완전 처음,DIGITAL_P처음으로
+바로 할인가,DIGITAL_P바로할인가설명
+유효기간이 어떻게,MART_P유통기한문의
+카드영수증은 어디서,DIGITAL_P기타faq문의
+구매했는데 취소가능,DIGITAL_P주문취소
+직접설치가 어려워서,DIGITAL_P설치문의
+쿠팡에서 파는거보다 싸,DIGITAL_P상담원연결
+환불이 안돼,DIGITAL_P환불문의
+사양은 어떻게 되나요,DIGITAL_P사양문의
+뭐가 있는 걸까,MART_P마트챗봇문의
+유효기간 날짜 알고,MART_P유통기한문의
+내가 맨날 사는거 있잖아,MART_P자주구매상품
+번호바꾸는거 어떻게,DIGITAL_P기타faq문의
+입금하면 남은돈은 적립금,DIGITAL_P결제문의
+무엇이 필요할까,DIGITAL_P추천
+판매는 어떻케,DIGITAL_P기타faq문의
+궁금한게생기면또올께요,DIGITAL_P대화종료
+새로운 상담 할래요,DIGITAL_P새상담
+해외배송이되나요,DIGITAL_P배송문의
+사람이 답변해주시는건가요,DIGITAL_P챗봇여부문의
+사진을 보고싶어요,DIGITAL_P사진요청
+카드등록 어떻게,DIGITAL_P결제문의
+너 친구는 있니,DIGITAL_P채팅
+홈쇼핑 라이브,DIGITAL_P기타faq문의
+치매걸렸나,DIGITAL_P채팅
+데이터 무료아닌가요,DIGITAL_P기타faq문의
+구매확정은했구,DIGITAL_P구매완료
+가격대 알려주세요,DIGITAL_P가격문의
+다른걸로 추천,DIGITAL_P추가추천
+최저가 안내주시는건가요,DIGITAL_P바로할인가
+구매하는 것이 좋은,DIGITAL_P상담원연결
+나저거사고싶엉,DIGITAL_P채팅
+어디로 상담해야되나요,DIGITAL_P기타faq문의
+알림음 조정 어떻게,DIGITAL_P알림설정문의_P기타faq문의
+쿠폰 할인은 어디서 적용,DIGITAL_P쿠폰적용문의
+오늘 발송해 달라고,DIGITAL_P배송일문의
+11 pay 생체등록,DIGITAL_P결제문의
+주문자명이랑 입금자명 같,DIGITAL_P결제문의
+쿠폰 사용 문의,DIGITAL_P쿠폰적용문의
+쿠폰은 재발송 가능한가요,DIGITAL_P기타faq문의
+쿠폰 미지급,DIGITAL_P쿠폰요청
+전에 샀던,MART_P지난구매상품보기
+11pay등록,DIGITAL_P결제문의
+취소를어케해요,DIGITAL_P주문취소
+제품이 고장났어요,DIGITAL_Pa/s문의
+가입은 안해도 되는건가요,DIGITAL_P기타faq문의
+주문한제품이 안오구 있어요,DIGITAL_P배송문의
+설치 어려워서,DIGITAL_P설치문의
+어디 살아,DIGITAL_P채팅
+쿠폰은 적용 카테고리,DIGITAL_P쿠폰적용문의
+성인인증은 어떻게,DIGITAL_P본인인증문의
+둘러보고 올게요,DIGITAL_P대화종료
+니나 사람이 되라,DIGITAL_P채팅
+결제햇는대,DIGITAL_P결제완료
+다 똑같은거죠,DIGITAL_P상품문의_P상담원연결
+교환에대해 상담,DIGITAL_P기타faq문의
+그럼담에봐요,DIGITAL_P대화종료
+제품은 어떻게 찾아,"FAQ_P도움말요청,DIGITAL_P설명요청"
+대표전화 가능시간,DIGITAL_P상담시간
+금욜까지 올까요,DIGITAL_P배송문의
+11번가 사용하는 방법,DIGITAL_P결제문의
+이벤트관련 문의,DIGITAL_P행사문의
+그럼어디로 문의하나요,DIGITAL_P기타faq문의
+제가 원하는 답을 주셔야죠,DIGITAL_P채팅
+언제 오나요,DIGITAL_P배송일문의
+제품이안왔너요,DIGITAL_P배송문의
+나중에 또 올께,DIGITAL_P대화종료
+마트상담만 가능,MART_P마트챗봇문의
+다른상품 찾을게요,DIGITAL_P처음으로
+다른카드로 결제하고싶어,DIGITAL_P결제문의
+리뷰남기기,DIGITAL_P리뷰등록
+금액 얼마,DIGITAL_P가격문의
+다음에 올께요,DIGITAL_P대화종료
+마일리지 적립,DIGITAL_P적립문의
+쿠폰이 안받아져,DIGITAL_P쿠폰요청
+이용가이드 어떻게,DIGITAL_P도움말보기
+로봇 하는 줄 알고,DIGITAL_P챗봇여부문의
+여태까지 구매한거 보여,MART_P지난구매상품보기
+유통기한 넉넉하게,MART_P새제품요청
+마일리지 있자나,DIGITAL_P적립문의
+한꺼번에 주문,MART_P다중검색문의
+쿠폰 활용,DIGITAL_P쿠폰적용문의
+톡매니저가 먼가요,DIGITAL_P톡매니저
+as는 어디서 받습니까,DIGITAL_Pa/s문의
+롯데카드 혜택,DIGITAL_P결제문의
+최대한 싼쪽,MART_P행사상품
+나좀뽑아줘,DIGITAL_P채팅
+판매자가 없어졌네요,DIGITAL_P기타faq문의
+직영몰은 어떻게 확인,DIGITAL_P기타faq문의
+상담원 상담,DIGITAL_P상담원연결
+성능 더 좋은 건가,DIGITAL_P성능문의
+취소가 아니되,DIGITAL_P주문취소
+문의상품없음,DIGITAL_P대화종료
+배송지 좀 변경,DIGITAL_P배송지변경문의
+쿠폰 다운로드,MART_P쿠폰요청
+주문한상품이 안보여요,DIGITAL_P주문이력확인
+해지를 어떻게,DIGITAL_P기타faq문의
+다른 색상도 가능,DIGITAL_P색상변경문의
+카드결재 취소,DIGITAL_P결제문의
+다시 확인하그 상담,DIGITAL_P대화종료
+다른 상품은 뭐가 있나요,DIGITAL_P추가추천
+챗봇을 연결,DIGITAL_P상담요청
+구매할 수 있는 버튼이 없,DIGITAL_P기타faq문의
+내일 다시 문의할게요,DIGITAL_P대화종료
+주소 바꾸려면,DIGITAL_P배송지변경문의
+딴 카테고리,DIGITAL_P새상담
+상담 접속,DIGITAL_P상담원연결
+전화자체를 안받아요,DIGITAL_P전화요청_GREETINGclaim
+다시 목록,DIGITAL_P처음으로
+일반상담 안되나요,DIGITAL_P상담품목
+물건 안오고,DIGITAL_P배송문의
+한가지만더물어봐도 될까요,DIGITAL_P상담요청
+이제품 괜찮을까요,DIGITAL_P상품문의_P상담원연결
+본인인증 어디서,DIGITAL_P본인인증문의
+배송되지 않고,DIGITAL_P배송문의
+구매등급 문의,DIGITAL_P회원정보문의
+만나면 이해할 수 있을거야,DIGITAL_P채팅
+수요일까지 올까요,DIGITAL_P배송문의
+복수구매쿠폰,DIGITAL_P쿠폰적용문의
+제조일자문의,MART_P제조일자문의
+제품상담만 가능,DIGITAL_P상담품목
+택배 얼마나 걸리나요,DIGITAL_P배송문의
+어제 뭐했어,DIGITAL_P채팅
+톡매니저가 누구야,DIGITAL_P톡매니저
+문의할려고,DIGITAL_P상담요청
+바자회 물품후원,DIGITAL_P기타faq문의
+구매가 안된다고,DIGITAL_P상담원연결
+어떡해 선택해요,DIGITAL_P기타faq문의
+11번가 인증,DIGITAL_P본인인증문의
+11시 쿠폰,DIGITAL_P쿠폰요청
+계속 안오구 잇어요,DIGITAL_P배송문의
+유효기간을 알고 싶,MART_P유통기한문의
+삼성카드 혜택,DIGITAL_P결제문의
+자주 사는 상품 뭔지 알아,MART_P자주구매상품
+구매인증 어찌받나요,DIGITAL_P회원정보문의
+바로 할인가 뭔가요,DIGITAL_P바로할인가설명
+잘 봤어오,DIGITAL_P대화종료
+샀던건데 보여,MART_P지난구매상품보기
+공인인증서,DIGITAL_P회원정보문의
+쿠폰 추가로 사용 안 되,DIGITAL_P쿠폰적용문의
+연말행사 제품 없나요,DIGITAL_P할인행사
+주문했던 상품 문의,DIGITAL_P상담요청
+재밌는 이야기해봐,DIGITAL_P채팅
+대표전화는 언제부터 가능,DIGITAL_P상담시간
+제가산상품이요,MART_P지난구매상품보기
+누락상품확인바래요,DIGITAL_P기타faq문의
+문의 드려도 될,DIGITAL_P상담요청
+최저가인가요,DIGITAL_P바로할인가
+쇼핑쿠폰 다운,DIGITAL_P쿠폰요청
+최근 구매,DIGITAL_P주문이력확인
+제품시켰는데 오질 않아요,DIGITAL_P배송문의
+결제관련 문의,DIGITAL_P결제문의
+추천하신 이유,DIGITAL_P추천기준
+가장 저령한게,DIGITAL_P상품문의_P상담원연결
+무통장입급방법,DIGITAL_P결제문의
+비밀번호 확인하려고,DIGITAL_P본인인증문의
+번호가 바꼈는데,DIGITAL_P회원정보문의
+살펴보고 결정,DIGITAL_P구매예정
+가격 할인을 많이하는,MART_P행사상품
+웰컴 쿠폰 취소,DIGITAL_P쿠폰적용문의
+반품보냈는데환불,DIGITAL_P환불문의
+넌 너무딱딱해,DIGITAL_P채팅
+그냥 나 혼자 살게,DIGITAL_P대화종료
+카드사혜택,DIGITAL_P행사문의
+당사자와 상의해볼게요,DIGITAL_P대화종료
+후기가 왜안올라가죠,DIGITAL_P기타faq문의
+도대체 아는게 뭐냐,DIGITAL_P채팅
+이게 왜 좋은데,DIGITAL_P추천사유문의
+중도해지 안할게요,DIGITAL_P기타faq문의
+바로 배송되는,MART_P배송문의
+교환하려고 하는데,DIGITAL_P교환문의
+기계 자동 답변 인가요,DIGITAL_P챗봇여부문의
+문화상품권충전,DIGITAL_P기타faq문의
+대화 스톱,DIGITAL_P대화종료
+쿠폰 없나,DIGITAL_P쿠폰요청
+수거도 해가시는 건가요,DIGITAL_P폐가전수거
+등록방법을 알고 싶,DIGITAL_P기타faq문의
+디지털이 아닌 상품,DIGITAL_P상담품목
+업무시간 이후 처리불가,DIGITAL_P상담시간
+다른 제품을 선택,DIGITAL_P새상담
+광고 수신정보 변경,DIGITAL_P기타faq문의
+다른 걸로 바꾸레요,DIGITAL_P교환문의
+상품권 사용,DIGITAL_P기타faq문의
+쇼핑백 함께주나요,MART_P쇼핑백문의
+쿠폰 쓰는방법,DIGITAL_P쿠폰적용문의
+쿠폰 못 쓰겠죠,DIGITAL_P쿠폰요청
+영수증 받는방법,DIGITAL_P기타faq문의
+어떤 차이가 잇죠,DIGITAL_P차이점
+딴거 물어봐도 돼,DIGITAL_P채팅
+가입어떻게해요,DIGITAL_P기타faq문의
+쿠폰사용관련상담,DIGITAL_P쿠폰요청
+티멤버쉽 카드 등록,DIGITAL_P기타faq문의
+디지털 제품만 상담,DIGITAL_P상담품목
+나우배달은 뭐가 다른,MART_Pnow배송설명요청
+제가 찾아보는게 나을듯,DIGITAL_P대화종료
+취소건 빠른 처리부,DIGITAL_P주문취소
+주문내역 취소하면 쿠폰,DIGITAL_P쿠폰적용문의
+문자왔는데 어디서 받아요,DIGITAL_P적립문의
+언제 잘거야,DIGITAL_P채팅
+추천받을 제조사가 있을까요,DIGITAL_P상품문의_P상담원연결
+물품이 움직이지 않,DIGITAL_P배송문의
+다시 시작,DIGITAL_P처음으로
+배송 주소 변경,DIGITAL_P배송지변경문의
+쿠폰은 없니,DIGITAL_P쿠폰요청 
+컴퓨터 맞나,DIGITAL_P챗봇여부문의
+11pay안되요,DIGITAL_P결제문의
+다른 곳보다 비싸,MART_P행사상품
+쿠폰미적용,DIGITAL_P쿠폰적용문의
+많이 다른건가여,DIGITAL_P차이점
+최근에 본상품,DIGITAL_P기타faq문의
+로봇이세요,DIGITAL_P챗봇여부문의
+행사 알려,MART_P행사상품문의
+a s 관련 안내해주세요,DIGITAL_Pa/s문의
+상담하고픈데요,DIGITAL_P상담요청
+쿠폰 어떻게 사용하는건가요,DIGITAL_P쿠폰적용문의
+다른종류는,DIGITAL_P추가추천
+녹지않게 부탁,MART_P아이스팩문의
+상품 언제 받아,DIGITAL_P배송문의
+재품이 안와서요,DIGITAL_P배송문의
+공부해서 다시와라,DIGITAL_P채팅
+상품을 팔려고 하는데요,DIGITAL_P기타faq문의
+제품 시켰는데 오질 않아요,DIGITAL_P배송문의
+디지털기기밖에 안되나요,DIGITAL_P상담품목
+사람 상담해주는 건가요,DIGITAL_P챗봇여부문의
+연결이안되는데,DIGITAL_P기타faq문의
+vip 승급은 언제 되나요,DIGITAL_P기타faq문의
+다른 모델 할래요,DIGITAL_P추가추천
+바로야 머해,DIGITAL_P채팅
+쿠폰 어디서,DIGITAL_P쿠폰요청
+맛난거 있어요,MART_P추천
+포장 신경써서 해주세요,MART_P포장문의
+에이에스 신청 안내,DIGITAL_Pa/s문의
+금액 차이도 쫌 나고해서,DIGITAL_P가격차이
+여기서질문드려도되나요,DIGITAL_P상담요청
+문자메세지를 받,DIGITAL_P상담원연결
+찾는 물건이 목록에 없음,DIGITAL_P상담품목
+쿠폰 사용횟수,DIGITAL_P쿠폰적용문의
+취소 입금,DIGITAL_P환불문의
+저가 라인,MART_P행사상품
+등급관련해서 질문,DIGITAL_P기타faq문의
+제품 좀 고만 이야기해,DIGITAL_P채팅
+이벤트 행사,MART_P이벤트
+상담 언제 되요,DIGITAL_P상담시간
+상담사 접속,DIGITAL_P상담원연결
+정보 변경가능한가요,DIGITAL_P상담원연결
+대화방이 나가졌어요,DIGITAL_P도움말보기
+skt 등록,DIGITAL_P기타faq문의
+포인트로 적립,DIGITAL_P적립문의
+찌그러지지 않게 포장,MART_P포장문의
+지금 주문하면 언제 도착,DIGITAL_P배송일문의
+야 너 뭐하냐,DIGITAL_P채팅
+넌 성별이 뭐니,DIGITAL_P채팅
+내가 담은거 보여,MART_P장바구니보기
+가늠이 잘 안가는데,DIGITAL_P상담원연결
+바로가기 on,DIGITAL_P기타faq문의
+SK 혜택,DIGITAL_P기타faq문의
+FAQ페이지,DIGITAL_P기타faq문의
+쿠폰 주세요,DIGITAL_P쿠폰요청
+가격대 저렵하게 어느 정도,MART_P행사상품
+당일출고가 뭐가 안돼요,DIGITAL_P상담원연결
+제가 둘러볼게요,DIGITAL_P대화종료
+문의드릴게 있네요,DIGITAL_P상담요청
+환불 요청 했는데,DIGITAL_P환불문의
+현금으로 입금 부탁,DIGITAL_P환불문의
+너 사고싶어,DIGITAL_P채팅
+구매할 경우,DIGITAL_P구매예정
+어떤 기능이 있나,DIGITAL_P상담품목
+가격은 어느정도,DIGITAL_P가격문의
+모델명이 다른데,DIGITAL_P제품별차이점
+뭐가달라 두개가,DIGITAL_P상품비교
+다른거는 없나요,DIGITAL_P추가추천
+판매되는 게 머가 있어,DIGITAL_P상담품목
+어디서 등록,DIGITAL_P기타faq문의
+1대1 문의 어디서 하나요,DIGITAL_P기타faq문의
+취소하는방법,DIGITAL_P주문취소
+확인되면 연락주세요,DIGITAL_P대화종료
+좋은게 머있니,DIGITAL_P추천
+제품이 아니라,DIGITAL_P상담품목
+상담원연결가능,DIGITAL_P상담시간
+오늘 도착했는데요,DIGITAL_P배송완료
+할인 쿠폰 없어서,DIGITAL_P쿠폰요청
+괜찮은걸루 부탁,DIGITAL_P추천
+최근 생산된 상품으로 부탁,MART_P새제품요청
+그냥 내가 찾을래,DIGITAL_P대화종료
+다중으로 입력,MART_P다중검색실행
+무료 as 언제까지 가능,DIGITAL_Pa/s문의
+멤버쉽할인이 안돼요,DIGITAL_P결제문의
+11톡이 뭐에요,DIGITAL_P기타faq문의
+자주 주문한게 뭐지,MART_P자주구매상품
+다시 보여줘,DIGITAL_P찜기능안내
+재고 확인,DIGITAL_P재고문의_P상담원연결 
+상품번호확인,DIGITAL_P상담원연결
+돈 좀 주세요,DIGITAL_P채팅
+사람 하는 거에요,DIGITAL_P챗봇여부문의
+업체 고발한다,DIGITAL_P기타faq문의
+무슨 기술로 만들어졌니,DIGITAL_P챗봇여부문의
+먹는거 말고,DIGITAL_P상담품목
+나의 쿠폰,DIGITAL_P쿠폰요청
+ARS해제,DIGITAL_P기타faq문의
+고객센터시간,DIGITAL_P상담시간 
+주소 변경이 필요,DIGITAL_P배송지변경문의
+t멤버쉽 등록 문의,DIGITAL_P기타faq문의
+톡메니저님,DIGITAL_P상담원연결
+무상 a s기간은 얼마,DIGITAL_Pa/s문의
+바구니에담겨져있거든요,DIGITAL_P찜기능안내
+그외에 상품은여,DIGITAL_P추가추천
+배송지연 보성,DIGITAL_P적립문의
+너한테안사,DIGITAL_P채팅
+마일리지 취소,DIGITAL_P기타faq문의
+친구를 찾아요,DIGITAL_P채팅
+명의도용상담,DIGITAL_P회원정보문의
+인간아니야,DIGITAL_P챗봇여부문의
+무료배송금액,DIGITAL_P배송비문의
+선택하고 싶지 않아,DIGITAL_P채팅
+구매해서 배송중인대,DIGITAL_P구매완료
+결재좀 하려고 하는데,DIGITAL_P결제문의
+쿠폰을 잘못받았는데,DIGITAL_P기타faq문의
+쿠폰 사용 시,DIGITAL_P쿠폰적용문의
+물어좀보자,DIGITAL_P상담요청
+그럼 어디다가,DIGITAL_P기타faq문의
+제조일자 알려,MART_P제조일자문의
+카드 해제하고,DIGITAL_P결제문의
+저 아세요,DIGITAL_P채팅
+챗봇인가요,DIGITAL_P챗봇여부문의
+마케팅 동의해지,DIGITAL_P기타faq문의
+물어볼께 있는데요,DIGITAL_P상담요청
+생산지 알려,MART_P원산지문의
+보내주라고,DIGITAL_P배송문의
+왜 안가져가죠,DIGITAL_P반품문의
+할인창이 안뜨는걸까요,DIGITAL_P기타faq문의
+이벤트 어케해,MART_P이벤트
+가격이 좀 부담,MART_P행사상품
+배송정보변경,DIGITAL_P배송지변경문의
+터지지 않게 챙겨주세요,MART_P포장문의
+결제를 누르면 창,DIGITAL_P결제문의
+가입자체 안되든데요,DIGITAL_P기타faq문의
+설치비 산정,DIGITAL_P설치비문의
+주문한 제품이 왔는데,DIGITAL_P배송완료
+피할려고 하지마,DIGITAL_P채팅
+판매자 정보 알수 있나요,DIGITAL_P상담원연결
+바로할인가설명,DIGITAL_P바로할인가설명
+배송비 얼마나 붙어,DIGITAL_P배송비문의
+유플러스 포인트할인,DIGITAL_P결제문의
+주문에서는 안넘어감,DIGITAL_P결제문의
+설명해 주시면 좋겠는데요,"FAQ_P도움말요청,DIGITAL_P설명요청"
+쿠폰 인증,DIGITAL_P쿠폰인증번호문의
+다른걸찾아볼께요,DIGITAL_P대화종료
+장바구니에 담을 수 없나요,MART_P장바구니담기
+상품에 대해서 질문,DIGITAL_P상품문의
+이거 새제품 맞나요,DIGITAL_P상품문의_P상담원연결
+고장난 것 같은데,DIGITAL_Pa/s문의
+장바구니에 있는것을 선택,DIGITAL_P찜기능안내
+프로모션 참여,MART_P이벤트 
+맴버쉽 카드등록은 어디서,DIGITAL_P기타faq문의
+좋은밤이지,DIGITAL_P채팅
+고객 서비스는 안되나요,DIGITAL_P기타faq문의
+최저가 안내주시는건가요,MART_P할인문의
+최저 가격,MART_P행사상품
+엠포인트 데이는 언제인가요,DIGITAL_P행사문의
+취소요청 했는데,DIGITAL_P주문취소
+마트챗봇나와라,"DIGITAL_P마트챗봇호출,MART_GREETINGcall"
+쿠폰 사용기간이 언제,DIGITAL_P쿠폰적용문의
+인공지능인가 싶어서요,DIGITAL_P챗봇여부문의
+알아보는거 중단하시고,DIGITAL_P대화종료
+구매했던 상품,MART_P지난구매상품보기
+기다려두 전화가없네요,DIGITAL_P전화요청_GREETINGclaim
+쿠폰이 안받아지,DIGITAL_P쿠폰요청
+계좌로 인출받으려면,DIGITAL_P기타faq문의
+재입고 언제,MART_P재입고문의
+처음으로 가기,DIGITAL_P처음으로
+토요일 안으로 도착했으면,DIGITAL_P배송일문의
+서비스 센터 안내,DIGITAL_Pa/s문의
+T membership,DIGITAL_P기타faq문의
+가격이 나가더라도요,DIGITAL_P가격문의
+알림 설정,DIGITAL_P알림설정문의_P기타faq문의
+추천 필요,DIGITAL_P추천
+뭔 말이 이렇게 많아,DIGITAL_P채팅
+일시중지 기능 궁금,DIGITAL_P기타faq문의
+내 등급 알려,DIGITAL_P회원정보문의
+제가찾을께요,DIGITAL_P대화종료
+서비스이용,DIGITAL_P도움말보기
+저번에 산,MART_P지난구매상품보기
+넘 싼가요,DIGITAL_P가격문의
+여기다 하는게아닌가요,DIGITAL_P상담품목
+알림받기하려면,DIGITAL_P알림설정문의_P기타faq문의
+모든 상담도 되는건가요,DIGITAL_P상담품목
+쿠폰 적용제한,DIGITAL_P쿠폰적용문의
+쿠폰이있는데 사용이안되네요,DIGITAL_P쿠폰적용문의
+시럽페이 지문등록 안됨,DIGITAL_P기타faq문의
+폰 킬때마다 계속 뜨는데,DIGITAL_P기타faq문의
+칼 맞아 봤어,DIGITAL_P채팅
+또 문의할게,DIGITAL_P대화종료
+확인되는 건가요,DIGITAL_P확인
+제품 찾는거 아니야,DIGITAL_P상담품목
+통화상담은,DIGITAL_P전화요청
+떨이 상품,MART_P할인행사
+가장 싼 걸로,MART_P행사상품
+제일 좋은게 뭐에요,DIGITAL_P상품문의
+가격대 어떻게,DIGITAL_P가격문의
+설치 무료인가요,DIGITAL_P배송문의
+국산인가요,MART_P원산지문의
+쿠폰은 사용 불가,DIGITAL_P쿠폰적용문의
+모바일 로그아웃,DIGITAL_P기타faq문의
+고객센터 일대일 상담,DIGITAL_P상담원연결
+최저가격보장에 대해,FAQ_P도움말요청
+제품이없네요,DIGITAL_P추가추천
+배송지 주소 변경,DIGITAL_P배송지변경문의
+저렴히행사하는상품,DIGITAL_P행사문의
+로봇말고 사람이요,DIGITAL_P상담원연결
+몬데 말해봐,DIGITAL_P채팅
+답변 부탁,DIGITAL_P추천
+뭘먹으면 좋을까,MART_P추천
+무이자 기간,DIGITAL_P결제문의
+판매하는것,DIGITAL_P상담품목
+구매 확인이 안된다고,DIGITAL_P상담원연결
+다른것도 보여주삼,DIGITAL_P추가추천
+사은품도 함께 주세요,MART_P사은품문의
+연락 바랍니다,DIGITAL_P전화요청
+똑메니져님,DIGITAL_P상담원연결
+큐알코드인식,DIGITAL_P기타faq문의
+다른 물건 보러 갈게요,DIGITAL_P대화종료
+신한카드 무이자,DIGITAL_P결제문의
+주문자랑 입금하는사람이랑,DIGITAL_P결제문의
+포인드 전환,DIGITAL_P기타faq문의
+안왔단말이에요,DIGITAL_P배송문의
+ai프로그램,DIGITAL_P챗봇여부문의
+찾아주세요,DIGITAL_P추천
+개봉 후 교환가능한가요,DIGITAL_P교환문의
+가전만 팔아,DIGITAL_P상담품목
+비밀 번호 변경 어떻게,DIGITAL_P회원정보문의
+사이즈 교환,DIGITAL_P교환문의
+문의드리러 왔는데,DIGITAL_P상담요청
+마일리지 안주나요,DIGITAL_P적립문의
+ok캐시백카드 번호,DIGITAL_P회원정보문의
+환불 안됏어요,DIGITAL_P환불문의
+al로 하는 거에요,DIGITAL_P챗봇여부문의
+얼마에 구입 가능,DIGITAL_P가격문의
+vip라고 표기된 상품,DIGITAL_P기타faq문의
+주문이 안되네요,DIGITAL_P기타faq문의
+재창업 상담,DIGITAL_P기타faq문의
+다시 연락드,DIGITAL_P대화종료
+되는게 뭐고,DIGITAL_P상담품목
+취소된거 다시복구할,DIGITAL_P주문취소
+찜 어떡해,DIGITAL_P찜기능안내
+구매 후기 작성,DIGITAL_P기타faq문의
+증정품 함께 부탁 드립니다,MART_P사은품문의
+사람이에용,DIGITAL_P챗봇여부문의
+쿠폰 종류 알려줘,DIGITAL_P쿠폰종류문의_P기타faq문의
+기 비와요,DIGITAL_P채팅
+그럼 잘가,DIGITAL_P대화종료
+배송중인 상품 취소,DIGITAL_P주문취소
+부분 반송 어떻게,DIGITAL_P반품문의
+배송 빨리좀 부탁합니다,DIGITAL_P배송문의
+핸드폰 인증이 안되는 이유,DIGITAL_P본인인증문의
+뭐가 더 좋은건가요,DIGITAL_P상품비교
+최저가 격,MART_P행사상품
+색상변경도 여기서 가능,DIGITAL_P기타faq문의
+아니 잘 있엉,DIGITAL_P대화종료
+쿠폰 받으려니,DIGITAL_P쿠폰요청
+구매한걸 취소하면 쿠폰,DIGITAL_P쿠폰적용문의
+배송시간확인,DIGITAL_P배송일문의
+미도착상품,DIGITAL_P배송문의
+제품 안내 좀,DIGITAL_P추천
+한번 구매해 볼께,DIGITAL_P구매예정
+알려주신거 참고할게요,DIGITAL_P대화종료
+쿠폰을 구입했는데 기간만료,DIGITAL_P기타faq문의
+교환관련 문의,DIGITAL_P교환문의
+최근 생산된 상품으로 챙겨,MART_P새제품요청
+키스하고 싶어요,DIGITAL_P19금
+상품이 공짜에요,DIGITAL_P채팅
+생산일자 확인,MART_P제조일자문의
+취소한 돈,DIGITAL_P환불문의
+점심 먹었니,DIGITAL_P채팅
+그럼 내일보자,DIGITAL_P대화종료
+vip특가,DIGITAL_P기타faq문의
+11번가 페이등록,DIGITAL_P결제문의
+할인가 높은 상품,MART_P행사상품
+저렴할수록,MART_P행사상품
+동일 생산일자예요,MART_P제조일자문의
+다른 가격으로 파는거죠,DIGITAL_P가격차이
+물건이 도착안했어요,DIGITAL_P배송문의
+월욜까지 올까요,DIGITAL_P배송문의
+가격은 어떤가요,DIGITAL_P가격문의
+신선식품 믿을만 해요,MART_P신선식품문의
+쿠폰 주시면,DIGITAL_P쿠폰요청
+고객인증 어떻게,DIGITAL_P본인인증문의
+대화 처음으로,DIGITAL_P처음으로
+톡매니저는 어떻게,DIGITAL_P상담원연결
+배송 언제되나요,MART_P배송일문의
+지난구입상품,DIGITAL_P주문이력확인
+통화두 계속 안되고,DIGITAL_P전화요청_GREETINGclaim
+양해 부탁,DIGITAL_P양해
+a s 문의,DIGITAL_Pa/s문의
+제조일자 날짜 확인,MART_P제조일자문의
+톡매니저가 뭐예요,DIGITAL_P톡매니저
+재배송문의,DIGITAL_P배송문의
+주문 번호,DIGITAL_P주문확인_P기타faq문의
+달른것은 있나요,DIGITAL_P추가추천
+배송료가 얼만가요,DIGITAL_P배송비문의
+디지털 쿠폰을 쓸수가없네요,DIGITAL_P쿠폰적용문의
+사이즈 교환 원해요,DIGITAL_P교환문의
+상품 안내가능한지요,DIGITAL_P추천
+근데 쿠폰 어디서 봐,DIGITAL_P쿠폰적용문의
+딴거 없어,DIGITAL_P추가추천
+현금영수증 발행,DIGITAL_P현금영수증문의
+내위치정보 끄기,DIGITAL_P기타faq문의
+환불내역 부탁,DIGITAL_P환불문의
+뭐가 비싸냐구요,DIGITAL_P가격문의
+11번가 데이는 언제,DIGITAL_P행사문의
+딴 상담하기,DIGITAL_P새상담
+배달이 안와요,DIGITAL_P배송문의
+넌 ai 방식이니,DIGITAL_P챗봇여부문의
+무얼 먹지,MART_P추천
+주문하고싶어,MART_P주문
+나우배송은 뭐가 다른,DIGITAL_P기타faq문의
+대표전화는 24시냐,DIGITAL_P고객센터문의
+몇인치인가요,DIGITAL_P사이즈문의
+자동응답인지,DIGITAL_P챗봇여부문의
+어느 정도까지 인가요,DIGITAL_P상품문의_P상담원연결
+용량 얼마,DIGITAL_P용량문의
+핸드폰 번호를 바꾸고싶은데,DIGITAL_P기타faq문의
+입금할금액,DIGITAL_P결제문의
+가격 알려줘,DIGITAL_P가격문의
+11페이가입,DIGITAL_P결제문의
+성인인증방법 알려줘,DIGITAL_P본인인증문의
+톡메니저 어떻게 연락,DIGITAL_P상담원연결
+상담 시작,DIGITAL_P새상담
+위조품 보상제,DIGITAL_P기타faq문의
+말로 하자,DIGITAL_P채팅
+다시 보여줘,MART_P지난구매상품보기
+쿠폰이 안써져요,DIGITAL_P쿠폰적용문의
+안녕 잘 있어,DIGITAL_P대화종료
+차이기 뭐예요,DIGITAL_P차이점
+너 알바야,DIGITAL_P챗봇여부문의
+할인 쿠폰 등록,DIGITAL_P쿠폰적용문의
+할인행사 언제 시작,MART_P행사상품문의
+제품 비교 부탁드려요,DIGITAL_P상품비교
+배송 무료로 해주나요,DIGITAL_P배송문의
+데이터가없어,DIGITAL_P기타faq문의
+디자인이 예쁜,DIGITAL_P디자인문의
+카드사승인취소가아직안됐어요,DIGITAL_P결제문의
+E쿠폰도 재발송,DIGITAL_P기타faq문의
+운송장 오류,DIGITAL_P배송문의
+환급대상모델,DIGITAL_P환급대상모델추천
+한번 살펴보겠습,DIGITAL_P대화종료
+포장 잘해서 보내주세요,MART_P포장문의
+쿠폰도 같이,DIGITAL_P기타faq문의
+추천제품 중 구입예정,DIGITAL_P구입예정
+통화가 불가능하죠,DIGITAL_P전화요청
+유통기한 확인하고 배송,MART_P새제품요청
+누구랑 상담해야 하나요,DIGITAL_P상담원연결
+주문내역 취소,DIGITAL_P주문취소
+맨 처음으로 못 돌아가나요,DIGITAL_P처음으로
+사람 추천해 주시는 건가,DIGITAL_P챗봇여부문의
+딩일 출고 언제오냐,DIGITAL_P배송문의
+오늘출고되나요,DIGITAL_P배송문의
+제조일 알수 있나요,MART_P제조일자문의
+화장실이 어디야,DIGITAL_P채팅
+현금영수증 발행 문의,DIGITAL_P현금영수증문의
+다른 품목군은 안되,DIGITAL_P상담품목
+검색 시스템 정상,DIGITAL_P기타faq문의
+기억해 놓겠습니다,DIGITAL_P구매예정
+번호인증 어디서 해,DIGITAL_P본인인증문의
+괜찮을런지요,DIGITAL_P상품문의_P상담원연결
+내가 누군지 아시나요,DIGITAL_P채팅
+연락 달라는거 아네요,DIGITAL_P전화요청
+11번가패이 변경,DIGITAL_P결제문의
+프로모션 당첨,MART_P이벤트 
+사은품 챙겨주세요,MART_P사은품문의
+문화상품권 이용,DIGITAL_P기타faq문의
+11번가 고객센타요,DIGITAL_P고객센터문의
+카드할인이돼서,DIGITAL_P결제문의
+망설이다가 놓쳤네요,DIGITAL_P할인행사
+이모델 혹시 잇으세요,DIGITAL_P상품문의_P상담원연결
+관심있어요,DIGITAL_P추천
+차이점 몬지,DIGITAL_P차이점
+뭘 찾아줄래,DIGITAL_P상담품목
+저번에 샀던,DIGITAL_P구매완료
+고민해볼게요,DIGITAL_P대화종료
+기능 상세 설명좀,"FAQ_P도움말요청,DIGITAL_P설명요청"
+결제 취소 확인 부탁,DIGITAL_P결제문의
+구매한 제품의 기록,DIGITAL_P주문이력확인
+캐시로 환불되는거,DIGITAL_P환불문의
+상품을 받지못했는데,DIGITAL_P배송문의
+광고 차단,DIGITAL_P기타faq문의
+폐가전은 가져가나요,DIGITAL_P폐가전수거 
+마트챗봇 궁금,MART_P마트챗봇문의
+배송건에 대해 문의,DIGITAL_P배송문의
+배송 문의하고싶은데,DIGITAL_P배송문의
+마일리지 사용 적립이 가능,DIGITAL_P기타faq문의
+쿠폰인증번호가뭔가요,DIGITAL_P쿠폰인증번호문의
+챗봇님은 모르나요,DIGITAL_P상담품목_GREETINGclaim
+아이디 알려주세요,DIGITAL_P회원정보문의
+퇴근하고싶다,DIGITAL_P채팅
+연말 특가 제품 추천,DIGITAL_P할인행사
+푸시 목록 줘,DIGITAL_P기타faq문의
+주소 뭘로 설정,DIGITAL_P회원정보문의
+구매등급쿠폰,DIGITAL_P쿠폰요청
+할인 쿠폰 적용해서,DIGITAL_P쿠폰적용문의
+오늘 추워요,DIGITAL_P채팅
+입금내역문자가안와요,DIGITAL_P결제문의
+왜 아무것도 안뜨나,DIGITAL_P기타faq문의
+엄청 저렴한,MART_P행사상품
+취소 관련 문의,DIGITAL_P주문취소
+상품 상세 링크,DIGITAL_P링크요청
+유효기간 날짜 확인,MART_P유통기한문의
+데이터 비용,DIGITAL_P기타faq문의
+간편등록하는 방법,DIGITAL_P기타faq문의
+봇인줄알았,DIGITAL_P챗봇여부문의
+마트이용법,MART_P도움말보기
+사진 보내기 가능한가요,DIGITAL_P사진올리기기능안내
+제휴사카드,DIGITAL_P결제문의
+본인인증이 안되요,DIGITAL_P본인인증문의
+다른 사이트가 더 싸요,DIGITAL_P가격차이
+집에 있는 제품은 가져가,DIGITAL_P폐가전수거
+마트챗봇 소개좀,MART_P마트챗봇문의
+메일 안받으려면,DIGITAL_P기타faq문의
+무료상품 줘,DIGITAL_P채팅
+입금해도 되는 것인지,DIGITAL_P결제문의
+상담사와 대화,DIGITAL_P상담원연결
+주문했는데 취소하려고요,DIGITAL_P주문취소
+최근에 구매한내용,DIGITAL_P주문이력확인
+지금저렴히행사하는상품,DIGITAL_P행사문의
+쿠폰발급마감된건가요,DIGITAL_P쿠폰요청
+담에 또 쳇 해요,DIGITAL_P대화종료
+상품 구매하려는데요,DIGITAL_P추천
+로그아웃 하는법,DIGITAL_P대화종료
+오늘 뭐 먹을까,DIGITAL_P채팅
+다른 종류 더 보여줘,DIGITAL_P추가추천
+할인 쿠폰 적용 안 돼서,DIGITAL_P쿠폰적용문의
+어디서 살 수 있어,DIGITAL_P기타faq문의
+시럽페이 적용하는 방법,DIGITAL_P결제문의
+샀는데 또 주문,MART_P지난구매상품보기
+최근 구매한 것,MART_P지난구매상품보기
+이란 뜻이지요,DIGITAL_P확인
+반품 회수 문의,DIGITAL_P반품문의
+캐시로 주문하고싶은데,DIGITAL_P결제문의
+환급 원금으로 받고 싶어요,DIGITAL_P환불문의
+넌 기계일뿐이야,DIGITAL_P채팅
+텔레콤 사용자 혜택,DIGITAL_P기타faq문의
+저렴한 라인,MART_P행사상품
+또 이용할께요,DIGITAL_P대화종료
+여러 개 입력하,MART_P다중검색실행
+아이디명이랑,DIGITAL_P기타faq문의
+환불관련해서도 상담,DIGITAL_P환불문의
+쿠폰사용이안되요,DIGITAL_P쿠폰적용문의
+vip라운지,DIGITAL_P기타faq문의
+다시 물어볼께요,DIGITAL_P대화종료
+Day쿠폰,DIGITAL_P쿠폰요청
+교환받아준다고하는데,DIGITAL_P교환문의
+주소지 설정,DIGITAL_P회원정보문의
+가품 보상,DIGITAL_P기타faq문의
+몇 인용이 좋을까,DIGITAL_P용량문의
+도움말 보기,DIGITAL_P도움말보기
+찾는상품이 없어 나갑니다,DIGITAL_P대화종료
+디지털상품,MART_P디지털챗봇호출
+설정 알람,DIGITAL_P알림설정문의
+정지고객이라고 나오는데,DIGITAL_P회원정보문의
+그외에 상품은여,DIGITAL_P상담품목
+교환해 준다고,DIGITAL_P교환문의
+정가보다 비싸요,DIGITAL_P가격차이
+상품 출고안됐네요,DIGITAL_P교환문의
+크리스마스때 뭐하지,DIGITAL_P채팅
+추전 좀 부탁,DIGITAL_P추천
+내맘대로 할인패키지팩,DIGITAL_P쿠폰요청
+배송지정보변경,MART_P배송지변경문의
+찜해둔 상품은 어디서,DIGITAL_P찜한상품
+맞는 싸이즈 없네요,DIGITAL_P사이즈문의
+데이터 문의,DIGITAL_P기타faq문의
+구입해야겠,MART_P주문
+고객센터는 아닌가요,DIGITAL_P고객센터문의
+email변경,DIGITAL_P회원정보문의
+여자친구없니,DIGITAL_P채팅
+고장이 났어요,DIGITAL_Pa/s문의
+어제 주문한 것 주문,MART_P지난구매상품보기
+쿠폰은 한번만적용,DIGITAL_P쿠폰적용문의
+전화가되면 여기서,DIGITAL_P전화요청
+추가이용료요,DIGITAL_P기타faq문의_CATEN프로젝트앤
+용량 큰가,DIGITAL_P용량문의
+상품받지도 않았는데,DIGITAL_P배송문의
+셀러등록방법,DIGITAL_P기타faq문의
+픽업 서비스 한다고 하는데,DIGITAL_P기타faq문의
+생체 인증,DIGITAL_P기타faq문의
+딴 상품 카테고리,DIGITAL_P새상담
+OK캐쉬백 락 설치,DIGITAL_P기타faq문의
+취소 조회,DIGITAL_P주문이력확인
+직접 수거하러오나요,DIGITAL_P폐가전수거
+이거 봇 아닌가요,DIGITAL_P챗봇여부문의
+머가좋을까요,DIGITAL_P상품문의_P상담원연결
+옵션변경문의,DIGITAL_P옵션변경문의
+쿠폰 보는법,DIGITAL_P기타faq문의
+쿠폰이나 카드 할인도,DIGITAL_P쿠폰요청
+빨리 보여주세요,DIGITAL_P추천
+11패이는 어떻거해,DIGITAL_P결제문의
+재입고 날짜가 언제인가요,MART_P재입고문의
+전화 통화하고 싶,DIGITAL_P전화요청
+넘 비싸네,MART_P행사상품
+가격차이는 어찌되나요,DIGITAL_P가격문의
+행사 상품,MART_P할인행사
+가격차이 왜 나는지,DIGITAL_P가격차이
+본인인능전환 어케해,DIGITAL_P본인인증문의
+다른 옵션으로,DIGITAL_P추가추천
+실례했습니다,DIGITAL_Papologize
+쿠폰 이벤트 오늘 종료,DIGITAL_P쿠폰적용문의
+선물 주세요,DIGITAL_P채팅
+얼마정도에 구입가능한가요,DIGITAL_P가격문의
+배송지 어떻게 바꿔,DIGITAL_P배송지변경문의
+추천 진행,DIGITAL_P추천
+반품했는데,DIGITAL_P반품문의
+말이 많구나,DIGITAL_P채팅
+지금 얼마야,DIGITAL_P가격문의
+자주사용하는 상품,MART_P자주구매상품
+상담 한거 계속할게요,DIGITAL_P대화계속
+찾는 제품이 없는디,DIGITAL_P대화종료
+차이점 뭔지,DIGITAL_P차이점
+이거밖에 없어요,DIGITAL_P추가추천
+회수되는거죠,DIGITAL_P폐가전수거
+반품 언제까지,MART_P반품문의
+시리즈 어떨지,DIGITAL_P상품문의_P상담원연결
+어떤게 가장 싸지,DIGITAL_P가격문의
+해피캐시는 어떻게,DIGITAL_P기타faq문의
+인증을어디서받나요,DIGITAL_P본인인증문의
+넌 뭐로 만들어졌니,DIGITAL_P채팅
+구매 확정 가격이,DIGITAL_P가격문의
+쿠폰 어떡게 사용,DIGITAL_P쿠폰적용문의
+쿠폰 받고싶어요,DIGITAL_P쿠폰요청
+무료 데이터,DIGITAL_P기타faq문의
+배송 안 되나,DIGITAL_P배송문의
+전자제품 말고,DIGITAL_P상담품목
+아니 다른것,DIGITAL_P추가추천
+제조일자 궁금,MART_P제조일자문의
+디지털챗봇,"MART_P디지털챗봇호출,DIGITAL_GREETINGintro"
+가전만 상담,DIGITAL_P상담품목
+제조날짜 어떻게,DIGITAL_P기타faq문의
+주문을 외워보자,DIGITAL_P채팅
+소비 전력 알려주세,DIGITAL_P에너지소비등급문의
+티나는쇼핑,DIGITAL_P기타faq문의
+내정보 변경,DIGITAL_P기타faq문의
+뭐 여쭤보려구요,DIGITAL_P상담요청
+내가 산거,MART_P지난구매상품보기
+구매품목도 조회,DIGITAL_P주문이력확인
+사진첨부하려구요,DIGITAL_P사진올리기기능안내
+뭐살만한거없을까,DIGITAL_P추천
+가격대가 얼마나 할까요,DIGITAL_P가격문의
+배송료 착불 구매는 어떻게,DIGITAL_P결제문의
+머좀물어볼려구요,DIGITAL_P상담요청_P상담품목
+제가 산거 다시 보여,MART_P지난구매상품보기
+프로모션 상품,MART_P이벤트 
+아디가 두개에요,DIGITAL_P회원정보문의 
+욕하면어케댐,DIGITAL_P채팅
+물건은 왜 안 보내 주니,DIGITAL_P배송문의
+찾고있어요,DIGITAL_P추천
+품절 풀어주세요,MART_P재입고문의
+주문 완료 리스트 지우는거,DIGITAL_P기타faq문의
+사이즈문의,DIGITAL_P사이즈문의
+돈은 어떻게 받을수,DIGITAL_P환불문의
+살펴볼께요,DIGITAL_P대화종료
+상담전화 언제 이용,DIGITAL_P상담시간
+고객센터 메뉴는 어디,DIGITAL_P기타faq문의
+회원관련문의,DIGITAL_P기타faq문의
+아직 환불 안해주는 이유는,DIGITAL_P환불문의
+쇼킹딜상품보여줘,"MART_P쇼킹딜,DIGITAL_P쇼킹딜"
+정풍인거죠,DIGITAL_P정품문의
+대하여 설명해 주세요,"FAQ_P도움말요청,DIGITAL_P설명요청"
+판매자 고객센터,DIGITAL_P판매자연락요청
+물건이 잘못 왔어요,DIGITAL_P배송문의
+모르는게 많네,DIGITAL_P채팅
+최고가 할인,MART_P행사상품문의
+폰번호가 바뀌었는데,DIGITAL_P회원정보문의
+생산일자 문의,MART_P제조일자문의
+전화 요청,DIGITAL_P전화요청
+전화 연락도 힘드는데,DIGITAL_P전화요청_GREETINGclaim
+상품평 등록하면 뭐가 좋아,DIGITAL_P기타faq문의
+구매가 안됩니다,DIGITAL_P기타faq문의
+마케팅 수신거절,DIGITAL_P알림설정문의
+행사예정인거,DIGITAL_P할인행사
+취소 통보,DIGITAL_P주문취소
+다른건 안팔아,DIGITAL_P상담품목
+나 필요한게 있어,DIGITAL_P추천
+장단점 묻잖아요,DIGITAL_P상담원연결
+넌 마트 챗봇이야,MART_P마트챗봇문의
+모바일로 살려면,DIGITAL_P결제문의
+좋은 가격,DIGITAL_P가격문의
+언제나 상담 가능해요,DIGITAL_P상담시간
+통화량이 많아서 힘들어요,DIGITAL_P전화요청
+무거운 정도인가요,DIGITAL_P무게문의_P상담원연결
+할인쿠폰이제없나요,DIGITAL_P쿠폰요청
+상담원 종료하기,DIGITAL_P대화종료
+faq는 어디있어요,DIGITAL_P기타faq문의
+구매하고 싶,DIGITAL_P추천
+사양을 알 수 있을까요,DIGITAL_P사양문의
+이벤트 쿠폰을 잘못 선택,DIGITAL_P쿠폰적용문의
+반품완료보류가 뭔가요,DIGITAL_P반품문의
+환불 어떻게,DIGITAL_P환불문의
+토요일은 상담 안되나요,DIGITAL_P상담시간
+내가 구매한 물건,DIGITAL_P주문이력확인
+어떻게 다른건가,DIGITAL_P상품문의_P상담원연결
+쿠폰이 있,DIGITAL_P쿠폰요청
+만원대였었는데요,DIGITAL_P가격차이
+전체주문이 안되요,DIGITAL_P기타faq문의
+저번에 삿던,MART_P지난구매상품보기
+최저가 인가요,MART_P할인문의
+송장번호 좀,DIGITAL_P배송문의
+id는 모르겠어,DIGITAL_P회원정보문의
+일단 생각해보께,DIGITAL_P대화종료
+배송은 안되고,DIGITAL_P배송문의
+이용자 테이터는,DIGITAL_P기타faq문의
+쿠폰 적용 안되,DIGITAL_P쿠폰적용문의
+가격대 얼마인지,DIGITAL_P가격문의
+됐다 그만하자,DIGITAL_P대화종료
+사은품 함께 배송 부탁,MART_P사은품문의
+삼성페이로 결재,DIGITAL_P결제문의
+링크 보내주세요,DIGITAL_P링크요청
+설정에서 해제,DIGITAL_P기타faq문의
+이름바꾸기,DIGITAL_P회원정보문의
+구매 완료 눌렀,MART_P구매완료
+가격대는 차이가 있나요,DIGITAL_P가격문의
+기존에 있던 물건은 치워,DIGITAL_P폐가전수거
+안살꺼지롱,DIGITAL_P채팅
+사은품 안주셨어요,MART_P사은품문의
+캐시로 주문하는방법,DIGITAL_P기타faq문의 
+차이 많이 날까요,DIGITAL_P차이점
+확인 부탁,DIGITAL_P확인
+교환할수 있도록,DIGITAL_P교환문의
+가격 넘 비사고요,MART_P행사상품
+내일 배송 가능한지,DIGITAL_P배송일문의
+핫딜 알려줘,DIGITAL_P행사문의
+착불 설정,DIGITAL_P배송문의
+나중에 올게요,DIGITAL_P대화종료
+한꺼번에 주문하고싶은데,DIGITAL_P기타faq문의
+챗봇으로 상담하는건가,DIGITAL_P챗봇여부문의
+상담 다시할께요,DIGITAL_P새상담
+무통장 입금 확인,DIGITAL_P결제문의
+챗봇의 기능은,DIGITAL_P상담품목
+전화도 안오고,DIGITAL_P전화요청
+차이 큰가요,DIGITAL_P차이점
+차이가 없는 듯한데,DIGITAL_P차이점
+쿠폰 할인 적용,DIGITAL_P쿠폰적용문의
+언제쯤 통장에 들어오,DIGITAL_P환불문의
+장바구니에 담을래,MART_P장바구니담기
+상품권으로는 구매가 불가,DIGITAL_P결제문의
+전화하는데 안받네요,DIGITAL_P전화요청_GREETINGclaim
+반품했는데 환불,DIGITAL_P환불문의
+깡통로봇이냐,DIGITAL_P챗봇여부문의
+로봇트에요 사람이에요,DIGITAL_P챗봇여부문의
+쿠폰가능한,DIGITAL_P쿠폰적용문의
+사전예약 취소,DIGITAL_P기타faq문의
+어디 브랜드인가요,DIGITAL_P브랜드문의
+어떻게 이용,DIGITAL_P도움말보기
+할인쿠폰은 어디서 받,DIGITAL_P쿠폰요청
+한개가 안왔어,DIGITAL_P배송문의_P상담원연결
+담당자 전환,DIGITAL_P상담원연결
+혹시 절 좋아해요,DIGITAL_P채팅
+구입한 상품을 조회,DIGITAL_P주문이력확인
+마이 비싸요,MART_P행사상품
+갑 져렴한것,MART_P행사상품
+오늘 피곤하다,DIGITAL_P채팅
+회원정보 관리,DIGITAL_P회원정보문의
+배송이 안되어서,DIGITAL_P배송문의
+됐다 쉬라,DIGITAL_P대화종료
+매장에 가서 받고 싶은,DIGITAL_P기타faq문의
+장바구니 나와라,MART_P장바구니보기
+언제 와요,DIGITAL_P배송일문의
+할인쿠폰줘,DIGITAL_P쿠폰요청
+계좌이체 안되는 이유,DIGITAL_P결제문의
+거래명세서 확인,DIGITAL_P결제문의
+오늘주세요,DIGITAL_P배송일문의
+최대한 할인해 주세요,DIGITAL_P할인문의
+용량 어느 정도 좋,DIGITAL_P용량문의
+내맘대로 쿠폰,DIGITAL_P쿠폰요청
+전화연결도 안되고 먼가요,DIGITAL_P전화요청
+주문내역 어디서 확인하나요,DIGITAL_P주문이력확인
+모델명이 다를 수 있,DIGITAL_P제품별차이점
+다른 문의 가능한가여,DIGITAL_P상담품목
+여자친구 찾아줘,DIGITAL_P채팅
+포인트 캐시 차이점,DIGITAL_P기타faq문의
+쿠폰이 저장이 안되네요,DIGITAL_P기타faq문의
+생산일자 최신 부탁,MART_P새제품요청
+상담 안해 주셔도 되,DIGITAL_P상담요청안함
+바로 나가,DIGITAL_P대화종료
+문화상품권으로 구매할려고,DIGITAL_P결제문의
+국민은행 등록,DIGITAL_P결제문의
+맛있는 거,MART_P추천
+현금영수증,DIGITAL_P현금영수증문의
+다른건 안되요,DIGITAL_P상담품목
+교환 되나요,DIGITAL_P교환문의
+언제 배송출발 하나요,DIGITAL_P배송문의
+롯데카드 혜택 언제,DIGITAL_P행사문의
+같은 제품을 재신청,DIGITAL_P기타faq문의
+최저가보상 신청방법,DIGITAL_P기타faq문의
+언제 도착하는지,MART_P배송문의
+지금 결재할,MART_P구매
+물어볼께 있어서 그러는데요,DIGITAL_P상담품목
+새로운 상담 하고 싶어요,DIGITAL_P새상담
+주문 취소 문의,DIGITAL_P주문취소
+차이 많나,DIGITAL_P차이점
+최근에 산게 뭐지,MART_P지난구매상품보기
+배상금 대해서,DIGITAL_P기타faq문의
+바꿔서 해도 안되고,DIGITAL_P기타faq문의
+해지 하고 싶,DIGITAL_P기타faq문의
+본인 인증 어떻게,DIGITAL_P본인인증문의
+주문했다가 취소하고,DIGITAL_P주문취소
+조회가 안되요,DIGITAL_P기타faq문의
+소개해 주세요,DIGITAL_P추천
+픽업서비스,DIGITAL_P기타faq문의
+문의 언제언제 돼요,DIGITAL_P상담시간
+저렴하게 사는 방법,MART_P할인문의
+as는 상관이 없나요,DIGITAL_Pa/s문의
+농협카드 혜택 언제,DIGITAL_P행사문의
+여친 구함,DIGITAL_P채팅
+문의글 남기는곳,DIGITAL_P회원정보문의
+담에 다시 문의드릴,DIGITAL_P대화종료
+고객 센터 전화연결,DIGITAL_P전화요청
+담당자 연결,DIGITAL_P상담원연결
+t나는 쇼핑,DIGITAL_P기타faq문의
+성별이 인정안된다 한다,DIGITAL_P기타faq문의
+집이 어디니,DIGITAL_P채팅
+전부 품절 이래요,MART_P재입고문의
+상담원과 대화,DIGITAL_P상담원연결
+해지를 원합니다,DIGITAL_P기타faq문의
+멤버쉽 카드 등록,DIGITAL_P기타faq문의
+임금 확인해나요,DIGITAL_P환불문의
+주문건 교환,DIGITAL_P교환문의
+A S 신청도 해주시나요,DIGITAL_Pa/s문의
+제품이 안와서요,DIGITAL_P배송문의
+상품 as 가능하니,DIGITAL_Pa/s문의
+나중에 다시 문의드릴,DIGITAL_P대화종료
+배송 날짜,DIGITAL_P배송일문의
+선호하는 건 뭐야,DIGITAL_P선호
+언제 배송 시작,DIGITAL_P배송문의
+쿠폰 받는 방법,DIGITAL_P쿠폰요청
+번창하세요,DIGITAL_P대화종료
+몇개월까지 가능한가요,DIGITAL_P결제문의
+쿠폰번호가 어디에 뜨는지,DIGITAL_P기타faq문의
+다른종류 선택,DIGITAL_P처음으로
+할인쿠폰 유효기간,DIGITAL_P쿠폰적용문의
+언제 취소 해주는건지,DIGITAL_P주문취소
+쿠폰 인증 번호 받는법,DIGITAL_P쿠폰인증번호문의
+마트상품만 상담하시는건가요,DIGITAL_P상담품목
+담당자 초대,DIGITAL_P상담원연결
+설명 보여줘,"FAQ_P도움말요청,DIGITAL_P설명요청"
+선물포장 해주세요,MART_P포장문의
+가능하다며 방법이 궁금,DIGITAL_P기타faq문의
+가격대는 어떻게 되나요,DIGITAL_P가격문의
+11pick,DIGITAL_P배송문의
+금요일까지 올까요,DIGITAL_P배송문의
+유효기간 날짜 알려,MART_P유통기한문의
+나 힘들어,DIGITAL_P채팅
+a s 상담,DIGITAL_Pa/s문의
+구동이 잘 되는건가요,DIGITAL_P사양문의
+어떻게 달라요,DIGITAL_P차이점
+결제 금액 얼마인가요,DIGITAL_P가격문의
+이용가이드 좀 보여줘,DIGITAL_P도움말보기
+좀더 저렴한,MART_P할인문의
+통장으로 입금했어요,DIGITAL_P결제문의
+상품은 언제 들어오나요,DIGITAL_P기타faq문의
+지난번에 산,MART_P지난구매상품보기
+상담방법문의,DIGITAL_P상담방법문의
+배송자 이름 변경,DIGITAL_P배송문의
+쿠폰 적용은,DIGITAL_P쿠폰적용문의
+마일리지로산,DIGITAL_P구매완료
+다른 마트보다 싸니,DIGITAL_P가격문의
+다른 모델이 배송되었어요,DIGITAL_P기타faq문의
+어떤 상품 상담되나요,DIGITAL_P상담품목
+결제취소한거 처리된건가요,DIGITAL_P결제문의
+최신 제조일자로 보내,MART_P새제품요청
+아이디아는법,DIGITAL_P회원정보문의
+조금 있다 올,DIGITAL_P대화종료
+자주묻는질문,DIGITAL_P기타faq문의
+으로 알아보고 있어요,DIGITAL_P상담요청
+영수증은 어디서 출력,DIGITAL_P기타faq문의
+해피캐시란 무엇,DIGITAL_P기타faq문의
+저녁거리 없나,MART_P추천
+찜한 목록,DIGITAL_P찜한상품
+같은 건데 왜 더 비싼가요,DIGITAL_P가격차이
+적립금사용 어떻게,DIGITAL_P기타faq문의
+나 질문이 있어,DIGITAL_P상담요청
+문화상품권 어떻게,DIGITAL_P기타faq문의
+카테고리 확인,DIGITAL_P상담품목
+톡매니저 뭔가요,DIGITAL_P톡매니저
+수거비 있나요,DIGITAL_P폐가전수거
+상품을 받아볼 수 있나요,DIGITAL_P배송문의
+좋은 제품,DIGITAL_P추천
+사진같은건없나요,DIGITAL_P사진요청
+상담 언제됨,DIGITAL_P상담시간
+simsim,DIGITAL_P채팅
+바로 발송 돼요,DIGITAL_P배송문의
+몇일걸려요,DIGITAL_P배송일문의
+사진을 보내고 싶어요,DIGITAL_P사진올리기기능안내
+바로가기는 어디 잇나요,DIGITAL_P기타faq문의
+결재한거 취소,DIGITAL_P결제문의
+구매를하렴안되네요,DIGITAL_P기타faq문의
+사용법을 알려,DIGITAL_P도움말보기
+전화 부탁,DIGITAL_P전화요청
+할인쿠폰 때문에,DIGITAL_P쿠폰적용문의
+물건구입한거 폰에선 확인,DIGITAL_P기타faq문의
+사람이 일일이 찾아요,DIGITAL_P챗봇여부문의
+돈 갚으라고,DIGITAL_P채팅
+일단 볼께,DIGITAL_P대화종료
+가격차이 이유는 무엇,DIGITAL_P가격차이
+사진올릴곳이 없네요,DIGITAL_P사진올리기기능안내
+주문 한것이 아직,DIGITAL_P배송문의
+페이백은 어떻게,DIGITAL_P적립문의
+찜 기능이 뭐냐,DIGITAL_P찜기능안내
+제품 찾는것만 가능한가요,DIGITAL_P상담품목
+전상품 해외배송이되나요,DIGITAL_P배송문의
+주문상품취소,DIGITAL_P주문취소
+그럼 다음에 상담,DIGITAL_P대화종료
+발송 안 되면 취소할래요,DIGITAL_P배송문의
+최저가 사이트 알려주세요,DIGITAL_P바로할인가
+결제관련 상담,DIGITAL_P결제문의
+확인하시고 처리부탁드립니다,DIGITAL_P확인
+유통기한 궁금,MART_P유통기한문의
+나중에 보자,DIGITAL_P대화종료
+디자인 조은거,DIGITAL_P디자인문의
+문화상품권 쓰는법,DIGITAL_P결제문의

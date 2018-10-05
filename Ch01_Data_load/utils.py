@@ -30,8 +30,10 @@ def conv_1d(DATA, KERNEL_WIDTH, DEPTH, TRAIN_PH):
     #이전 layer에서 온 conv의 feature map의 in_depth
     in_depth = DATA.get_shape().as_list()[2]
     #weight variable 설정
+    print(DATA)
     Weight = tf.get_variable(name='weight', shape=[KERNEL_WIDTH, in_depth, DEPTH], initializer=he_init)
     conv = tf.nn.conv1d(value=DATA, filters=Weight, stride=1, padding='SAME')
+    print(conv)
     bn = tf.layers.batch_normalization(conv, momentum=0.9, training=TRAIN_PH)
     relu = tf.nn.relu(bn)
     return relu
@@ -151,7 +153,8 @@ def generate_batch_jaso(INDEX, MODEL, DOC, LABEL, MAXLEN, SESS):
     _label = LABEL[INDEX].reshape(INDEX.shape[0], -1)
 
     if len(del_list) > 0:
-        print(jaso_splitted[del_list[0]])
+        print(jaso_splitted[del_list[0]], del_list)
+
     print(_input.shape, _label.shape, del_list)
     batch_input = np.delete(_input, del_list, axis=0)
     batch_label = np.delete(_label, del_list, axis=0)
