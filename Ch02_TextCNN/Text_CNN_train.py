@@ -29,7 +29,10 @@ FLAGS.WRITER += information
 # DATA LOAD
 ################################################################################
 #TRAIN_DOC, TRAIN_LABEL, TRAIN_LABEL_POS, TRAIN_LABEL_NEG, TEST_DOC, TEST_LABEL, TEST_LABEL_POS, TEST_LABEL_NEG = data_load.data_load()
-TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL, LABEL_IDX = data_load.digi_data_load()
+#TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL, LABEL_IDX = data_load.digi_data_load()
+TRAIN_DOC, TRAIN_LABEL, TEST_DOC, TEST_LABEL, LABEL_IDX = data_load.testcase_shuffle_data_load()
+#data_load.testcase_add_data_load()
+
 class_num = TRAIN_LABEL.shape[1]
 FLAGS.NUM_OF_CLASS = class_num
 JM = utils.lookup_JM(FLAGS.INPUT_WIDTH, FLAGS.INPUT_DEPTH)
@@ -47,7 +50,9 @@ model = MODEL(sess=sess, JM=JM, FLAGS=FLAGS)
 sess.run(tf.global_variables_initializer())
 model.JM.init_table(sess)
 
-
+saver = tf.train.Saver()
+if FLAGS.resume:
+    saver.restore(sess, "./Saver/{}/{}.ckpt".format(FLAGS.WRITER, FLAGS.WRITER))
 
 ################################################################################
 # Let's Train!!
@@ -178,7 +183,7 @@ if "Saver" not in os.listdir("./"):
     os.makedirs("./Saver")
 if FLAGS.WRITER not in os.listdir("./Saver"):
     os.makedirs("./Saver/{}".format(FLAGS.WRITER))
-saver = tf.train.Saver()
+#saver = tf.train.Saver()
 saver.save(sess, "./Saver/{}/{}.ckpt".format(FLAGS.WRITER, FLAGS.WRITER))
 
 # tensorboard

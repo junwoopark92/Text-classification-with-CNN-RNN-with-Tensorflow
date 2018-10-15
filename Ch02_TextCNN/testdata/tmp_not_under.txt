@@ -1,0 +1,36 @@
+쿠폰 미사용 인데 사용한걸로 나와요	{"sent":"쿠폰 미사용 인데 사용한걸로 나와요","domain_info":[{"domain_name":"DIGITAL","unknown":"쿠폰,미사용","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"쿠폰,미사용","speech_act":"not_understanding"}]}
+카본파이버	{"sent":"카본파이버","domain_info":[{"domain_name":"DIGITAL","unknown":"카본,파이버","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"카본,파이버","speech_act":"not_understanding"}]}
+웹투어	{"sent":"웹투어","domain_info":[{"domain_name":"DIGITAL","unknown":"웹투어","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"웹투어","speech_act":"not_understanding"}]}
+루거	{"sent":"루거","domain_info":[{"domain_name":"DIGITAL","unknown":"루거","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"루거","speech_act":"not_understanding"}]}
+구매자가 너무 별로야	{"sent":"구매자가 너무 별로야","domain_info":[{"domain_name":"DIGITAL","unknown":"구매자","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"구매자","speech_act":"not_understanding"}]}
+구매자가 너무 별로야	{"sent":"구매자가 너무 별로야","domain_info":[{"domain_name":"DIGITAL","unknown":"구매자","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"구매자","speech_act":"not_understanding"}]}
+구매자	{"sent":"구매자","domain_info":[{"domain_name":"DIGITAL","unknown":"구매자","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"구매자","speech_act":"not_understanding"}]}
+정민	{"sent":"정민","domain_info":[{"domain_name":"DIGITAL","unknown":"정민","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"정민","speech_act":"not_understanding"}]}
+자괴감들만하잖아 ㅡㅡ	{"sent":"자괴감들만하잖아 ㅡㅡ","domain_info":[{"domain_name":"DIGITAL","unknown":"자괴감","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"자괴감","speech_act":"not_understanding"}]}
+카드 수정	{"sent":"카드 수정","domain_info":[{"domain_name":"DIGITAL","unknown":"카드,수정","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"카드,수정","speech_act":"not_understanding"}]}
+그램 전상품	{"sent":"그램 전상품","domain_info":[{"domain_name":"DIGITAL","unknown":"전상품","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"전상품","speech_act":"not_understanding"}]}
+다른 선택지는 없어?	{"sent":"다른 선택지는 없어?","domain_info":[{"domain_name":"DIGITAL","unknown":"선,택지","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"선,택지","speech_act":"not_understanding"}]}
+찾으시는 제품	{"sent":"찾으시는 제품","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+에베벱	{"sent":"에베벱","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+애폴	{"sent":"애폴","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+전투복	{"sent":"전투복","domain_info":[{"domain_name":"DIGITAL","unknown":"전투복","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"전투복","speech_act":"not_understanding"}]}
+원통형 내열 플라스틱	{"sent":"원통형 내열 플라스틱","domain_info":[{"domain_name":"DIGITAL","unknown":"원통형,내열,플라스틱","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"원통형,내열,플라스틱","speech_act":"not_understanding"}]}
+내열 pp	{"sent":"내열 pp","domain_info":[{"domain_name":"DIGITAL","unknown":"내열","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"내열","speech_act":"not_understanding"}]}
+정퍼	{"sent":"정퍼","domain_info":[{"domain_name":"DIGITAL","unknown":"정","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"정","speech_act":"not_understanding"}]}
+야이새키얔	{"sent":"야이새키얔","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+어디까지 진행되었는지 궁금?	{"sent":"어디까지 진행되었는지 궁금?","domain_info":[{"domain_name":"DIGITAL","unknown":"진행","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"진행,궁금","speech_act":"not_understanding"}]}
+상담톡이 타사이트보다 복잡해요	{"sent":"상담톡이 타사이트보다 복잡해요","domain_info":[{"domain_name":"DIGITAL","unknown":"사이트","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"상담,사이트,복잡","speech_act":"not_understanding"}]}
+해외공유번호때문에물건주문이머려워서다른쇼핑이용합니다	{"sent":"해외공유번호때문에물건주문이머려워서다른쇼핑이용합니다","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+발주확인	{"sent":"발주확인","domain_info":[{"domain_name":"DIGITAL","unknown":"발주,확인","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"발주,확인","speech_act":"not_understanding"}]}
+상담전화	{"sent":"상담전화","domain_info":[{"domain_name":"DIGITAL","unknown":"전화","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"상담,전화","speech_act":"not_understanding"}]}
+마루이카	{"sent":"마루이카","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+뉴욕뷰티라이프	{"sent":"뉴욕뷰티라이프","domain_info":[{"domain_name":"DIGITAL","unknown":"뉴,욕,뷰티,라이프","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"뉴,욕,뷰티,라이프","speech_act":"not_understanding"}]}
+넘행	{"sent":"넘행","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+크럼프	{"sent":"크럼프","domain_info":[{"domain_name":"DIGITAL","unknown":"크럼프","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"크럼프","speech_act":"not_understanding"}]}
+임시품절 언제 풀려?	{"sent":"임시품절 언제 풀려?","domain_info":[{"domain_name":"DIGITAL","unknown":"임시,품절","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"임시,품절","speech_act":"not_understanding"}]}
+임시품절	{"sent":"임시품절","domain_info":[{"domain_name":"DIGITAL","unknown":"임시,품절","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"임시,품절","speech_act":"not_understanding"}]}
+혼자서도강한사람책이요	{"sent":"혼자서도강한사람책이요","domain_info":[{"domain_name":"DIGITAL","unknown":"혼자,서도,한사람책","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"혼자,서도,강,한사람책","speech_act":"not_understanding"}]}
+다른것도 없네요	{"sent":"다른것도 없네요","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+씰	{"sent":"씰","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+넌 나에게 맞추는거야 그런소리 할려면 끝내자	{"sent":"넌 나에게 맞추는거야 그런소리 할려면 끝내자","domain_info":[{"domain_name":"DIGITAL","unknown":"소리","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"소리","speech_act":"not_understanding"}]}
+끝말이기하자	{"sent":"끝말이기하자","domain_info":[{"domain_name":"DIGITAL","unknown":"끝말","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"끝말","speech_act":"not_understanding"}]}

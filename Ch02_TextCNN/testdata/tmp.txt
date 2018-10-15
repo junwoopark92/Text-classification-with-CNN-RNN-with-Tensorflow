@@ -1,0 +1,316 @@
+쿠폰 미사용 인데 사용한걸로 나와요	{"sent":"쿠폰 미사용 인데 사용한걸로 나와요","domain_info":[{"domain_name":"DIGITAL","unknown":"쿠폰,미사용","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"쿠폰,미사용","speech_act":"not_understanding"}]}
+13zd980-gx30k	{"sent":"13zd980-gx30k","domain_info":[{"domain_name":"DIGITAL","mixed":"13zd980-gx30k"},{"domain_name":"MART","mixed":"13zd980-gx30k"}]}
+ebr9804s	{"sent":"ebr9804s","domain_info":[{"domain_name":"DIGITAL","mixed":"ebr9804s"},{"domain_name":"MART","mixed":"ebr9804s"}]}
+카본파이버	{"sent":"카본파이버","domain_info":[{"domain_name":"DIGITAL","unknown":"카본,파이버","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"카본,파이버","speech_act":"not_understanding"}]}
+쿠첸 ir 10인용	{"sent":"쿠첸 ir 10인용","domain_info":[{"domain_name":"DIGITAL","brand":"리홈","numeric_info":[{"number":10,"unit":"인용","range":null}]},{"domain_name":"MART","category":"쿠첸","numeric_info":[{"number":10,"unit":"인용","range":null}]}]}
+pc1019rc	{"sent":"pc1019rc","domain_info":[{"domain_name":"DIGITAL","mixed":"pc1019rc"},{"domain_name":"MART","mixed":"pc1019rc"}]}
+cjh-pc1019rhw	{"sent":"cjh-pc1019rhw","domain_info":[{"domain_name":"DIGITAL","mixed":"cjh-pc1019rhw"},{"domain_name":"MART","mixed":"cjh-pc1019rhw"}]}
+cjhpc1019rc	{"sent":"cjhpc1019rc","domain_info":[{"domain_name":"DIGITAL","mixed":"cjhpc1019rc"},{"domain_name":"MART","mixed":"cjhpc1019rc"}]}
+결제후 취소	{"sent":"결제후 취소","domain_info":[{"domain_name":"DIGITAL","speech_act":"결제문의"},{"domain_name":"MART","speech_act":"결제문의"}]}
+11페이 지문인식 결재가 언제 부턴가 안돼는데 다시 설정 방법이 있나요?	{"sent":"11페이 지문인식 결재가 언제 부턴가 안돼는데 다시 설정 방법이 있나요?","domain_info":[{"domain_name":"DIGITAL","speech_act":"결제문의","reserved_keyword":"11페이","보안기능":"지문인식"},{"domain_name":"MART","speech_act":"결제문의","reserved_keyword":"11페이,지문인식"}]}
+Lg모니터 할인	{"sent":"Lg모니터 할인","domain_info":[{"domain_name":"DIGITAL","category_not_service":"모니터","brand":"lg전자","speech_act":"할인문의"},{"domain_name":"MART","category_not_service":"모니터","brand":"lg","speech_act":"할인문의"}]}
+등급산정 언제	{"sent":"등급산정 언제","domain_info":[{"domain_name":"DIGITAL","speech_act":"기타faq문의"},{"domain_name":"MART","speech_act":"기타faq문의"}]}
+팸퍼스드라이팬티	{"sent":"팸퍼스드라이팬티","domain_info":[{"domain_name":"DIGITAL","category_not_service":"팸퍼스드라이,팬티"},{"domain_name":"MART","category":"팸퍼스드라이","category_not_service":"팬티"}]}
+듀오덤	{"sent":"듀오덤","domain_info":[{"domain_name":"DIGITAL","category_not_service":"듀오덤"},{"domain_name":"MART","category":"듀오덤"}]}
+안비싼 i5노트북찾아줘	{"sent":"안비싼 i5노트북찾아줘","domain_info":[{"domain_name":"DIGITAL","category":"노트북","speech_act":"추천","cpu_spec":"i5"},{"domain_name":"MART","category_not_service":"노트북","speech_act":"행사상품"}]}
+반품 신청했는데 접수가 된건지 확인해주세요	{"sent":"반품 신청했는데 접수가 된건지 확인해주세요","domain_info":[{"domain_name":"DIGITAL","unknown":"접수","speech_act":"반품문의"},{"domain_name":"MART","unknown":"접수","speech_act":"반품문의"}]}
+기저귀는 T할인 적용상품이 아닌가요?	{"sent":"기저귀는 T할인 적용상품이 아닌가요?","domain_info":[{"domain_name":"DIGITAL","category_not_service":"기저귀","speech_act":"할인문의"},{"domain_name":"MART","category":"기저귀","unknown":"적용","speech_act":"할인문의"}]}
+웹투어	{"sent":"웹투어","domain_info":[{"domain_name":"DIGITAL","unknown":"웹투어","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"웹투어","speech_act":"not_understanding"}]}
+회칼	{"sent":"회칼","domain_info":[{"domain_name":"DIGITAL","category_not_service":"회칼"},{"domain_name":"MART","category":"회칼"}]}
+유모차 구매하려구요!	{"sent":"유모차 구매하려구요!","domain_info":[{"domain_name":"DIGITAL","category_not_service":"유모차","speech_act":"추천"},{"domain_name":"MART","category":"유모차","speech_act":"추천"}]}
+디클 D141메탈이요~	{"sent":"디클 D141메탈이요~","domain_info":[{"domain_name":"DIGITAL","brand2":"디클","color":"메탈","mixed":"d141"},{"domain_name":"MART","brand":"디클","mixed":"d141","attribute":"메탈"}]}
+현대카드결재가되않네요	{"sent":"현대카드결재가되않네요","domain_info":[{"domain_name":"DIGITAL","unknown":"재가","reserved_keyword":"현대카드"},{"domain_name":"MART","unknown":"재가","reserved_keyword":"현대카드"}]}
+어제 주문한게 안와	{"sent":"어제 주문한게 안와","domain_info":[{"domain_name":"DIGITAL","speech_act":"주문완료"},{"domain_name":"MART","speech_act":"주문완료"}]}
+오늘 사면 배송이 언제와	{"sent":"오늘 사면 배송이 언제와","domain_info":[{"domain_name":"DIGITAL","unknown":"사면","speech_act":"배송일문의"},{"domain_name":"MART","unknown":"오늘,사면","speech_act":"배송일문의"}]}
+노트북 리뷰제일많은거	{"sent":"노트북 리뷰제일많은거","domain_info":[{"domain_name":"DIGITAL","category":"노트북","unknown":"리뷰,제일"},{"domain_name":"MART","category_not_service":"노트북"}]}
+리뷰많은거	{"sent":"리뷰많은거","domain_info":[{"domain_name":"DIGITAL","speech_act":"기타faq문의"},{"domain_name":"MART","speech_act":"기타faq문의"}]}
+고객센터 직원이랑 대화하고 싶어요	{"sent":"고객센터 직원이랑 대화하고 싶어요","domain_info":[{"domain_name":"DIGITAL","unknown":"대화","speech_act":"상담시간"},{"domain_name":"MART","unknown":"대화","speech_act":"상담시간"}]}
+어제 취소신청하고 새로 주문했는데 환불된건지 확인하고 싶어요	{"sent":"어제 취소신청하고 새로 주문했는데 환불된건지 확인하고 싶어요","domain_info":[{"domain_name":"DIGITAL","unknown":"취소,신청,환불,확인","speech_act":"주문완료"},{"domain_name":"MART","unknown":"취소,신청,환불,확인","speech_act":"주문완료"}]}
+에드훅 반품 취소 처리가 지연 되는것 같아서 문의 합니다	{"sent":"에드훅 반품 취소 처리가 지연 되는것 같아서 문의 합니다","domain_info":[{"domain_name":"DIGITAL","speech_act":"주문취소","greeting":"claim"},{"domain_name":"MART","unknown":"처리,지연","speech_act":"반품문의"}]}
+gl504gm	{"sent":"gl504gm","domain_info":[{"domain_name":"DIGITAL","mixed":"gl504gm"},{"domain_name":"MART","mixed":"gl504gm"}]}
+11번가 관리비에 관해서는 문의 못하나요???	{"sent":"11번가 관리비에 관해서는 문의 못하나요???","domain_info":[{"domain_name":"DIGITAL","unknown":"관리비","speech_act":"상담요청","reserved_keyword":"11번가"},{"domain_name":"MART","unknown":"관리비","speech_act":"상담요청","reserved_keyword":"11번가"}]}
+루거	{"sent":"루거","domain_info":[{"domain_name":"DIGITAL","unknown":"루거","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"루거","speech_act":"not_understanding"}]}
+트리플에스 샴푸 환불 900원만 입금들어왔는데 확인바랍니다. 이만얼마주고 구매했었어요.	{"sent":"트리플에스 샴푸 환불 900원만 입금들어왔는데 확인바랍니다. 이만얼마주고 구매했었어요.","domain_info":[{"domain_name":"DIGITAL","unknown":"트리플,에스,환불,입금,확인","speech_act":"구매완료","reserved_keyword":"샴푸","numeric_info":[{"number":900,"unit":"원","range":null}]},{"domain_name":"MART","category":"샴푸","unknown":"트리플,에스,환불,입금,확인","speech_act":"구매완료","numeric_info":[{"number":900,"unit":"원","range":null}]}]}
+구매자가 너무 별로야	{"sent":"구매자가 너무 별로야","domain_info":[{"domain_name":"DIGITAL","unknown":"구매자","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"구매자","speech_act":"not_understanding"}]}
+구매자가 너무 별로야	{"sent":"구매자가 너무 별로야","domain_info":[{"domain_name":"DIGITAL","unknown":"구매자","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"구매자","speech_act":"not_understanding"}]}
+구매자	{"sent":"구매자","domain_info":[{"domain_name":"DIGITAL","unknown":"구매자","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"구매자","speech_act":"not_understanding"}]}
+정민	{"sent":"정민","domain_info":[{"domain_name":"DIGITAL","unknown":"정민","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"정민","speech_act":"not_understanding"}]}
+주문취소상품	{"sent":"주문취소상품","domain_info":[{"domain_name":"DIGITAL","speech_act":"주문취소"},{"domain_name":"MART","speech_act":"주문취소"}]}
+휴대폰 소액결제	{"sent":"휴대폰 소액결제","domain_info":[{"domain_name":"DIGITAL","speech_act":"결제문의","reserved_keyword":"핸드폰"},{"domain_name":"MART","category_not_service":"핸드폰","speech_act":"결제문의"}]}
+xh58	{"sent":"xh58","domain_info":[{"domain_name":"DIGITAL","mixed":"xh58"},{"domain_name":"MART","mixed":"xh58"}]}
+xh58 b0ssmonster ti8400w 120	{"sent":"xh58 b0ssmonster ti8400w 120","domain_info":[{"domain_name":"DIGITAL","mixed":"xh58,b0ssmonster,ti8400w","numeric_info":[{"number":120,"unit":"","range":null}]},{"domain_name":"MART","mixed":"xh58,b0ssmonster,ti8400w","numeric_info":[{"number":120,"unit":"","range":null}]}]}
+xh58 bossmonster ti8400w 120	{"sent":"xh58 bossmonster ti8400w 120","domain_info":[{"domain_name":"DIGITAL","mixed":"xh58,ti8400w","numeric_info":[{"number":120,"unit":"","range":null}]},{"domain_name":"MART","mixed":"xh58,ti8400w","numeric_info":[{"number":120,"unit":"","range":null}]}]}
+더싸게 안되나요	{"sent":"더싸게 안되나요","domain_info":[{"domain_name":"DIGITAL","price":"xs"},{"domain_name":"MART","speech_act":"행사상품"}]}
+에르고 쿨에어	{"sent":"에르고 쿨에어","domain_info":[{"domain_name":"DIGITAL","unknown":"에르고,쿨","reserved_keyword":"air"},{"domain_name":"MART","unknown":"에르고,쿨,에어","speech_act":"not_understanding"}]}
+제품구매한게있는데요~언제받을수있나요?	{"sent":"제품구매한게있는데요~언제받을수있나요?","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송일문의"},{"domain_name":"MART","speech_act":"배송일문의"}]}
+환불받을려고하는데요. 아빠계좌로무통장입금을 했습니다.아빠계좌로환불을 받아야될것같아요.필요한서류는 어떻게되나요?	{"sent":"환불받을려고하는데요. 아빠계좌로무통장입금을 했습니다.아빠계좌로환불을 받아야될것같아요.필요한서류는 어떻게되나요?","domain_info":[{"domain_name":"DIGITAL","unknown":"환불,좌로,필요,서류","speech_act":"결제문의","gender":"남자","사용대상_용도":"성인용"},{"domain_name":"MART","unknown":"환불,남자,좌로,필요,서류","speech_act":"결제문의"}]}
+9/29 주문 도착예정일 언제인가요??	{"sent":"9/29 주문 도착예정일 언제인가요??","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의","etc_numeric_info":"9/29"},{"domain_name":"MART","speech_act":"배송일문의","etc_numeric_info":"9/29"}]}
+스파오 여성 코듀로이 오버롤스커트	{"sent":"스파오 여성 코듀로이 오버롤스커트","domain_info":[{"domain_name":"DIGITAL","category_not_service":"스커트","reserved_keyword":"스파오","gender":"여자","사용용도_용도":"게임용"},{"domain_name":"MART","multi_category":"스파오,롤","category_not_service":"스커트","attribute":"여자"}]}
+오배송건으로 연락드렸습니다	{"sent":"오배송건으로 연락드렸습니다","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의","reserved_keyword":"배송"},{"domain_name":"MART","speech_act":"배송문의","reserved_keyword":"배송"}]}
+음악을 듣고 싶어	{"sent":"음악을 듣고 싶어","domain_info":[{"domain_name":"DIGITAL","reserved_keyword":"음악"},{"domain_name":"MART","category":"음악"}]}
+8월20 일에 구매한 김치의 상태가 좋지 않아 리뷰를 썼는데 해당 회사에서 반품처리 하라고 합니다 반품처리 전화는 어디로 해야 하나요	{"sent":"8월20 일에 구매한 김치의 상태가 좋지 않아 리뷰를 썼는데 해당 회사에서 반품처리 하라고 합니다 반품처리 전화는 어디로 해야 하나요","domain_info":[{"domain_name":"DIGITAL","unknown":"상태,리뷰,해당,회사,전화","speech_act":"반품문의","unknown_property":"김치","numeric_info":[{"number":8,"unit":"월","range":null},{"number":20,"unit":"일","range":null}]},{"domain_name":"MART","category":"김치","unknown":"상태,리뷰,해당,회사,전화","speech_act":"반품문의","numeric_info":[{"number":8,"unit":"월","range":null},{"number":20,"unit":"일","range":null}]}]}
+복잡해	{"sent":"복잡해","domain_info":[{"domain_name":"DIGITAL","greeting":"claim"},{"domain_name":"MART","greeting":"claim"}]}
+최고	{"sent":"최고","domain_info":[{"domain_name":"DIGITAL","greeting":"good"},{"domain_name":"MART","greeting":"good"}]}
+사고싶어	{"sent":"사고싶어","domain_info":[{"domain_name":"DIGITAL","speech_act":"추천"},{"domain_name":"MART","speech_act":"추천"}]}
+청소기 김치냉장고 에어컨	{"sent":"청소기 김치냉장고 에어컨","domain_info":[{"domain_name":"DIGITAL","multi_category":"청소기,김치냉장고,aircon"},{"domain_name":"MART","category":"청소기","category_not_service":"김치냉장고,aircon"}]}
+다 살거야	{"sent":"다 살거야","domain_info":[{"domain_name":"DIGITAL","bypass":"bypass"},{"domain_name":"MART","bypass":"bypass"}]}
+20평형 이상	{"sent":"20평형 이상","domain_info":[{"domain_name":"DIGITAL","numeric_info":[{"number":20,"unit":"평형","range":"from"},{"number":9223372036854775807,"unit":"평형","range":"to"}]},{"domain_name":"MART","numeric_info":[{"number":20,"unit":"평형","range":"from"},{"number":9223372036854775807,"unit":"평형","range":"to"}]}]}
+18평형 이상	{"sent":"18평형 이상","domain_info":[{"domain_name":"DIGITAL","numeric_info":[{"number":18,"unit":"평형","range":"from"},{"number":9223372036854775807,"unit":"평형","range":"to"}]},{"domain_name":"MART","numeric_info":[{"number":18,"unit":"평형","range":"from"},{"number":9223372036854775807,"unit":"평형","range":"to"}]}]}
+겨울 한복 구매하고싶어	{"sent":"겨울 한복 구매하고싶어","domain_info":[{"domain_name":"DIGITAL","category_not_service":"한복","speech_act":"추천"},{"domain_name":"MART","category":"한복","unknown":"겨울","speech_act":"추천"}]}
+겨울한복	{"sent":"겨울한복","domain_info":[{"domain_name":"DIGITAL","category_not_service":"한복"},{"domain_name":"MART","category":"한복","unknown":"겨울"}]}
+아니 시팔...	{"sent":"아니 시팔...","domain_info":[{"domain_name":"DIGITAL","slang":"slang"},{"domain_name":"MART","slang":"slang"}]}
+자괴감들만하잖아 ㅡㅡ	{"sent":"자괴감들만하잖아 ㅡㅡ","domain_info":[{"domain_name":"DIGITAL","unknown":"자괴감","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"자괴감","speech_act":"not_understanding"}]}
+아니 한복구매하고싶다고 이새키야	{"sent":"아니 한복구매하고싶다고 이새키야","domain_info":[{"domain_name":"DIGITAL","category_not_service":"한복","speech_act":"추천","slang":"slang"},{"domain_name":"MART","category":"한복","speech_act":"추천","slang":"slang"}]}
+하아 시발	{"sent":"하아 시발","domain_info":[{"domain_name":"DIGITAL","slang":"slang"},{"domain_name":"MART","slang":"slang"}]}
+한복구매한다고	{"sent":"한복구매한다고","domain_info":[{"domain_name":"DIGITAL","category_not_service":"한복","speech_act":"구매완료"},{"domain_name":"MART","category":"한복","speech_act":"구매완료"}]}
+아니 ㅋㅋㅋㅋㅋㅋ	{"sent":"아니 ㅋㅋㅋㅋㅋㅋ","domain_info":[{"domain_name":"DIGITAL","greeting":"smile"},{"domain_name":"MART","greeting":"smile"}]}
+카드 수정	{"sent":"카드 수정","domain_info":[{"domain_name":"DIGITAL","unknown":"카드,수정","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"카드,수정","speech_act":"not_understanding"}]}
+햇반 행사 상품	{"sent":"햇반 행사 상품","domain_info":[{"domain_name":"DIGITAL","speech_act":"할인행사","reserved_keyword":"햇반"},{"domain_name":"MART","category":"햇반","speech_act":"할인행사"}]}
+이전에 구입했던 TV가 뭔지 확인하고싶어요	{"sent":"이전에 구입했던 TV가 뭔지 확인하고싶어요","domain_info":[{"domain_name":"DIGITAL","category":"tv","unknown":"이전,확인","speech_act":"구매완료"},{"domain_name":"MART","category_not_service":"tv","speech_act":"구매완료"}]}
+제가 구매했던 TV요	{"sent":"제가 구매했던 TV요","domain_info":[{"domain_name":"DIGITAL","category":"tv","speech_act":"구매완료"},{"domain_name":"MART","category_not_service":"tv","speech_act":"구매완료"}]}
+9월 20일 추천 노트북	{"sent":"9월 20일 추천 노트북","domain_info":[{"domain_name":"DIGITAL","category":"노트북","speech_act":"추천","numeric_info":[{"number":9,"unit":"월","range":null},{"number":20,"unit":"일","range":null}]},{"domain_name":"MART","category_not_service":"노트북","speech_act":"추천","numeric_info":[{"number":9,"unit":"월","range":null},{"number":20,"unit":"일","range":null}]}]}
+9월 20일 대화내용	{"sent":"9월 20일 대화내용","domain_info":[{"domain_name":"DIGITAL","unknown":"대화,내용","numeric_info":[{"number":9,"unit":"월","range":null},{"number":20,"unit":"일","range":null}]},{"domain_name":"MART","unknown":"대화,내용","numeric_info":[{"number":9,"unit":"월","range":null},{"number":20,"unit":"일","range":null}]}]}
+그램 전상품	{"sent":"그램 전상품","domain_info":[{"domain_name":"DIGITAL","unknown":"전상품","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"전상품","speech_act":"not_understanding"}]}
+노트북 베스트셀러	{"sent":"노트북 베스트셀러","domain_info":[{"domain_name":"DIGITAL","category":"노트북","recom_type_노트북":"popular"},{"domain_name":"MART","category_not_service":"노트북","attribute":"popular"}]}
+지연보상은 몇일인가요?	{"sent":"지연보상은 몇일인가요?","domain_info":[{"domain_name":"DIGITAL","unknown":"일인","speech_act":"적립문의"},{"domain_name":"MART","unknown":"일인,가요","speech_act":"적립문의"}]}
+안녕ㅡㅡㅡ	{"sent":"안녕ㅡㅡㅡ","domain_info":[{"domain_name":"DIGITAL","greeting":"re-hello"},{"domain_name":"MART","greeting":"re-hello"}]}
+문의사항이 있어서	{"sent":"문의사항이 있어서","domain_info":[{"domain_name":"DIGITAL","speech_act":"상담요청"},{"domain_name":"MART","speech_act":"상담요청"}]}
+바이ㅡㅡㅡ	{"sent":"바이ㅡㅡㅡ","domain_info":[{"domain_name":"DIGITAL","speech_act":"대화종료"},{"domain_name":"MART","speech_act":"대화종료"}]}
+허리어깨교정밴드	{"sent":"허리어깨교정밴드","domain_info":[{"domain_name":"DIGITAL","category_not_service":"밴드"},{"domain_name":"MART","category":"밴드","unknown":"허리,어깨,교정"}]}
+반짝단추	{"sent":"반짝단추","domain_info":[{"domain_name":"DIGITAL","category_not_service":"단추"},{"domain_name":"MART","category":"단추"}]}
+주문취소신청	{"sent":"주문취소신청","domain_info":[{"domain_name":"DIGITAL","unknown":"신청","speech_act":"주문취소"},{"domain_name":"MART","unknown":"신청","speech_act":"주문취소"}]}
+다른 선택지는 없어?	{"sent":"다른 선택지는 없어?","domain_info":[{"domain_name":"DIGITAL","unknown":"선,택지","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"선,택지","speech_act":"not_understanding"}]}
+내가 찜한 상품 보여줘	{"sent":"내가 찜한 상품 보여줘","domain_info":[{"domain_name":"DIGITAL","speech_act":"찜한상품"},{"domain_name":"MART","speech_act":"추천"}]}
+상품평 좋은 쌀추천해줘	{"sent":"상품평 좋은 쌀추천해줘","domain_info":[{"domain_name":"DIGITAL","category_not_service":"쌀","speech_act":"추천","ordering":"review"},{"domain_name":"MART","category":"쌀","speech_act":"추천","ordering":"review"}]}
+공기청정기!	{"sent":"공기청정기!","domain_info":[{"domain_name":"DIGITAL","category":"공기청정기"},{"domain_name":"MART","category_not_service":"공기청정기"}]}
+뭘로 사지?	{"sent":"뭘로 사지?","domain_info":[{"domain_name":"DIGITAL","speech_act":"상담품목"},{"domain_name":"MART","speech_act":"상담품목"}]}
+공기청정기 찾기!	{"sent":"공기청정기 찾기!","domain_info":[{"domain_name":"DIGITAL","category":"공기청정기"},{"domain_name":"MART","category_not_service":"공기청정기"}]}
+찾으시는 제품	{"sent":"찾으시는 제품","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+문화상품권적용	{"sent":"문화상품권적용","domain_info":[{"domain_name":"DIGITAL","unknown":"적용","reserved_keyword":"문화상품권"},{"domain_name":"MART","category_not_service":"문화상품권"}]}
+게임기 찾아 줘	{"sent":"게임기 찾아 줘","domain_info":[{"domain_name":"DIGITAL","category_not_service":"게임기","speech_act":"추천"},{"domain_name":"MART","category":"게임기","speech_act":"추천"}]}
+비비고왕교자만두	{"sent":"비비고왕교자만두","domain_info":[{"domain_name":"DIGITAL","category_not_service":"비비고왕교자,만두"},{"domain_name":"MART","multi_category":"비비고왕교자,만두"}]}
+cjonmart04	{"sent":"cjonmart04","domain_info":[{"domain_name":"DIGITAL","mixed":"cjonmart04"},{"domain_name":"MART","mixed":"cjonmart04"}]}
+할인데이	{"sent":"할인데이","domain_info":[{"domain_name":"DIGITAL","unknown":"데이","speech_act":"할인문의"},{"domain_name":"MART","unknown":"데이","speech_act":"할인문의"}]}
+카카오닙스 일동후디스	{"sent":"카카오닙스 일동후디스","domain_info":[{"domain_name":"DIGITAL","category_not_service":"카카오닙스,일동후디스"},{"domain_name":"MART","category":"카카오닙스","brand_카카오닙스":"일동후디스"}]}
+s8 3d강화유리	{"sent":"s8 3d강화유리","domain_info":[{"domain_name":"DIGITAL","category_not_service":"s8","부가기능":"강화유리","unknown_property":"3d"},{"domain_name":"MART","category":"s8","reserved_keyword":"3d,강화유리"}]}
+야마하ag03	{"sent":"야마하ag03","domain_info":[{"domain_name":"DIGITAL","brand2":"야마하","mixed":"ag03"},{"domain_name":"MART","brand":"야마하","mixed":"ag03"}]}
+Hello!	{"sent":"Hello!","domain_info":[{"domain_name":"DIGITAL","greeting":"re-hello"},{"domain_name":"MART","greeting":"re-hello"}]}
+새상담하자!	{"sent":"새상담하자!","domain_info":[{"domain_name":"DIGITAL","speech_act":"새상담"},{"domain_name":"MART","speech_act":"새상담"}]}
+에베벱	{"sent":"에베벱","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+끝말잇기 시작	{"sent":"끝말잇기 시작","domain_info":[{"domain_name":"DIGITAL","unknown":"시작","speech_act":"채팅"},{"domain_name":"MART","unknown":"시작","speech_act":"채팅"}]}
+옥션 노트북 세일	{"sent":"옥션 노트북 세일","domain_info":[{"domain_name":"DIGITAL","category":"노트북","speech_act":"할인문의","reserved_keyword":"옥션"},{"domain_name":"MART","category_not_service":"노트북","speech_act":"할인문의","reserved_keyword":"옥션"}]}
+저장공간 큰거	{"sent":"저장공간 큰거","domain_info":[{"domain_name":"DIGITAL","size":"l","unknown_property":"저장공간"},{"domain_name":"MART","reserved_keyword":"저장공간","attribute":"대형"}]}
+애폴	{"sent":"애폴","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+똑똑하군	{"sent":"똑똑하군","domain_info":[{"domain_name":"DIGITAL","greeting":"cheer"},{"domain_name":"MART","greeting":"cheer"}]}
+천재!	{"sent":"천재!","domain_info":[{"domain_name":"DIGITAL","greeting":"cheer"},{"domain_name":"MART","greeting":"cheer"}]}
+이뻐	{"sent":"이뻐","domain_info":[{"domain_name":"DIGITAL","speech_act":"디자인문의"},{"domain_name":"MART","speech_act":"디자인문의"}]}
+멋짐!	{"sent":"멋짐!","domain_info":[{"domain_name":"DIGITAL","greeting":"cheer"},{"domain_name":"MART","greeting":"cheer"}]}
+전투복	{"sent":"전투복","domain_info":[{"domain_name":"DIGITAL","unknown":"전투복","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"전투복","speech_act":"not_understanding"}]}
+m24	{"sent":"m24","domain_info":[{"domain_name":"DIGITAL","mixed":"m24"},{"domain_name":"MART","mixed":"m24"}]}
+나 옷 살까?	{"sent":"나 옷 살까?","domain_info":[{"domain_name":"DIGITAL","reserved_keyword":"옷"},{"domain_name":"MART","category_not_service":"옷"}]}
+랜덤 귀걸이 찾아줘	{"sent":"랜덤 귀걸이 찾아줘","domain_info":[{"domain_name":"DIGITAL","category_not_service":"귀걸이","speech_act":"추천"},{"domain_name":"MART","category":"귀걸이","unknown":"랜덤","speech_act":"추천"}]}
+결제시 티멤버십 할인은 어떻게 받나요?	{"sent":"결제시 티멤버십 할인은 어떻게 받나요?","domain_info":[{"domain_name":"DIGITAL","unknown":"결제시","speech_act":"할인문의","reserved_keyword":"티멤버십"},{"domain_name":"MART","unknown":"결제시","speech_act":"할인문의","reserved_keyword":"티멤버십"}]}
+F17Vdw	{"sent":"F17Vdw","domain_info":[{"domain_name":"DIGITAL","mixed":"f17vdw"},{"domain_name":"MART","mixed":"f17vdw"}]}
+F17vdw1	{"sent":"F17vdw1","domain_info":[{"domain_name":"DIGITAL","mixed":"f17vdw1"},{"domain_name":"MART","mixed":"f17vdw1"}]}
+주소잘못입력했어요	{"sent":"주소잘못입력했어요","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송지변경문의"},{"domain_name":"MART","speech_act":"배송지변경문의"}]}
+배송지 삭제	{"sent":"배송지 삭제","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의"},{"domain_name":"MART","speech_act":"배송문의"}]}
+편의점으로 택배받을수 있나요?	{"sent":"편의점으로 택배받을수 있나요?","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의","reserved_keyword":"편의점,배송"},{"domain_name":"MART","category_not_service":"편의점"}]}
+이거본인인증어떻세해요	{"sent":"이거본인인증어떻세해요","domain_info":[{"domain_name":"DIGITAL","speech_act":"본인인증문의"},{"domain_name":"MART","speech_act":"본인인증문의"}]}
+배송지 변경이 안되요?	{"sent":"배송지 변경이 안되요?","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송지변경문의"},{"domain_name":"MART","speech_act":"배송지변경문의"}]}
+원통형 내열 플라스틱	{"sent":"원통형 내열 플라스틱","domain_info":[{"domain_name":"DIGITAL","unknown":"원통형,내열,플라스틱","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"원통형,내열,플라스틱","speech_act":"not_understanding"}]}
+원통 용기	{"sent":"원통 용기","domain_info":[{"domain_name":"DIGITAL","category_not_service":"용기"},{"domain_name":"MART","category":"용기","unknown":"원통"}]}
+내열 pp	{"sent":"내열 pp","domain_info":[{"domain_name":"DIGITAL","unknown":"내열","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"내열","speech_act":"not_understanding"}]}
+수납용기	{"sent":"수납용기","domain_info":[{"domain_name":"DIGITAL","category_not_service":"용기","reserved_keyword":"수납"},{"domain_name":"MART","multi_category":"수납,용기"}]}
+정퍼	{"sent":"정퍼","domain_info":[{"domain_name":"DIGITAL","unknown":"정","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"정","speech_act":"not_understanding"}]}
+배송비쿠폰은 어디잇나요	{"sent":"배송비쿠폰은 어디잇나요","domain_info":[{"domain_name":"DIGITAL","speech_act":"쿠폰요청","reserved_keyword":"배송비"},{"domain_name":"MART","speech_act":"쿠폰요청","reserved_keyword":"배송비"}]}
+결제내역이 안떠요	{"sent":"결제내역이 안떠요","domain_info":[{"domain_name":"DIGITAL","speech_act":"결제문의"},{"domain_name":"MART","speech_act":"결제문의"}]}
+트리퍼니	{"sent":"트리퍼니","domain_info":[{"domain_name":"DIGITAL","category_not_service":"트리"},{"domain_name":"MART","category":"트리","unknown":"퍼니"}]}
+55sk	{"sent":"55sk","domain_info":[{"domain_name":"DIGITAL","mixed":"55sk"},{"domain_name":"MART","mixed":"55sk"}]}
+55sk9600	{"sent":"55sk9600","domain_info":[{"domain_name":"DIGITAL","mixed":"55sk9600"},{"domain_name":"MART","mixed":"55sk9600"}]}
+a958	{"sent":"a958","domain_info":[{"domain_name":"DIGITAL","mixed":"a958"},{"domain_name":"MART","mixed":"a958"}]}
+아직 향수를 시켰는데 도착이안했어요~	{"sent":"아직 향수를 시켰는데 도착이안했어요~","domain_info":[{"domain_name":"DIGITAL","category_not_service":"향수"},{"domain_name":"MART","category":"향수","unknown":"도착"}]}
+11번가는 원래 배송이 느린가요?	{"sent":"11번가는 원래 배송이 느린가요?","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의","reserved_keyword":"11번가,배송"},{"domain_name":"MART","speech_act":"배송문의","reserved_keyword":"11번가,배송"}]}
+600원이 모잘라서 못산다이기야...	{"sent":"600원이 모잘라서 못산다이기야...","domain_info":[{"domain_name":"DIGITAL","numeric_info":[{"number":600,"unit":"원","range":null}]},{"domain_name":"MART","numeric_info":[{"number":600,"unit":"원","range":null}]}]}
+아니 쿠폰좀 달라고 ㅠㅠ	{"sent":"아니 쿠폰좀 달라고 ㅠㅠ","domain_info":[{"domain_name":"DIGITAL","speech_act":"쿠폰요청","imoticon":"(훌쩍)"},{"domain_name":"MART","speech_act":"쿠폰요청","imoticon":"(훌쩍)"}]}
+쿠폰좀 주라	{"sent":"쿠폰좀 주라","domain_info":[{"domain_name":"DIGITAL","speech_act":"쿠폰요청"},{"domain_name":"MART","speech_act":"쿠폰요청"}]}
+아니 할인쿠폰 기부좀	{"sent":"아니 할인쿠폰 기부좀","domain_info":[{"domain_name":"DIGITAL","unknown":"쿠폰,기부","speech_act":"할인문의"},{"domain_name":"MART","unknown":"쿠폰,기부","speech_act":"할인문의"}]}
+나 또 왔어	{"sent":"나 또 왔어","domain_info":[{"domain_name":"DIGITAL","greeting":"re-hello"},{"domain_name":"MART","greeting":"re-hello"}]}
+챗봇 하나 사려고요	{"sent":"챗봇 하나 사려고요","domain_info":[{"domain_name":"DIGITAL","unknown":"챗봇","speech_act":"추천"},{"domain_name":"MART","unknown":"챗봇,하나","speech_act":"추천"}]}
+챗봇산다고	{"sent":"챗봇산다고","domain_info":[{"domain_name":"DIGITAL","greeting":"re-hello"},{"domain_name":"MART","greeting":"re-hello"}]}
+야이새키얔	{"sent":"야이새키얔","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+판매자 주문치소확인기간	{"sent":"판매자 주문치소확인기간","domain_info":[{"domain_name":"DIGITAL","unknown":"치소,확인,기간","speech_act":"주문","reserved_keyword":"판매자"},{"domain_name":"MART","unknown":"치소,확인,기간","speech_act":"주문","reserved_keyword":"판매자"}]}
+crp-chs101fs	{"sent":"crp-chs101fs","domain_info":[{"domain_name":"DIGITAL","mixed":"crp-chs101fs"},{"domain_name":"MART","mixed":"crp-chs101fs"}]}
+안녕하세요. 11번가 내맘대로플러스 신청했는데 할인쿠폰을 어떻게 다운로드하나요??	{"sent":"안녕하세요. 11번가 내맘대로플러스 신청했는데 할인쿠폰을 어떻게 다운로드하나요??","domain_info":[{"domain_name":"DIGITAL","unknown":"신청,다운로드","speech_act":"쿠폰요청","greeting":"re-hello","reserved_keyword":"11번가"},{"domain_name":"MART","unknown":"신청,다운로드,하나","speech_act":"쿠폰요청","greeting":"re-hello","reserved_keyword":"11번가"}]}
+어디까지 진행되었는지 궁금?	{"sent":"어디까지 진행되었는지 궁금?","domain_info":[{"domain_name":"DIGITAL","unknown":"진행","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"진행,궁금","speech_act":"not_understanding"}]}
+상담톡이 타사이트보다 복잡해요	{"sent":"상담톡이 타사이트보다 복잡해요","domain_info":[{"domain_name":"DIGITAL","unknown":"사이트","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"상담,사이트,복잡","speech_act":"not_understanding"}]}
+샤오미 제품 특가 알려줘	{"sent":"샤오미 제품 특가 알려줘","domain_info":[{"domain_name":"DIGITAL","brand":"샤오미","speech_act":"추천"},{"domain_name":"MART","brand":"샤오미","speech_act":"할인행사","attribute":"저가"}]}
+스마트플러그 찾는데...	{"sent":"스마트플러그 찾는데...","domain_info":[{"domain_name":"DIGITAL","category_not_service":"스마트플러그"},{"domain_name":"MART","category":"스마트플러그"}]}
+신발샀는데 사이즈 잘못옴 ㅡㅡ	{"sent":"신발샀는데 사이즈 잘못옴 ㅡㅡ","domain_info":[{"domain_name":"DIGITAL","reserved_keyword":"신발,사이즈"},{"domain_name":"MART","category_not_service":"신발","reserved_keyword":"사이즈"}]}
+smart플러그	{"sent":"smart플러그","domain_info":[{"domain_name":"DIGITAL","category_not_service":"플러그"},{"domain_name":"MART","category":"플러그"}]}
+한성165	{"sent":"한성165","domain_info":[{"domain_name":"DIGITAL","brand":"한성","numeric_info":[{"number":165,"unit":"","range":null}]},{"domain_name":"MART","brand":"한성","numeric_info":[{"number":165,"unit":"","range":null}]}]}
+모니터 구매하려는데요	{"sent":"모니터 구매하려는데요","domain_info":[{"domain_name":"DIGITAL","category_not_service":"모니터"},{"domain_name":"MART","category_not_service":"모니터"}]}
+오레오 스마트폰	{"sent":"오레오 스마트폰","domain_info":[{"domain_name":"DIGITAL","category_not_service":"스마트폰","reserved_keyword":"오레오"},{"domain_name":"MART","category":"오레오","category_not_service":"스마트폰"}]}
+게임용 노트붓	{"sent":"게임용 노트붓","domain_info":[{"domain_name":"DIGITAL","category":"노트북","사용용도_용도_노트북":"게임용"},{"domain_name":"MART","category_not_service":"노트북","reserved_keyword":"게임용"}]}
+18년 햅쌀	{"sent":"18년 햅쌀","domain_info":[{"domain_name":"DIGITAL","category_not_service":"햅쌀","slang":"slang"},{"domain_name":"MART","category":"햅쌀","slang":"slang"}]}
+햅쌀20kg	{"sent":"햅쌀20kg","domain_info":[{"domain_name":"DIGITAL","category_not_service":"햅쌀20kg"},{"domain_name":"MART","category":"햅쌀20kg"}]}
+아까 Pc로 상담 내역 올렸는데	{"sent":"아까 Pc로 상담 내역 올렸는데","domain_info":[{"domain_name":"DIGITAL","category_not_service":"컴퓨터","speech_act":"기타faq문의"},{"domain_name":"MART","speech_act":"기타faq문의"}]}
+에디슨부엉이키즈스텐빨대컵	{"sent":"에디슨부엉이키즈스텐빨대컵","domain_info":[{"domain_name":"DIGITAL","category_not_service":"에디슨부엉이,스텐빨대컵","사용대상_용도":"어린이용"},{"domain_name":"MART","multi_category":"에디슨부엉이,스텐빨대컵","attribute":"어린이용"}]}
+에디슨부엉이스텐빨대컵	{"sent":"에디슨부엉이스텐빨대컵","domain_info":[{"domain_name":"DIGITAL","category_not_service":"에디슨부엉이,스텐빨대컵"},{"domain_name":"MART","multi_category":"에디슨부엉이,스텐빨대컵"}]}
+에디슨부엉이빨대컵	{"sent":"에디슨부엉이빨대컵","domain_info":[{"domain_name":"DIGITAL","category_not_service":"에디슨부엉이,빨대컵"},{"domain_name":"MART","multi_category":"에디슨부엉이,빨대컵"}]}
+NT900X3G	{"sent":"NT900X3G","domain_info":[{"domain_name":"DIGITAL","mixed":"nt900x3g"},{"domain_name":"MART","mixed":"nt900x3g"}]}
+프로그래밍용 노트북	{"sent":"프로그래밍용 노트북","domain_info":[{"domain_name":"DIGITAL","category":"노트북","사용용도_노트북":"사무/인강용"},{"domain_name":"MART","category_not_service":"노트북","attribute":"사무/인강용"}]}
+삼성전자랑 dell	{"sent":"삼성전자랑 dell","domain_info":[{"domain_name":"DIGITAL","brand":"삼성전자,dell"},{"domain_name":"MART","category_not_service":"dell","brand":"삼성전자"}]}
+저번에 샀던 폼클렌징 보여줘	{"sent":"저번에 샀던 폼클렌징 보여줘","domain_info":[{"domain_name":"DIGITAL","category_not_service":"폼클렌징","speech_act":"구매완료"},{"domain_name":"MART","category":"폼클렌징","speech_act":"지난구매상품보기"}]}
+저번에 샀던 폼 클렌징	{"sent":"저번에 샀던 폼 클렌징","domain_info":[{"domain_name":"DIGITAL","category_not_service":"폼클렌징","speech_act":"구매완료"},{"domain_name":"MART","category":"폼클렌징","speech_act":"지난구매상품보기"}]}
+저번에 샀던 애경	{"sent":"저번에 샀던 애경","domain_info":[{"domain_name":"DIGITAL","brand":"애경","speech_act":"구매완료"},{"domain_name":"MART","brand":"애경","speech_act":"지난구매상품보기"}]}
+저번에 샀던 오일 보여줘	{"sent":"저번에 샀던 오일 보여줘","domain_info":[{"domain_name":"DIGITAL","category_not_service":"오일","speech_act":"구매완료"},{"domain_name":"MART","category":"오일","speech_act":"지난구매상품보기"}]}
+저번에 샀던 블랙헤드	{"sent":"저번에 샀던 블랙헤드","domain_info":[{"domain_name":"DIGITAL","color":"블랙","unknown":"헤드","speech_act":"구매완료"},{"domain_name":"MART","unknown":"헤드","speech_act":"지난구매상품보기","attribute":"블랙"}]}
+샀는데 ㅡㅡ	{"sent":"샀는데 ㅡㅡ","domain_info":[{"domain_name":"DIGITAL","speech_act":"구매완료"},{"domain_name":"MART","speech_act":"구매완료"}]}
+척척할인쿠폰은 무조건3만이상에 쓸수있는거아닌가요?	{"sent":"척척할인쿠폰은 무조건3만이상에 쓸수있는거아닌가요?","domain_info":[{"domain_name":"DIGITAL","unknown":"쿠폰","speech_act":"할인문의","numeric_info":[{"number":30000,"unit":"","range":"from"},{"number":9223372036854775807,"unit":"","range":"to"}]},{"domain_name":"MART","unknown":"쿠폰","speech_act":"할인문의","numeric_info":[{"number":30000,"unit":"","range":"from"},{"number":9223372036854775807,"unit":"","range":"to"}]}]}
+11번가 페이신청할려구	{"sent":"11번가 페이신청할려구","domain_info":[{"domain_name":"DIGITAL","speech_act":"결제문의"},{"domain_name":"MART","speech_act":"결제문의"}]}
+토퍼를 사고싶은데	{"sent":"토퍼를 사고싶은데","domain_info":[{"domain_name":"DIGITAL","category_not_service":"토퍼","speech_act":"추천"},{"domain_name":"MART","category":"토퍼","speech_act":"추천"}]}
+두툼 포인트를 사용하려 하면 어떻게 해야 되죠?	{"sent":"두툼 포인트를 사용하려 하면 어떻게 해야 되죠?","domain_info":[{"domain_name":"DIGITAL","speech_act":"기타faq문의"},{"domain_name":"MART","speech_act":"기타faq문의"}]}
+아디다스 골프화징	{"sent":"아디다스 골프화징","domain_info":[{"domain_name":"DIGITAL","brand2":"아디다스","unknown":"징","reserved_keyword":"골프화"},{"domain_name":"MART","category":"골프화","category_not_service":"아디다스"}]}
+10월1일 주문한 애견 하네스 쪽이 배솜 준비중이고 물음에 답변도 없어요	{"sent":"10월1일 주문한 애견 하네스 쪽이 배솜 준비중이고 물음에 답변도 없어요","domain_info":[{"domain_name":"DIGITAL","category_not_service":"애견","speech_act":"주문완료","reserved_keyword":"하네스","numeric_info":[{"number":10,"unit":"월","range":null},{"number":1,"unit":"일","range":null}]},{"domain_name":"MART","multi_category":"애견,하네스","unknown":"준,비중,물음,답변","speech_act":"주문완료","numeric_info":[{"number":10,"unit":"월","range":null},{"number":1,"unit":"일","range":null}]}]}
+해외공유번호때문에물건주문이머려워서다른쇼핑이용합니다	{"sent":"해외공유번호때문에물건주문이머려워서다른쇼핑이용합니다","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+마미포코 대형여아	{"sent":"마미포코 대형여아","domain_info":[{"domain_name":"DIGITAL","category_not_service":"마미포코대형"},{"domain_name":"MART","category":"마미포코대형","unknown":"여아"}]}
+나이키 후드집업 아디다스 후드티	{"sent":"나이키 후드집업 아디다스 후드티","domain_info":[{"domain_name":"DIGITAL","category_not_service":"아디다스후드티","brand2":"나이키","reserved_keyword":"후드집업"},{"domain_name":"MART","category_not_service":"나이키,후드집업,아디다스후드티"}]}
+제가 주문한 상품이 언제 도착되나요???	{"sent":"제가 주문한 상품이 언제 도착되나요???","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송일문의"},{"domain_name":"MART","speech_act":"배송일문의"}]}
+몇시부터배송시작이에요	{"sent":"몇시부터배송시작이에요","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의","reserved_keyword":"배송"},{"domain_name":"MART","speech_act":"배송문의","reserved_keyword":"배송"}]}
+인증번호가 안와서 결제가안되요	{"sent":"인증번호가 안와서 결제가안되요","domain_info":[{"domain_name":"DIGITAL","speech_act":"본인인증문의"},{"domain_name":"MART","speech_act":"본인인증문의"}]}
+주문상품언제와	{"sent":"주문상품언제와","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송일문의"},{"domain_name":"MART","speech_act":"배송일문의"}]}
+해피머니 적용	{"sent":"해피머니 적용","domain_info":[{"domain_name":"DIGITAL","unknown":"적용","reserved_keyword":"해피머니"},{"domain_name":"MART","unknown":"적용","reserved_keyword":"해피머니"}]}
+지난 주문	{"sent":"지난 주문","domain_info":[{"domain_name":"DIGITAL","speech_act":"주문"},{"domain_name":"MART","speech_act":"주문"}]}
+생필품 결제 내역	{"sent":"생필품 결제 내역","domain_info":[{"domain_name":"DIGITAL","speech_act":"결제문의","reserved_keyword":"생필품"},{"domain_name":"MART","category":"생필품","speech_act":"결제문의"}]}
+주문 이럭	{"sent":"주문 이럭","domain_info":[{"domain_name":"DIGITAL","speech_act":"주문"},{"domain_name":"MART","speech_act":"주문"}]}
+5만원대 빔	{"sent":"5만원대 빔","domain_info":[{"domain_name":"DIGITAL","unknown":"빔","numeric_info":[{"number":50000,"unit":"원","range":"from"},{"number":59999,"unit":"원","range":"to"}]},{"domain_name":"MART","unknown":"빔","numeric_info":[{"number":50000,"unit":"원","range":"from"},{"number":59999,"unit":"원","range":"to"}]}]}
+내맘데로플러스쿠폰팩 다운방법	{"sent":"내맘데로플러스쿠폰팩 다운방법","domain_info":[{"domain_name":"DIGITAL","speech_act":"쿠폰요청","reserved_keyword":"팩"},{"domain_name":"MART","category":"팩","speech_act":"쿠폰요청"}]}
+장바구니쿠폰 어떻게쓰나요?	{"sent":"장바구니쿠폰 어떻게쓰나요?","domain_info":[{"domain_name":"DIGITAL","speech_act":"쿠폰적용문의","reserved_keyword":"장바구니"},{"domain_name":"MART","speech_act":"쿠폰적용문의","reserved_keyword":"장바구니"}]}
+여주햅쌀	{"sent":"여주햅쌀","domain_info":[{"domain_name":"DIGITAL","category_not_service":"햅쌀"},{"domain_name":"MART","category":"햅쌀","unknown":"여주"}]}
+발주확인	{"sent":"발주확인","domain_info":[{"domain_name":"DIGITAL","unknown":"발주,확인","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"발주,확인","speech_act":"not_understanding"}]}
+발주확인 및 구매확인 취소불가란	{"sent":"발주확인 및 구매확인 취소불가란","domain_info":[{"domain_name":"DIGITAL","speech_act":"주문취소"},{"domain_name":"MART","speech_act":"주문취소"}]}
+1번 21ㅓㄴ 비교	{"sent":"1번 21ㅓㄴ 비교","domain_info":[{"domain_name":"DIGITAL","speech_act":"상품비교","numeric_info":[{"number":1,"unit":"번","range":null},{"number":21,"unit":"","range":null}]},{"domain_name":"MART","speech_act":"상품비교","numeric_info":[{"number":1,"unit":"번","range":null},{"number":21,"unit":"","range":null}]}]}
+1번 2번 비교	{"sent":"1번 2번 비교","domain_info":[{"domain_name":"DIGITAL","speech_act":"상품비교","numeric_info":[{"number":1,"unit":"번","range":null},{"number":2,"unit":"번","range":null}]},{"domain_name":"MART","speech_act":"상품비교","numeric_info":[{"number":1,"unit":"번","range":null},{"number":2,"unit":"번","range":null}]}]}
+1번 2번	{"sent":"1번 2번","domain_info":[{"domain_name":"DIGITAL","numeric_info":[{"number":1,"unit":"번","range":null},{"number":2,"unit":"번","range":null}]},{"domain_name":"MART","numeric_info":[{"number":1,"unit":"번","range":null},{"number":2,"unit":"번","range":null}]}]}
+레오폴드	{"sent":"레오폴드","domain_info":[{"domain_name":"DIGITAL","category_not_service":"레오폴드"},{"domain_name":"MART","category":"레오폴드"}]}
+레오폴드 키보드	{"sent":"레오폴드 키보드","domain_info":[{"domain_name":"DIGITAL","category_not_service":"레오폴드","apple_액세서리":"키보드","category_sub_애플":"액세서리"},{"domain_name":"MART","category":"레오폴드","category_not_service":"키보드"}]}
+제습제 추천	{"sent":"제습제 추천","domain_info":[{"domain_name":"DIGITAL","category_not_service":"제습제","speech_act":"추천"},{"domain_name":"MART","category":"제습제","speech_act":"추천"}]}
+주문취소햇는데	{"sent":"주문취소햇는데","domain_info":[{"domain_name":"DIGITAL","speech_act":"주문취소"},{"domain_name":"MART","speech_act":"주문취소"}]}
+돈이안들어왓어	{"sent":"돈이안들어왓어","domain_info":[{"domain_name":"DIGITAL","speech_act":"환불문의"},{"domain_name":"MART","speech_act":"환불문의"}]}
+상담전화	{"sent":"상담전화","domain_info":[{"domain_name":"DIGITAL","unknown":"전화","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"상담,전화","speech_act":"not_understanding"}]}
+언제까지해	{"sent":"언제까지해","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의"},{"domain_name":"MART","speech_act":"배송문의"}]}
+군바리 핫팩	{"sent":"군바리 핫팩","domain_info":[{"domain_name":"DIGITAL","category_not_service":"핫팩"},{"domain_name":"MART","category":"핫팩","unknown":"군바리"}]}
+15U780-PA5MK	{"sent":"15U780-PA5MK","domain_info":[{"domain_name":"DIGITAL","mixed":"15u780-pa5mk"},{"domain_name":"MART","mixed":"15u780-pa5mk"}]}
+면도기좀 봐줘	{"sent":"면도기좀 봐줘","domain_info":[{"domain_name":"DIGITAL","category":"전기면도기"},{"domain_name":"MART","category":"면도기"}]}
+가장싼 면도기	{"sent":"가장싼 면도기","domain_info":[{"domain_name":"DIGITAL","category":"전기면도기","price":"xs"},{"domain_name":"MART","category":"면도기","speech_act":"행사상품"}]}
+차량카매트	{"sent":"차량카매트","domain_info":[{"domain_name":"DIGITAL","category_not_service":"카매트","reserved_keyword":"차량"},{"domain_name":"MART","category":"카매트","category_not_service":"차량"}]}
+마루이카	{"sent":"마루이카","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+동글이 오디오	{"sent":"동글이 오디오","domain_info":[{"domain_name":"DIGITAL","category_not_service":"오디오","brand2":"동글이"},{"domain_name":"MART","category_not_service":"오디오","brand":"동글이"}]}
+55uk	{"sent":"55uk","domain_info":[{"domain_name":"DIGITAL","mixed":"55uk"},{"domain_name":"MART","mixed":"55uk"}]}
+55uk6400kng	{"sent":"55uk6400kng","domain_info":[{"domain_name":"DIGITAL","mixed":"55uk6400kng"},{"domain_name":"MART","mixed":"55uk6400kng"}]}
+결제상품	{"sent":"결제상품","domain_info":[{"domain_name":"DIGITAL","speech_act":"결제문의"},{"domain_name":"MART","speech_act":"결제문의"}]}
+터치파이브 마카펜	{"sent":"터치파이브 마카펜","domain_info":[{"domain_name":"DIGITAL","category_not_service":"마카펜"},{"domain_name":"MART","category_not_service":"마카펜"}]}
+뭐하세요,	{"sent":"뭐하세요,","domain_info":[{"domain_name":"DIGITAL","greeting":"claim"},{"domain_name":"MART","greeting":"claim"}]}
+어디있어요?	{"sent":"어디있어요?","domain_info":[{"domain_name":"DIGITAL","speech_act":"기타faq문의"},{"domain_name":"MART","speech_act":"기타faq문의"}]}
+티멤버쉽 쿠폰 다운	{"sent":"티멤버쉽 쿠폰 다운","domain_info":[{"domain_name":"DIGITAL","speech_act":"쿠폰요청","reserved_keyword":"티멤버쉽"},{"domain_name":"MART","speech_act":"쿠폰요청","reserved_keyword":"티멤버쉽"}]}
+쿠폰은 어디서 다운	{"sent":"쿠폰은 어디서 다운","domain_info":[{"domain_name":"DIGITAL","speech_act":"쿠폰요청"},{"domain_name":"MART","speech_act":"쿠폰요청"}]}
+상품을 구매했는데 결재방식을 바꿀수있나요	{"sent":"상품을 구매했는데 결재방식을 바꿀수있나요","domain_info":[{"domain_name":"DIGITAL","unknown":"결재,방식","speech_act":"구매완료"},{"domain_name":"MART","unknown":"결재,방식","speech_act":"구매완료"}]}
+베이블레이드버스트초재트	{"sent":"베이블레이드버스트초재트","domain_info":[{"domain_name":"DIGITAL","category_not_service":"베이블레이드"},{"domain_name":"MART","category":"베이블레이드"}]}
+물 추처	{"sent":"물 추처","domain_info":[{"domain_name":"DIGITAL","unknown":"물","speech_act":"not_understanding"},{"domain_name":"MART","category":"생수"}]}
+고농축섬유유연제순위	{"sent":"고농축섬유유연제순위","domain_info":[{"domain_name":"DIGITAL","unknown":"순위","reserved_keyword":"고농축섬유유연제"},{"domain_name":"MART","category":"고농축섬유유연제","unknown":"순위"}]}
+27.5 튜브리스 타이어	{"sent":"27.5 튜브리스 타이어","domain_info":[{"domain_name":"DIGITAL","category_not_service":"타이어","numeric_info":[{"number":27.5,"unit":"","range":null}]},{"domain_name":"MART","category_not_service":"타이어","numeric_info":[{"number":27.5,"unit":"","range":null}]}]}
+튜브리스 타이어	{"sent":"튜브리스 타이어","domain_info":[{"domain_name":"DIGITAL","category_not_service":"타이어"},{"domain_name":"MART","category_not_service":"타이어"}]}
+라코스테신발	{"sent":"라코스테신발","domain_info":[{"domain_name":"DIGITAL","category_not_service":"신발","reserved_keyword":"라코스테"},{"domain_name":"MART","category_not_service":"라코스테,신발"}]}
+코코넛음료수	{"sent":"코코넛음료수","domain_info":[{"domain_name":"DIGITAL","category_not_service":"음료수","reserved_keyword":"코코넛"},{"domain_name":"MART","multi_category":"코코넛,음료수"}]}
+코코넛워터.태국산	{"sent":"코코넛워터.태국산","domain_info":[{"domain_name":"DIGITAL","unknown":"태국산","reserved_keyword":"코코넛,워터"},{"domain_name":"MART","multi_category":"코코넛,워터","unknown":"태국산"}]}
+드라이이스트, 호밀가루	{"sent":"드라이이스트, 호밀가루","domain_info":[{"domain_name":"DIGITAL","category_not_service":"이스트"},{"domain_name":"MART","category":"이스트","unknown":"드라이,호밀,가루"}]}
+판도라 구탄생석 할인쿠폰	{"sent":"판도라 구탄생석 할인쿠폰","domain_info":[{"domain_name":"DIGITAL","unknown":"탄생석","speech_act":"쿠폰요청","reserved_keyword":"판도라"},{"domain_name":"MART","category":"판도라","unknown":"탄생석,쿠폰","speech_act":"할인문의"}]}
+판도라 반지	{"sent":"판도라 반지","domain_info":[{"domain_name":"DIGITAL","category_not_service":"판도라반지"},{"domain_name":"MART","category":"판도라반지"}]}
+판도라	{"sent":"판도라","domain_info":[{"domain_name":"DIGITAL","category_not_service":"판도라"},{"domain_name":"MART","category":"판도라"}]}
+공랭 쿨러	{"sent":"공랭 쿨러","domain_info":[{"domain_name":"DIGITAL","category_not_service":"쿨러"},{"domain_name":"MART","category_not_service":"쿨러"}]}
+ㅋㅊㅇㅋ	{"sent":"ㅋㅊㅇㅋ","domain_info":[{"domain_name":"DIGITAL","greeting":"smile"},{"domain_name":"MART","greeting":"smile"}]}
+11번아고객센터	{"sent":"11번아고객센터","domain_info":[{"domain_name":"DIGITAL","unknown":"고객,센터","numeric_info":[{"number":11,"unit":"번","range":null}]},{"domain_name":"MART","unknown":"고객,센터","numeric_info":[{"number":11,"unit":"번","range":null}]}]}
+Ux580ge	{"sent":"Ux580ge","domain_info":[{"domain_name":"DIGITAL","mixed":"ux580ge"},{"domain_name":"MART","mixed":"ux580ge"}]}
+아이폰x 상품 보여줘	{"sent":"아이폰x 상품 보여줘","domain_info":[{"domain_name":"DIGITAL","category_not_service":"아이폰x","speech_act":"추천"},{"domain_name":"MART","category_not_service":"아이폰x","speech_act":"추천"}]}
+애플 상품 보여줘	{"sent":"애플 상품 보여줘","domain_info":[{"domain_name":"DIGITAL","category":"애플","speech_act":"추천"},{"domain_name":"MART","category_not_service":"애플","speech_act":"추천"}]}
+UX580GE-BN020T	{"sent":"UX580GE-BN020T","domain_info":[{"domain_name":"DIGITAL","mixed":"ux580ge-bn020t"},{"domain_name":"MART","mixed":"ux580ge-bn020t"}]}
+a2파일	{"sent":"a2파일","domain_info":[{"domain_name":"DIGITAL","unknown":"파일","mixed":"a2"},{"domain_name":"MART","unknown":"파일","mixed":"a2"}]}
+남자향수 찾아줘	{"sent":"남자향수 찾아줘","domain_info":[{"domain_name":"DIGITAL","category_not_service":"향수","speech_act":"추천","gender":"남자"},{"domain_name":"MART","category":"향수","speech_act":"추천","attribute":"남자"}]}
+뉴욕뷰티라이프	{"sent":"뉴욕뷰티라이프","domain_info":[{"domain_name":"DIGITAL","unknown":"뉴,욕,뷰티,라이프","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"뉴,욕,뷰티,라이프","speech_act":"not_understanding"}]}
+뉴욕뷰티라이프 상품 찾아줘	{"sent":"뉴욕뷰티라이프 상품 찾아줘","domain_info":[{"domain_name":"DIGITAL","unknown":"뉴,욕,뷰티,라이프","speech_act":"추천"},{"domain_name":"MART","unknown":"뉴,욕,뷰티,라이프","speech_act":"추천"}]}
+농협카드 할인이요	{"sent":"농협카드 할인이요","domain_info":[{"domain_name":"DIGITAL","speech_act":"할인문의","reserved_keyword":"농협카드"},{"domain_name":"MART","speech_act":"할인문의","reserved_keyword":"농협카드"}]}
+어린이인라인	{"sent":"어린이인라인","domain_info":[{"domain_name":"DIGITAL","category_not_service":"인라인","사용대상_용도":"어린이용"},{"domain_name":"MART","category":"인라인","attribute":"어린이용"}]}
+어린이 인라인	{"sent":"어린이 인라인","domain_info":[{"domain_name":"DIGITAL","category_not_service":"인라인","사용대상_용도":"어린이용"},{"domain_name":"MART","category":"인라인","attribute":"어린이용"}]}
+넘행	{"sent":"넘행","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+도서, 헤어에센스	{"sent":"도서, 헤어에센스","domain_info":[{"domain_name":"DIGITAL","category_not_service":"헤어에센스","reserved_keyword":"도서"},{"domain_name":"MART","multi_category":"도서,헤어에센스"}]}
+소형냉장고 추천 좀	{"sent":"소형냉장고 추천 좀","domain_info":[{"domain_name":"DIGITAL","category":"냉장고","speech_act":"추천","size_냉장고":"s","shape_냉장고":"일반"},{"domain_name":"MART","category_not_service":"냉장고","speech_act":"추천","attribute":"소형"}]}
+아웃백 11000원	{"sent":"아웃백 11000원","domain_info":[{"domain_name":"DIGITAL","category_not_service":"아웃백","numeric_info":[{"number":11000,"unit":"원","range":null}]},{"domain_name":"MART","category_not_service":"아웃백","numeric_info":[{"number":11000,"unit":"원","range":null}]}]}
+작은 상품	{"sent":"작은 상품","domain_info":[{"domain_name":"DIGITAL","size":"s"},{"domain_name":"MART","category":"소형"}]}
+높이가 115cm이하 2도어 냉장고	{"sent":"높이가 115cm이하 2도어 냉장고","domain_info":[{"domain_name":"DIGITAL","category":"냉장고","unknown":"높이","shape_냉장고":"일반형","numeric_info":[{"number":-9223372036854775808,"unit":"cm","range":"from"},{"number":115,"unit":"cm","range":"to"}]},{"domain_name":"MART","category_not_service":"냉장고","reserved_keyword":"2도어","numeric_info":[{"number":-9223372036854775808,"unit":"cm","range":"from"},{"number":115,"unit":"cm","range":"to"}]}]}
+r-b414jd	{"sent":"r-b414jd","domain_info":[{"domain_name":"DIGITAL","mixed":"r-b414jd"},{"domain_name":"MART","mixed":"r-b414jd"}]}
+137리터 냉장고	{"sent":"137리터 냉장고","domain_info":[{"domain_name":"DIGITAL","category":"냉장고","numeric_info":[{"number":137,"unit":"liter","range":null}]},{"domain_name":"MART","category_not_service":"냉장고","numeric_info":[{"number":137,"unit":"liter","range":null}]}]}
+렌턴	{"sent":"렌턴","domain_info":[{"domain_name":"DIGITAL","category_not_service":"렌턴"},{"domain_name":"MART","category":"렌턴"}]}
+노트북 구매하려고 하는데 쿠폰 중복할인이안되요	{"sent":"노트북 구매하려고 하는데 쿠폰 중복할인이안되요","domain_info":[{"domain_name":"DIGITAL","category":"노트북","unknown":"쿠폰,중복,이안","speech_act":"할인문의"},{"domain_name":"MART","category_not_service":"노트북","speech_act":"할인문의"}]}
+15zd980-gx76x	{"sent":"15zd980-gx76x","domain_info":[{"domain_name":"DIGITAL","mixed":"15zd980-gx76x"},{"domain_name":"MART","mixed":"15zd980-gx76x"}]}
+배송관련해서 질문합니다	{"sent":"배송관련해서 질문합니다","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의"},{"domain_name":"MART","speech_act":"배송문의"}]}
+할인많은 냉장고	{"sent":"할인많은 냉장고","domain_info":[{"domain_name":"DIGITAL","category":"냉장고","speech_act":"할인문의"},{"domain_name":"MART","category_not_service":"냉장고","speech_act":"할인문의"}]}
+옷, 옷장탈취제	{"sent":"옷, 옷장탈취제","domain_info":[{"domain_name":"DIGITAL","category_not_service":"탈취제","reserved_keyword":"옷,옷장"},{"domain_name":"MART","multi_category":"옷장,탈취제","category_not_service":"옷"}]}
+초경량 등산가방	{"sent":"초경량 등산가방","domain_info":[{"domain_name":"DIGITAL","category_not_service":"등산가방","weight":"s"},{"domain_name":"MART","category":"등산가방","unknown":"초경량"}]}
+초경량 등산배낭	{"sent":"초경량 등산배낭","domain_info":[{"domain_name":"DIGITAL","category_not_service":"등산배낭","weight":"s"},{"domain_name":"MART","category":"등산배낭","unknown":"초경량"}]}
+10L	{"sent":"10L","domain_info":[{"domain_name":"DIGITAL","numeric_info":[{"number":10,"unit":"liter","range":null}]},{"domain_name":"MART","numeric_info":[{"number":10,"unit":"liter","range":null}]}]}
+240hz	{"sent":"240hz","domain_info":[{"domain_name":"DIGITAL","mixed":"240hz"},{"domain_name":"MART","mixed":"240hz"}]}
+건조기만	{"sent":"건조기만","domain_info":[{"domain_name":"DIGITAL","category":"건조기"},{"domain_name":"MART","category_not_service":"건조기"}]}
+결제취소했는데 돈언제들어와요	{"sent":"결제취소했는데 돈언제들어와요","domain_info":[{"domain_name":"DIGITAL","speech_act":"환불문의"},{"domain_name":"MART","speech_act":"환불문의"}]}
+오뚜기밥 12개	{"sent":"오뚜기밥 12개","domain_info":[{"domain_name":"DIGITAL","category_not_service":"오뚜기밥12"},{"domain_name":"MART","category":"오뚜기밥12"}]}
+닌텐도스위치 마리오파티	{"sent":"닌텐도스위치 마리오파티","domain_info":[{"domain_name":"DIGITAL","category_not_service":"닌텐도스위치"},{"domain_name":"MART","category":"닌텐도스위치","unknown":"마리오,파티"}]}
+안넝하세여	{"sent":"안넝하세여","domain_info":[{"domain_name":"DIGITAL","greeting":"re-hello"},{"domain_name":"MART","greeting":"re-hello"}]}
+아니ㅜㅜㅜ이니에여 이게 아니구	{"sent":"아니ㅜㅜㅜ이니에여 이게 아니구","domain_info":[{"domain_name":"DIGITAL","imoticon":"(훌쩍)"},{"domain_name":"MART","imoticon":"(훌쩍)"}]}
+Sk그 티멤버십 하려고하는데 왜앙대죠?	{"sent":"Sk그 티멤버십 하려고하는데 왜앙대죠?","domain_info":[{"domain_name":"DIGITAL","reserved_keyword":"티멤버십"},{"domain_name":"MART","reserved_keyword":"티멤버십"}]}
+크럼프 트랙바지	{"sent":"크럼프 트랙바지","domain_info":[{"domain_name":"DIGITAL","category_not_service":"바지"},{"domain_name":"MART","category_not_service":"바지"}]}
+크럼프	{"sent":"크럼프","domain_info":[{"domain_name":"DIGITAL","unknown":"크럼프","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"크럼프","speech_act":"not_understanding"}]}
+임시품절 언제 풀려?	{"sent":"임시품절 언제 풀려?","domain_info":[{"domain_name":"DIGITAL","unknown":"임시,품절","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"임시,품절","speech_act":"not_understanding"}]}
+임시품절	{"sent":"임시품절","domain_info":[{"domain_name":"DIGITAL","unknown":"임시,품절","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"임시,품절","speech_act":"not_understanding"}]}
+니가 알아야 찾지	{"sent":"니가 알아야 찾지","domain_info":[{"domain_name":"DIGITAL","speech_act":"추천"},{"domain_name":"MART","speech_act":"추천"}]}
+수고하셨습니다	{"sent":"수고하셨습니다","domain_info":[{"domain_name":"DIGITAL","greeting":"sugo"},{"domain_name":"MART","greeting":"sugo"}]}
+동계침낭	{"sent":"동계침낭","domain_info":[{"domain_name":"DIGITAL","category_not_service":"동계침낭"},{"domain_name":"MART","category":"동계침낭"}]}
+비누, 샴푸, 린스	{"sent":"비누, 샴푸, 린스","domain_info":[{"domain_name":"DIGITAL","category_not_service":"린스","reserved_keyword":"비누,샴푸"},{"domain_name":"MART","multi_category":"비누,샴푸,린스"}]}
+내 택배	{"sent":"내 택배","domain_info":[{"domain_name":"DIGITAL","speech_act":"배송문의","reserved_keyword":"배송"},{"domain_name":"MART","unknown":"택배","speech_act":"not_understanding"}]}
+서피스고 국내판매	{"sent":"서피스고 국내판매","domain_info":[{"domain_name":"DIGITAL","unknown":"국내,판매","product_not_service":"서피스"},{"domain_name":"MART","category_not_service":"서피스"}]}
+보유쿠폰 적용	{"sent":"보유쿠폰 적용","domain_info":[{"domain_name":"DIGITAL","speech_act":"쿠폰적용문의"},{"domain_name":"MART","speech_act":"쿠폰적용문의"}]}
+그게 귀찬으니까 네게 물어보는거 아니냐	{"sent":"그게 귀찬으니까 네게 물어보는거 아니냐","domain_info":[{"domain_name":"DIGITAL","unknown":"귀차","yes_no":"yes"},{"domain_name":"MART","unknown":"귀차","yes_no":"yes"}]}
+디지털 5프로 쿠폰	{"sent":"디지털 5프로 쿠폰","domain_info":[{"domain_name":"DIGITAL","unknown":"디지털","speech_act":"쿠폰요청","numeric_info":[{"number":5,"unit":"%","range":null}]},{"domain_name":"MART","unknown":"디지털,쿠폰","numeric_info":[{"number":5,"unit":"%","range":null}]}]}
+김치 다진마늘 쌈장	{"sent":"김치 다진마늘 쌈장","domain_info":[{"domain_name":"DIGITAL","category_not_service":"쌈장","reserved_keyword":"마늘","unknown_property":"김치"},{"domain_name":"MART","multi_category":"김치,마늘,쌈장"}]}
+x-t100	{"sent":"x-t100","domain_info":[{"domain_name":"DIGITAL","mixed":"x-t100"},{"domain_name":"MART","mixed":"x-t100"}]}
+혼자서도강한사람책이요	{"sent":"혼자서도강한사람책이요","domain_info":[{"domain_name":"DIGITAL","unknown":"혼자,서도,한사람책","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"혼자,서도,강,한사람책","speech_act":"not_understanding"}]}
+책입니다	{"sent":"책입니다","domain_info":[{"domain_name":"DIGITAL","category_not_service":"책"},{"domain_name":"MART","category_not_service":"책"}]}
+종이컵이요	{"sent":"종이컵이요","domain_info":[{"domain_name":"DIGITAL","category_not_service":"종이컵"},{"domain_name":"MART","category":"종이컵"}]}
+모카골드커피제일싼거없어요	{"sent":"모카골드커피제일싼거없어요","domain_info":[{"domain_name":"DIGITAL","category_not_service":"모카골드커피","price":"xs"},{"domain_name":"MART","category":"모카골드커피","speech_act":"행사상품"}]}
+베스트3번이요이거선물해주고싶어요	{"sent":"베스트3번이요이거선물해주고싶어요","domain_info":[{"domain_name":"DIGITAL","unknown":"베스트","unknown_property":"선물용","numeric_info":[{"number":3,"unit":"번","range":null}]},{"domain_name":"MART","unknown":"베스트","attribute":"선물용","numeric_info":[{"number":3,"unit":"번","range":null}]}]}
+이거말고요작은거는없나요	{"sent":"이거말고요작은거는없나요","domain_info":[{"domain_name":"DIGITAL","unknown":"은거","negative":"아님"},{"domain_name":"MART","unknown":"은거","negative":"아님"}]}
+20봉지요	{"sent":"20봉지요","domain_info":[{"domain_name":"DIGITAL","numeric_info":[{"number":20,"unit":"봉지","range":null}]},{"domain_name":"MART","numeric_info":[{"number":20,"unit":"봉지","range":null}]}]}
+다른것도 없네요	{"sent":"다른것도 없네요","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+종이컵은얼마에요	{"sent":"종이컵은얼마에요","domain_info":[{"domain_name":"DIGITAL","category_not_service":"종이컵"},{"domain_name":"MART","category":"종이컵","unknown":"은어"}]}
+종이컵만판매는없나요	{"sent":"종이컵만판매는없나요","domain_info":[{"domain_name":"DIGITAL","category_not_service":"종이컵"},{"domain_name":"MART","category":"종이컵","unknown":"판매"}]}
+커피말고요	{"sent":"커피말고요","domain_info":[{"domain_name":"DIGITAL","category_not_service":"커피"},{"domain_name":"MART","category_neg":"커피","negative":"아님"}]}
+TS20VV	{"sent":"TS20VV","domain_info":[{"domain_name":"DIGITAL","mixed":"ts20vv"},{"domain_name":"MART","mixed":"ts20vv"}]}
+동아전과	{"sent":"동아전과","domain_info":[{"domain_name":"DIGITAL","category_not_service":"동아전과"},{"domain_name":"MART","category":"동아전과"}]}
+행사상품 뭐가 있는지여	{"sent":"행사상품 뭐가 있는지여","domain_info":[{"domain_name":"DIGITAL","speech_act":"할인행사"},{"domain_name":"MART","speech_act":"할인행사"}]}
+질레트 주세염	{"sent":"질레트 주세염","domain_info":[{"domain_name":"DIGITAL","brand":"질레트"},{"domain_name":"MART","category":"질레트"}]}
+지금 문의 되나요?	{"sent":"지금 문의 되나요?","domain_info":[{"domain_name":"DIGITAL","unknown":"문의","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"상담요청"}]}
+FQ17V8KWB2	{"sent":"FQ17V8KWB2","domain_info":[{"domain_name":"DIGITAL","mixed":"fq17v8kwb2"},{"domain_name":"MART","mixed":"fq17v8kwb2"}]}
+택배 픽업	{"sent":"택배 픽업","domain_info":[{"domain_name":"DIGITAL","a/s정보":"택배픽업"},{"domain_name":"MART","category":"택배픽업"}]}
+사업자카드등록	{"sent":"사업자카드등록","domain_info":[{"domain_name":"DIGITAL","unknown":"등록","speech_act":"기타faq문의"},{"domain_name":"MART","unknown":"등록","speech_act":"기타faq문의"}]}
+티스 클렌징오일	{"sent":"티스 클렌징오일","domain_info":[{"domain_name":"DIGITAL","category_not_service":"클렌징오일","reserved_keyword":"티스"},{"domain_name":"MART","category":"클렌징오일","brand_클렌징오일":"티스"}]}
+씰	{"sent":"씰","domain_info":[{"domain_name":"DIGITAL","speech_act":"not_understanding"},{"domain_name":"MART","speech_act":"not_understanding"}]}
+클라세	{"sent":"클라세","domain_info":[{"domain_name":"DIGITAL","brand":"동부대우전자","product":"클라쎄"},{"domain_name":"MART","unknown":"클라세","speech_act":"not_understanding"}]}
+넌 나에 챗봇이 못되는것같다. 상품적인 넌 나에겐 필요없어	{"sent":"넌 나에 챗봇이 못되는것같다. 상품적인 넌 나에겐 필요없어","domain_info":[{"domain_name":"DIGITAL","unknown":"챗봇","negative":"아님"},{"domain_name":"MART","unknown":"챗봇","negative":"아님"}]}
+넌 나에게 맞추는거야 그런소리 할려면 끝내자	{"sent":"넌 나에게 맞추는거야 그런소리 할려면 끝내자","domain_info":[{"domain_name":"DIGITAL","unknown":"소리","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"소리","speech_act":"not_understanding"}]}
+끝말잇기 해요	{"sent":"끝말잇기 해요","domain_info":[{"domain_name":"DIGITAL","speech_act":"채팅"},{"domain_name":"MART","speech_act":"채팅"}]}
+있잔아뇨	{"sent":"있잔아뇨","domain_info":[{"domain_name":"DIGITAL","yes_no":"no"},{"domain_name":"MART","yes_no":"no"}]}
+자동차 보험료 계산했는데 할인쿠폰은 어디있죠??	{"sent":"자동차 보험료 계산했는데 할인쿠폰은 어디있죠??","domain_info":[{"domain_name":"DIGITAL","unknown":"계산","speech_act":"쿠폰요청","reserved_keyword":"자동차,보험"},{"domain_name":"MART","category_not_service":"자동차,보험","speech_act":"쿠폰요청"}]}
+너는 남자야 여자야?	{"sent":"너는 남자야 여자야?","domain_info":[{"domain_name":"DIGITAL","greeting":"intro"},{"domain_name":"MART","greeting":"intro"}]}
+ㅇ오ㅗ	{"sent":"ㅇ오ㅗ","domain_info":[{"domain_name":"DIGITAL","yes_no":"yes"},{"domain_name":"MART","yes_no":"yes"}]}
+끝말이기하자	{"sent":"끝말이기하자","domain_info":[{"domain_name":"DIGITAL","unknown":"끝말","speech_act":"not_understanding"},{"domain_name":"MART","unknown":"끝말","speech_act":"not_understanding"}]}
+나이키 테크플리스 윈드러너	{"sent":"나이키 테크플리스 윈드러너","domain_info":[{"domain_name":"DIGITAL","brand2":"나이키","unknown":"윈드,러너","reserved_keyword":"테크,플리스"},{"domain_name":"MART","category":"테크","category_not_service":"나이키,플리스"}]}
+구매관련해서 상담하고싶어요	{"sent":"구매관련해서 상담하고싶어요","domain_info":[{"domain_name":"DIGITAL","unknown":"구매","speech_act":"상담요청"},{"domain_name":"MART","unknown":"구매,관련","speech_act":"상담요청"}]}
+note9 추천	{"sent":"note9 추천","domain_info":[{"domain_name":"DIGITAL","speech_act":"추천","mixed":"note9"},{"domain_name":"MART","speech_act":"추천","mixed":"note9"}]}
