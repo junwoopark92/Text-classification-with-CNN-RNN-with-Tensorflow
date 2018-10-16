@@ -1,5 +1,8 @@
 Ch02_TextCNN/Saver/
 *.localhost
+Ch01_Data_load/data/preprocessed_mart_digi_speech_act.csv
+Ch01_Data_load/data/digi_intent.csv
+Ch01_Data_load/data/mart_digi_speech_act.csv
 Ch01_Data_load/data/preprocessed_digi_intent.csv
 .idea/
 # Created by https://www.gitignore.io/api/python
